@@ -1,0 +1,99 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "03-10-2023",
+            "dia": "Martes",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/03/union-electrica-pronostica-646-mw-para-el-pico-nocturno-de-este-martes"
+        },
+        "estimacion":{
+            "horario": "pico",
+            "disponibilidad": "2424MW",
+            "demanda_max": "3000MW",
+            "deficit": "576MW",
+            "pronostico": {
+                "afectacion": "646MW"
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": "2150 MW",
+                "demanda": "2390MW",
+                "totalidad": "False"
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": "por deficit de capacidad de generacion" 
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": "421MW",
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energás Boca de Jaruco"
+                    },
+                    {
+                        "nombre":"Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "Averia",
+                    "mw_afectados": "883 MW"  
+                },
+                {
+                    "cantidad": 0,
+                    "razon": "Mantenimiento",
+                    "mw_afectados": "162 MW"
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                "desc": "entrada de la unidad 8 de la CTE Mariel ",
+                "cantidad_mw": "60 MW"
+                },
+                {
+               "desc": "completamiento de las unidades de Energas Boca de Jaruco",
+                "cantidad_mw": "30 MW"
+                },
+                {
+                "desc": "entrada de 2 motores en la generación móvil de Melones",
+                "cantidad_mw": "34 MW"
+                },
+                {
+                "desc": "Recuperación de motores en la generación distribuida",
+                "cantidad_mw": "150 MW"
+                }
+            ]
+        },    
+        "max_afect_dia": {
+            "cantidad_mw": 360,
+            "hora": "20:20",
+            "desc": "Coincide con la hora pico."
+        },
+        "dia_anterior": {
+            "desc": "se afecto el servicio por deficit de capacidad de generacion",
+            "horas": 24,
+            "hora_rest": "02:53"
+        }
+    }
+}

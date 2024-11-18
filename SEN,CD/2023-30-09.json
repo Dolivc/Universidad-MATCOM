@@ -1,0 +1,91 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "30-09-2023",
+            "dia": "Sabado",
+            "url": "http://www.cubadebate.cu/noticias/2023/09/30/pronostican-afectacion-de-414-mw-durante-el-horario-pico-de-este-sabado"
+        },
+        "estimacion":{
+            "horario": "pico",
+            "disponibilidad": "2456MW",
+            "demanda_max": "2800MW",
+            "deficit": "344MW",
+            "pronostico": {
+                "afectacion": "414MW"
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": "2200 MW",
+                "demanda": "2120MW",
+                "totalidad": "True"
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": "por deficit de capacidad de generacion" 
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": "468MW",
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energás Boca de Jaruco"
+                    },
+                    {
+                        "nombre":"Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "Averia",
+                    "mw_afectados": "900 MW"  
+                },
+                {
+                    "cantidad": 0,
+                    "razon": "Mantenimiento",
+                    "mw_afectados": "182 MW"
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                "desc": "entrada en motores de Generación Distribuida que están pasados de horas de mantenimiento",
+                "cantidad_mw": "76 MW "
+                },
+                {
+               "desc": "completamiento de la unidad 3 de la CTE Santa Cruz",
+                "cantidad_mw": "30 MW"
+                },
+                {
+                "desc": "recuperación de motores en la generación distribuida",
+                "cantidad_mw": "150 MW"
+                }
+            ]
+        },    
+        "max_afect_dia": {
+            "cantidad_mw": 353,
+            "hora": "20:10",
+            "desc": "Coincide con la hora pico."
+        },
+        "dia_anterior": {
+            "desc": "se afecto el servicio por deficit de capacidad de generacion",
+            "horas": 18,
+            "hora_rest": "02:32"
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "02-10-2023",
+            "dia": "lunes",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/02/union-electrica-pronostica-afectacion-de-890-mw-para-el-horario-pico-nocturno"
+        },
+        "estimacion":{
+            "horario": "pico",
+            "disponibilidad": "2180 MW",
+            "demanda_max": "3000MW",
+            "deficit": "820MW",
+            "pronostico": {
+                "afectacion": "890MW"
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": "1940 MW",
+                "demanda": "2400MW",
+                "totalidad": "False"
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": "por deficit de capacidad de generacion" 
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": "442MW",
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Todas las unidades",
+                        "CTE": "Energás Boca de Jaruco"
+                    },
+                    {
+                        "nombre":"Unidad 8",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "Averia",
+                    "mw_afectados": "904 MW"  
+                },
+                {
+                    "cantidad": 0,
+                    "razon": "Mantenimiento",
+                    "mw_afectados": "185 MW"
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                "desc": "entrada de motores de Generación Distribuida",
+                "cantidad_mw": "15 MW"
+                },
+                {
+               "desc": "entrada de la unidad 5 de la CTE Rente",
+                "cantidad_mw": "75 MW"
+                },
+                {
+                "desc": "recuperación de motores en la generación distribuida",
+                "cantidad_mw": "150 MW"
+                }
+            ]
+        },    
+        "max_afect_dia": {
+            "cantidad_mw": 972,
+            "hora": "18:40",
+            "desc": "No coincide con la hora pico."
+        },
+        "dia_anterior": {
+            "desc": "se afecto el servicio por deficit de capacidad de generacion",
+            "horas": 24,
+            "hora_rest": "False"
+        }
+    }
+}

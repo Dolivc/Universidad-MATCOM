@@ -1,0 +1,95 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "29-09-2023",
+            "dia": "Viernes",
+            "url": "http://www.cubadebate.cu/noticias/2023/09/29/UNE-prevee-afectaciones-durante-toda-la-jornada-y-un-deficit-de-550-MW-en-horario-pico-nocturno"
+        },
+        "estimacion":{
+            "horario": "pico",
+            "disponibilidad": "2370MW",
+            "demanda_max": "2850MW",
+            "deficit": "480MW",
+            "pronostico": {
+                "afectacion": "550MW"
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": "2200 MW",
+                "demanda": "2280MW",
+                "totalidad": "False"
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": "por deficit de capacidad de generacion" 
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": "572MW",
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energás Boca de Jaruco"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "Averia",
+                    "mw_afectados": "885 MW"  
+                },
+                {
+                    "cantidad": 0,
+                    "razon": "Mantenimiento",
+                    "mw_afectados": "121 MW"
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                "desc": "entrada de 2 motores en la patana de Melones",
+                "cantidad_mw": "30 MW"
+                },
+                {
+               "desc": "completamiento de la unidad de la CTE Guiteras",
+                "cantidad_mw": "40 MW"
+                },
+                {
+                "desc": "completamiento de la unidad 3 de la CTE Santa Cruz",
+                "cantidad_mw": "30 MW"
+                },
+                {
+                "desc": "recuperación de motores en la generación distribuida",
+                "cantidad_mw": "70 MW "
+                }
+            ]
+        },    
+        "max_afect_dia": {
+            "cantidad_mw": "-",
+            "hora": "-",
+            "desc": "-"
+        },
+        "dia_anterior": {
+            "desc": "se afecto el servicio por deficit de capacidad de generacion",
+            "horas": 18,
+            "hora_rest": "00:12"
+        }
+    }
+}
