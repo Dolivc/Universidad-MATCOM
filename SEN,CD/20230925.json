@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"],
+    "date": "20230925",
+    "url": "http://www.cubadebate.cu/noticias/2023/09/25/union-electrica-pronostica-afectacion-de-525-mw-para-el-pico-nocturno-de-este-lunes", 
+    "prediction": {
+        "availability": "2495 MW",  
+        "demand_max": "2950 MW",
+        "impact": "525 MW",
+        "deficit": "455 MW",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2080 MW", 
+        "demand": "2000 MW", 
+        "deficit": "null" 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "Guiteras" : null,
+                "Santa Cruz" : [3],
+                "Felton" : [2]
+            },
+            "maintenance": {
+                "Energas Boca de Jaruco" : [6],
+                "Renté" : [5]
+            },
+            "limitation": "391MW"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "1119",
+        "combustible_problem": "null",
+        "ships_with_problems": "null",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "18",
+        "max": "750",
+        "max_hour": "1850"
+    }
+}

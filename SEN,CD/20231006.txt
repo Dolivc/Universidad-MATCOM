@@ -1,0 +1,8 @@
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 15:41 hasta las 00:02 horas de la madrugada de hoy, donde quedó restablecida la afectación (08:21 horas).
+La máxima afectación en el día fue de 523 MW a las 19:40 horas, coincidiendo con la hora pico
+La disponibilidad del SEN a las 07:00 horas es de 2350 MW y la demanda 2180 MW, con todo el sistema con servicio. Se estima que en el horario diurno no se produzcan afectaciones al servicio por déficit de capacidad de generación.
+Se encuentra fuera de servicio por avería la unidad 2 de la CTE Felton y la unidad 5 de la CTE Rente. En mantenimiento la unidad 5 de Mariel y la 6 de Energas Boca de Jaruco.
+Se mantienen las limitaciones en la generación térmica (494 MW).
+En la generación distribuida, están indisponibles por avería 793 MW y en mantenimiento 143 MW
+Para el pico se estima la entrada de 76 MW en la generación distribuida en motores que se encuentran en mantenimiento y se autoriza su uso, la entrada de 2 motores en la generación móvil de Melones con 34 MW y la recuperación de 100 MW de motores en la generación distribuida.
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2560 MW y una demanda máxima de 2900 MW, para un déficit de 340 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 410 MW en este horario.
