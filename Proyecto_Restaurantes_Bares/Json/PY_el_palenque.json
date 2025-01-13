@@ -1,0 +1,210 @@
+{
+    "Name": "El Palenque",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2100"
+        ],
+        "Tuesday": [
+            "1100-2100"
+        ],
+        "Wednesday": [
+            "1100-2100"
+        ],
+        "Thursday": [
+            "1100-2100"
+        ],
+        "Friday": [
+            "1100-2100"
+        ],
+        "Saturday": [
+            "1100-2100"
+        ],
+        "Sunday": [
+            "1100-2100"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Cesta de pan": {
+                "Price": 100
+            },
+            "Croquetas": {
+                "Price": 150
+            },
+            "Chicharrones": {
+                "Price": 400
+            },
+            "Entremes surtido": {
+                "Price": 100
+            },
+            "Entremes de jamon y chorizo": {
+                "Price": 150
+            },
+            "Variado de queso": {
+                "Price": 200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price": 250
+                },
+                "Lasagna de carne": {
+                    "Price": 200
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Masas de cerdo fritas": {
+                    "Price": 1000
+                },
+                "Bistec de cerdo": {
+                    "Price": 300
+                },
+                "Cerdo asado 400gr": {
+                    "Price": 800
+                }
+            },
+            "Chicken": {
+                "Pollo asado 1kg": {
+                    "Price": 630
+                },
+                "Pechuga con papas fritas": {
+                    "Price": 700
+                },
+                "Fajitas de pollo salteadas": {
+                    "Price": 400
+                }
+            },
+            "Beef": {
+                "Picadillo de res": {
+                    "Price": 350
+                },
+                "Bistec de res": {
+                    "Price": 300
+                },
+                "Res de campesina": {
+                    "Price": 400
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Arroz con pollo": {
+                    "Price": 250
+                },
+                "Chilindron de cordero": {
+                    "Price": 1700
+                }
+            }
+        },
+        "Extras": {
+            "Papas fritas": {
+                "Price": 215
+            },
+            "Ensalada de vegetales": {
+                "Price": 300
+            }
+        },
+        "Desserts": {
+            "Mermelada con queso": {
+                "Price": 60
+            },
+            "Arroz con leche": {
+                "Price": 60
+            },
+            "Dulce de frutabomba": {
+                "Price": 120
+            }
+        },
+        "Beverages": {
+            "Jugos naturales": {
+                "Price": 100
+            },
+            "Cerveza": {
+                "Price": 120
+            },
+            "Licores nacionales": {
+                "Price": 20
+            },
+            "Ron havana club reserva": {
+                "Price": 40
+            },
+            "Tequila blanco": {
+                "Price": 150
+            },
+            "Cafe palenque": {
+                "Price": null
+            },
+            "Cortadito": {
+                "Price": 60
+            },
+            "Caf\u00e9 con leche": {
+                "Price": 80
+            },
+            "Te": {
+                "Price": 30
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

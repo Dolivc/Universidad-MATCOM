@@ -1,0 +1,256 @@
+{
+    "Name": "Polo",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "52411618",
+    "Web_Page": "Restaurant POLO",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00:00:00"],
+        "Tuesday":  ["12:00:00:00"],
+        "Wednesday": ["12:00:00:00"],
+        "Thursday": ["12:00:00:00"],
+        "Friday":   ["12:00:00:00"],
+        "Saturday": ["12:00:00:00"],
+        "Sunday":   ["12:00:00:00"]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Cruz Verde",
+        "Coordinates": "4MCR+RR9"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Tortilla": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Hamburger": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Sandwich": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Bread": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Other":{
+                "":{
+                    "Price": null
+                }
+            }
+        },
+        "Appetizers": {
+            "Toston Relleno de jamón y queso": {
+                "Price": 450
+            },
+            "Toston Relleno de atún y queso": {
+                "Price": 600
+            },
+            "Fajitas de pechuga": {
+                "Price": 850
+            },
+            "Ensalada fría de jamón": {
+                "Price": 500
+            },
+            "Ensalada fría de atún": {
+                "Price": 650
+            },
+            "Eperlano de Pescado": {
+                "Price": 1100
+            },
+            "Croquetas de la Casa": {
+                "Price": 450
+            },
+            "Coctel camarones": {
+                "Price": 1300
+            },
+            "Papas Fritas": {
+                "Price": 550
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaguetti Napolitano": {
+                    "Price": 850
+                },
+                "Spaguetti Carbonara": {
+                    "Price": 1400
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 900
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1300
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo grille encebollado": {
+                    "Price": 1900
+                },
+                "Uruguallo de cerdo": {
+                    "Price": 2400
+                },
+                "Bistec princesa": {
+                    "Price": 2500
+                }
+            },
+            "Chicken": {
+                "Pechuga grille": {
+                    "Price": 1850
+                },
+                "Pechuga gratinada": {
+                    "Price": 2200
+                },
+                "Gordon bleu de pechuga": {
+                    "Price": 2500
+                }
+            },
+            "Beef": {
+                "Bistec de res encebollado": {
+                    "Price": 2000
+                },
+                "Uruguallo de res": {
+                    "Price": 2500
+                },
+                "Ropa vieja de res": {
+                    "Price": 2300
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2200
+                },
+                "Filete Montero": {
+                    "Price": 2800
+                },
+                "Filete Canciller": {
+                    "Price": 2900
+                },
+                "Filete gratinado": {
+                    "Price": 2600
+                },
+                "Camaron enchilado": {
+                    "Price": 2700
+                },
+                "Camaron al ajillo": {
+                    "Price": 2600
+                },
+                "Camaron empanizado": {
+                    "Price": 2700
+                },
+                "Arroz Frito con camarones": {
+                    "Price": 1500
+                },
+                "Filete Mediterraneo": {
+                    "Price": 3500
+                }
+            },
+            "Other":{
+                "":{
+                    "Price": null
+                }
+            }
+        },
+        "Extras":{
+            "Arroz blanco": {
+                "Price": 120
+            },
+            "Arroz moro y cristiano": {
+                "Price": 180
+            },
+            "Arroz pilaf": {
+                "Price": 200
+            },
+            "Arroz salteado con vegetales": {
+                "Price": 250
+            },
+            "Lomo Ahumado": {
+                "Price": 2400
+            },
+            "Mar y Tierra": {
+                "Price": 4500
+            },
+            "Masa de Vida": {
+                "Price": 4100
+            }
+        },    
+        "Desserts": {
+            "": {
+                "Price": null
+            }
+        },
+        "Beverages": {
+            "Cerveza Nacional": {
+                "Price": 350
+            },
+            "Cerveza importada": {
+                "Price": 250
+            },
+            "Energizante": {
+                "Price": 300
+            },
+            "Agua Natural 500ml": {
+                "Price": 200
+            },
+            "Refresco nacional": {
+                "Price": 250
+            },
+            "Refrescos importados": {
+                "Price": 280
+            },
+            "Malta Nacional": {
+                "Price": 250
+            },
+            "Malta Importada": {
+                "Price": 280
+            },
+            "Jugo de caja": {
+                "Price": 200
+            },
+            "Jugo de Lata": {
+                "Price": 280
+            },
+            "Cafe expreso": {
+                "Price": 250
+            }
+        },
+        "most_sold": {
+            "Dish": ["Mar y Tierra"],
+            "Drink": ["Cerveza Nacional"]
+        },
+        "least_sold": {
+            "Dish": ["Chicken"],
+            "Drink": ["Cafe expreso"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Servicio a domicilio"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

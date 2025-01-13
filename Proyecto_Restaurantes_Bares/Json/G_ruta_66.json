@@ -1,0 +1,217 @@
+{
+    "Name": "Ruta 66",
+    "Type": "Restaurante",
+    "Phone_Number": "52833863",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "1200-2130"
+        ],
+        "Wednesday": [
+            "1200-2130"
+        ],
+        "Thursday": [
+            "1200-2130"
+        ],
+        "Friday": [
+            "1200-2130"
+        ],
+        "Saturday": [
+            "1200-2130"
+        ],
+        "Sunday": [
+            "1200-2130"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": "4MMV+VFW, 9, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones rellenos de jamon y queso": {
+                "Price": 1090.0
+            },
+            "Tostones rellenos de bolognesa": {
+                "Price": 950.0
+            },
+            "Tostones rellenos de vegetales salteados y queso": {
+                "Price": 910.0
+            },
+            "Garbanzos fritos": {
+                "Price": 1900.0
+            },
+            "Ceviche de pescado": {
+                "Price": 1500.0
+            },
+            "Frituras de malanga": {
+                "Price": 595.0
+            },
+            "Croquetas": {
+                "Price": 490.0
+            },
+            "Brosquetas": {
+                "Price": 420.0
+            },
+            "Tamal": {
+                "Price": 400.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasanha queso gouda": {
+                    "Price": 1420.0
+                },
+                "Espaguetis de queso gouda": {
+                    "Price": 1100.0
+                }
+            },
+            "Pizza": {
+                "Pizza de queso gouda": {
+                    "Price": 850.0
+                }
+            },
+            "Pork": {
+                "Lomo ahumado (con gratinado de queso)": {
+                    "Price": 1850.0
+                },
+                "Lomo ahumado (con salsa de pinha)": {
+                    "Price": 2000.0
+                },
+                "Super route 66 (cerdo)": {
+                    "Price": 1965.0
+                },
+                "Castrol (cerdo)": {
+                    "Price": 1255.0
+                },
+                "Texaco (cerdo)": {
+                    "Price": 940.0
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Monte toro a la francesa (a la plancha gratinado con queso)": {
+                    "Price": 2400.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado route 66 (a la plancha gratinado con queso y camaron)": {
+                    "Price": 3550.0
+                },
+                "Filete de pescado en salsa de frutas": {
+                    "Price": 2250.0
+                },
+                "Filete de pescado a la plancha": {
+                    "Price": 1800.0
+                },
+                "Enchilado de camarones": {
+                    "Price": 3300.0
+                },
+                "Camarones al ajillo": {
+                    "Price": 2950.0
+                },
+                "Camarones en salsa de frutas": {
+                    "Price": 2800.0
+                },
+                "Enchilado de pulpo": {
+                    "Price": 2690.0
+                },
+                "Pulpo al ajillo": {
+                    "Price": 2470.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Arroz frito especial route 66": {
+                "Price": 2065.0
+            },
+            "Arroz frito": {
+                "Price": 1280.0
+            },
+            "Arroz blanco": {
+                "Price": 200.0
+            },
+            "Pure de malanga": {
+                "Price": 335.0
+            },
+            "Ensalada mixta de estacion": {
+                "Price": 425.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Refrescos importados": {
+                "Price": 240.0
+            },
+            "Malta importada": {
+                "Price": 250.0
+            },
+            "Agua mineral": {
+                "Price": 190.0
+            },
+            "Jugos importados": {
+                "Price": 210.0
+            },
+            "Cerveza importada": {
+                "Price": 210.0
+            },
+            "Vino tinto": {
+                "Price": 2200.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "Name": "Ranchon Don Mrtin",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Ensalada Fria": {
+                "Price": 400
+            },
+            "Coctel de Camarones": {
+                "Price": 950
+            },
+            "Fritura de Malanga": {
+                "Price": 470
+            },
+            "Toston con mojo": {
+                "Price": 380
+            },
+            "Chicharritas": {
+                "Price": 370
+            },
+            "Papa frita": {
+                "Price": 700
+            },
+            "Toston Relleno": {
+                "Price": 470
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis": {
+                    "Price": 840
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masa frita de Cerdo": {
+                    "Price": 2030
+                },
+                "Fricase de cerdo": {
+                    "Price": 2030
+                },
+                "Bistec de Cerdo Grille": {
+                    "Price": 1400
+                },
+                "Bistec de Cerdo Uruguayo": {
+                    "Price": 2050
+                },
+                "Bistec de Cerdo Empanado": {
+                    "Price": 1600
+                },
+                "Bistec de Cerdo al graten": {
+                    "Price": 1600
+                },
+                "Bistec de Cerdo a la reina": {
+                    "Price": 1700
+                }
+            },
+            "Chicken": {
+                "Pechuga grille": {
+                    "Price": 1440
+                },
+                "Pechuga empanada": {
+                    "Price": 1530
+                },
+                "Pechuga al graten": {
+                    "Price": 1520
+                },
+                "Pechuga a la reina": {
+                    "Price": 1580
+                },
+                "Gordon Blue": {
+                    "Price": 1780
+                }
+            },
+            "Beef": {
+                "Vaca Frita": {
+                    "Price": 2820
+                },
+                "Ropa Vieja": {
+                    "Price": 2850
+                }
+            },
+            "Sea": {
+                "Filete de Pescado Grille": {
+                    "Price": 1600
+                },
+                "Filete de Pescado Empanado": {
+                    "Price": 1800
+                },
+                "Filete de pescado al graten": {
+                    "Price": 1800
+                },
+                "Canciller": {
+                    "Price": 2000
+                },
+                "Filete Don Martin": {
+                    "Price": 2450
+                },
+                "Camaron Enchilado": {
+                    "Price": 2000
+                },
+                "Camaron al ajillo": {
+                    "Price": 2000
+                },
+                "Camaron Rebosado": {
+                    "Price": 2100
+                },
+                "Langosta al ajillo": {
+                    "Price": 3600
+                },
+                "Langosta Enchilado": {
+                    "Price": 3650
+                }
+            },
+            "Other": {
+                "Chilindron de Cordero": {
+                    "Price": 1810
+                }
+            }
+        },
+        "Extras": {
+            "Arroz Moro": {
+                "Price": 180
+            },
+            "Arroz Blanco": {
+                "Price": 100
+            }
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 350
+            }
+        },
+        "Beverages": {
+            "Refresco de Lata": {
+                "Price": 220
+            },
+            "Malta Caribia": {
+                "Price": 230
+            },
+            "Refresco Manzanita": {
+                "Price": 290
+            },
+            "Seven-up": {
+                "Price": 240
+            },
+            "Pinita": {
+                "Price": 225
+            },
+            "Agua": {
+                "Price": 180
+            },
+            "Energizante": {
+                "Price": 245
+            },
+            "Jugo de Caja": {
+                "Price": 175
+            },
+            "Batido de Helado": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

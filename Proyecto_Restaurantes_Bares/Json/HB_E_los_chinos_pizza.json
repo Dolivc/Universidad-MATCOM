@@ -1,0 +1,322 @@
+{
+    "Name": "Los_Chinos_Pizza",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": [
+            "1100-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "5V96+PVV, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Brusquetas": {
+                "Price": 600
+            },
+            "Brusquetas con Queso": {
+                "Price": 750
+            },
+            "Focaccia": {
+                "Price": 700
+            },
+            "Focaccia con Salsa de Tomate": {
+                "Price": 750
+            },
+            "Focaccia con Queso": {
+                "Price": 1000
+            },
+            "Croquetas Caseras": {
+                "Price": 450
+            },
+            "Tostones Rellenos de Jamon y Queso": {
+                "Price": 650
+            },
+            "Tostones Rellenos de Atun": {
+                "Price": 700
+            },
+            "Coctel de Camaron": {
+                "Price": 2600
+            },
+            "Sopa de Vegetales": {
+                "Price": 500
+            },
+            "Crema de Queso": {
+                "Price": 450
+            },
+            "Crema Aurora": {
+                "Price": 480
+            },
+            "Crema Virginia": {
+                "Price": 550
+            },
+            "Lazanha Bolonhesa": {
+                "Price": 1900
+            },
+            "Lazanha de Jamon": {
+                "Price": 1800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta Arrabiata": {
+                    "Price": 850
+                },
+                "Pasta al Aglio Olio": {
+                    "Price": 850
+                },
+                "Pasta Bolognesa": {
+                    "Price": 1700
+                },
+                "Pasta Carbonara": {
+                    "Price": 1200
+                },
+                "Pasta Alfredo": {
+                    "Price": 1200
+                },
+                "Pasta al Pesto": {
+                    "Price": 1200
+                },
+                "Pasta Matriciana": {
+                    "Price": 1200
+                },
+                "Pasta con Camarones": {
+                    "Price": 1700
+                }
+            },
+            "Pizza": {
+                "De Queso": {
+                    "Price": 1150
+                },
+                "De Jamon": {
+                    "Price": 1600
+                },
+                "Con Aceitunas:": {
+                    "Price": 1500
+                },
+                "Salame": {
+                    "Price": 1500
+                },
+                "Chorizo": {
+                    "Price": 1600
+                },
+                "Champinhon": {
+                    "Price": 1700
+                },
+                "3 Vegetales": {
+                    "Price": 1700
+                },
+                "3 Embutidos": {
+                    "Price": 1700
+                },
+                "Salame y Picante": {
+                    "Price": 1700
+                },
+                "Pepperoni": {
+                    "Price": 1700
+                },
+                "Hawaiana": {
+                    "Price": 1700
+                },
+                "Jamon y Champinhon": {
+                    "Price": 1700
+                },
+                "Atun": {
+                    "Price": 1700
+                },
+                "Camaron": {
+                    "Price": 2200
+                },
+                "Bacon": {
+                    "Price": 1700
+                },
+                "Los Chinos": {
+                    "Price": 2200
+                },
+                "Cebolla": {
+                    "Price": 1600
+                },
+                "Pimiento": {
+                    "Price": 1600
+                }
+            },
+            "Pork": {
+                "Bistec de Cerdo": {
+                    "Price": 1900
+                },
+                "Fajita de Cerdo": {
+                    "Price": 1900
+                },
+                "Masas Fritas": {
+                    "Price": 2000
+                },
+                "Ropa Vieja": {
+                    "Price": 1900
+                },
+                "Lomo Deshuesado": {
+                    "Price": 1900
+                },
+                "Chuleta": {
+                    "Price": 2100
+                }
+            },
+            "Chicken": {
+                "Bistec Relleno de Jamon y Queso": {
+                    "Price": 2100
+                },
+                "Bistec de Pollo": {
+                    "Price": 1600
+                },
+                "Fajita de Pollo": {
+                    "Price": 1600
+                },
+                "Pollo Asado": {
+                    "Price": 3000
+                },
+                "Bistec de Pechuga Grille": {
+                    "Price": 1700
+                },
+                "Fajita de Pechuga": {
+                    "Price": 1700
+                },
+                "Pechuga Rellena de Jamon y Queso": {
+                    "Price": 2100
+                },
+                "Pollo a la Criolla": {
+                    "Price": 2000
+                }
+            },
+            "Beef": {
+                "Ropa Vieja de Res": {
+                    "Price": 3000
+                }
+            },
+            "Sea": {
+                "Eperlan": {
+                    "Price": 2250
+                },
+                "Filete Grille": {
+                    "Price": 2100
+                },
+                "Filete Empanado": {
+                    "Price": 2250
+                },
+                "Filete Monte Toro": {
+                    "Price": 2500
+                },
+                "Canciller": {
+                    "Price": 2600
+                },
+                "Jhon Bill": {
+                    "Price": 3000
+                },
+                "Camarones Grille": {
+                    "Price": 2600
+                },
+                "Camarones Enchilado": {
+                    "Price": 2600
+                },
+                "Camarones al Ajillo": {
+                    "Price": 2600
+                },
+                "Camarones Rebosado": {
+                    "Price": 2700
+                },
+                "Langosta Grille": {
+                    "Price": 3000
+                },
+                "Langosta al Ajillo": {
+                    "Price": 3000
+                },
+                "Langosta Enchilada": {
+                    "Price": 3600
+                },
+                "Langosta Marinera": {
+                    "Price": 4000
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

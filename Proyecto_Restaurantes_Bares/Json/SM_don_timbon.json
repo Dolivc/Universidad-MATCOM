@@ -1,0 +1,123 @@
+{
+    "Name": "Don Timbon",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2200"
+        ],
+        "Tuesday": [
+            "900-2200"
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            "900-2200"
+        ],
+        "Friday": [
+            "900-2200"
+        ],
+        "Saturday": [],
+        "Sunday": [
+            "900-2200"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "lasa\u00f1a": {
+                    "Price": 550
+                },
+                "espaguetti": {
+                    "Price": 300
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 160
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "arroz salteado": {
+                    "Price": 500
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

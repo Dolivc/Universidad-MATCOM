@@ -1,0 +1,330 @@
+{
+    "Name": "Ranchon Las Vegas",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2200"
+        ],
+        "Tuesday": [
+            "1100-2200"
+        ],
+        "Wednesday": [
+            "1100-2200"
+        ],
+        "Thursday": [
+            "1100-2200"
+        ],
+        "Friday": [
+            "1100-2200"
+        ],
+        "Saturday": [
+            "1100-2200"
+        ],
+        "Sunday": [
+            "1100-2200"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 409 % 182 & Avenida Independencia, Santiago de las Vegas",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "brusquetas de serrano y queso": {
+                "Price": 600.0
+            },
+            "montaditos de cerdo": {
+                "Price": 700.0
+            },
+            "papas fritas": {
+                "Price": 800.0
+            },
+            "patacon de cerdo": {
+                "Price": 900.0
+            },
+            "croquetas rancho": {
+                "Price": 1000.0
+            },
+            "papas fritas y chorizos": {
+                "Price": 1000.0
+            },
+            "tamal en cazuela": {
+                "Price": 1000.0
+            },
+            "tacos de pollo": {
+                "Price": 1100.0
+            },
+            "tacos de cerdo": {
+                "Price": 1200.0
+            },
+            "tabla de queso": {
+                "Price": 1900.0
+            },
+            "tabla de serrano, quesos y frutos secos": {
+                "Price": 2000.0
+            },
+            "la tranka": {
+                "Price": 2500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "brocheta de cerdo": {
+                    "Price": 2200.0
+                },
+                "costillas bbq": {
+                    "Price": 2500.0
+                },
+                "fricase de cerdo": {
+                    "Price": 2500.0
+                },
+                "bistec de cerdo": {
+                    "Price": 1600.0
+                },
+                "cerdo asado": {
+                    "Price": 1800.0
+                },
+                "lomo ahumado": {
+                    "Price": 1900.0
+                }
+            },
+            "Chicken": {
+                "pollo grille al carbon": {
+                    "Price": 1600.0
+                },
+                "brochetas de pollo": {
+                    "Price": 1800.0
+                }
+            },
+            "Beef": {
+                "uruguayo": {
+                    "Price": 2200.0
+                },
+                "ropa vieja de res": {
+                    "Price": 1800.0
+                },
+                "vaca frita": {
+                    "Price": 1800.0
+                },
+                "entrecot": {
+                    "Price": 5000.0
+                },
+                "steak new york": {
+                    "Price": 6000.0
+                },
+                "steak ribeye": {
+                    "Price": 6500.0
+                }
+            },
+            "Sea": {
+                "super fish + copa de vino": {
+                    "Price": 4500.0
+                },
+                "pescado 1 pax": {
+                    "Price": 2500.0
+                },
+                "atun de aleta amarilla": {
+                    "Price": 7000.0
+                },
+                "enchilado de cangrejo": {
+                    "Price": 2200.0
+                },
+                "enchilado de camaron": {
+                    "Price": 2500.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 300.0
+            },
+            "arroz moro": {
+                "Price": 350.0
+            },
+            "ensalada de estacion": {
+                "Price": 350.0
+            },
+            "pure del dia": {
+                "Price": 350.0
+            },
+            "verduras grilladas": {
+                "Price": 400.0
+            }
+        },
+        "Desserts": {
+            "helado": {
+                "Price": 450.0
+            },
+            "flan": {
+                "Price": 450.0
+            },
+            "copa lolita": {
+                "Price": 850.0
+            }
+        },
+        "Beverages": {
+            "pinna colada virgen": {
+                "Price": 800.0
+            },
+            "energizante importado": {
+                "Price": 400.0
+            },
+            "agua natural": {
+                "Price": 200.0
+            },
+            "refresco cola": {
+                "Price": 250.0
+            },
+            "refresco limon": {
+                "Price": 250.0
+            },
+            "refresco naranja": {
+                "Price": 250.0
+            },
+            "pinna": {
+                "Price": 250.0
+            },
+            "jugos": {
+                "Price": 250.0
+            },
+            "coca cola": {
+                "Price": 350.0
+            },
+            "sprite": {
+                "Price": 350.0
+            },
+            "malta": {
+                "Price": 300.0
+            },
+            "malta bucanero": {
+                "Price": 350.0
+            },
+            "pepsi cola": {
+                "Price": 350.0
+            },
+            "Cuba Libre": {
+                "Price": 750.0
+            },
+            "Caipirinna": {
+                "Price": 750.0
+            },
+            "Caipiroska": {
+                "Price": 750.0
+            },
+            "Caipirisima": {
+                "Price": 750.0
+            },
+            "Mojito": {
+                "Price": 750.0
+            },
+            "Daiquiri": {
+                "Price": 800.0
+            },
+            "Pinna Colada": {
+                "Price": 900.0
+            },
+            "Bloody Mary": {
+                "Price": 900.0
+            },
+            "Tinto de Verano": {
+                "Price": 900.0
+            },
+            "Sangria": {
+                "Price": 900.0
+            },
+            "Cubanito": {
+                "Price": 900.0
+            },
+            "Margarita": {
+                "Price": 1250.0
+            },
+            "Cerveza Importada": {
+                "Price": 250.0
+            },
+            "Cheladas": {
+                "Price": 300.0
+            },
+            "Cristal": {
+                "Price": 350.0
+            },
+            "Micheladas": {
+                "Price": 400.0
+            },
+            "Cristal de Botella": {
+                "Price": 450.0
+            },
+            "Corona": {
+                "Price": 600.0
+            },
+            "Cerveza Modelo": {
+                "Price": 700.0
+            },
+            "Vino Blanco": {
+                "Price": 700.0
+            },
+            "Vino Tinto": {
+                "Price": 700.0
+            },
+            "cafe": {
+                "Price": 350.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "Name": "La maravilla",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "La maravilla",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-22:00"],
+        "Tuesday":  ["08:00-22:00"],
+        "Wednesday": ["08:00-22:00"],
+        "Thursday": ["08:00-22:00"],
+        "Friday":   ["08:00-22:00"],
+        "Saturday": ["08:00-22:00"],
+        "Sunday":   ["08:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "El parque cristo",
+        "Coordinates": "4JPV+FQ8"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Baguette de jamon y queso": {
+                    "Price": 1600
+                },
+                "Baguette de tocino y queso": {
+                    "Price": 1600
+                },
+                "Baguette de cerdo": {
+                    "Price": 1600
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de baicon y queso azul": {
+                "Price": 1600
+            },
+            "Croquetas de pescado": {
+                "Price": 1000
+            },
+            "Tacos de pescado": {
+                "Price": 3000
+            },
+            "Tacos de pollo": {
+                "Price": 2500
+            },
+            "Empanadas": {
+                "Price": 1200
+            },
+            "Pastel de carne y papa": {
+                "Price": 1800
+            }
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "cerdo asado": {
+                    "Price": 3800
+                },
+                "costillas de cerdo": {
+                    "Price": 3800
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 3000
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 3500
+                },
+                "Solomillo de res": {
+                    "Price": 3500
+                }
+            },
+            "Sea": {
+                "Pescado a la malaguenhe": {
+                    "Price":3000
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Granola artesanal": {
+                "Price": 1100
+            }
+        },
+        "Beverages": {
+            "Mojito royal": {
+                "Price": 1500
+            },
+            "Daiquiri frutal/natural": {
+                "Price": 1200
+            },
+            "Margarita frutal/natural": {
+                "Price": 1500
+            },
+            "Canchanchara": {
+                "Price": 1000
+            },
+            "Gin Tonic": {
+                "Price": 1500
+            },
+            "Tinto de verano": {
+                "Price": 1200
+            },
+            "Ron collins": {
+                "Price": 900
+            },
+            "Vodka tonic": {
+                "Price": 1200
+            },
+            "Caipiroska": {
+                "Price": 1000
+            },
+            "Caipirisima": {
+                "Price": 1000
+            },
+            "Caipirinha": {
+                "Price": 1000
+            },
+            "Cuba libre": {
+                "Price": 900
+            },
+            "Mojito": {
+                "Price": 1200
+            },
+            "Red Wine Glass": {
+                "Price": 700
+            },
+            "White  Wine Glass": {
+                "Price": 600
+            },
+            "Sparkling wine glass": {
+                "Price": 950
+            },
+            "Cerveza": {
+                "Price": 300
+            },
+            "Limonada": {
+                "Price": 700
+            },
+            "Jugo": {
+                "Price": 350
+            },
+            "Soda": {
+                "Price": 400
+            },
+            "Milk shake": {
+                "Price": 1100
+            },
+            "Tea": {
+                "Price": 200
+            },
+            "Water": {
+                "Price": 300
+            },
+            "Espresso": {
+                "Price": 350
+            },
+            "Americano": {
+                "Price": 350
+            },
+            "Capuccino": {
+                "Price": 550
+            },
+            "cafe bombon": {
+                "Price": 650
+            },
+            "Cafe con leche": {
+                "Price": 550
+            },
+            "Carajillo": {
+                "Price": 600
+            },
+            "Frappucino": {
+                "Price": 750
+            }
+        },
+        "most_sold": {
+            "Dish": ["Tacos"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Pata"],
+            "Drink": ["Energizante"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

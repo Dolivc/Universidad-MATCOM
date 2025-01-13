@@ -1,0 +1,145 @@
+{
+    "Name": "Allegro",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2100"
+        ],
+        "Tuesday": [
+            "1200-2100"
+        ],
+        "Wednesday": [
+            "1200-2100"
+        ],
+        "Thursday": [
+            "1200-2100"
+        ],
+        "Friday": [
+            "1200-2100"
+        ],
+        "Saturday": [
+            "1200-2100"
+        ],
+        "Sunday": [
+            "1200-2100"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Paseo de la Villa, Villa Panamericana",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Crema de queso": {
+                "Price": 313
+            },
+            "Crema Aurora": {
+                "Price": 315
+            },
+            "Crema Virginia": {
+                "Price": 329
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghettis napolitanos": {
+                    "Price": 410
+                },
+                "Spaghettis de jamon": {
+                    "Price": 570
+                },
+                "Lazagna de jamon": {
+                    "Price": 550
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 390
+                },
+                "Pizza de jamon": {
+                    "Price": 540
+                },
+                "Pizza de chorizo": {
+                    "Price": 588
+                },
+                "Pizza de bacon": {
+                    "Price": 735
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

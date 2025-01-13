@@ -1,0 +1,186 @@
+{
+    "Name": "El Pellizco",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2400"
+        ],
+        "Tuesday": [
+            "1100-2400"
+        ],
+        "Wednesday": [
+            "1100-2400"
+        ],
+        "Thursday": [
+            "1100-2400"
+        ],
+        "Friday": [
+            "1100-2400"
+        ],
+        "Saturday": [
+            "1100-2400"
+        ],
+        "Sunday": [
+            "1100-2400"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": "3Q5F+6C6, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Racion de chicharron": {
+                "Price": 150.0
+            },
+            "Racion de empella": {
+                "Price": 100.0
+            },
+            "Caldoza de la casa": {
+                "Price": 250.0
+            },
+            "Racion de tostones": {
+                "Price": 80.0
+            },
+            "Racion de mariquitas": {
+                "Price": 80.0
+            },
+            "Platano maduro frito": {
+                "Price": 80.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 200.0
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 600.0
+                },
+                "Masa de cerdo": {
+                    "Price": 650.0
+                },
+                "Chuleta de cerdo": {
+                    "Price": 650.0
+                },
+                "Lomo ahumado": {
+                    "Price": 650.0
+                },
+                "Lonjas de cerdo asada": {
+                    "Price": 600.0
+                },
+                "Costilla asada": {
+                    "Price": 650.0
+                },
+                "Ropa vieja de cerdo": {
+                    "Price": 650.0
+                },
+                "Fricase de costilla": {
+                    "Price": 650.0
+                }
+            },
+            "Chicken": {
+                "Bistec de higado": {
+                    "Price": 400.0
+                },
+                "Higado a la italiana": {
+                    "Price": 450.0
+                },
+                "Pollo asado": {
+                    "Price": 450.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Jugo de caja": {
+                "Price": 150.0
+            },
+            "Jugo de botella": {
+                "Price": 120.0
+            },
+            "Malta": {
+                "Price": 150.0
+            },
+            "Agua natural": {
+                "Price": 100.0
+            },
+            "Energizante": {
+                "Price": 220.0
+            },
+            "Cerveza nacional": {
+                "Price": 220.0
+            },
+            "Cerveza importada": {
+                "Price": 220.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

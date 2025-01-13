@@ -1,0 +1,386 @@
+{
+    "Name": "Ley Seca",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "56685088",
+    "Web_Page": "Ley seca speakeasy Habana",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00-03:00"],
+        "Tuesday":  ["12:00-03:00"],
+        "Wednesday": ["12:00-03:00"],
+        "Thursday": ["12:00-03:00"],
+        "Friday":   ["12:00-03:00"],
+        "Saturday": ["12:00-03:00"],
+        "Sunday":   ["12:00-03:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Habana entre Obispo y Obrapia",
+        "Coordinates": "null"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Desayuno europeo":{
+                    "Price": 3600
+                },
+                "Desayuno americano":{
+                    "Price": 3600
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas de pescado": {
+                "Price": 1500
+            },
+            "Croquetas de pollo": {
+                "Price": 1500
+            },
+            "Croquetas de embutido": {
+                "Price": 1500
+            },
+            "Croquetas de queso": {
+                "Price": 1500
+            },
+            "Sexy papa frita": {
+                "Price": 1800
+            },
+            "Empanadas de carne": {
+                "Price": 2000
+            },
+            "Tacos de vegetales": {
+                "Price": 2000
+            },
+            "Empanadas de queso": {
+                "Price": 2000
+            },
+            "Tacos de pollo": {
+                "Price": 2300
+            },
+            "Tacos de cerdo": {
+                "Price": 2300
+            },
+            "Tacos de pescado": {
+                "Price": 2300
+            },
+            "Croquetas de serrano": {
+                "Price": 2600
+            },
+            "Tacos de res": {
+                "Price": 3000
+            },
+            "Seleccion charcut": {
+                "Price": 3000
+            },
+            "Chupe de mariscos": {
+                "Price": 3000
+            },
+            "Tacos de langosta": {
+                "Price": 3500
+            },
+            "Garbanzos sin piedad":{
+                "Price": 4500
+            },
+            "Ceviche muuh":{
+                "Price": 2000
+            },
+            "Vegetales we trust":{
+                "Price": 2000
+            },
+            "Tartar fish":{
+                "Price": 2500
+            },
+            "Sandwish Ley seca":{
+                "Price": 2500
+            },
+            "Carpaccio de pulpo":{
+                "Price": 3000
+            },
+            "Carpaccio de res":{
+                "Price": 3000
+            },
+            "Tabla d' trafico":{
+                "Price": 6000
+            },
+            "Un poquito d' to":{
+                "Price": 9000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta tres quesos": {
+                    "Price": 3000
+                },
+                "Pasta carbonara": {
+                    "Price": 3000
+                },
+                "Pasta frutti di madre": {
+                    "Price": 4500
+                },
+                "Pasta al buey": {
+                    "Price": 5000
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Cerdo con masas": {
+                    "Price": 3000
+                },
+                "Lomo de cerdo": {
+                    "Price": 4000
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 2500
+                },
+                "Pollo trufa y parmesano": {
+                    "Price": 5200
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 3000
+                },
+                "Filete a la douche": {
+                    "Price": 5000
+                },
+                "Puntaroja": {
+                    "Price": 5000
+                },
+                "Filete chateaubriand": {
+                    "Price": 7000
+                },
+                "Filete clandestino": {
+                    "Price": 7000
+                },
+                "Rissotto de res": {
+                    "Price": 7000
+                },
+                "Mignon": {
+                    "Price": 7000
+                }
+            },
+            "Sea": {
+                "Balas d' camaron": {
+                    "Price": 3500
+                },
+                "Langosta ganster": {
+                    "Price": 4000
+                },
+                "Pescado al limon": {
+                    "Price": 3500
+                },
+                "Pulpo al gusto": {
+                    "Price": 5000
+                },
+                "Rissotto del mar": {
+                    "Price": 7000
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Rissotto fhungi": {
+                "Price": 7000
+            },
+            "Arroz blackout": {
+                "Price": 7000
+            },
+            "Surtido de la ruta": {
+                "Price": 11000
+            }
+        },
+        "Desserts": {
+            "Tarta de limon": {
+                "Price": 800
+            },
+            "Cheesecake": {
+                "Price": 800
+            },
+            "Casquitos de guayaba": {
+                "Price": 1000
+            },
+            "Torrejas": {
+                "Price": 1000
+            },
+            "Arroz con leche": {
+                "Price": 1000
+            }
+        },
+        "Beverages": {
+            "Ley seca": {
+                "Price": 1650
+            },
+            "Al Capone": {
+                "Price": 1650
+            },
+            "Bandido": {
+                "Price": 1650
+            },
+            "Green go": {
+                "Price": 1650
+            },
+            "Pub Garrison": {
+                "Price": 1650
+            },
+            "Prohibition": {
+                "Price": 1650
+            },
+            "Red pasion": {
+                "Price": 2000
+            },
+            "Dalilah": {
+                "Price": 2500
+            },
+            "Strange wine": {
+                "Price": 2500
+            },
+            "Royal blood": {
+                "Price": 3500
+            },
+            "Agua Natural": {
+                "Price": 700
+            },
+            "Agua Gaseada": {
+                "Price": 700
+            },
+            "Agua tonica": {
+                "Price": 700
+            },
+            "Refrescos": {
+                "Price": 800
+            },
+            "Kermato": {
+                "Price": 1000
+            },
+            "Cerveza": {
+                "Price": 1000
+            },
+            "Cerveza importada": {
+                "Price": 1200
+            },
+            "Energizante": {
+                "Price": 1200
+            },
+            "Jhonny Walker Red label": {
+                "Price": 13000
+            },
+            "Johnny Walker Black label": {
+                "Price": 20000
+            },
+            "Jhonny Walker Double black label": {
+                "Price": 30000
+            },
+            "Jhonny Walker green label": {
+                "Price": 50000
+            },
+            "Jhonny Walker Golden label": {
+                "Price": 60000
+            },
+            "Jhonny Walker blue label": {
+                "Price": 250000
+            },
+            "Buchanan 12 anhos": {
+                "Price": 40000
+            },
+            "Buchanan master": {
+                "Price": 70000
+            },
+            "Buchanan 18 anhos": {
+                "Price": 70000
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 18000
+            },
+            "Chivas regal 18 anhos": {
+                "Price": 70000
+            },
+            "Jack Daniel": {
+                "Price": 25000
+            },
+            "HC seleccion de maestros": {
+                "Price": 25000
+            },
+            "HC Pacto navio": {
+                "Price": 30000
+            },
+            "Santiago 8 anhos": {
+                "Price": 12000
+            },
+            "Santiago 11 anhos": {
+                "Price": 25000
+            },
+            "Santiago 12 anhos": {
+                "Price": 35000
+            },
+            "HC 15 anhos": {
+                "Price": 60000
+            },
+            "Absolut": {
+                "Price": 12000
+            },
+            "Ciroc Sabor": {
+                "Price": 30000
+            },
+            "Ciroc neutro": {
+                "Price": 25000
+            },
+            "Grey goose": {
+                "Price": 60000
+            },
+            "Moet imperial": {
+                "Price": 60000
+            },
+            "Moet ice": {
+                "Price": 70000
+            },
+            "Moet rose": {
+                "Price": 80000
+            }
+        },
+        "most_sold": {
+            "Dish": ["Masas de cerdo"],
+            "Drink": ["Coctel Ley Seca"]
+        },
+        "least_sold": {
+            "Dish": ["Mariscos"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Show","DJ","Bailarina","Mago","Juegos de mesa","Hooka"],
+        "Facilities": ["Aceptan reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "Name": "Ivonne cafe",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2200"
+        ],
+        "Tuesday": [
+            "900-2200"
+        ],
+        "Wednesday": [
+            "900-2200"
+        ],
+        "Thursday": [
+            "900-2200"
+        ],
+        "Friday": [
+            "900-2200"
+        ],
+        "Saturday": [
+            "900-2200"
+        ],
+        "Sunday": [
+            "900-2200"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "San Lazaro entre Espada y Hospital",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espagueti Blanco": {
+                    "Price": 700
+                },
+                "Espagueti Gouda": {
+                    "Price": 850
+                }
+            },
+            "Pizza": {
+                "Pizza  queso blanco": {
+                    "Price": 350
+                },
+                "Pizza Grande queso blanco": {
+                    "Price": 500
+                },
+                "Pizza Pequenha Gouda": {
+                    "Price": 600
+                },
+                "Pizza Grande Gouda": {
+                    "Price": 850
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tartaleta": {
+                "Price": 350
+            },
+            "Donut": {
+                "Price": 170
+            },
+            "Coffee cake": {
+                "Price": 160
+            },
+            "Empanada": {
+                "Price": 250
+            },
+            "Cangrejitos": {
+                "Price": 250
+            },
+            "Rollitos": {
+                "Price": 200
+            },
+            "Pasteles": {
+                "Price": 100
+            },
+            "Cakes": {
+                "Price": 4500
+            }
+        },
+        "Beverages": {
+            "Expreso": {
+                "Price": 100
+            },
+            "Cortado": {
+                "Price": 150
+            },
+            "Con leche": {
+                "Price": 100
+            },
+            "Americano": {
+                "Price": 100
+            },
+            "Capuchino": {
+                "Price": 300
+            },
+            "Bombon": {
+                "Price": 300
+            },
+            "Frapuccino": {
+                "Price": 750
+            },
+            "Aguas": {
+                "Price": 250
+            },
+            "Refrescos": {
+                "Price": 250
+            },
+            "Cervezas": {
+                "Price": 300
+            },
+            "Limonada Frappe": {
+                "Price": 850
+            },
+            "Batido Helado": {
+                "Price": 850
+            },
+            "Batido Fruta": {
+                "Price": 550
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

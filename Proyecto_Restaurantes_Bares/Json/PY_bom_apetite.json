@@ -1,0 +1,585 @@
+{
+    "Name": "Bom Apetite",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-400"
+        ],
+        "Tuesday": [
+            "900-400"
+        ],
+        "Wednesday": [
+            "900-400"
+        ],
+        "Thursday": [
+            "900-400"
+        ],
+        "Friday": [
+            "900-400"
+        ],
+        "Saturday": [
+            "900-400"
+        ],
+        "Sunday": [
+            "900-400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Americano": {
+                    "Price": 1300
+                },
+                "Bom apetite": {
+                    "Price": 2200
+                },
+                "Europeo": {
+                    "Price": 1400
+                },
+                "Continental": {
+                    "Price": 1500
+                }
+            }
+        },
+        "Appetizers": {
+            "Sandwich de quero": {
+                "Price": 630
+            },
+            "Sandwich de jamon": {
+                "Price": 600
+            },
+            "Sandwich de 10": {
+                "Price": 850
+            },
+            "Sandwich de mun": {
+                "Price": 900
+            },
+            "Sandwich bom apetite": {
+                "Price": 1350
+            },
+            "Sandwich don pepito": {
+                "Price": 1200
+            },
+            "Sandwich de pollo": {
+                "Price": 1100
+            },
+            "Sandwich de vegetales": {
+                "Price": 600
+            },
+            "Fritura de malanga": {
+                "Price": 500
+            },
+            "Croquetas de embutidos": {
+                "Price": 900
+            },
+            "Croquetas de pescados": {
+                "Price": 800
+            },
+            "Croquetas de queso azul": {
+                "Price": 1000
+            },
+            "Bolitas de carne": {
+                "Price": 900
+            },
+            "Bolitas de queso": {
+                "Price": 1100
+            },
+            "Fajitas de pollo": {
+                "Price": 1700
+            },
+            "Fajitas de cerdo": {
+                "Price": 1800
+            },
+            "San jacobo": {
+                "Price": 1600
+            },
+            "Tabla de jamon serrano": {
+                "Price": 3300
+            },
+            "Toston montado de jo": {
+                "Price": 1650
+            },
+            "Brusqueta de lux": {
+                "Price": 1500
+            },
+            "Brusqueta": {
+                "Price": 700
+            },
+            "Ensalada cesar": {
+                "Price": 1800
+            },
+            "Ensalada de lux": {
+                "Price": 2400
+            },
+            "Tabla de embutidos": {
+                "Price": 3150
+            },
+            "Entremes de loch": {
+                "Price": 1400
+            },
+            "Tabla especial bom": {
+                "Price": 1200
+            },
+            "Rac aceitunas": {
+                "Price": 600
+            },
+            "Pica pica bom apetite": {
+                "Price": 3000
+            },
+            "Carpaccio de res": {
+                "Price": 3000
+            },
+            "Tabla de queso": {
+                "Price": 3600
+            },
+            "Eperlan de pescado": {
+                "Price": 2500
+            },
+            "Ceviche costero": {
+                "Price": 2800
+            },
+            "Ceviche de pulpo": {
+                "Price": 2500
+            },
+            "Ceviche de langosta": {
+                "Price": 2400
+            },
+            "Ceviche de camaron": {
+                "Price": 2800
+            },
+            "Ceviche de pescado": {
+                "Price": 2300
+            },
+            "Coctel de camaron": {
+                "Price": 2100
+            },
+            "Coctel de langosta": {
+                "Price": 2300
+            },
+            "Coctel de pescado": {
+                "Price": 2100
+            },
+            "Coctel de pargo": {
+                "Price": 2200
+            },
+            "Crema de queso": {
+                "Price": 980
+            },
+            "Crema de jamon": {
+                "Price": 880
+            },
+            "Crema aurora": {
+                "Price": 850
+            },
+            "Crema de calabaza": {
+                "Price": 800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta pomodoro": {
+                    "Price": 1300
+                },
+                "Pasta proscuitto": {
+                    "Price": 1700
+                },
+                "Pasta amatriciana": {
+                    "Price": 2100
+                },
+                "Pasta putanesca": {
+                    "Price": 1900
+                },
+                "Pasta carbonara": {
+                    "Price": 2550
+                },
+                "Pasta alfredo": {
+                    "Price": 2450
+                },
+                "Pasta nero di sepia": {
+                    "Price": 3200
+                },
+                "Pasta frutti di mare": {
+                    "Price": 2900
+                },
+                "Pasta 4 quesos": {
+                    "Price": 2800
+                },
+                "Pasta ragu": {
+                    "Price": 2100
+                },
+                "Pasta pesto": {
+                    "Price": 2500
+                },
+                "Pasta sugo di tono": {
+                    "Price": 2500
+                },
+                "Pasta alioli": {
+                    "Price": 1900
+                }
+            },
+            "Pizza": {
+                "Pizza napoles": {
+                    "Price": 1000
+                },
+                "Pizza margarita": {
+                    "Price": 1100
+                },
+                "Pizza mary tierra": {
+                    "Price": 3300
+                },
+                "Pizza d langosta": {
+                    "Price": 3100
+                },
+                "Pizza d jamon y bacon": {
+                    "Price": 2000
+                },
+                "Pizza d jamon": {
+                    "Price": 1700
+                },
+                "Pizza hawaiana": {
+                    "Price": 2100
+                },
+                "Pizza diabola": {
+                    "Price": 2150
+                },
+                "Pizza atun, cebolla y aceite": {
+                    "Price": 2200
+                },
+                "Pizza chorizo": {
+                    "Price": 1800
+                },
+                "Pizza camaron": {
+                    "Price": 2800
+                },
+                "Pizza caprichosa": {
+                    "Price": 2100
+                },
+                "Pizza 4 quesos": {
+                    "Price": 2700
+                },
+                "Pizza 4 estaciones": {
+                    "Price": 3000
+                },
+                "Pizza de pepperoni": {
+                    "Price": 2200
+                },
+                "Pizza primavera": {
+                    "Price": 2350
+                },
+                "Pizza panna": {
+                    "Price": 2250
+                }
+            },
+            "Pork": {
+                "Cerdo bistec": {
+                    "Price": 2000
+                },
+                "Cerdo masas": {
+                    "Price": 2100
+                },
+                "Cerdo filete": {
+                    "Price": 3400
+                },
+                "Cerdo lomo ahumado": {
+                    "Price": 2300
+                },
+                "Cerdo lomo a la miel y mostaza": {
+                    "Price": 2500
+                },
+                "Cerdo filete de lomo importado": {
+                    "Price": 4200
+                },
+                "Cerdo lomo a la teriyaki": {
+                    "Price": 4300
+                },
+                "Cerdo chuletas": {
+                    "Price": 2700
+                },
+                "Cerdo involtini": {
+                    "Price": 3000
+                }
+            },
+            "Chicken": {
+                "Pollo deshuesado": {
+                    "Price": 1700
+                },
+                "Pollo al limon": {
+                    "Price": 1950
+                },
+                "Pollo a la cazadora": {
+                    "Price": 2000
+                },
+                "Pollo a la miel mostaza": {
+                    "Price": 2100
+                },
+                "Pollo gordon blue": {
+                    "Price": 2500
+                },
+                "Pollo rebosado": {
+                    "Price": 2700
+                },
+                "Pollo frito": {
+                    "Price": 1500
+                },
+                "Pollo medio pollo": {
+                    "Price": 2800
+                },
+                "Pollo entero": {
+                    "Price": 3000
+                },
+                "Pollo en cazuela": {
+                    "Price": 1980
+                }
+            },
+            "Beef": {
+                "Res uruguayo": {
+                    "Price": 3400
+                },
+                "Res chateaubriand": {
+                    "Price": 5000
+                },
+                "Res tournedu": {
+                    "Price": 4000
+                },
+                "Res solomillo": {
+                    "Price": 4200
+                },
+                "Res tournedu de solomillo": {
+                    "Price": 5200
+                },
+                "Res solomillo 2": {
+                    "Price": 5100
+                },
+                "Res mora bom": {
+                    "Price": 4700
+                },
+                "Res filete a la dotch": {
+                    "Price": 4100
+                },
+                "Res chateaubriand 2": {
+                    "Price": 7000
+                },
+                "Res churasco": {
+                    "Price": 5000
+                },
+                "Res mignon": {
+                    "Price": 5500
+                },
+                "Res ropa vieja": {
+                    "Price": 3500
+                },
+                "Res vaca frita": {
+                    "Price": 3200
+                },
+                "Res new york": {
+                    "Price": 8000
+                },
+                "Res picadillo a la habanera": {
+                    "Price": 2000
+                }
+            },
+            "Sea": {
+                "Pescado filete grille": {
+                    "Price": 3000
+                },
+                "Pescado filete papillote": {
+                    "Price": 3400
+                },
+                "Pescado al sofrito": {
+                    "Price": 3100
+                },
+                "Pescado filete canciller": {
+                    "Price": 4000
+                },
+                "Pescado crujiente": {
+                    "Price": 3300
+                },
+                "Pescado john bill": {
+                    "Price": 4300
+                },
+                "Pescado pescado de talla": {
+                    "Price": 6000
+                },
+                "Marisco pulpo al ajillo": {
+                    "Price": 3900
+                },
+                "Marisco pulpo al estilo del chef": {
+                    "Price": 3900
+                },
+                "Marisco pulpo grille": {
+                    "Price": 3800
+                },
+                "Marisco pulpo enchilado": {
+                    "Price": 4100
+                },
+                "Marisco langosta pesto": {
+                    "Price": 3600
+                },
+                "Marisco langosta grille": {
+                    "Price": 3900
+                },
+                "Marisco langosta termidor": {
+                    "Price": 3700
+                },
+                "Marisco langosta enchilado": {
+                    "Price": 3300
+                },
+                "Marisco mariscada sote": {
+                    "Price": 4300
+                },
+                "Marisco camarones grille": {
+                    "Price": 3300
+                },
+                "Marisco camarones al ajillo": {
+                    "Price": 3300
+                },
+                "Marisco camarones al pesto": {
+                    "Price": 3600
+                },
+                "Marisco camarones rebosado": {
+                    "Price": 3500
+                },
+                "Marisco camarones inchilado": {
+                    "Price": 3100
+                },
+                "Marisco camarones con salsa teriyaki": {
+                    "Price": 3700
+                }
+            },
+            "Other": {
+                "Arroz primavera": {
+                    "Price": 1500
+                },
+                "Risotto nero di seppia": {
+                    "Price": 3200
+                },
+                "Risotto de carne": {
+                    "Price": 2900
+                },
+                "Risotto frutti di mare": {
+                    "Price": 3700
+                },
+                "Risotto hongo 4 quesos": {
+                    "Price": 3800
+                },
+                "Risotto porcinni": {
+                    "Price": 3900
+                },
+                "Cordero paletilla": {
+                    "Price": 3700
+                },
+                "Cordero chilindron": {
+                    "Price": 3100
+                },
+                "Cordero al vino tinto": {
+                    "Price": 3300
+                },
+                "Calzones de rv": {
+                    "Price": 3890
+                },
+                "Mar tierra": {
+                    "Price": 1900
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 300
+            },
+            "Arroz moro": {
+                "Price": 350
+            },
+            "Arroz pilaf": {
+                "Price": 600
+            },
+            "Soup de pollo": {
+                "Price": 1100
+            },
+            "Soup de pescado": {
+                "Price": 1600
+            },
+            "Soup de mariscos": {
+                "Price": 2800
+            },
+            "Pure de malanga": {
+                "Price": 600
+            },
+            "Pure de papa": {
+                "Price": 500
+            },
+            "Vegetal natural": {
+                "Price": 350
+            },
+            "Vegetales salteado": {
+                "Price": 390
+            },
+            "Vianda hervida": {
+                "Price": 400
+            },
+            "Vianda frita": {
+                "Price": 290
+            },
+            "Papas fritas": {
+                "Price": 1000
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

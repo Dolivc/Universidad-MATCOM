@@ -1,0 +1,166 @@
+{
+    "Name": "Tong Do Laug",
+    "Type": "   Restaurante",
+    "Phone_Number": "55100355",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["10:00-21:00"],
+        "Tuesday":  ["10:00-21:00"],
+        "Wednesday": ["10:00-21:00"],
+        "Thursday": ["10:00-21:00"],
+        "Friday":   ["10:00-21:00"],
+        "Saturday": ["10:00-21:00"],
+        "Sunday":   ["10:00-21:00"]
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Cuchillo entre San Nicolás y Rayo",
+        "Coordinates": "4JMP+VGM"
+    },
+    "Cuisine": "Comida china",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Lomo Ahumado": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "Fajitas de Pechuga": {
+                    "Price": 2200
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Mariscos":{
+                    "Price": 2500 
+                },
+                "Mar y Tierra":{
+                    "Price": 3850
+                },
+                "Camarones":{
+                    "Price": 3600
+                },
+                "Pescado":{
+                    "Price": 1650
+                }
+            },
+            "Other":{
+                "Jiaozi Ravioles":{
+                    "Price": 1350
+                },
+                "Bao":{
+                    "Price": 700
+                },
+                "Mia Especial Tallarines":{
+                    "Price": 1100
+                },
+                "Arroz Frito Especial":{
+                    "Price": 1100
+                },
+                "Siumi":{
+                    "Price": 1200
+                },
+                "Chunkun Rollitos de Primavera":{
+                    "Price": 1050
+                },
+                "Sopa China":{
+                    "Price": 990
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cerveza": {
+                "Price": 300 
+            },
+            "Cerveza Nacional": {
+                "Price": 500
+            },
+            "Refresco": {
+                "Price": 300 
+            },
+            "Jugo": {
+                "Price": 330
+            },
+            "Frapeado": {
+                "Price": 330
+            },
+            "Cocteles": {
+                "Price": 660
+            },
+            "Café": {
+                "Price": 390
+            },
+            "Té": {
+                "Price": 170
+            },
+            "Agua": {
+                "Price": 220
+            },
+            "Agua caliente": {
+                "Price": 220
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": "null",
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

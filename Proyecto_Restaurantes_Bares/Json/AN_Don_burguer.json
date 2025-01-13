@@ -1,0 +1,196 @@
+{
+    "Name": "Don Burguer",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2300"
+        ],
+        "Tuesday": [
+            "1000-2300"
+        ],
+        "Wednesday": [
+            "1000-2300"
+        ],
+        "Thursday": [
+            "1000-2300"
+        ],
+        "Friday": [
+            "1000-2300"
+        ],
+        "Saturday": [
+            "1000-2300"
+        ],
+        "Sunday": [
+            "1000-2300"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calzada de Diez de Octubre, entre  Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "ensalada fria": {
+                "Price": 580.0
+            },
+            "aceitunas (racion)": {
+                "Price": 420.0
+            },
+            "bolitas de queso": {
+                "Price": 640.0
+            },
+            "frituras de malanga": {
+                "Price": 510.0
+            },
+            "croquetas": {
+                "Price": 640.0
+            },
+            "papitas": {
+                "Price": 640.0
+            },
+            "fajitas de pollo": {
+                "Price": 940.0
+            },
+            "entremes surtido": {
+                "Price": 1720.0
+            },
+            "brusquetas": {
+                "Price": 780.0
+            },
+            "burritos de jamon y queso": {
+                "Price": 1260.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "tacos de vegetales": {
+                    "Price": 620.0
+                },
+                "tacos de cerdo": {
+                    "Price": 1120.0
+                },
+                "tacos de pollo": {
+                    "Price": 1120.0
+                },
+                "tacos de res": {
+                    "Price": 1280.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "3 gracias": {
+                "Price": 740.0
+            },
+            "ensalada": {
+                "Price": 1080.0
+            },
+            "suero de helado": {
+                "Price": 840.0
+            },
+            "casquitos de guayaba": {
+                "Price": 560.0
+            },
+            "flan": {
+                "Price": 560.0
+            },
+            "dulce de coco": {
+                "Price": 460.0
+            },
+            "torrejas": {
+                "Price": 680.0
+            },
+            "dulce de fruta bomba": {
+                "Price": 460.0
+            }
+        },
+        "Beverages": {
+            "agua": {
+                "Price": 150.0
+            },
+            "refresco": {
+                "Price": 240.0
+            },
+            "batido de frutas": {
+                "Price": 390.0
+            },
+            "limonada frape": {
+                "Price": 380.0
+            },
+            "limonada con hierba buena": {
+                "Price": 460.0
+            },
+            "malta": {
+                "Price": 400.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

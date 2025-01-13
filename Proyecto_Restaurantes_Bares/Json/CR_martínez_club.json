@@ -1,0 +1,157 @@
+{
+    "Name": "Martinez Club",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2100"
+        ],
+        "Tuesday": [
+            "900-2100"
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            "900-2100"
+        ],
+        "Friday": [
+            "900-2100"
+        ],
+        "Saturday": [],
+        "Sunday": [
+            "900-2100"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "fritura de malanga": {
+                "Price": 300
+            },
+            "ensalada fr\u00eda": {
+                "Price": 150
+            },
+            "croquetas": {
+                "Price": 300
+            },
+            "tostones al ajillo": {
+                "Price": 300
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti con queso blanco": {
+                    "Price": 350
+                },
+                "espaguetti con queso gouda": {
+                    "Price": 500
+                }
+            },
+            "Pizza": {
+                "pizza con queso blanco": {
+                    "Price": 200
+                },
+                "pizza con queso gouda": {
+                    "Price": 350
+                },
+                "pizza familiar con queso blanco": {
+                    "Price": 450
+                },
+                "pizza familiar con queso gouda": {
+                    "Price": 650
+                }
+            },
+            "Pork": {
+                "masa de cerdo frita": {
+                    "Price": 1100
+                }
+            },
+            "Chicken": {
+                "pollo chiflado": {
+                    "Price": 700
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "refresco": {
+                "Price": 20
+            },
+            "jugo": {
+                "Price": 50
+            },
+            "malteada": {
+                "Price": 330
+            },
+            "expresso": {
+                "Price": 20
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

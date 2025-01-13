@@ -1,0 +1,348 @@
+{
+    "Name": "Lacret 559",
+    "Type": "Restaurante",
+    "Phone_Number": 52906422,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2300"
+        ],
+        "Tuesday": [
+            "1200-2300"
+        ],
+        "Wednesday": [
+            "1200-2300"
+        ],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": null,
+        "Coordinates": "4J2G+J2P, Diez de Octubre, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Frituras de malanga": {
+                "Price": 425.0
+            },
+            "Croquetas 559": {
+                "Price": 650.0
+            },
+            "Croqueton de res": {
+                "Price": 1000.0
+            },
+            "Eperlan de pescado": {
+                "Price": 700.0
+            },
+            "Carpaccio de res": {
+                "Price": 1550.0
+            },
+            "Carpaccio de langosta": {
+                "Price": 1500.0
+            },
+            "Carpaccio de pulpo": {
+                "Price": 1600.0
+            },
+            "Ceviche": {
+                "Price": 950.0
+            },
+            "Piquillos rellenos del mar": {
+                "Price": 1050.0
+            },
+            "Piquillos rellenos de ropa vieja": {
+                "Price": 1550.0
+            },
+            "Papas bravas": {
+                "Price": 700.0
+            },
+            "Fajitas de pollo": {
+                "Price": 700.0
+            },
+            "Brusquetas a la parmesana": {
+                "Price": 600.0
+            },
+            "Totopitos al ajo": {
+                "Price": 400.0
+            },
+            "Totopitos picantes ": {
+                "Price": 400.0
+            },
+            "Papas fritas": {
+                "Price": 700.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza queso azul": {
+                    "Price": 2000.0
+                },
+                "Pizza napolitana": {
+                    "Price": 1360.0
+                },
+                "Margarita": {
+                    "Price": 1400.0
+                },
+                "Pizza parmesana": {
+                    "Price": 1800.0
+                },
+                "Pizza carbonara": {
+                    "Price": 1950.0
+                },
+                "Pizza hawaina": {
+                    "Price": 1800.0
+                },
+                "Pizza cantabrica": {
+                    "Price": 1800.0
+                },
+                "Pizza marina": {
+                    "Price": 2400.0
+                },
+                "Pizza mediterranea": {
+                    "Price": 1800.0
+                },
+                "Pizza mixta lacret": {
+                    "Price": 2700.0
+                },
+                "Pizza de jamon": {
+                    "Price": 1500.0
+                },
+                "Pizza de chorizo": {
+                    "Price": 1450.0
+                },
+                "Pizza con bacon": {
+                    "Price": 1850.0
+                },
+                "Pizza de cebolla": {
+                    "Price": 1400.0
+                },
+                "Pizza de pimiento": {
+                    "Price": 1500.0
+                },
+                "Pizza con vegetales": {
+                    "Price": 1700.0
+                },
+                "Pizza de champinhon": {
+                    "Price": 1700.0
+                },
+                "Pizza de atun": {
+                    "Price": 2300.0
+                },
+                "Pizza de aceituna": {
+                    "Price": 1400.0
+                },
+                "Pizza con jamon serrano": {
+                    "Price": 3000.0
+                },
+                "Pizza con jamon iberico": {
+                    "Price": 3400.0
+                },
+                "Pizza con pepperoni": {
+                    "Price": 2000.0
+                },
+                "Pizza ranchera": {
+                    "Price": 2500.0
+                }
+            },
+            "Pork": {
+                "Lomo ahumado": {
+                    "Price": 2175.0
+                },
+                "Lomo importado": {
+                    "Price": 2500.0
+                },
+                "Chuleta de cerdo": {
+                    "Price": 2100.0
+                },
+                "Enchilado de cangrado": {
+                    "Price": 2400.0
+                }
+            },
+            "Chicken": {
+                "Pechuga de pollo grille": {
+                    "Price": 1975.0
+                },
+                "Pechuga de pollo a la gordon blue": {
+                    "Price": 2175.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja de res": {
+                    "Price": 2025.0
+                }
+            },
+            "Sea": {
+                "Pescado grille": {
+                    "Price": 1975.0
+                },
+                "Pescado enchilado": {
+                    "Price": 1975.0
+                },
+                "Pescado canciller": {
+                    "Price": 2175.0
+                },
+                "Langosta al gusto": {
+                    "Price": 2600.0
+                },
+                "Camarones al gusto": {
+                    "Price": 2400.0
+                }
+            },
+            "Other": {
+                "Tacos de res": {
+                    "Price": 1550.0
+                },
+                "Tacos de mar": {
+                    "Price": 1550.0
+                },
+                "Tacos de cerdo": {
+                    "Price": 1200.0
+                },
+                "Tacos de pollo": {
+                    "Price": 1000.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Limonada": {
+                "Price": 500.0
+            },
+            "Energizante": {
+                "Price": 430.0
+            },
+            "Refresco": {
+                "Price": 350.0
+            },
+            "Malta": {
+                "Price": 430.0
+            },
+            "Jugos naturales": {
+                "Price": 300.0
+            },
+            "Sangria": {
+                "Price": 660.0
+            },
+            "Tinto de verano": {
+                "Price": 660.0
+            },
+            "Calimocho": {
+                "Price": 560.0
+            },
+            "Screwdriver": {
+                "Price": 470.0
+            },
+            "Caipiroska": {
+                "Price": 570.0
+            },
+            "Caipirissima": {
+                "Price": 570.0
+            },
+            "Caipirinha": {
+                "Price": 600.0
+            },
+            "Cubata": {
+                "Price": 470.0
+            },
+            "Cuba libre": {
+                "Price": 470.0
+            },
+            "Cubanito": {
+                "Price": 480.0
+            },
+            "Mojito": {
+                "Price": 580.0
+            },
+            "Barbados surprise": {
+                "Price": 580.0
+            },
+            "Whiscola": {
+                "Price": 460.0
+            },
+            "Old fashioned": {
+                "Price": 650.0
+            },
+            "Long island": {
+                "Price": 850.0
+            },
+            "Gin tobic": {
+                "Price": 610.0
+            },
+            "Canchanchara": {
+                "Price": 580.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta",
+            "A domicilio",
+            "Musica Grabada",
+            "Area de fumadores"
+        ],
+        "Facilities": [
+            "Reservation_possible",
+            "Smokers_Area",
+            "Takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

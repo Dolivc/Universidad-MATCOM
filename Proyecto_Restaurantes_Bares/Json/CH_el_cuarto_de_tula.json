@@ -1,0 +1,649 @@
+{
+    "Name": "El cuarto de tula",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2300"
+        ],
+        "Tuesday": [
+            "800-2300"
+        ],
+        "Wednesday": [
+            "800-2300"
+        ],
+        "Thursday": [
+            "800-2300"
+        ],
+        "Friday": [
+            "800-2300"
+        ],
+        "Saturday": [
+            "800-2300"
+        ],
+        "Sunday": [
+            "800-2300"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "San Lazaro entre San Fransico y Espada",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de espinaca": {
+                "Price": 505.0
+            },
+            "Croquetas de jamon serrano": {
+                "Price": 690.0
+            },
+            "Croquetas de pescado": {
+                "Price": 600.0
+            },
+            "Frituras de malanga": {
+                "Price": 500.0
+            },
+            "Adobo de Pescado": {
+                "Price": 2700.0
+            },
+            "Adobo de Pollo": {
+                "Price": 1350.0
+            },
+            "Tabla de Jamon Serrano (2pax)": {
+                "Price": 3000.0
+            },
+            "Berenjena a la crema con queso parmesano": {
+                "Price": 1400.0
+            },
+            "Ceviche de pescado al estilo mediterraneo": {
+                "Price": 2400.0
+            },
+            "Tartar de Res": {
+                "Price": 4500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Al Pesto": {
+                    "Price": 1700.0
+                },
+                "Carbonara": {
+                    "Price": 2800.0
+                },
+                "Bolognesa": {
+                    "Price": 3000.0
+                },
+                "Amatriciana": {
+                    "Price": 2100.0
+                },
+                "Puttanesca": {
+                    "Price": 3000.0
+                },
+                "Pasta Fungi": {
+                    "Price": 4200.0
+                },
+                "Pescador": {
+                    "Price": 6000.0
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Cerdo Asado a la abuela": {
+                    "Price": 2900.0
+                },
+                "Picadillo a la Cubana": {
+                    "Price": 3300.0
+                }
+            },
+            "Chicken": {
+                "Pollo Grille": {
+                    "Price": 1600.0
+                },
+                "Pollo en crema de coco y curry": {
+                    "Price": 2800.0
+                },
+                "Fajas de pollo con bacon, hongos y frutos secos": {
+                    "Price": 2400.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja con platano frito": {
+                    "Price": 3700.0
+                },
+                "Solomillo de res al oregano en salsa de champinhon y queso azul": {
+                    "Price": 6500.0
+                },
+                "Bistec de res en Salsa Chimichurri y Vegetales Salteados": {
+                    "Price": 8000.0
+                },
+                "Fajas de res al sesamo": {
+                    "Price": 7000.0
+                }
+            },
+            "Sea": {
+                "Pescado Grille": {
+                    "Price": 3000.0
+                },
+                "Pescado con toque organico": {
+                    "Price": 3600.0
+                },
+                "Pescado con aroma del tropico": {
+                    "Price": 3500.0
+                },
+                "Mechado de Salomillo de cerdo": {
+                    "Price": 3500.0
+                },
+                "Filete de Pescado con salsa de alcaparras y limon": {
+                    "Price": 3600.0
+                },
+                "Filete de pescado en salsa de perejil, almejas y vino blanco": {
+                    "Price": 3600.0
+                },
+                "Filete de Pescado con arroz negros": {
+                    "Price": 4300.0
+                },
+                "Filete de pescado en salsa de kahlua y coco": {
+                    "Price": 5500.0
+                },
+                "Caldereta de Mariscos": {
+                    "Price": 5400.0
+                },
+                "Langosta Tropical": {
+                    "Price": 4500.0
+                },
+                "Carpaccio de tomate con Serrano": {
+                    "Price": 2150.0
+                },
+                "Arroz negro (Pulpo y Camarones)": {
+                    "Price": 5800.0
+                },
+                "Rissotto de Camarones con champinhon y naranja": {
+                    "Price": 3800.0
+                },
+                "Calamar a la Romana": {
+                    "Price": 2300.0
+                },
+                "Ensalada de Aguacate con Camarones": {
+                    "Price": 2400.0
+                },
+                "Camaron al ajo y ron cubano": {
+                    "Price": 3200.0
+                },
+                "Camaron con crema de jengibre y sesamo": {
+                    "Price": 3500.0
+                }
+            },
+            "Other": {
+                "Paella Marinera (2 pax)": {
+                    "Price": 7700.0
+                },
+                "Paella Mar y Tierra (2 pax)": {
+                    "Price": 7700.0
+                },
+                "Rissotto de pollo y vegetales": {
+                    "Price": 3400.0
+                },
+                "Rissotto de hongos Porcini": {
+                    "Price": 4200.0
+                },
+                "Tacos de Punta de Res": {
+                    "Price": 7200.0
+                },
+                "Tacos de Cerdo": {
+                    "Price": 3300.0
+                },
+                "Tacos Ropa Vieja": {
+                    "Price": 4250.0
+                },
+                "Cordero a las cinco pimientas": {
+                    "Price": 5000.0
+                }
+            }
+        },
+        "Extras": {
+            "Frijoles negros": {
+                "Price": 500.0
+            },
+            "Arroz blanco": {
+                "Price": 200.0
+            },
+            "Arroz negro": {
+                "Price": 1100.0
+            },
+            "Platano maduro frito": {
+                "Price": 325.0
+            },
+            "Platano Tostones": {
+                "Price": 325.0
+            },
+            "Ensalada de vegetales": {
+                "Price": 500.0
+            },
+            "Vegetales salteados": {
+                "Price": 700.0
+            }
+        },
+        "Desserts": {
+            "Cheesecake": {
+                "Price": 2400.0
+            },
+            "Helado de frutas": {
+                "Price": 650.0
+            }
+        },
+        "Beverages": {
+            "Tequila Don Julio blanco": {
+                "Price": 2400
+            },
+            "Tequila Don Julio reposado": {
+                "Price": 4500
+            },
+            "Tequila Olmeca blanco": {
+                "Price": 850
+            },
+            "Tequila Olmeca reposado": {
+                "Price": 900
+            },
+            "Aguardiente": {
+                "Price": 290
+            },
+            "Havana Club 3 anhos": {
+                "Price": 450
+            },
+            "Havana Club ritual": {
+                "Price": 520
+            },
+            "Havana Club 7 anhos": {
+                "Price": 540
+            },
+            "Havana Club especial": {
+                "Price": 480
+            },
+            "Havana Club reserva": {
+                "Price": 500
+            },
+            "Havana Club Seleccion de maestros": {
+                "Price": 900
+            },
+            "Santiago Anhejo": {
+                "Price": 600
+            },
+            "Santiago 8": {
+                "Price": 850
+            },
+            "Santiago 11": {
+                "Price": 1780
+            },
+            "Santiago 12": {
+                "Price": 1980
+            },
+            "Brandy": {
+                "Price": 800
+            },
+            "Hennessy": {
+                "Price": 1800
+            },
+            "Oporto": {
+                "Price": 310
+            },
+            "Elixir Legendario": {
+                "Price": 500
+            },
+            "Amaretto": {
+                "Price": 650
+            },
+            "Baileys": {
+                "Price": 950
+            },
+            "Frangelico": {
+                "Price": 1700
+            },
+            "Kalhua": {
+                "Price": 500
+            },
+            "Malibu": {
+                "Price": 310
+            },
+            "Campari": {
+                "Price": 310
+            },
+            "Moscatel": {
+                "Price": 200
+            },
+            "Sambuca": {
+                "Price": 650
+            },
+            "Anis del mono": {
+                "Price": 285
+            },
+            "Gin Beefeater": {
+                "Price": 400
+            },
+            "Gin Tanqueray": {
+                "Price": 1170
+            },
+            "Gin Fifty Pounds": {
+                "Price": 1300
+            },
+            "Gin Hendrick's": {
+                "Price": 1900
+            },
+            "Vodka": {
+                "Price": 160
+            },
+            "Vodka Stolichnaya": {
+                "Price": 310
+            },
+            "Vodka Absolut": {
+                "Price": 800
+            },
+            "Vodka Absolut Citron": {
+                "Price": 845
+            },
+            "Vodka Grey Goose": {
+                "Price": 1900
+            },
+            "Vodka Titos": {
+                "Price": 1100
+            },
+            "Vermut Rosso": {
+                "Price": 400
+            },
+            "Vermut Blanco": {
+                "Price": 400
+            },
+            "Vermut Extra Dry": {
+                "Price": 400
+            },
+            "Whisky Clan Campbell": {
+                "Price": 450
+            },
+            "Whisky Ballantines": {
+                "Price": 700
+            },
+            "Whisky The Glenlivet": {
+                "Price": 900
+            },
+            "Whisky Chivas 12": {
+                "Price": 1800
+            },
+            "Whisky Chivas 18": {
+                "Price": 4500
+            },
+            "Whisky Jack Daniels": {
+                "Price": 2000
+            },
+            "Whisky Jameson": {
+                "Price": 1500
+            },
+            "Whisky J&B": {
+                "Price": 850
+            },
+            "Whisky Jw red": {
+                "Price": 1000
+            },
+            "Whisky Jim Beam": {
+                "Price": 1000
+            },
+            "Whisky Jw black": {
+                "Price": 1370
+            },
+            "Whisky Jw double black": {
+                "Price": 3000
+            },
+            "Martini seco": {
+                "Price": 1200
+            },
+            "Mojito": {
+                "Price": 900
+            },
+            "Pinha colada": {
+                "Price": 800
+            },
+            "Margarita": {
+                "Price": 1100.0
+            },
+            "Daiquiri": {
+                "Price": 920.0
+            },
+            "Whiskey Sour": {
+                "Price": 1100
+            },
+            "Jugos naturales": {
+                "Price": 450
+            },
+            "Refrescos": {
+                "Price": 450
+            },
+            "Coca-Cola": {
+                "Price": 650
+            },
+            "Malta": {
+                "Price": 580
+            },
+            "Agua natural nacional": {
+                "Price": 300
+            },
+            "Agua natural importada": {
+                "Price": 420
+            },
+            "Agua gasificada importada": {
+                "Price": 500
+            },
+            "Energetica": {
+                "Price": 700
+            },
+            "Cafe": {
+                "Price": 200
+            },
+            "Cafe con leche": {
+                "Price": 310
+            },
+            "Capuchino": {
+                "Price": 310
+            },
+            "Cafe Bombon": {
+                "Price": 450
+            },
+            "Te": {
+                "Price": 200
+            },
+            "Batido de frutas": {
+                "Price": 750
+            },
+            "Limonada natural o frape": {
+                "Price": 380
+            },
+            "Limonada frescura": {
+                "Price": 500
+            },
+            "Cerveza Nacional": {
+                "Price": 600.0
+            },
+            "Cerveza Importada": {
+                "Price": 800.0
+            },
+            "Michelada con Cerveza Nacional": {
+                "Price": 1150.0
+            },
+            "Michelada con Cerveza Importada": {
+                "Price": 1280.0
+            },
+            "Chelada con Cerveza Nacional": {
+                "Price": 900.0
+            },
+            "Chelada con Cerveza Importada": {
+                "Price": 1080.0
+            },
+            "Kermato": {
+                "Price": 850.0
+            },
+            "El cubetazo (5 cervezas bien frias)": {
+                "Price": 2750.0
+            },
+            "El tulazo": {
+                "Price": 1000.0
+            },
+            "Mojito de frutas": {
+                "Price": 900.0
+            },
+            "Mojito se chorrea": {
+                "Price": 970.0
+            },
+            "Cuba Libre": {
+                "Price": 650.0
+            },
+            "Cubanito": {
+                "Price": 1055.0
+            },
+            "Daiquiri de frutas": {
+                "Price": 1045.0
+            },
+            "Daiquiri de fresa": {
+                "Price": 1260.0
+            },
+            "Cachanchara": {
+                "Price": 455.0
+            },
+            "Caipirinha": {
+                "Price": 500.0
+            },
+            "Caipirissima": {
+                "Price": 650.0
+            },
+            "Caipiroska": {
+                "Price": 500.0
+            },
+            "Cubata": {
+                "Price": 750.0
+            },
+            "Pinha Colada": {
+                "Price": 1400.0
+            },
+            "Copa de Vino": {
+                "Price": 750.0
+            },
+            "Sangria": {
+                "Price": 1450.0
+            },
+            "Screwdriver": {
+                "Price": 500.0
+            },
+            "Gin Beefeater Tonic": {
+                "Price": 1200.0
+            },
+            "Gin Tanqueray Tonic": {
+                "Price": 1800.0
+            },
+            "Gin Bombay Tonic": {
+                "Price": 1750.0
+            },
+            "Gin Fifty Pounds Tonic": {
+                "Price": 2200.0
+            },
+            "Gin Hendrick's Tonic": {
+                "Price": 2600.0
+            },
+            "Gin Mojito": {
+                "Price": 1100.0
+            },
+            "B52": {
+                "Price": 1000.0
+            },
+            "Mary Pickford": {
+                "Price": 500.0
+            },
+            "Old-Fashioned": {
+                "Price": 880.0
+            },
+            "Sex on the Beach": {
+                "Price": 400.0
+            },
+            "Tequila Sunrise": {
+                "Price": 830.0
+            },
+            "Tom Collins": {
+                "Price": 580.0
+            },
+            "Ron Collins": {
+                "Price": 680.0
+            },
+            "Vodka Tonic": {
+                "Price": 1000.0
+            },
+            "Alexander": {
+                "Price": 450.0
+            },
+            "Orgasmo": {
+                "Price": 2800.0
+            },
+            "Negroni": {
+                "Price": 1300.0
+            },
+            "Martini Blanco": {
+                "Price": 750.0
+            },
+            "Martini Dry": {
+                "Price": 800.0
+            },
+            "Martini Rosa": {
+                "Price": 800.0
+            },
+            "Bloody Mary": {
+                "Price": 980.0
+            },
+            "Long Island ice tea": {
+                "Price": 1100
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

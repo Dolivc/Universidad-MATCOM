@@ -1,0 +1,446 @@
+{
+    "Name": "Tonyzz Bar",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno americano": {
+                    "Price": 2200
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 490
+            },
+            "Fajitas de pollo": {
+                "Price": 1090
+            },
+            "Entremes de jamon y queso": {
+                "Price": 990
+            },
+            "Empanadas espanholas (atun/pollo/queso)": {
+                "Price": 640
+            },
+            "Papas bravas espanholas": {
+                "Price": 690
+            },
+            "Tacos (pollo o atun)": {
+                "Price": 1280
+            },
+            "Papas fritas": {
+                "Price": 690
+            },
+            "Picadera familiar": {
+                "Price": 2690
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price": 850
+                },
+                "Pasta arrabbiata": {
+                    "Price": 890
+                },
+                "Pasta de jamon": {
+                    "Price": 1290
+                },
+                "Pasta carbonara": {
+                    "Price": 1800
+                },
+                "Pasta al pesto": {
+                    "Price": 990
+                },
+                "Pasta de champinhon": {
+                    "Price": 1290
+                },
+                "Pasta bolonesa": {
+                    "Price": 1890
+                },
+                "Pasta de atun": {
+                    "Price": 1890
+                },
+                "Lasanha": {
+                    "Price": 1990
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 850
+                },
+                "Pizza margarita": {
+                    "Price": 990
+                },
+                "Pizza de jamon": {
+                    "Price": 1290
+                },
+                "Pizza de champinhones": {
+                    "Price": 1290
+                },
+                "Pizza hawaiana": {
+                    "Price": 1390
+                },
+                "Pizza de atun y cebolla": {
+                    "Price": 1990
+                },
+                "Pizza de atun": {
+                    "Price": 1890
+                },
+                "Pizza 4 estaciones": {
+                    "Price": 1590
+                },
+                "Pizza de jamon y champinhones": {
+                    "Price": 1490
+                },
+                "Pizza de chorizo": {
+                    "Price": 1350
+                }
+            },
+            "Pork": {
+                "Escalope de cerdo": {
+                    "Price": 1790
+                },
+                "Bistec de cerdo": {
+                    "Price": 1690
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 1790
+                },
+                "Fricase de pollo": {
+                    "Price": 1790
+                },
+                "Chicken tikka": {
+                    "Price": 1290
+                },
+                "Traditional chicken curry": {
+                    "Price": 1890
+                },
+                "Chicken tikka masala": {
+                    "Price": 1990
+                },
+                "Chicken madras": {
+                    "Price": 1990
+                },
+                "Butter chicken": {
+                    "Price": 1490
+                }
+            },
+            "Beef": {
+                "Bistec uruguayo": {
+                    "Price": 1990
+                },
+                "Pollo frito": {
+                    "Price": 1690
+                },
+                "Ropa vieja": {
+                    "Price": 1990
+                }
+            },
+            "Sea": {
+                "Pescado grille": {
+                    "Price": 1800
+                },
+                "Pescado a la cubana": {
+                    "Price": 1890
+                },
+                "Devilled fish": {
+                    "Price": 1390
+                },
+                "Camaron enchilado": {
+                    "Price": 1990
+                },
+                "Camaron al ajillo": {
+                    "Price": 1900
+                },
+                "Cangrejo enchilado": {
+                    "Price": 1990
+                }
+            },
+            "Other": {
+                "Authentic srilankan lamb curry": {
+                    "Price": 1990
+                },
+                "Authentic srilankan fish curry": {
+                    "Price": 1990
+                },
+                "Rawan curry": {
+                    "Price": 2190
+                },
+                "Crab curry": {
+                    "Price": 2190
+                },
+                "Yellow masoor dal lentil": {
+                    "Price": 990
+                },
+                "Aloo potato": {
+                    "Price": 990
+                },
+                "Pumpkin": {
+                    "Price": 590
+                },
+                "Sappati rotti": {
+                    "Price": 450
+                },
+                "Veggies combo (egg & rice, salad, popodorn)": {
+                    "Price": 1790
+                },
+                "Veg samosa (2 pcs)": {
+                    "Price": 690
+                },
+                "Lankan meat roll (2 pcs)": {
+                    "Price": 990
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Helado (diferentes sabores)": {
+                "Price": 130
+            }
+        },
+        "Beverages": {
+            "Agua natural 500ml": {
+                "Price": 180
+            },
+            "Agua natural 1500ml": {
+                "Price": 300
+            },
+            "Malta": {
+                "Price": 300
+            },
+            "Refrescos lata": {
+                "Price": 300
+            },
+            "Refresco pomo": {
+                "Price": 300
+            },
+            "Refresco pomo 1500ml": {
+                "Price": 300
+            },
+            "Tigon": {
+                "Price": 300
+            },
+            "Red bull": {
+                "Price": null
+            },
+            "Jugos naturales": {
+                "Price": 250
+            },
+            "Cerveza nacional": {
+                "Price": 300
+            },
+            "Cerveza colonia": {
+                "Price": 220
+            },
+            "Mojito": {
+                "Price": 890
+            },
+            "Cuba libre": {
+                "Price": 790
+            },
+            "Daiquiri": {
+                "Price": 790
+            },
+            "Cubata": {
+                "Price": 790
+            },
+            "Canchanchara": {
+                "Price": 1190
+            },
+            "Caipirinha": {
+                "Price": 1190
+            },
+            "Caipirisima": {
+                "Price": 1190
+            },
+            "Caipiroska": {
+                "Price": 1190
+            },
+            "Chelada": {
+                "Price": 490
+            },
+            "Michelada": {
+                "Price": 850
+            },
+            "Pinha colada": {
+                "Price": 1190
+            },
+            "Vodka tonic": {
+                "Price": 990
+            },
+            "Sangria": {
+                "Price": 990
+            },
+            "Gin tonic": {
+                "Price": 1190
+            },
+            "Gin tonic (beefeter o bombay)": {
+                "Price": 1390
+            },
+            "Jack daniel's": {
+                "Price": 1400
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 1200
+            },
+            "J.w. double black": {
+                "Price": 1800
+            },
+            "J.w. black label": {
+                "Price": 990
+            },
+            "J.w. red label": {
+                "Price": 990
+            },
+            "Ballantines": {
+                "Price": 990
+            },
+            "Clamb campbell": {
+                "Price": 890
+            },
+            "Jameson": {
+                "Price": 790
+            },
+            "Old partner": {
+                "Price": 350
+            },
+            "Copa de vino tinto": {
+                "Price": 700
+            },
+            "Copa de vino blanco": {
+                "Price": 650
+            },
+            "Paco navio": {
+                "Price": 900
+            },
+            "Santiago de cuba 12 anhos": {
+                "Price": 1200
+            },
+            "Santiago de cuba 8 anhos": {
+                "Price": 790
+            },
+            "Black tears": {
+                "Price": 400
+            },
+            "Ritual": {
+                "Price": 600
+            },
+            "Habana club 7 anhos": {
+                "Price": 790
+            },
+            "Habana club anhejo reserva": {
+                "Price": 590
+            },
+            "Habana club especial": {
+                "Price": 500
+            },
+            "Habana club 3 anhos": {
+                "Price": 490
+            },
+            "Aguardiente": {
+                "Price": 350
+            },
+            "Olmeca blanco": {
+                "Price": 600
+            },
+            "Olmeca reposado": {
+                "Price": 640
+            },
+            "Jose cuervo": {
+                "Price": 740
+            },
+            "Cafe expreso": {
+                "Price": 290
+            },
+            "Cafe cortado": {
+                "Price": 300
+            },
+            "Cafe con leche": {
+                "Price": 490
+            },
+            "Cappuccino": {
+                "Price": 490
+            },
+            "Cafe americano": {
+                "Price": 350
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

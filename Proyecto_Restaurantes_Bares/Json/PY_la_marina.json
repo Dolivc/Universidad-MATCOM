@@ -1,0 +1,657 @@
+{
+    "Name": "La Marina",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-400"
+        ],
+        "Tuesday": [
+            "1200-400"
+        ],
+        "Wednesday": [
+            "1200-400"
+        ],
+        "Thursday": [
+            "1200-400"
+        ],
+        "Friday": [
+            "1200-400"
+        ],
+        "Saturday": [
+            "1200-400"
+        ],
+        "Sunday": [
+            "1200-400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "De jamon y queso": {
+                "Price": 950
+            },
+            "De atun": {
+                "Price": 1000
+            },
+            "Hamburguesa": {
+                "Price": 1900
+            },
+            "Cheese burger": {
+                "Price": 2000
+            },
+            "Bolitas de queso": {
+                "Price": 1000
+            },
+            "Croquetas marina": {
+                "Price": 1200
+            },
+            "Brusquetas": {
+                "Price": 1100
+            },
+            "Entremes surtido": {
+                "Price": 1900
+            },
+            "Papas fritas": {
+                "Price": 950
+            },
+            "Coctel de camaron": {
+                "Price": 3000
+            },
+            "Tequenos": {
+                "Price": 1140
+            },
+            "Tacos de la casa": {
+                "Price": 1600
+            },
+            "Escabeche de pescado": {
+                "Price": 2800
+            },
+            "Tabla de jamon serrano queso y frutos secos": {
+                "Price": 3000
+            },
+            "Tostones con mojo": {
+                "Price": 850
+            },
+            "Tostones rellenos": {
+                "Price": 950
+            },
+            "Fajitas de pollo": {
+                "Price": 1800
+            },
+            "Eperlan de pescado": {
+                "Price": 1800
+            },
+            "Frituras de malanga": {
+                "Price": 850
+            },
+            "Ceviche de pescado": {
+                "Price": 2300
+            },
+            "Nuggets": {
+                "Price": 1950
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price": 1200
+                },
+                "Pasta con jamon": {
+                    "Price": 1400
+                },
+                "Pasta carbonara": {
+                    "Price": 2000
+                },
+                "Pasta amatriciana": {
+                    "Price": 2000
+                },
+                "Pasta puttanesca": {
+                    "Price": 1800
+                },
+                "Pasta bolognesa": {
+                    "Price": 2000
+                },
+                "Pasta con salmon y salsa blanca": {
+                    "Price": 2000
+                },
+                "Pasta combo marina": {
+                    "Price": 4500
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1100
+                },
+                "Pizza margarita": {
+                    "Price": 1250
+                },
+                "Pizza hawaiana": {
+                    "Price": 1400
+                },
+                "Pizza con serrano y aceitunas": {
+                    "Price": 1800
+                },
+                "Pizza super marina": {
+                    "Price": 2200
+                }
+            },
+            "Pork": {
+                "Involtini": {
+                    "Price": 2000
+                },
+                "Masas fritas": {
+                    "Price": 2300
+                },
+                "Fricase": {
+                    "Price": 2400
+                },
+                "Bistec a la plancha": {
+                    "Price": 2200
+                },
+                "Lonjas de cerdo": {
+                    "Price": 2400
+                },
+                "Gordon bleu": {
+                    "Price": 2650
+                }
+            },
+            "Chicken": {
+                "Pollo tropical": {
+                    "Price": 2100
+                },
+                "Pollo a la princesa": {
+                    "Price": 2300
+                },
+                "Pechuga grille": {
+                    "Price": 2100
+                },
+                "Fajitas": {
+                    "Price": 2100
+                },
+                "Saltimbocca a la sorrentina": {
+                    "Price": 4500
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2700
+                },
+                "Vaca frita": {
+                    "Price": 2500
+                },
+                "Puntas de filete a la dutch": {
+                    "Price": 3200
+                },
+                "Solomillo": {
+                    "Price": 6000
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2300
+                },
+                "Filete de pescado a las finas hierbas": {
+                    "Price": 2500
+                },
+                "Filete de pescado princesa": {
+                    "Price": 2800
+                },
+                "Filete de pescado canciller": {
+                    "Price": 3000
+                },
+                "Cazuela de mariscos": {
+                    "Price": 5500
+                },
+                "Langosta al gusto": {
+                    "Price": 4000
+                },
+                "Langosta thermidor": {
+                    "Price": 4500
+                },
+                "Camaron al gusto": {
+                    "Price": 4500
+                },
+                "Pulpo al gusto": {
+                    "Price": 4600
+                },
+                "Paella marina": {
+                    "Price": 5500
+                }
+            },
+            "Other": {
+                "Risotto mary monte": {
+                    "Price": 4000
+                },
+                "Mar y tierra": {
+                    "Price": 5500
+                },
+                "Frito especial": {
+                    "Price": 4700
+                },
+                "Palomilla": {
+                    "Price": 3000
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Postre del dia": {
+                "Price": 1150
+            },
+            "Helado": {
+                "Price": 600
+            }
+        },
+        "Beverages": {
+            "Aqua natural nac": {
+                "Price": 300
+            },
+            "Aqua natural imp": {
+                "Price": 400
+            },
+            "Agua gaseada nac": {
+                "Price": 400
+            },
+            "Agua gaseada imp": {
+                "Price": 900
+            },
+            "Agua tonica nac": {
+                "Price": 500
+            },
+            "Agua tonica imp": {
+                "Price": 950
+            },
+            "Agua t le tribute": {
+                "Price": 1150
+            },
+            "Malta": {
+                "Price": 700
+            },
+            "Refresco importado": {
+                "Price": 500
+            },
+            "Bebida energizante": {
+                "Price": 900
+            },
+            "Limonada natural": {
+                "Price": 850
+            },
+            "Limonada frappe": {
+                "Price": 950
+            },
+            "Limonada frescura": {
+                "Price": 1000
+            },
+            "Limonada clarete": {
+                "Price": 1000
+            },
+            "Jugo natural": {
+                "Price": 750
+            },
+            "Kermato": {
+                "Price": 900
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Daiquiri de frutas": {
+                "Price": 1000
+            },
+            "Cuba libre": {
+                "Price": 800
+            },
+            "Mojito": {
+                "Price": 900
+            },
+            "Pinha colada": {
+                "Price": 1200
+            },
+            "Cubata": {
+                "Price": 900
+            },
+            "Cubanito": {
+                "Price": 900
+            },
+            "Caipirisima": {
+                "Price": 850
+            },
+            "Canchanchara": {
+                "Price": 850
+            },
+            "Sex on the beach": {
+                "Price": 950
+            },
+            "Havana special": {
+                "Price": 800
+            },
+            "Calimocho": {
+                "Price": 990
+            },
+            "Tinto de verano": {
+                "Price": 1000
+            },
+            "Presidente": {
+                "Price": 800
+            },
+            "San francisco": {
+                "Price": 950
+            },
+            "Ron collins": {
+                "Price": 850
+            },
+            "Whisky sour": {
+                "Price": 1500
+            },
+            "Mary pickford": {
+                "Price": 800
+            },
+            "Caipiroska": {
+                "Price": 950
+            },
+            "Bloody mary": {
+                "Price": 950
+            },
+            "Screw driver": {
+                "Price": 850
+            },
+            "Blue lagoon": {
+                "Price": 800
+            },
+            "Gin tonic": {
+                "Price": 950
+            },
+            "Tom collins": {
+                "Price": 850
+            },
+            "Sangria": {
+                "Price": 1500
+            },
+            "Caipirinha": {
+                "Price": 900
+            },
+            "Tequila sunrise": {
+                "Price": 900
+            },
+            "Old fashioned": {
+                "Price": 900
+            },
+            "Manhattan": {
+                "Price": 900
+            },
+            "Martini": {
+                "Price": 900
+            },
+            "Negroni": {
+                "Price": 1000
+            },
+            "Vodkatonic": {
+                "Price": 950
+            },
+            "Orgasmo": {
+                "Price": 1000
+            },
+            "Margarita": {
+                "Price": 900
+            },
+            "Long island ice tea": {
+                "Price": 1000
+            },
+            "God mother": {
+                "Price": 900
+            },
+            "God father": {
+                "Price": 1000
+            },
+            "Aperol spritz": {
+                "Price": 1500
+            },
+            "Amaretto sour": {
+                "Price": 1200
+            },
+            "Heineken": {
+                "Price": 900
+            },
+            "Corona": {
+                "Price": 900
+            },
+            "Cristal bucanero": {
+                "Price": 550
+            },
+            "Servicio chelada": {
+                "Price": 400
+            },
+            "Servicio michelada": {
+                "Price": 500
+            },
+            "Jack daniels": {
+                "Price": 1400
+            },
+            "Buchanans": {
+                "Price": 2900
+            },
+            "Clan campbell": {
+                "Price": 700
+            },
+            "Jb": {
+                "Price": 840
+            },
+            "The glenlivet": {
+                "Price": 1400
+            },
+            "Ballantines finest": {
+                "Price": 700
+            },
+            "Ballantines 10": {
+                "Price": 1100
+            },
+            "Ballantines 12": {
+                "Price": 1300
+            },
+            "Chivas regal 12": {
+                "Price": 1300
+            },
+            "Jamenson": {
+                "Price": 900
+            },
+            "Jamenson black barrell": {
+                "Price": 1400
+            },
+            "Jw red label": {
+                "Price": 950
+            },
+            "Jw black label": {
+                "Price": 1600
+            },
+            "Copa de vino tinto": {
+                "Price": 1100
+            },
+            "Copa de vino blanco": {
+                "Price": 1000
+            },
+            "1800 blanco": {
+                "Price": 1900
+            },
+            "1800 reposado": {
+                "Price": 2000
+            },
+            "Olmeca blanco": {
+                "Price": 700
+            },
+            "Olmeca reposado": {
+                "Price": 750
+            },
+            "Tequila rose": {
+                "Price": 1700
+            },
+            "Tres sombreros b": {
+                "Price": 800
+            },
+            "Tres sombreros r": {
+                "Price": 850
+            },
+            "Jose cuervo b": {
+                "Price": 1600
+            },
+            "Jose cuervo rep": {
+                "Price": 1700
+            },
+            "Havana c especial": {
+                "Price": 600
+            },
+            "Havana c reserva": {
+                "Price": 600
+            },
+            "Havana c 7 anos": {
+                "Price": 650
+            },
+            "Selecc de maestros": {
+                "Price": 1500
+            },
+            "Santiago 8 anos": {
+                "Price": 850
+            },
+            "Santiago 11 anos": {
+                "Price": 1400
+            },
+            "Santiago 12 anos": {
+                "Price": 1500
+            },
+            "Pacto navio": {
+                "Price": 1500
+            },
+            "Baileys": {
+                "Price": 1000
+            },
+            "Ruavieja": {
+                "Price": 900
+            },
+            "Cremas": {
+                "Price": 700
+            },
+            "Frangelico": {
+                "Price": 1500
+            },
+            "Jagermeister": {
+                "Price": 750
+            },
+            "Limoncello": {
+                "Price": 550
+            },
+            "Amaretto": {
+                "Price": 650
+            },
+            "Campari": {
+                "Price": 1000
+            },
+            "Absolut": {
+                "Price": 900
+            },
+            "Ciroc natural": {
+                "Price": 1600
+            },
+            "Ciroc de sabor": {
+                "Price": 1800
+            },
+            "Grey goose": {
+                "Price": 1300
+            },
+            "Rosso": {
+                "Price": 850
+            },
+            "Blanco": {
+                "Price": 850
+            },
+            "Dry": {
+                "Price": 850
+            },
+            "Extra dry": {
+                "Price": 850
+            },
+            "Beefeater": {
+                "Price": 750
+            },
+            "Masters": {
+                "Price": 750
+            },
+            "Masters pink": {
+                "Price": 800
+            },
+            "Citadelle": {
+                "Price": 1500
+            },
+            "Tanqueray": {
+                "Price": 900
+            },
+            "Tanqueray ten": {
+                "Price": 1250
+            },
+            "Bombay saphire": {
+                "Price": 1500
+            },
+            "Torres 5": {
+                "Price": 700
+            },
+            "Torres 15": {
+                "Price": 1100
+            },
+            "Hennessy": {
+                "Price": 1900
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

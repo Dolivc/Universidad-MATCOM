@@ -1,0 +1,282 @@
+{
+    "Name": "12X17",
+    "Type": "Restaurante",
+    "Phone_Number": "528855572",
+    "Web_Page": null,
+    "Ownership": "Proyecto de desarrollo Local",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "12 y 17",
+        "Coordinates": "4HHX+C4H"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa sencilla": {
+                    "Price": 1050
+                },
+                "Hamburguesa 12x17": {
+                    "Price": 1650
+                },
+                "Hamburguesa tik tok": {
+                    "Price": 1400
+                },
+                "Cheese burguer": {
+                    "Price": 1300
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la casa": {
+                "Price": 875
+            },
+            "Frituras de malanga": {
+                "Price": 750
+            },
+            "Papas foster (Papas fritas con jamon, queso y chorizo gratinadas al horno)": {
+                "Price": 1600
+            },
+            "Fajitas de pollo": {
+                "Price": 1200
+            },
+            "Fajitas de cerdo": {
+                "Price": 1380
+            },
+            "Tostones rellenos": {
+                "Price": 1150
+            },
+            "Tostones 12 x 17": {
+                "Price": 1350
+            },
+            "Tacos de res": {
+                "Price": 1450
+            },
+            "Tacos de cerdo": {
+                "Price": 1350
+            },
+            "Tacos de pollo": {
+                "Price": 1250
+            },
+            "Tabla de 12x17": {
+                "Price": 3050
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta pomodoro": {
+                    "Price": 1050
+                },
+                "Pasta Bolognesa": {
+                    "Price": 1850
+                },
+                "Pasta vegetariana": {
+                    "Price": 1150
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1350
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1750
+                },
+                "Pizza de jamon serrano": {
+                    "Price": 2200
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 1870
+                }
+            },
+            "Chicken": {
+                "Suprema de pollo": {
+                    "Price": 1950
+                }
+            },
+            "Beef": {
+                "Vaca frita": {
+                    "Price": 2050
+                },
+                "Ropa vieja": {
+                    "Price": 2050
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz moro": {
+                "Price": 450
+            },
+            "Arroz blanco": {
+                "Price": 400
+            },
+            "Arroz pilaf": {
+                "Price": 450 
+            },
+            "Pure de malanga": {
+                "Price": 550
+            },
+            "Vianda hervida": {
+                "Price": 490
+            },
+            "Vianda frita": {
+                "Price": 500
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cuba libre": {
+                "Price": 600
+            },
+            "Cubata": {
+                "Price": 650
+            },
+            "Daiquiri": {
+                "Price": 780
+            },
+            "Daiquiri de frutas": {
+                "Price": 850
+            },
+            "Mojito": {
+                "Price": 650
+            },
+            "Screw Driver": {
+                "Price": 600
+            },
+            "Canchanchara": {
+                "Price": 750
+            },
+            "Pinha colada": {
+                "Price": 800 
+            },
+            "Caipirinha": {
+                "Price": 750
+            },
+            "Caipirissima": {
+                "Price": 750
+            },
+            "Caipiroska": {
+                "Price": 750
+            },
+            "Vodka tonic": {
+                "Price": 850
+            },
+            "Margarita": {
+                "Price": 850
+            },
+            "Copa de vino blanco": {
+                "Price": 720
+            },
+            "Copa de vino tinto": {
+                "Price": 750
+            },
+            "Gin tonic": {
+                "Price": 1050
+            },
+            "Gin tonic Premium": {
+                "Price": 1150
+            },
+            "Gin tonic super premium": {
+                "Price": 1250
+            },
+            "Sangria": {
+                "Price": 1150
+            },
+            "Tinto de verano": {
+                "Price": 800
+            },
+            "Tequila sunrise": {
+                "Price": 850
+            },
+            "Aperol Spritz": {
+                "Price": 1480
+            },
+            "Cubanito": {
+                "Price": 850
+            },
+            "Bloddy mary": {
+                "Price": 980
+            },
+            "Long island ice": {
+                "Price": 980
+            },
+            "Sex on the beach": {
+                "Price": 850
+            },
+            "Jack frost": {
+                "Price": 950 
+            },
+            "Negroni de la casa": {
+                "Price": 1120
+            },
+            "Jagger bore": {
+                "Price": 1120 
+            },
+            "Bob marley": {
+                "Price": 1100
+            },
+            "Havana tropical": {
+                "Price": 720
+            },
+            "Tropical fresh": {
+                "Price": 1250
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": ["Cerveza dispensada"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": ["Tequila"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

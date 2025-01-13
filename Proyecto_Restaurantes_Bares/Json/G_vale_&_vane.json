@@ -1,0 +1,215 @@
+{
+    "Name": "Vale & Vane",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "900-2100"
+        ],
+        "Wednesday": [
+            "900-2100"
+        ],
+        "Thursday": [
+            "900-2100"
+        ],
+        "Friday": [
+            "900-2100"
+        ],
+        "Saturday": [
+            "900-2100"
+        ],
+        "Sunday": [
+            "900-2100"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": "4PC3+GQ8, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espagueti napolitano": {
+                    "Price": 650.0
+                },
+                "Espagueti con jamon": {
+                    "Price": 900.0
+                },
+                "Espagueti con chorizo": {
+                    "Price": 900.0
+                },
+                "Espagueti doble queso": {
+                    "Price": 920.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 650.0
+                },
+                "Pizza familiar": {
+                    "Price": 2500.0
+                }
+            },
+            "Pork": {
+                "Chuleta de cerdo": {
+                    "Price": 1100.0
+                },
+                "Bistec cerdo grille": {
+                    "Price": 1200.0
+                },
+                "Masa de cerdo frita": {
+                    "Price": 1300.0
+                },
+                "Bistec encebollado": {
+                    "Price": 1450.0
+                },
+                "Costilla cerdo": {
+                    "Price": 1650.0
+                },
+                "Lomo ahumado": {
+                    "Price": 1400.0
+                }
+            },
+            "Chicken": {
+                "Uruguayo": {
+                    "Price": 1600.0
+                },
+                "Bistec princesa": {
+                    "Price": 1920.0
+                },
+                "Pollo frito": {
+                    "Price": 1000.0
+                },
+                "Suprema grille": {
+                    "Price": 1400.0
+                },
+                "Suprema encebollada": {
+                    "Price": 1650.0
+                }
+            },
+            "Beef": {
+                "Vaca frita": {
+                    "Price": 1600.0
+                },
+                "Ropa vieja": {
+                    "Price": 1600.0
+                }
+            },
+            "Sea": {
+                "Filete pescado grille": {
+                    "Price": 1800.0
+                },
+                "Camaron grille": {
+                    "Price": 1800.0
+                },
+                "Enchilado camaron": {
+                    "Price": 1850.0
+                }
+            },
+            "Other": {
+                "Mar y tierra": {
+                    "Price": 2500.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 180.0
+            },
+            "Refresco lata": {
+                "Price": 250.0
+            },
+            "Malta hyper malta": {
+                "Price": 270.0
+            },
+            "Malta bucanero": {
+                "Price": 300.0
+            },
+            "Jugo natural (cajita)": {
+                "Price": 200.0
+            },
+            "Jugo natural (lata)": {
+                "Price": 270.0
+            },
+            "Cerveza cristal (lata)": {
+                "Price": 280.0
+            },
+            "Cerveza cristal (botella)": {
+                "Price": 380.0
+            },
+            "Cerveza hollandia": {
+                "Price": 250.0
+            },
+            "Cerveza wild hill": {
+                "Price": 250.0
+            },
+            "Tigon": {
+                "Price": 280.0
+            },
+            "Garbanzo frito": {
+                "Price": 1300.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A domicilio"
+        ],
+        "Facilities": [
+            "Takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

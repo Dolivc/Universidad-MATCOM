@@ -1,0 +1,138 @@
+{
+    "Name": "La paella",
+    "Type": "Restaurante",
+    "Phone_Number": "78011423",
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["07:00-23:00"],
+        "Tuesday":  ["07:00-23:00"],
+        "Wednesday": ["07:00-23:00"],
+        "Thursday": ["07:00-23:00"],
+        "Friday":   ["07:00-23:00"],
+        "Saturday": ["07:00-23:00"],
+        "Sunday":   ["07:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle oficios esquina obrapia",
+        "Coordinates": "4MQ2+F9M"
+    },
+    "Cuisine": "Paella",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada de vegetales frecos de temporada": {
+                "Price": 600
+            },
+            "Seleccion de quesos con sus tostas, salsa catalana y mermelada": {
+                "Price": 2600
+            },
+            "Croquetas melosas caseras con su alioli": {
+                "Price": 600
+            },
+            "Parrillada de verduras al aceite de ajo": {
+                "Price": 750
+            },
+            "Tortilla espanhola": {
+                "Price": 1500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                "Paella de carnes mixtas": {
+                    "Price": 1500
+                },
+                "Paella de verduras de temporada": {
+                    "Price": 750
+                },
+                "Paella de nuestras costas": {
+                    "Price": 2500
+                },
+                "Paella de mar y tierra": {
+                    "Price": 3400
+                },
+                "Arroz cubano a la chorrera": {
+                    "Price": 1500
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Flan casero": {
+                "Price": 250
+            },
+            "Arroz con leche": {
+                "Price": 250
+            },
+            "Plato de fruta de temporada": {
+                "Price": 450
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": ["Paella"],
+            "Drink": ["Cerveza nacional"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": ["Whisky"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": ["Silla para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

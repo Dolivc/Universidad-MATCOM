@@ -1,0 +1,528 @@
+{
+    "Name": "Ole Ole",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "privado",
+    "Operating_Hours": {
+        "Monday": [
+            "900-0"
+        ],
+        "Tuesday": [
+            "900-0"
+        ],
+        "Wednesday": [
+            "900-0"
+        ],
+        "Thursday": [
+            "900-0"
+        ],
+        "Friday": [],
+        "Saturday": [
+            "900-0"
+        ],
+        "Sunday": [
+            "900-0"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "71 esquina 46 y 48, Loteria, Cotorro",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "tacos de res": {
+                "Price": 750.0
+            },
+            "tacos de cerdo": {
+                "Price": 750.0
+            },
+            "frituras de malanga": {
+                "Price": 450.0
+            },
+            "chicharritas": {
+                "Price": 320.0
+            },
+            "picadera": {
+                "Price": 1500.0
+            },
+            "brocheta ole": {
+                "Price": 1200.0
+            },
+            "croquetas ole ole": {
+                "Price": 500.0
+            },
+            "tostones tradicionales": {
+                "Price": 450.0
+            },
+            "ensalada mixta": {
+                "Price": 350.0
+            },
+            "tostones atun": {
+                "Price": 1000.0
+            },
+            "eperlan": {
+                "Price": 1000.0
+            },
+            "coctel de camarones": {
+                "Price": 1350.0
+            },
+            "baston de pollo": {
+                "Price": 900.0
+            },
+            "entremes": {
+                "Price": 1000.0
+            },
+            "picadera premium": {
+                "Price": 1800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis napolitanos queso gouda": {
+                    "Price": 720.0
+                },
+                "espaguetis jamon queso gouda": {
+                    "Price": 900.0
+                },
+                "espaguetis al pomodoro queso gouda": {
+                    "Price": 750.0
+                },
+                "espaguetis a la amatriciana queso gouda": {
+                    "Price": 1250.0
+                },
+                "espaguetis doble queso gouda": {
+                    "Price": 1000.0
+                },
+                "espaguetis de camaron queso gouda": {
+                    "Price": 1430.0
+                },
+                "espaguetis a la arabiata queso gouda": {
+                    "Price": 770.0
+                },
+                "espaguetis napolitanos": {
+                    "Price": 600.0
+                },
+                "espaguetis jamon": {
+                    "Price": 800.0
+                },
+                "espaguetis al pomodoro": {
+                    "Price": 650.0
+                },
+                "espaguetis a la amatriciana": {
+                    "Price": 1100.0
+                },
+                "espaguetis doble queso": {
+                    "Price": 800.0
+                },
+                "espaguetis de camaron": {
+                    "Price": 1380.0
+                },
+                "espaguetis a la arabiata": {
+                    "Price": 670.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana gouda": {
+                    "Price": 1100.0
+                },
+                "pizza jamon gouda": {
+                    "Price": 1280.0
+                },
+                "pizza chorizos gouda": {
+                    "Price": 1260.0
+                },
+                "pizza doble queso gouda": {
+                    "Price": 1420.0
+                },
+                "pizza camarones gouda": {
+                    "Price": 1800.0
+                },
+                "pizza hawaiana gouda": {
+                    "Price": 1400.0
+                },
+                "pizza habanera gouda": {
+                    "Price": 1790.0
+                },
+                "pizza al tonno gouda": {
+                    "Price": 1400.0
+                },
+                "pizza jamon pinna gouda": {
+                    "Price": 1500.0
+                },
+                "pizza napolitana": {
+                    "Price": 700.0
+                },
+                "pizza jamon": {
+                    "Price": 900.0
+                },
+                "pizza chorizos": {
+                    "Price": 900.0
+                },
+                "pizza doble queso": {
+                    "Price": 850.0
+                },
+                "pizza camarones": {
+                    "Price": 1600.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1000.0
+                },
+                "pizza habanera": {
+                    "Price": 1400.0
+                },
+                "pizza al tonno": {
+                    "Price": 1280.0
+                },
+                "pizza jamon pinna": {
+                    "Price": 1300.0
+                }
+            },
+            "Pork": {
+                "bistec de cerdo grille": {
+                    "Price": 1600.0
+                },
+                "bistec de cerdo encebollada": {
+                    "Price": 1600.0
+                },
+                "masa de cerdo frita": {
+                    "Price": 2300.0
+                },
+                "escalope de cerdo a la milanesa": {
+                    "Price": 2300.0
+                },
+                "solomillo cerdo": {
+                    "Price": 2900.0
+                },
+                "castilla de cerdo ahumada": {
+                    "Price": 3000.0
+                },
+                "chuleta cerdo grille": {
+                    "Price": 2200.0
+                },
+                "loma cerdo grille": {
+                    "Price": 2100.0
+                }
+            },
+            "Chicken": {
+                "pollo frita": {
+                    "Price": 1000.0
+                },
+                "bistec de pollo grille": {
+                    "Price": 900.0
+                },
+                "bistec de pollo encebollado": {
+                    "Price": 950.0
+                },
+                "suprema pollo milanesa": {
+                    "Price": 2200.0
+                },
+                "pechuga grille": {
+                    "Price": 1200.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "filete de pescado a la grille": {
+                    "Price": 1300.0
+                },
+                "filete de pescado encebollado": {
+                    "Price": 1500.0
+                },
+                "pescado frito al plato": {
+                    "Price": 1200.0
+                },
+                "filete de pescado a la vizcaina": {
+                    "Price": 1700.0
+                },
+                "rueda de pescado marlin": {
+                    "Price": 1650.0
+                },
+                "lomo de pescado a la grille": {
+                    "Price": 1600.0
+                },
+                "lomo de pescado encebollado": {
+                    "Price": 1700.0
+                },
+                "lomo de pescado a la vizcaina": {
+                    "Price": 1750.0
+                },
+                "langosta a la grille": {
+                    "Price": 2000.0
+                },
+                "langosta enchilada": {
+                    "Price": 2200.0
+                },
+                "langosta al ajillo": {
+                    "Price": 2470.0
+                },
+                "mariscada": {
+                    "Price": 4500.0
+                },
+                "camaron enchilado": {
+                    "Price": 2200.0
+                },
+                "camaron al ajillo": {
+                    "Price": 2200.0
+                },
+                "camaron a la grille": {
+                    "Price": 1800.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 120.0
+            },
+            "arroz moro": {
+                "Price": 220.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "limonada frape": {
+                "Price": 400.0
+            },
+            "energizante chacal": {
+                "Price": 280.0
+            },
+            "energizante tigon": {
+                "Price": 210.0
+            },
+            "refrescos": {
+                "Price": 220.0
+            },
+            "malta licre": {
+                "Price": 300.0
+            },
+            "malta hiper": {
+                "Price": 280.0
+            },
+            "agua chiquita": {
+                "Price": 280.0
+            },
+            "jugo cajita": {
+                "Price": 180.0
+            },
+            "cerveza bucanero max": {
+                "Price": 300.0
+            },
+            "cerveza bucanero roja": {
+                "Price": 300.0
+            },
+            "cerveza cristal extra": {
+                "Price": 280.0
+            },
+            "cerveza caiman": {
+                "Price": 210.0
+            },
+            "cerveza surenna": {
+                "Price": 210.0
+            },
+            "cerveza tangua": {
+                "Price": 210.0
+            },
+            "cerveza gierwalk": {
+                "Price": 210.0
+            },
+            "cerveza holandia": {
+                "Price": 210.0
+            },
+            "cerveza cristal bot": {
+                "Price": 300.0
+            },
+            "cerveza cristal verde": {
+                "Price": 300.0
+            },
+            "caipirinna": {
+                "Price": 450.0
+            },
+            "caipiroska": {
+                "Price": 700.0
+            },
+            "caipirisima": {
+                "Price": 500.0
+            },
+            "cubata": {
+                "Price": 500.0
+            },
+            "cuba libre": {
+                "Price": 700.0
+            },
+            "tequila sunrise": {
+                "Price": 450.0
+            },
+            "sex on the beach": {
+                "Price": 500.0
+            },
+            "cubanito": {
+                "Price": 500.0
+            },
+            "bloody mary": {
+                "Price": 450.0
+            },
+            "ron collins": {
+                "Price": 500.0
+            },
+            "margarita": {
+                "Price": 550.0
+            },
+            "screw driver": {
+                "Price": 750.0
+            },
+            "sangria": {
+                "Price": 1000.0
+            },
+            "long island": {
+                "Price": 1000.0
+            },
+            "blu island": {
+                "Price": 550.0
+            },
+            "tom collins": {
+                "Price": 500.0
+            },
+            "pinna colada": {
+                "Price": 650.0
+            },
+            "daiquiri": {
+                "Price": 450.0
+            },
+            "tequila olmeca bla": {
+                "Price": 655.0
+            },
+            "tequila olmeca reposado": {
+                "Price": 700.0
+            },
+            "tequila olmeca dark chocolate": {
+                "Price": 460.0
+            },
+            "tequila rosa": {
+                "Price": 415.0
+            },
+            "ginebra beefeater": {
+                "Price": 340.0
+            },
+            "the famous grose": {
+                "Price": 545.0
+            },
+            "crema bayles": {
+                "Price": 570.0
+            },
+            "crema pattys os": {
+                "Price": 315.0
+            },
+            "vino tinto": {
+                "Price": 560.0
+            },
+            "vodka absolut": {
+                "Price": 400.0
+            },
+            "vodka amg": {
+                "Price": 270.0
+            },
+            "vodka veldevere": {
+                "Price": 270.0
+            },
+            "santiago extra seco": {
+                "Price": 350.0
+            },
+            "h.c cuban smoky": {
+                "Price": 550.0
+            },
+            "ron santiago 11 annos": {
+                "Price": 800.0
+            },
+            "habana club 7 annos annejo": {
+                "Price": 410.0
+            },
+            "santiago annejo tradicion": {
+                "Price": 360.0
+            },
+            "whisky red label": {
+                "Price": 725.0
+            },
+            "whisky jameson": {
+                "Price": 580.0
+            },
+            "whisky black label": {
+                "Price": 1365.0
+            },
+            "whisky vat 69": {
+                "Price": 435.0
+            },
+            "whisky clan campbell": {
+                "Price": 590.0
+            },
+            "whisky ballantine": {
+                "Price": 460.0
+            },
+            "whisky grants": {
+                "Price": 600.0
+            },
+            "brandy napoleon": {
+                "Price": 200.0
+            },
+            "brandy lecuivier": {
+                "Price": 220.0
+            },
+            "copas vino": {
+                "Price": 600.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

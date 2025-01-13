@@ -1,0 +1,143 @@
+{
+    "Name": "El pórtico",
+    "Type": "bar-restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   null,
+        "Tuesday":  ["24h"],
+        "Wednesday":["24h"],
+        "Thursday": ["24h"],
+        "Friday":   ["24h"],
+        "Saturday": ["24h"],
+        "Sunday":   ["24h"]
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Dragones entre Aguila y Amistad",
+        "Coordinates": "4JMQ+C97"
+    },
+    "Cuisine": "cubana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "papas fritas": {
+                "Price": 350
+            },
+            "croquetas": {
+                "Price": 350
+            },
+            "Tostones": {
+                "Price": 250
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "chuleton": {
+                    "Price": 950
+                }
+            },
+            "Chicken": {
+                "pollo chiflado": {
+                    "Price": 400
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "cerveza dispensada (jarra)": {
+                "Price": 300
+            },
+            "cerveza dispensada (termo)": {
+                "Price": 2000
+            },
+            "cerveza parranda": {
+                "Price": 400
+            },
+            "cerveza hollandia": {
+                "Price": 200
+            },
+            "cerveza cacique": {
+                "Price": 240
+            },
+            "cerveza unlaguer": {
+                "Price": 200
+            },
+            "cerveza La Fria": {
+                "Price": 180
+            },
+            "cerveza almara": {
+                "Price": 180
+            },
+            "cerveza bucanero": {
+                "Price": 240
+            },
+            "cerveza cristal": {
+                "Price": 250
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

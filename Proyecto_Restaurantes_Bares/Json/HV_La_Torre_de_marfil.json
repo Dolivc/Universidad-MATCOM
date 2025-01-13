@@ -1,0 +1,548 @@
+{
+    "Name": "La Torre de Marfil",
+    "Type": "Restaurante",
+    "Phone_Number": "52667604",
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["11:00-21:00"],
+        "Tuesday":  ["11:00-21:00"],
+        "Wednesday": ["11:00-21:00"],
+        "Thursday": ["11:00-21:00"],
+        "Friday":   ["11:00-21:00"],
+        "Saturday": ["11:00-21:00"],
+        "Sunday":   ["11:00-21:00"]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Obispo y Obrapia",
+        "Coordinates": "23º8'20''N,82º21'0''W"
+    },
+    "Cousine": "Variado",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Cebiche": {
+                "Price": 1450
+            },
+            "Brushettas": {
+                "Price": 950
+            },
+            "Ensalada de vegetales": {
+                "Price": 750
+            },
+            "Ensalada de verdura y pollo": {
+                "Price": 1350
+            },
+            "Coctel de langosta": {
+                "Price": 1850
+            },
+            "Coctel de camarones": {
+                "Price": 1350
+            },
+            "maripositas chinas": {
+                "Price": 500
+            },
+            "Vegetales salteados": {
+                "Price": 750
+            },
+            "Pulpo al pimenton": {
+                "Price": 2900
+            },
+            "Shop suey de marisco": {
+                "Price": 1250
+            },
+            "Sopa estilo oriental": {
+                "Price": 750
+            },
+            "croquetas de la casa": {
+                "Price": 750
+            },
+            "Fritura de malanga": {
+                "Price": 780
+            },
+            "Crema de calabaza y malanga": {
+                "Price": 850
+            },
+            "Tacos de cerdo": {
+                "Price": 980
+            },
+            "Tacos de pollo": {
+                "Price": 980
+            },
+            "Tacos de vegetales": {
+                "Price": 980
+            },
+            "Tacos de ropa vieja": {
+                "Price": 980
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pastas cortas rigatonni frutti di mare": {
+                    "Price": 2700
+                },
+                "Espaguettis con salsa napoles": {
+                    "Price": 1100
+                },
+                "Espaguettis a la bolognesa": {
+                    "Price": 1750
+                },
+                "Espaguettis con vegetales": {
+                    "Price": 1440
+                },
+                "Espaguettis alioli con camarones": {
+                    "Price": 1950
+                }
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 1200
+                },
+                "Pizza especial de la casa": {
+                    "Price": 2100
+                }
+            },
+            "Pork": {
+                "Cerdo al estilo torre de marfil": {
+                    "Price": 2300
+                },
+                "Cerdo asado con salsa de mostaza y romero": {
+                    "Price": 2100
+                }
+            },
+            "Chicken": {
+                "Pollo al estilo torre de marfil": {
+                    "Price": 1750
+                },
+                "Pollo grille": {
+                    "Price": 1550
+                }
+            },
+            "Beef": {
+                "Grillada de carne": {
+                    "Price": 3500
+                },
+                "Estofado de res con zanahorias confitadas": {
+                    "Price": 3200
+                },
+                "Ropa vieja": {
+                    "Price": 1950
+                },
+                "Vaca frita": {
+                    "Price": 1850
+                }
+            },
+            "Sea": {
+                "Combinacion marinera a la barbacoesa": {
+                    "Price": 3100
+                },
+                "Pescado grille": {
+                    "Price": 1980
+                },
+                "Grillada del mar": {
+                    "Price": 5800
+                },
+                "Grillada de mar y tierra": {
+                    "Price": 8500
+                },
+                "Langosta al gusto": {
+                    "Price": 4800
+                },
+                "Camarones al gusto": {
+                    "Price": 2200
+                },
+                "Casuela caribenha frutos del mar": {
+                    "Price": 4300
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz frito al estilo de la casa": {
+                "Price": 1200
+            },
+            "Arroz caldoso de la tierra": {
+                "Price": 1950
+            },
+            "Arroz caldoso marinero": {
+                "Price": 3550
+            },
+            "Arroz caldoso mar y tierra": {
+                "Price": 4550
+            }
+        },
+        "Desserts": {
+            "Helados con frutas confitadas": {
+                "Price": 750
+            },
+            "Flan de leche y huevos": {
+                "Price": 850
+            },
+            "Tarta semi fria": {
+                "Price": 750
+            },
+            "Brownie con helado": {
+                "Price": 1100
+            },
+            "Poste mixto cubano": {
+                "Price": 750
+            },
+            "Postres caseros": {
+                "Price": 650
+            },
+            "Boniatillo con coco estilo Omara Portuondo": {
+                "Price": 750
+            }
+        },
+        "Beverages": {
+            "Agua mineral natural": {
+                "Price": 320
+            },
+            "Agua tonica MG": {
+                "Price": 650
+            },
+            "Agua tonica ME": {
+                "Price": 850
+            },
+            "Refresco cola pepsi": {
+                "Price": 450
+            },
+            "Refresco de lata": {
+                "Price": 350
+            },
+            "Jugos de fruta": {
+                "Price": 650
+            },
+            "Batidos de fruta": {
+                "Price": 850
+            },
+            "Malta": {
+                "Price": 450
+            },
+            "Malteada": {
+                "Price": 950
+            },
+            "Limonada": {
+                "Price": 750
+            },
+            "Limonada frescura": {
+                "Price": 850
+            },
+            "Cerveza Belga Star lemon": {
+                "Price": 350
+            },
+            "Cerveza Belga Star botella": {
+                "Price": 450
+            },
+            "Cerveza estrella dawm": {
+                "Price": 650
+            },
+            "Heinecken botella": {
+                "Price": 750
+            },
+            "Cerveza Unlaguer": {
+                "Price": 350
+            },
+            "Cerveza cristal": {
+                "Price": 550
+            },
+            "Cerveza bucanero": {
+                "Price": 550
+            },
+            "Capuccino": {
+                "Price": 450
+            },
+            "Cafe bombom": {
+                "Price": 680
+            },
+            "Frapuccino": {
+                "Price": 850
+            },
+            "Cafe irlandes": {
+                "Price": 750
+            },
+            "Cafe con leche": {
+                "Price": 400
+            },
+            "Cafe espresso": {
+                "Price": 150
+            },
+            "Cafe americano": {
+                "Price": 150
+            },
+            "Infusiones": {
+                "Price": 250
+            },
+            "Fernet": {
+                "Price": 350
+            },
+            "Aguardiente black tears": {
+                "Price": 330
+            },
+            "Bebida energetica": {
+                "Price": 650
+            },
+            "Limoncello": {
+                "Price": 550
+            },
+            "Jagger": {
+                "Price": 750
+            },
+            "Amaretto": {
+                "Price": 450
+            },
+            "Crema baily's": {
+                "Price": 850
+            },
+            "Licor de cafe": {
+                "Price": 400
+            },
+            "Cognac martel VS ": {
+                "Price": 750
+            },
+            "Brandy Armagnac VS": {
+                "Price": 1200
+            },
+            "Ron santiago blanco": {
+                "Price": 600
+            },
+            "Ron santiago 8anhos": {
+                "Price": 1050
+            },
+            "Ron santiago 11 anhos": {
+                "Price": 1300
+            },
+            "Ron santiago 12anhos": {
+                "Price": 1600
+            },
+            "Ron santiago extra seco": {
+                "Price": 1050
+            },
+            "Habana club reserva": {
+                "Price": 650
+            },
+            "Habana club 7 anhos": {
+                "Price": 750
+            },
+            "Habana club smoky": {
+                "Price": 950
+            },
+            "Habana club seleccion de maestros": {
+                "Price": 1650
+            },
+            "Habana club pacto navio": {
+                "Price": 1500
+            },
+            "Whisky JW Black label": {
+                "Price": 1350
+            },
+            "Whisky jamenson original": {
+                "Price": 700
+            },
+            "Whisky JW Red label": {
+                "Price": 750
+            },
+            "Whisky Chivas regal 12": {
+                "Price": 850
+            },
+            "Ginebra master dry": {
+                "Price": 740
+            },
+            "Ginebra Reythor/Ginebra after work": {
+                "Price": 480
+            },
+            "Whisky Buchanan master": {
+                "Price": 1950
+            },
+            "Whisky Jhonny walker swing": {
+                "Price": 1900
+            },
+            "Whisky Sir Albert": {
+                "Price": 550
+            },
+            "Whisky Bourbon Jim Beam Black": {
+                "Price": 950
+            },
+            "Vodka absolut": {
+                "Price": 850
+            },
+            "Vodka tito's Handmade": {
+                "Price": 1200
+            },
+            "Vodka belvedere": {
+                "Price": 1800
+            },
+            "Tequila los corrales": {
+                "Price": 600
+            },
+            "Tequila reposado arraigo": {
+                "Price": 950
+            },
+            "Tequila jimador reposado": {
+                "Price": 1050
+            },
+            "Tequila bolcan de mi tierra blanco": {
+                "Price": 2800
+            },
+            "Mojito": {
+                "Price": 890
+            },
+            "Daiquiri": {
+                "Price": 890
+            },
+            "Ron collins": {
+                "Price": 750
+            },
+            "Cuba libre/ Cubata": {
+                "Price": 950
+            },
+            "Caipiroska/ Caipirissima": {
+                "Price": 890
+            },
+            "Caipirinha": {
+                "Price": 890
+            },
+            "Caipiroska/ Caipirissima sabor": {
+                "Price": 1050
+            },
+            "Caipirinha de sabor": {
+                "Price": 1050
+            },
+            "Pinha colada": {
+                "Price": 1150
+            },
+            "Pinha colada sin alcohol": {
+                "Price": 890
+            },
+            "Negroni": {
+                "Price": 1200
+            },
+            "Manhattan": {
+                "Price": 1200
+            },
+            "Presidente": {
+                "Price": 950
+            },
+            "Screwdriver": {
+                "Price": 850
+            },
+            "Margarita": {
+                "Price": 950
+            },
+            "Dry martini": {
+                "Price": 900
+            },
+            "Tequila sunrise": {
+                "Price": 850
+            },
+            "Tinto de verano": {
+                "Price": 950
+            },
+            "Sangria": {
+                "Price": 950
+            },
+            "San francisco": {
+                "Price": 750
+            },
+            "Canchanchara": {
+                "Price": 950
+            },
+            "Bloody mary": {
+                "Price":  1050
+            },
+            "Servicio de michelada": {
+                "Price": 350
+            },
+            "Servicio de chelada": {
+                "Price": 250
+            },
+            "Casillero del diablo cabernet sauvignon": {
+                "Price": 6800
+            },
+            "Varon de chirel reserva 2005 rioja": {
+                "Price": 120000
+            },
+            "Petit rojo reserva merlot": {
+                "Price": 5700
+            },
+            "Senhorio de valcunia D.O rioja": {
+                "Price": 5800
+            },
+            "Oporto  ruby borges": {
+                "Price": 7800
+            },
+            "La planta rivera del duero 2020": {
+                "Price": 80000
+            },
+            "Minuti": {
+                "Price": 18500
+            },
+            "Frontera sauvignon blanc": {
+                "Price": 3800
+            },
+            "Pirovano soave": {
+                "Price": 5200
+            },
+            "Casa coller moscato dolce": {
+                "Price": 6800
+            },
+            "Champagne moet et chandon imperial": {
+                "Price": 28700
+            },
+            "Vino blanco por copa": {
+                "Price": 750
+            },
+            "Vino tinto por copa": {
+                "Price": 750
+            },
+            "Vino rosado por copa": {
+                "Price": 800
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pork","Moro"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Corte de carne"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

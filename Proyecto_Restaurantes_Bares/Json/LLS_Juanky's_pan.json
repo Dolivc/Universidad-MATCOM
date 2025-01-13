@@ -1,0 +1,307 @@
+{
+    "Name": "Juanky's Pan",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Croquetas de Jamon": {
+                "Price": 570
+            },
+            "Entremes de Jamon y Queso": {
+                "Price": 765
+            },
+            "Huevos Rotos": {
+                "Price": 905
+            },
+            "Mixto de Maria": {
+                "Price": 2200
+            },
+            "Punetazos de Cerdo c/ Queso": {
+                "Price": 895
+            },
+            "Punetazos de Cerdo c/ Queso y Bacon": {
+                "Price": 1030
+            },
+            "Punetazos de cerdo c/ Bacon": {
+                "Price": 955
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis de Bacon con Queso": {
+                    "Price": 470
+                },
+                "Espaguetis Base": {
+                    "Price": 1195
+                },
+                "Espaguetis con carne de Cerdo": {
+                    "Price": 1390
+                },
+                "Espaguetis de Chorizo con Queso": {
+                    "Price": 695
+                },
+                "Espaguetis de Jamon con queso": {
+                    "Price": 985
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Juanky's Combo de Cerdo con Queso + Jugo": {
+                    "Price": 1094
+                },
+                "Mix sin Pan de Cerdo": {
+                    "Price": 830
+                },
+                "Pina Caramelo de Cerdo": {
+                    "Price": 1055
+                },
+                "Premium de Champinon Cerdo": {
+                    "Price": 730
+                },
+                "Especial de Cerdo": {
+                    "Price": 800
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Tacos de Ropa Vieja de Carnero": {
+                    "Price": 2055
+                },
+                "Tacos de Ropa Vieja de Cerdo": {
+                    "Price": 1400
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cerveza Stella": {
+                "Price": 510
+            },
+            "Caipirisima": {
+                "Price": 600
+            },
+            "Caipiroska": {
+                "Price": 520
+            },
+            "Caipiroska Absolut": {
+                "Price": 680
+            },
+            "Caipiroska c/ Cirok": {
+                "Price": 950
+            },
+            "Cuba Libre": {
+                "Price": 530
+            },
+            "Cubanito": {
+                "Price": 420
+            },
+            "Cubata c/ 7 anos": {
+                "Price": 600
+            },
+            "cubata c/ especial": {
+                "Price": 695
+            },
+            "cubata c/ Reserva": {
+                "Price": 580
+            },
+            "Gin Tonic": {
+                "Price": 795
+            },
+            "Gin Tonic Beefeater": {
+                "Price": 940
+            },
+            "Gin Tonic c/ Tanqueray": {
+                "Price": 990
+            },
+            "sangria": {
+                "Price": 600
+            },
+            "Screwdriver": {
+                "Price": 500
+            },
+            "Screwdriver Absolut": {
+                "Price": 780
+            },
+            "Vodka Tonic": {
+                "Price": 850
+            },
+            "Vodka Tonic Absolut": {
+                "Price": 1200
+            },
+            "Copa de Vino Tinto": {
+                "Price": 460
+            },
+            "Copa de Vino Tinto Yzaguirre Vermouth": {
+                "Price": 450
+            },
+            "Jagger": {
+                "Price": 350
+            },
+            "Ron Anejo 7 Anos": {
+                "Price": 250
+            },
+            "Ron Anejo Especial": {
+                "Price": 175
+            },
+            "Ron Anejo Reserva": {
+                "Price": 195
+            },
+            "Ron Seleccion de Maestros": {
+                "Price": 830
+            },
+            "Tequila Don Julio Reposado": {
+                "Price": 1400
+            },
+            "Tequila Silver Los Corrales": {
+                "Price": 380
+            },
+            "Whisky Ballentines": {
+                "Price": 450
+            },
+            "Whisky Chivas Regal": {
+                "Price": 790
+            },
+            "Whisky J&B": {
+                "Price": 350
+            },
+            "Whisky Jack Daniels Black Label": {
+                "Price": 495
+            },
+            "Whisky Jack Daniels Honey": {
+                "Price": 380
+            },
+            "Whisky Jameson": {
+                "Price": 575
+            },
+            "Whisky JW Black Label": {
+                "Price": 940
+            },
+            "Whisky JW Red Label": {
+                "Price": 470
+            },
+            "Whisky Old Partner": {
+                "Price": 200
+            },
+            "Whisky Spirit Speech": {
+                "Price": 200
+            },
+            "jugo de Fruta Bomba": {
+                "Price": 185
+            },
+            "Jugo de Guayaba": {
+                "Price": 185
+            },
+            "Liminada": {
+                "Price": 415
+            },
+            "Jugo de Melon": {
+                "Price": 185
+            },
+            "Jugo de PLatano": {
+                "Price": 185
+            },
+            "Batido de Helado": {
+                "Price": 850
+            },
+            "Batido de Fruta Bomba": {
+                "Price": 300
+            },
+            "Batido de Guayaba": {
+                "Price": 300
+            },
+            "Helado Montado": {
+                "Price": 580
+            },
+            "Suero de Helado": {
+                "Price": 950
+            },
+            "Belga Star": {
+                "Price": 300
+            },
+            "Refresco de Cola": {
+                "Price": 300
+            },
+            "Refresco de Limon": {
+                "Price": 300
+            },
+            "Refresco de Naranja": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

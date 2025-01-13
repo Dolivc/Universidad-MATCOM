@@ -1,0 +1,138 @@
+{
+    "Name": "Don Martin",
+    "Type": "Pizzeria",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Mipyme",
+    "Operating_Hours": {
+        "Monday":   ["10:00-23:00"],
+        "Tuesday":  ["10:00-23:00"],
+        "Wednesday": ["10:00-23:00"],
+        "Thursday": ["10:00-23:00"],
+        "Friday":   ["10:00-23:00"],
+        "Saturday": ["10:00-23:00"],
+        "Sunday":   ["10:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle A, 661",
+        "Coordinates": null
+    },
+    "Cuisine": "Pizzas",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 200
+                },
+                "Pizza de queso gouda": {
+                    "Price": 350
+                },
+                "Familiar queso gouda": {
+                    "Price": 650
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Cebolla": {
+                "Price": 200
+            },
+            "Queso blanco": {
+                "Price": 150
+            },
+            "Queso gouda": {
+                "Price": 250
+            },
+            "Jamon bikin": {
+                "Price": 200
+            },
+            "Jamon serrano": {
+                "Price": 800
+            },
+            "Aceitunas": {
+                "Price": 450
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua": {
+                "Price": 200
+            },
+            "Cerveza cristal": {
+                "Price": 260
+            },
+            "Cerveza bucanero de botella": {
+                "Price": 260
+            },
+            "Pepsi": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

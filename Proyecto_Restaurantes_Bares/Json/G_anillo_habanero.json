@@ -1,0 +1,269 @@
+{
+    "Name": "Anillo Habanero",
+    "Type": "Restaurante",
+    "Phone_Number": "52042710",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2300"
+        ],
+        "Tuesday": [
+            "1000-2300"
+        ],
+        "Wednesday": [
+            "1000-2300"
+        ],
+        "Thursday": [
+            "1000-2300"
+        ],
+        "Friday": [
+            "1000-2300"
+        ],
+        "Saturday": [
+            "1000-2300"
+        ],
+        "Sunday": [
+            "1000-2300"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Primer Anillo de La Habana",
+        "Coordinates": "3PXM+4Q3"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Picadera anillo": {
+                "Price": 3000.0
+            },
+            "Tacos de vegetales": {
+                "Price": 600.0
+            },
+            "Croquetas habaneras": {
+                "Price": 400.0
+            },
+            "Nachos, salsa rosa y guacamole": {
+                "Price": 400.0
+            },
+            "Brochetas": {
+                "Price": 1300.0
+            },
+            "Coctel de camarones": {
+                "Price": 2000.0
+            },
+            "Frituras": {
+                "Price": 300.0
+            },
+            "Tostones rellenos": {
+                "Price": 550.0
+            },
+            "Tacos de pollo": {
+                "Price": 800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaguetis napoles": {
+                    "Price": 850.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 800.0
+                }
+            },
+            "Pork": {
+                "Lomo ahumado": {
+                    "Price": 2000.0
+                },
+                "Chuletas de cerdo": {
+                    "Price": 3000.0
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 3000.0
+                },
+                "Vaca frita": {
+                    "Price": 3000.0
+                }
+            },
+            "Sea": {
+                "Camarones enchilados": {
+                    "Price": 3500.0
+                },
+                "Camarones al ajillo": {
+                    "Price": 3500.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tarta de vainilla": {
+                "Price": 750.0
+            },
+            "Cheesecake de limon": {
+                "Price": 750.0
+            },
+            "Coctel de frutas importadas": {
+                "Price": 350.0
+            }
+        },
+        "Beverages": {
+            "Energizantes importados": {
+                "Price": 500.0
+            },
+            "Maltas importadas": {
+                "Price": 320.0
+            },
+            "Pepsi refresco gaseado": {
+                "Price": 400.0
+            },
+            "Jugos naturales": {
+                "Price": 250.0
+            },
+            "Agua natural": {
+                "Price": 200.0
+            },
+            "Kermato": {
+                "Price": 700.0
+            },
+            "Refrescos importados": {
+                "Price": 300.0
+            },
+            "Expresso": {
+                "Price": 100.0
+            },
+            "Cortadito": {
+                "Price": 200.0
+            },
+            "Capuchino": {
+                "Price": 250.0
+            },
+            "Michelada": {
+                "Price": 600.0
+            },
+            "Margarita": {
+                "Price": 800.0
+            },
+            "Caipiroska": {
+                "Price": 800.0
+            },
+            "Cocteles analcoholicos": {
+                "Price": 500.0
+            },
+            "Caipirisima": {
+                "Price": 800.0
+            },
+            "Vodka tonic": {
+                "Price": 900.0
+            },
+            "Screwdriver": {
+                "Price": 800.0
+            },
+            "Gin tonic": {
+                "Price": 900.0
+            },
+            "Agua marina": {
+                "Price": 800.0
+            },
+            "Cancha": {
+                "Price": 800.0
+            },
+            "Tinto de verano": {
+                "Price": 800.0
+            },
+            "Limonada frappe": {
+                "Price": 250.0
+            },
+            "Daiquiri": {
+                "Price": 800.0
+            },
+            "Chelada": {
+                "Price": 450.0
+            },
+            "Pinha colada": {
+                "Price": 1000.0
+            },
+            "Sangria": {
+                "Price": 1000.0
+            },
+            "Cerveza nacional": {
+                "Price": 350.0
+            },
+            "Cerveza importada": {
+                "Price": 300.0
+            },
+            "Trago jonny walker": {
+                "Price": 500.0
+            },
+            "William lawsons": {
+                "Price": 350.0
+            },
+            "Lyubov vodka": {
+                "Price": 200.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "Entretenimiento",
+            "Parque Infantil",
+            "Billar",
+            "Terraza al Aire Libre",
+            "Piscina"
+        ],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

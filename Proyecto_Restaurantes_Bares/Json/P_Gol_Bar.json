@@ -1,0 +1,227 @@
+{
+    "Name": "Gol bar",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["10:30-22:00"],
+        "Tuesday":  ["10:30-22:00"],
+        "Wednesday": ["10:30-22:00"],
+        "Thursday": ["10:30-22:00"],
+        "Friday":   ["10:30-22:00"],
+        "Saturday": ["10:30-22:00"],
+        "Sunday":   ["10:30-22:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Esquina entre 19 y 14",
+        "Coordinates": "23º7'42''N,82º24'7''W"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Coctel de langosta": {
+                "Price": 1000
+            },
+            "Coctel de camarones": {
+                "Price": 1000
+            },
+            "Entremes de jamon y queso": {
+                "Price": 1000
+            },
+            "Eperlan de pescado": {
+                "Price": 1750
+            },
+            "Eperlan de pollo": {
+                "Price": 1750
+            },
+            "Eperlan de cerdo": {
+                "Price": 1750
+            },
+            "Croquetas": {
+                "Price": 600
+            },
+            "Fritura de malanga": {
+                "Price": 350
+            },
+            "Toston": {
+                "Price": 450
+            },
+            "Tamales": {
+                "Price": 150
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec uruguayo": {
+                    "Price": 1700
+                },
+                "Bella Habana de cerdo": {
+                    "Price": 1700
+                },
+                "Masas de cerdo": {
+                    "Price": 1600
+                },
+                "Fajitas de cerdo": {
+                    "Price": 1600
+                },
+                "Bistec de cerdo grille": {
+                    "Price": 1600
+                },
+                "Chuleta natural": {
+                    "Price": 1600
+                },
+                "Chuleta de cerdo ahumado": {
+                    "Price": 1600
+                },
+                "Costillas de cerdo": {
+                    "Price": 1600
+                },
+                "Lonjas de cerdo": {
+                    "Price": 1600
+                },
+                "Fajitas de cerdo con pinha": {
+                    "Price": 1700
+                }
+            },
+            "Chicken": {
+                "Pollo gordon blue": {
+                    "Price": 1700
+                },
+                "Bella Habana de pollo": {
+                    "Price": 1700
+                },
+                "Pollo bbq": {
+                    "Price": 1600
+                },
+                "Fajitas de pollo": {
+                    "Price": 1650
+                },
+                "Pollo asado": {
+                    "Price": 1600 
+                },
+                "Crema de pollo": {
+                    "Price": 1600
+                },
+                "Muslo de pollo deshuesado": {
+                    "Price": 1600
+                }
+            },
+            "Beef": {
+                "Bistec de res": {
+                    "Price": 1600
+                },
+                "Ropa vieja de res": {
+                    "Price": 1600
+                },
+                "Vaca frita": {
+                    "Price": 1600
+                }
+            },
+            "Sea": {
+                "Camaron rebosado": {
+                    "Price": 1860
+                },
+                "Camaron de enchilado": {
+                    "Price": 1850
+                },
+                "Camaron grille": {
+                    "Price": 1800
+                },
+                "Camaron al ajillo": {
+                    "Price": 1850
+                },
+                "Pulpo al gusto": {
+                    "Price": 1600
+                },
+                "Canciller": {
+                    "Price": 1700
+                },
+                "Fajitas de pescado": {
+                    "Price": 1650
+                },
+                "Filete de pescado empanizado": {
+                    "Price": 1800
+                },
+                "Filete de pescado maitress hotel": {
+                    "Price": 1600
+                }
+            },
+            "Other":{
+                "Chilindron de carnero":{
+                    "Price": 1600
+                },
+                "Chuleton a la pinha": {
+                    "Price": 1700
+                },
+                "Filete mignon": {
+                    "Price": 1700
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua": {
+                "Price": 350
+            },
+            "Cerveza": {
+                "Price": 400
+            }
+        },
+        "most_sold": {
+            "Dish": ["Bistec de cerdo"],
+            "Drink": ["Refresco","Cerveza"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

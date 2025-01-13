@@ -1,0 +1,271 @@
+{
+    "Name": "Jackafe",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-900"
+        ],
+        "Tuesday": [
+            "1200-900"
+        ],
+        "Wednesday": [
+            "1200-900"
+        ],
+        "Thursday": [
+            "1200-900"
+        ],
+        "Friday": [
+            "1200-900"
+        ],
+        "Saturday": [
+            "1200-900"
+        ],
+        "Sunday": [
+            "1200-900"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 360
+            },
+            "Bolitas de queso": {
+                "Price": 280
+            },
+            "Tostones rellenos de chorizo": {
+                "Price": 940
+            },
+            "Tostones rellenos de atun": {
+                "Price": 840
+            },
+            "Tostones rellenos de jamon": {
+                "Price": 680
+            },
+            "Coctel de pescado": {
+                "Price": 760
+            },
+            "Coctel de camaron": {
+                "Price": 780
+            },
+            "Coctelde langosta": {
+                "Price": 980
+            },
+            "Trio de cocteles": {
+                "Price": 2280
+            },
+            "Ceviche": {
+                "Price": 1190
+            },
+            "Eperlan": {
+                "Price": 1720
+            },
+            "Garbanzos fritos": {
+                "Price": 1680
+            },
+            "Entremes de la casa": {
+                "Price": 1920
+            },
+            "Entremes de jamon serrano": {
+                "Price": 1350
+            },
+            "Tabla de quesos": {
+                "Price": 1820
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Crema de queso": {
+                    "Price": 590
+                },
+                "Lazana bolonesa": {
+                    "Price": 1690
+                },
+                "Espaghetti napolitano queso gouda": {
+                    "Price": 840
+                },
+                "Espaghetti napolitano queso mozarella": {
+                    "Price": 610
+                },
+                "Espaghetti al aglio y olio": {
+                    "Price": 1240
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana queso gouda": {
+                    "Price": 760
+                },
+                "Pizza napolitana queso mozarella": {
+                    "Price": 610
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo grille": {
+                    "Price": 1620
+                },
+                "Bistec de cerdo Princesa": {
+                    "Price": 2240
+                },
+                "Bistec Uruguayo": {
+                    "Price": 2380
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Estofado de res": {
+                    "Price": 3320
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 1590
+                },
+                "Filete de pescado Princesa": {
+                    "Price": 2140
+                },
+                "Canciller": {
+                    "Price": 2320
+                },
+                "Pulpo enchilado": {
+                    "Price": 1330
+                },
+                "Pulpo al ajillo": {
+                    "Price": 1850
+                },
+                "Langosta grille": {
+                    "Price": 2190
+                },
+                "Langosta enchilada": {
+                    "Price": 2310
+                },
+                "Langosta Termidor": {
+                    "Price": 2520
+                }
+            },
+            "Other": {
+                "Cordero al vino tinto": {
+                    "Price": 2730
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 180
+            },
+            "Arroz moro": {
+                "Price": 250
+            },
+            "Arroz frito Jackafe": {
+                "Price": 1480
+            },
+            "Ensalada de estacion": {
+                "Price": 250
+            },
+            "Viandas fritas": {
+                "Price": 250
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cerveza importada": {
+                "Price": 280
+            },
+            "Cerveza michelada": {
+                "Price": 100
+            },
+            "Refresco importado": {
+                "Price": 330
+            },
+            "Jugo de caja": {
+                "Price": 850
+            },
+            "Energizante": {
+                "Price": 370
+            },
+            "Agua natural importada": {
+                "Price": 260
+            },
+            "Agua tonica": {
+                "Price": 720
+            },
+            "Cafe Expreso": {
+                "Price": 180
+            },
+            "Cafe Americano": {
+                "Price": 180
+            },
+            "Cafe Cortado": {
+                "Price": 250
+            },
+            "Cafe Capuchino": {
+                "Price": 300
+            },
+            "Cafe con Ashe": {
+                "Price": 395
+            },
+            "Te": {
+                "Price": 80
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

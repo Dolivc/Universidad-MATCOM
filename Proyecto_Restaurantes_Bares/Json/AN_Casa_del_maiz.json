@@ -1,0 +1,213 @@
+{
+    "Name": "Casa del Maiz",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2000"
+        ],
+        "Tuesday": [
+            "1000-2000"
+        ],
+        "Wednesday": [
+            "1000-2000"
+        ],
+        "Thursday": [
+            "1000-2000"
+        ],
+        "Friday": [
+            "1000-2000"
+        ],
+        "Saturday": [
+            "1000-2000"
+        ],
+        "Sunday": [
+            "1000-2000"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Fritura de Malte": {
+                "Price": 350.0
+            },
+            "Fritura de Malanga": {
+                "Price": 450.0
+            },
+            "Toston Relleno": {
+                "Price": 450.0
+            },
+            "Chicharron": {
+                "Price": 500.0
+            },
+            "Garbanzos": {
+                "Price": 550.0
+            },
+            "Cubito de Maiz": {
+                "Price": 1070.0
+            },
+            "Garbanzos Fritos": {
+                "Price": 450.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Fricase de Cerdo": {
+                    "Price": 1150.0
+                },
+                "Bistec de Cerdo": {
+                    "Price": 1250.0
+                },
+                "Lomo Ahumado": {
+                    "Price": 1450.0
+                },
+                "Costilla Ahumada": {
+                    "Price": 1450.0
+                },
+                "Fajitas de Cerdo": {
+                    "Price": 1150.0
+                }
+            },
+            "Chicken": {
+                "Fajita de Pollo": {
+                    "Price": 1150.0
+                },
+                "Alitas de Pollo": {
+                    "Price": 1050.0
+                },
+                "Pollo en Cazuela": {
+                    "Price": 1050.0
+                },
+                "Pechuga de Pollo": {
+                    "Price": 1650.0
+                }
+            },
+            "Beef": {
+                "ropa vieja": {
+                    "Price": 1420.0
+                }
+            },
+            "Sea": {
+                "filete de Pescado": {
+                    "Price": 1480.0
+                },
+                "eperlan": {
+                    "Price": 1280.0
+                }
+            },
+            "Other": {
+                "chilindron de carnero": {
+                    "Price": 1420.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz Salteado": {
+                "Price": 530.0
+            },
+            "Arroz Moro": {
+                "Price": 250.0
+            },
+            "Arroz Blanco": {
+                "Price": 180.0
+            },
+            "Tamal Especial": {
+                "Price": 90.0
+            },
+            "Toston Criollo": {
+                "Price": 450.0
+            },
+            "Ensalada Mixta": {
+                "Price": 450.0
+            },
+            "Aji Relleno": {
+                "Price": 650.0
+            },
+            "Malanga Hervida": {
+                "Price": 425.0
+            },
+            "Pure de Boniato": {
+                "Price": 250.0
+            },
+            "Platano Maduro Frito": {
+                "Price": 400.0
+            },
+            "Yuca con Mojo": {
+                "Price": 250.0
+            },
+            "Fufu de Platano": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            "Helado Pote de 1lt": {
+                "Price": 850.0
+            },
+            "Helado Pote Pequenno": {
+                "Price": 490.0
+            },
+            "Arroz con Leche": {
+                "Price": 200.0
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

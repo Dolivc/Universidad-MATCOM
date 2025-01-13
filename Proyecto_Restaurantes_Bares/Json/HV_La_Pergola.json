@@ -1,0 +1,174 @@
+{
+    "Name": "La pergola",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-10:00"],
+        "Tuesday":  ["12:00-10:00"],
+        "Wednesday": ["12:00-10:00"],
+        "Thursday": ["12:00-10:00"],
+        "Friday":   ["12:00-10:00"],
+        "Saturday": ["12:00-10:00"],
+        "Sunday":   ["12:00-10:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo",
+        "Coordinates": "4JRW+2MR"
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguettis a la salsa": {
+                    "Price": 125
+                },
+                "Espaguettis margarita": {
+                    "Price": 350
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 850
+                },
+                "Cerdo estofado": {
+                    "Price": 875
+                },
+                "Fajita de cerdo": {
+                    "Price": 990
+                },
+                "Brochetas de cerdo": {
+                    "Price": 900
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Res estofada": {
+                    "Price": 875
+                },
+                "Lonjas de res": {
+                    "Price": 975
+                }
+            },
+            "Sea": {
+                "Camaron enchilado": {
+                    "Price": 1740
+                },
+                "Camaron grille": {
+                    "Price": 1900
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz moro": {
+                "Price": 135
+            },
+            "Ensalada de vegetales": {
+                "Price": 200
+            },
+            "Vianda hervida": {
+                "Price": 175
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Malta importada": {
+                "Price": 135
+            },
+            "Vasos de jugos importados": {
+                "Price": 80
+            },
+            "Taoro": {
+                "Price": 90
+            },
+            "Parranda": {
+                "Price": 180
+            },
+            "Cerveza importada": {
+                "Price": 175
+            },
+            "Dispensada cristal": {
+                "Price": 190
+            },
+            "Cocteles cubanos": {
+                "Price": 300
+            },
+            "Cafe expresso": {
+                "Price": 125
+            },
+            "Cafe Americano": {
+                "Price": 150
+            },
+            "Cafe bombom": {
+                "Price": 175
+            },
+            "Rotmans red": {
+                "Price": 150
+            },
+            "Rotmans original": {
+                "Price": 220
+            },
+            "Rotmans ice": {
+                "Price": 240
+            }
+        },
+        "most_sold": {
+            "Dish": ["Bistec de res"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo"],
+        "Facilities": ["Rampa para personas en sillas de ruedas"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

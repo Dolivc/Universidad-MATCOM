@@ -1,0 +1,185 @@
+{
+    "Name": "La barrita onbazar",
+    "Type": "Restaurante",
+    "Phone_Number": " 54494741",
+    "Web_Page": "labarrita.onbazar.net",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-100"
+        ],
+        "Saturday": [
+            "900-100"
+        ],
+        "Sunday": [
+            "900-100"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Amenida entre Cruz del Pader e Infanta",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones rellenos": {
+                "Price": 1300
+            },
+            "Jamon ,queso y aceitunas": {
+                "Price": 750
+            },
+            "Mixta": {
+                "Price": 1600
+            },
+            "Brochetas": {
+                "Price": 2000
+            },
+            "Croquetas": {
+                "Price": 650
+            },
+            "Pollo frito": {
+                "Price": 1500
+            },
+            "Pollo chiflado": {
+                "Price": 1650
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis": {
+                    "Price": 850
+                },
+                "Espaguetis de jamon": {
+                    "Price": 1100
+                },
+                "Espaguetis de chorizo": {
+                    "Price": 1000
+                }
+            },
+            "Pizza": {
+                "Pizza de napolitana": {
+                    "Price": 850
+                },
+                "Pizza de chorizo": {
+                    "Price": 1000
+                },
+                "Pizza de jamon": {
+                    "Price": 1000
+                },
+                "Pizza de hawaiana": {
+                    "Price": 1150
+                },
+                "Pizza de cebolla": {
+                    "Price": 1000
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cafe expreso": {
+                "Price": 180
+            },
+            "Cafe cortado": {
+                "Price": 220
+            },
+            "Capuchino": {
+                "Price": 450
+            },
+            "Cafe bombon": {
+                "Price": 450
+            },
+            "Pinha colada": {
+                "Price": 600
+            },
+            "Pinha colada (alchol)": {
+                "Price": 750
+            },
+            "Limonada frape": {
+                "Price": 400
+            },
+            "Malteada": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

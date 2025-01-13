@@ -1,0 +1,440 @@
+{
+    "Name": "Atlanta",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2200"
+        ],
+        "Tuesday": [
+            "1000-2200"
+        ],
+        "Wednesday": [
+            "1000-2200"
+        ],
+        "Thursday": [],
+        "Friday": [
+            "1000-2200"
+        ],
+        "Saturday": [
+            "1000-2200"
+        ],
+        "Sunday": [
+            "1000-2200"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Atlanta #9, entre Calzada de Porvenir y Calzada de Diez de Octubre, La Palma, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "croquetas de la casa": {
+                "Price": 850.0
+            },
+            "ensalada de pollo": {
+                "Price": 950.0
+            },
+            "tostones rellenos": {
+                "Price": 850.0
+            },
+            "frituras de malanga": {
+                "Price": 650.0
+            },
+            "garbanzos fritos": {
+                "Price": 1200.0
+            },
+            "eperlan de picar": {
+                "Price": 1200.0
+            },
+            "fajitas de pollo": {
+                "Price": 950.0
+            },
+            "ceviche ATLANTA": {
+                "Price": 950.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti Napolitano": {
+                    "Price": 950.0
+                },
+                "lasagna de jamon": {
+                    "Price": 950.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 950.0
+                },
+                "pizza ATLANTA": {
+                    "Price": 1800.0
+                }
+            },
+            "Pork": {
+                "bistec de cerdo grille": {
+                    "Price": 1600.0
+                },
+                "masas de cerdo fritas": {
+                    "Price": 2000.0
+                },
+                "bistec uruguayo de cerdo": {
+                    "Price": 2500.0
+                },
+                "lomo ahumado grille": {
+                    "Price": 1850.0
+                },
+                "lomo ahumado gratinado c/queso": {
+                    "Price": 2150.0
+                },
+                "lomo ahumado a la pinna": {
+                    "Price": 2000.0
+                }
+            },
+            "Chicken": {
+                "arroz con pollo a la chorrera": {
+                    "Price": 1500.0
+                },
+                "pollo frito/asado": {
+                    "Price": 1500.0
+                },
+                "pechuga de pollo grille": {
+                    "Price": 1600.0
+                },
+                "pechuga gratinada": {
+                    "Price": 1850.0
+                },
+                "pechuga princesa": {
+                    "Price": 2000.0
+                },
+                "Gordon Blue": {
+                    "Price": 2500.0
+                },
+                "pechugon ATLANTA": {
+                    "Price": 2650.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 1850.0
+                },
+                "filete de pescado con queso": {
+                    "Price": 2200.0
+                },
+                "filete canciller": {
+                    "Price": 2500.0
+                }
+            },
+            "Other": {
+                "tacos ATLANTA": {
+                    "Price": 1650.0
+                },
+                "arroz frito": {
+                    "Price": 1200.0
+                },
+                "arroz frito especial": {
+                    "Price": 1400.0
+                },
+                "paella valenciana": {
+                    "Price": 1500.0
+                },
+                "paella mixta": {
+                    "Price": 1650.0
+                }
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 320.0
+            },
+            "ensalada mixta": {
+                "Price": 320.0
+            },
+            "arroz congris": {
+                "Price": 480.0
+            },
+            "vianda frita": {
+                "Price": 320.0
+            }
+        },
+        "Desserts": {
+            "suero de helado": {
+                "Price": 850.0
+            }
+        },
+        "Beverages": {
+            "agua natural": {
+                "Price": 250.0
+            },
+            "refrescos importados": {
+                "Price": 350.0
+            },
+            "jugos naturales": {
+                "Price": 350.0
+            },
+            "batidos de frutas": {
+                "Price": 600.0
+            },
+            "red bull": {
+                "Price": 650.0
+            },
+            "malta Bucanero": {
+                "Price": 400.0
+            },
+            "maltas (otras marcas)": {
+                "Price": 350.0
+            },
+            "chelada": {
+                "Price": 200.0
+            },
+            "michelada": {
+                "Price": 250.0
+            },
+            "roncollins": {
+                "Price": 600.0
+            },
+            "calimocho": {
+                "Price": 600.0
+            },
+            "tinto de verano": {
+                "Price": 700.0
+            },
+            "caipiroska": {
+                "Price": 700.0
+            },
+            "caipirinha": {
+                "Price": 700.0
+            },
+            "caipirisima": {
+                "Price": 700.0
+            },
+            "canchanchara": {
+                "Price": 600.0
+            },
+            "pinna colada": {
+                "Price": 700.0
+            },
+            "cubalibre": {
+                "Price": 650.0
+            },
+            "sangria": {
+                "Price": 700.0
+            },
+            "mojito": {
+                "Price": 700.0
+            },
+            "daiquiri": {
+                "Price": 700.0
+            },
+            "cubata": {
+                "Price": 800.0
+            },
+            "cubanito": {
+                "Price": 800.0
+            },
+            "sex on the beach": {
+                "Price": 800.0
+            },
+            "bloody mary": {
+                "Price": 800.0
+            },
+            "gintonic": {
+                "Price": 900.0
+            },
+            "vodkatonic": {
+                "Price": 900.0
+            },
+            "margarita": {
+                "Price": 900.0
+            },
+            "jaggerbull": {
+                "Price": 1250.0
+            },
+            "negroni": {
+                "Price": 1550.0
+            },
+            "ginebra de la casa": {
+                "Price": 350.0
+            },
+            "ginebra Beefeater": {
+                "Price": 500.0
+            },
+            "ginebra Tanqueray": {
+                "Price": 700.0
+            },
+            "ginebra Gordons": {
+                "Price": 1000.0
+            },
+            "tequila silver de la casa": {
+                "Price": 700.0
+            },
+            "tequila reposado de la casa": {
+                "Price": 750.0
+            },
+            "tequila Olmeca silver": {
+                "Price": 750.0
+            },
+            "tequila Olmeca reposado": {
+                "Price": 800.0
+            },
+            "tequila Olmeca dark": {
+                "Price": 800.0
+            },
+            "tequila Patron silver": {
+                "Price": 1550.0
+            },
+            "tequila Patron reposado": {
+                "Price": 1700.0
+            },
+            "vodka de la casa": {
+                "Price": 350.0
+            },
+            "vodka Absolut": {
+                "Price": 650.0
+            },
+            "vodka Grey Goose": {
+                "Price": 1550.0
+            },
+            "whisky de la casa": {
+                "Price": 400.0
+            },
+            "william lawson": {
+                "Price": 500.0
+            },
+            "VAT 69": {
+                "Price": 500.0
+            },
+            "Ballantines": {
+                "Price": 650.0
+            },
+            "Jhonie W. etiqueta roja": {
+                "Price": 700.0
+            },
+            "Jhonie W. etiq. negra": {
+                "Price": 1250.0
+            },
+            "Buchanans deluxe": {
+                "Price": 1550.0
+            },
+            "Chivas Regal": {
+                "Price": 1200.0
+            },
+            "ron h.c. blanco": {
+                "Price": 350.0
+            },
+            "ron h.c. 3 annos": {
+                "Price": 400.0
+            },
+            "ron h.c. reserva": {
+                "Price": 500.0
+            },
+            "ron h.c 7 annos": {
+                "Price": 550.0
+            },
+            "ron santiago c. blanca": {
+                "Price": 500.0
+            },
+            "ron santiago 8 annos": {
+                "Price": 1000.0
+            },
+            "ron santiago 11 annos": {
+                "Price": 1450.0
+            },
+            "ron santiango 12 annos": {
+                "Price": 1550.0
+            },
+            "cerveza Cristal (lata)": {
+                "Price": 350.0
+            },
+            "cerveza Cristal (botella)": {
+                "Price": 400.0
+            },
+            "cerveza Bucanero": {
+                "Price": 350.0
+            },
+            "cerveza Corona": {
+                "Price": 550.0
+            },
+            "cerveza Heineken": {
+                "Price": 500.0
+            },
+            "otras cervezas importadas": {
+                "Price": 300.0
+            },
+            "copa de vino de la casa": {
+                "Price": 420.0
+            },
+            "copa de vino Frontera": {
+                "Price": 500.0
+            },
+            "cafe expreso": {
+                "Price": 250.0
+            },
+            "cafe cortado": {
+                "Price": 320.0
+            },
+            "cafe bombon": {
+                "Price": 400.0
+            },
+            "capuccino": {
+                "Price": 450.0
+            },
+            "frapuccino": {
+                "Price": 500.0
+            },
+            "frapuccino con helado": {
+                "Price": 880.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

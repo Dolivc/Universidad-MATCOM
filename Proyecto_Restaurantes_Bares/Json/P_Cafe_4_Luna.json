@@ -1,0 +1,537 @@
+{
+    "Name": "Cafe 4 Lunas",
+    "Type": "Restaurante",
+    "Phone_Number": "52652849",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 21 entre L y M",
+        "Coordinates": "4JR8+FFJ"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tabla de jamon iberico": {
+                "Price": 3500
+            },
+            "Cebiche": {
+                "Price": 1700
+            },
+            "Cremas": {
+                "Price": 1100
+            },
+            "Sopa de pollo y vegetales": {
+                "Price": 1100
+            },
+            "Sopa de res": {
+                "Price": 1500
+            },
+            "Caldo del mar": {
+                "Price": 1600
+            },
+            "Croquetas de la casa": {
+                "Price": 1300
+            },
+            "Bolitas de queso": {
+                "Price": 1450
+            },
+            "Eperlan de pescado": {
+                "Price": 1650
+            },
+            "Alubias blancas con chorizo y bacon": {
+                "Price": 1500
+            },
+            "Garbanzos fritos": {
+                "Price": 1500
+            },
+            "Fajitas de pollo empanadas": {
+                "Price": 1700
+            },
+            "Tacos mexicanos de pollo": {
+                "Price": 1450
+            },
+            "Tacos mexicanos de cerdo": {
+                "Price": 1300
+            },
+            "Tacos mexicanos de res": {
+                "Price": 1500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti a la napolitana": {
+                    "Price": 1500
+                },
+                "Espaguetti agrio e olio": {
+                    "Price": 1320
+                },
+                "Espaguetti a la bolognesa": {
+                    "Price": 2500
+                },
+                "Espaguetti di mare": {
+                    "Price": 3000
+                },
+                "Espaguetti a la carbonara tradicional": {
+                    "Price": 3100
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de solomillo de cerdo": {
+                    "Price": 3500
+                },
+                "Fricase de cerdo": {
+                    "Price": 2900
+                },
+                "Masas de cerdo frita": {
+                    "Price": 2980
+                },
+                "Costilla de cerdo a la bbq": {
+                    "Price": 4000
+                }
+            },
+            "Chicken": {
+                "Bistec de pechuga de pollo": {
+                    "Price": 3200
+                },
+                "Salteado de pechuga de pollo con vegetales": {
+                    "Price": 3400
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2600
+                },
+                "Vaca frita": {
+                    "Price": 2600
+                },
+                "Estofado de res": {
+                    "Price": 3500
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2950
+                },
+                "Filete de merluza empanada": {
+                    "Price": 3500
+                },
+                "Filete de merluza al olivo": {
+                    "Price": 4200
+                },
+                "Salmon ahumado a la plancha": {
+                    "Price": 5200
+                },
+                "Langosta grille": {
+                    "Price": 2900
+                },
+                "Langosta enchilada": {
+                    "Price": 3050
+                },
+                "Langosta al ajillo": {
+                    "Price": 3100
+                },
+                "Pulpo al gusto": {
+                    "Price": 4700
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 300
+            },
+            "Arroz moro": {
+                "Price": 370
+            },
+            "Arroz pilaf": {
+                "Price": 400
+            },
+            "Arroz primavera": {
+                "Price": 350
+            },
+            "Ensalada de estacion": {
+                "Price": 700
+            },
+            "Vianda frita": {
+                "Price": 650
+            },
+            "Tostones tradicionales": {
+                "Price": 550
+            },
+            "Fritura de malanga con miel": {
+                "Price": 650
+            },
+            "Pure de vianda": {
+                "Price": 600
+            }
+        },
+        "Desserts": {
+            "Carlota de limon": {
+                "Price": 850
+            },
+            "Helado": {
+                "Price": 750
+            }
+        },
+        "Beverages": {
+            "Luz de luna (coctel de la casa)": {
+                "Price": 1200
+            },
+            "Sangria selene": {
+                "Price": 1100
+            },
+            "Daiquiri de frutos del bosque natural": {
+                "Price": 1200
+            },
+            "Mojito": {
+                "Price": 610
+            },
+            "Mojito oscuro": {
+                "Price": 670
+            },
+            "Negroni": {
+                "Price": 1450
+            },
+            "Cubata": {
+                "Price": 630
+            },
+            "Cuba libre": {
+                "Price": 600
+            },
+            "Canchanchara": {
+                "Price": 520
+            },
+            "Daiquiri": {
+                "Price": 750
+            },
+            "Daiquiri de frutas": {
+                "Price": 1000
+            },
+            "Screw driver": {
+                "Price": 900
+            },
+            "Martini": {
+                "Price": 970
+            },
+            "Margarita": {
+                "Price": 1100
+            },
+            "Blue margarita": {
+                "Price": 1200
+            },
+            "Margarita reposada": {
+                "Price": 1500
+            },
+            "Havana Especial": {
+                "Price": 680
+            },
+            "Long island tea": {
+                "Price": 1140
+            },
+            "Vodka martini": {
+                "Price": 950
+            },
+            "Gin tonic": {
+                "Price": 1500
+            },
+            "Gin tonic beefeather": {
+                "Price": 2000
+            },
+            "Gin tonic tangueray": {
+                "Price": 2280
+            },
+            "Caipirinha/caipirissima/caipisoska": {
+                "Price": 630
+            },
+            "Caipiroska ciroc": {
+                "Price": 1750
+            },
+            "Caipiroska absolut": {
+                "Price": 1500
+            },
+            "Mai tai": {
+                "Price": 850
+            },
+            "Pinha colada": {
+                "Price": 950
+            },
+            "Sangria": {
+                "Price": 850
+            },
+            "Servicio de michelada": {
+                "Price": 250
+            },
+            "Servicio de chelada": {
+                "Price": 200
+            },
+            "Refrescos importados": {
+                "Price": 570
+            },
+            "Malta": {
+                "Price": 600
+            },
+            "Agua natural nacional": {
+                "Price": 350
+            },
+            "Agua tonica nacional": {
+                "Price": 500
+            },
+            "Agua tonica importada": {
+                "Price": 1150
+            },
+            "Jugo de frutas naturales": {
+                "Price": 600
+            },
+            "Batido de frutas": {
+                "Price": 850
+            },
+            "Limonada frappe o natural": {
+                "Price": 400
+            },
+            "Limonada frescura": {
+                "Price": 550
+            },
+            "Limonada primavera": {
+                "Price": 600
+            },
+            "Cerveza nacional": {
+                "Price": 460
+            },
+            "Cafe espresso": {
+                "Price": 330
+            },
+            "Cafe capuccino": {
+                "Price": 390
+            },
+            "Cafe americano": {
+                "Price": 330
+            },
+            "Cafe cortado": {
+                "Price": 390
+            },
+            "Cafe frapuccino": {
+                "Price": 850
+            },
+            "Cafe con leche": {
+                "Price": 450
+            },
+            "Cafe carajillo": {
+                "Price": 550
+            },
+            "Cafe bombom": {
+                "Price": 690
+            },
+            "Ron pacto navio": {
+                "Price": 1170
+            },
+            "Ron seleccion de maestros": {
+                "Price": 1770
+            },
+            "Ron havana club spiced": {
+                "Price": 1200
+            },
+            "Ron havana club smoky": {
+                "Price": 1100
+            },
+            "Ron santiago extra seco": {
+                "Price": 1250
+            },
+            "Ron Santiago 8 anhos": {
+                "Price": 1400
+            },
+            "Ron Santiago 11 anhos": {
+                "Price": 1450
+            },
+            "Ron santiago 12 anhos": {
+                "Price": 5000
+            },
+            "Ron santisima trinidad": {
+                "Price": 7000
+            },
+            "Ron iminente 7 anhos reserva": {
+                "Price": 15000
+            },
+            "Ron havana club union": {
+                "Price": 1000
+            },
+            "Whisky jaminson": {
+                "Price": 1710
+            },
+            "Whisky buchanans master": {
+                "Price": 750
+            },
+            "Whisky ballentines": {
+                "Price": 1000
+            },
+            "Whisky JW red": {
+                "Price": 1100
+            },
+            "Whisky chivas regal 12 anhos": {
+                "Price": 1100
+            },
+            "Tequila omelca blanco": {
+                "Price": 900
+            },
+            "Tequila reina del sur reposado": {
+                "Price": 800
+            },
+            "Tequila omelca chocolate": {
+                "Price": 1100
+            },
+            "Tequila tres sombreros reposado": {
+                "Price": 1645
+            },
+            "Tequila don ramon punta diamante blanco": {
+                "Price": 1745
+            },
+            "Tequila don ramon punta diamante reposado": {
+                "Price": 550
+            },
+            "Vodka grin mark": {
+                "Price": 1140
+            },
+            "Vodka grey goose": {
+                "Price": 1425
+            },
+            "Vodka cirok": {
+                "Price": 1320
+            },
+            "Vodka absolut": {
+                "Price": 650
+            },
+            "Brandi torres 10 anhos": {
+                "Price": 850
+            },
+            "Brandi Torres 15 anhos": {
+                "Price": 520
+            },
+            "Ginebra beefeather london": {
+                "Price": 700
+            },
+            "Ginebre perigans": {
+                "Price": 800
+            },
+            "Ginebra gordons": {
+                "Price": 400
+            },
+            "Sambuca": {
+                "Price": 940
+            },
+            "Magdala": {
+                "Price": 1030
+            },
+            "Baileys": {
+                "Price": 1000
+            },
+            "Rua vieja tradicional": {
+                "Price": 5000
+            },
+            "Avadal Matis Crianza 2020": {
+                "Price": 5000
+            },
+            "Lafou el sender 2020": {
+                "Price": 5000
+            },
+            "Garnacha tinta": {
+                "Price": 5000
+            },
+            "Ramon roqueta crianza 2020": {
+                "Price": 5500
+            },
+            "Frentano 2022": {
+                "Price": 5000
+            },
+            "Gaton negro Cabernet sauvignon 2023": {
+                "Price": 5000
+            },
+            "Gato negro carmenere 2022": {
+                "Price": 5000
+            },
+            "Gato negro merlot 2022": {
+                "Price": 5000
+            },
+            "Celeste roble 2021": {
+                "Price": 5000
+            },
+            "Sangre de toro original 2021": {
+                "Price": 7000
+            },
+            "Loco de piedra": {
+                "Price": 6000
+            },
+            "I heart merlot": {
+                "Price": 3500
+            },
+            "Torres sauvignon blanc reserva 2022": {
+                "Price": 4500
+            },
+            "Gato negro chardonnahy 2023": {
+                "Price": 4500
+            },
+            "Copa de vino tinto": {
+                "Price": 700
+            },
+            "Copa de vino blanco": {
+                "Price": 650
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "True",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "True",
+            "Euros": "True",
+            "Others": "True"
+        }
+    }
+}

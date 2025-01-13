@@ -1,0 +1,506 @@
+{
+    "Name": "La Chucheria",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2400"
+        ],
+        "Tuesday": [
+            "800-2400"
+        ],
+        "Wednesday": [
+            "800-2400"
+        ],
+        "Thursday": [
+            "800-2400"
+        ],
+        "Friday": [
+            "800-2400"
+        ],
+        "Saturday": [
+            "800-2400"
+        ],
+        "Sunday": [
+            "800-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Waffles con nutela": {
+                    "Price": 1250
+                },
+                "Waffles con frutas y miel": {
+                    "Price": 1150
+                },
+                "Waffles con salmon pastas y queso crema": {
+                    "Price": 1850
+                },
+                "Crispy chicken waffles": {
+                    "Price": 1450
+                },
+                "Desayuno europeo": {
+                    "Price": 1400
+                },
+                "Desayuno americano": {
+                    "Price": 1500
+                },
+                "Desayuno chucheria": {
+                    "Price": 1600
+                },
+                "Tostadas de serrano": {
+                    "Price": 1750
+                },
+                "Tostadas de salmon": {
+                    "Price": 1900
+                },
+                "Tortilla vegetariana": {
+                    "Price": 1550
+                },
+                "Pancakes": {
+                    "Price": 1200
+                },
+                "Tortilla natural": {
+                    "Price": 1000
+                },
+                "Crepes chucher\u00eda": {
+                    "Price": 1300
+                },
+                "Tostadas con mantequilla": {
+                    "Price": 950
+                }
+            }
+        },
+        "Appetizers": {
+            "Brusquetas con serrano": {
+                "Price": 1200
+            },
+            "Tapas de croquetas": {
+                "Price": 900
+            },
+            "Picadera chucher\u00eda": {
+                "Price": 3000
+            },
+            "Empanadas de carne": {
+                "Price": 800
+            },
+            "Empanada de pollo": {
+                "Price": 780
+            },
+            "Empanada de queso azul y espinacas": {
+                "Price": 900
+            },
+            "Bolitas de queso": {
+                "Price": 850
+            },
+            "Ensalada de verano": {
+                "Price": 1700
+            },
+            "Ensalada chucher\u00eda": {
+                "Price": 1200
+            },
+            "Ensalada nueva marinera": {
+                "Price": 1800
+            },
+            "Ensalada de frutas": {
+                "Price": 800
+            },
+            "Ensalada girega": {
+                "Price": 1600
+            },
+            "Ensalada prosciutto": {
+                "Price": 200
+            },
+            "Sandwich jonronero": {
+                "Price": 1650
+            },
+            "Formula 1": {
+                "Price": 1700
+            },
+            "Martinero": {
+                "Price": 1400
+            },
+            "Catalan": {
+                "Price": 2000
+            },
+            "Sandwich helena ruth": {
+                "Price": 1650
+            },
+            "Sandwich beisbolera": {
+                "Price": 1450
+            },
+            "Sandwich pepe sport (res)": {
+                "Price": 2150
+            },
+            "Sandwich pepe sport (cerdo)": {
+                "Price": 1900
+            },
+            "S\u00e1ndwich vegetariano": {
+                "Price": 1200
+            },
+            "Club s\u00e1ndwich": {
+                "Price": 1700
+            },
+            "Hamburguesa jaque mate": {
+                "Price": 1750
+            },
+            "Hamburguesa chucher\u00eda": {
+                "Price": 2100
+            },
+            "Hamburguesa americana": {
+                "Price": 1350
+            },
+            "Super chu": {
+                "Price": 2350
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta chucheria": {
+                    "Price": 1150
+                },
+                "Pasta carbonara": {
+                    "Price": 1900
+                },
+                "Pasta pesto": {
+                    "Price": 1600
+                },
+                "Pasta 4 quesos": {
+                    "Price": 2500
+                },
+                "Pasta bolonesa": {
+                    "Price": 1400
+                },
+                "Lasagna": {
+                    "Price": 1850
+                }
+            },
+            "Pizza": {
+                "Pizza chucher\u00eda": {
+                    "Price": 1250
+                },
+                "Pizza familiar": {
+                    "Price": 3000
+                }
+            },
+            "Pork": {
+                "Carne de cerdo": {
+                    "Price": 1800
+                }
+            },
+            "Chicken": {
+                "Pechuga de pollo": {
+                    "Price": 1700
+                }
+            },
+            "Beef": {
+                "Filete de res": {
+                    "Price": 2400
+                }
+            },
+            "Sea": {
+                "Atun": {
+                    "Price": 2200
+                }
+            },
+            "Other": {
+                "Mac & cheese": {
+                    "Price": 1250
+                },
+                "Combo de ni\u00f1os": {
+                    "Price": 1350
+                },
+                "Nuggets de pollo": {
+                    "Price": 1250
+                }
+            }
+        },
+        "Extras": {
+            "Jamon barra": {
+                "Price": 400
+            },
+            "Jamon pierna": {
+                "Price": 450
+            },
+            "Jamon serrano": {
+                "Price": 800
+            },
+            "Queso gouda": {
+                "Price": 450
+            },
+            "Queso parmessano": {
+                "Price": 500
+            },
+            "Queso mozzarella": {
+                "Price": 450
+            },
+            "Queso azul": {
+                "Price": 500
+            },
+            "Chorizo": {
+                "Price": 600
+            },
+            "Bacon": {
+                "Price": 450
+            },
+            "Atun": {
+                "Price": 600
+            },
+            "Champi\u00f1on": {
+                "Price": 350
+            },
+            "Aceituna": {
+                "Price": 400
+            },
+            "Nutella": {
+                "Price": 400
+            },
+            "Pi\u00f1a glaseada": {
+                "Price": 250
+            },
+            "Mayonesa": {
+                "Price": 250
+            },
+            "Jalea de fruta": {
+                "Price": 300
+            },
+            "Mantequilla": {
+                "Price": 300
+            },
+            "Lo\u00f1esa": {
+                "Price": 650
+            },
+            "Vegetales": {
+                "Price": 300
+            }
+        },
+        "Desserts": {
+            "Postre de la casa": {
+                "Price": 750
+            },
+            "Cono de helado": {
+                "Price": 400
+            },
+            "Cesta de helado": {
+                "Price": 600
+            },
+            "Tarta especial": {
+                "Price": 1300
+            }
+        },
+        "Beverages": {
+            "Refrescos nacional": {
+                "Price": 380
+            },
+            "Refrescos importados": {
+                "Price": 450
+            },
+            "Jugos": {
+                "Price": 350
+            },
+            "Cervezas nacionales": {
+                "Price": 500
+            },
+            "Cervezas importadas": {
+                "Price": 600
+            },
+            "Cervezas coronas": {
+                "Price": 790
+            },
+            "Mojito": {
+                "Price": 800
+            },
+            "Mojito de frutas": {
+                "Price": 1000
+            },
+            "Cuba libre": {
+                "Price": 700
+            },
+            "Ron collins": {
+                "Price": 750
+            },
+            "Caipiri\u00f1a": {
+                "Price": 750
+            },
+            "Caipiroska": {
+                "Price": 800
+            },
+            "Sangr\u00eda": {
+                "Price": 1200
+            },
+            "Cali mocho": {
+                "Price": 950
+            },
+            "Tinto verano": {
+                "Price": 950
+            },
+            "Gin tonic": {
+                "Price": 900
+            },
+            "Gingin tonic premium": {
+                "Price": 1200
+            },
+            "Vodka tonic": {
+                "Price": 1100
+            },
+            "Margarita": {
+                "Price": 950
+            },
+            "Chelada nacional": {
+                "Price": 650
+            },
+            "Chelada importada": {
+                "Price": 750
+            },
+            "Chelada corona": {
+                "Price": 940
+            },
+            "Michelada nacional": {
+                "Price": 750
+            },
+            "Michelada importada": {
+                "Price": 950
+            },
+            "Michelada importada premium": {
+                "Price": 1050
+            },
+            "Daiquiri": {
+                "Price": 700
+            },
+            "Mary pickford": {
+                "Price": 650
+            },
+            "Bloody mary": {
+                "Price": 900
+            },
+            "Bloody premium": {
+                "Price": 1250
+            },
+            "Screw driver absolut": {
+                "Price": 950
+            },
+            "Cubata": {
+                "Price": 750
+            },
+            "Ton collins": {
+                "Price": 850
+            },
+            "Tom collins premium": {
+                "Price": 1000
+            },
+            "Long island": {
+                "Price": 1500
+            },
+            "Pi\u00f1a colada": {
+                "Price": 1200
+            },
+            "Canchanchara": {
+                "Price": 750
+            },
+            "Expresso": {
+                "Price": 200
+            },
+            "Chucher\u00eda": {
+                "Price": 900
+            },
+            "Con leche": {
+                "Price": 450
+            },
+            "Cortado": {
+                "Price": 300
+            },
+            "Capuccino": {
+                "Price": 600
+            },
+            "Frapuccino": {
+                "Price": 850
+            },
+            "Carajillo": {
+                "Price": 650
+            },
+            "Bombon": {
+                "Price": 650
+            },
+            "Americano": {
+                "Price": 250
+            },
+            "Nespresso": {
+                "Price": 500
+            },
+            "Nespresso americano": {
+                "Price": 500
+            },
+            "Nespresso bombon": {
+                "Price": 900
+            },
+            "Nespresso cortado": {
+                "Price": 600
+            },
+            "Nespresso capuccino": {
+                "Price": 900
+            },
+            "Nespresso frapuccino": {
+                "Price": 1200
+            },
+            "Descafeinado": {
+                "Price": 350
+            },
+            "Chocolate a la espa\u00f1ola": {
+                "Price": 800
+            },
+            "Leche con chocolate": {
+                "Price": 650
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

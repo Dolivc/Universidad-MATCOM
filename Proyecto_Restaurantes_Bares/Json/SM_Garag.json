@@ -1,0 +1,250 @@
+{
+    "Name": "GaraG",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-1200"
+        ],
+        "Tuesday": [
+            "1200-1200"
+        ],
+        "Wednesday": [
+            "1200-1200"
+        ],
+        "Thursday": [
+            "1200-1200"
+        ],
+        "Friday": [
+            "1200-1200"
+        ],
+        "Saturday": [
+            "1200-1200"
+        ],
+        "Sunday": [
+            "1200-1200"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guanabacoa entre B y C",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "picadera GaraG": {
+                "Price": 3500.0
+            },
+            "toston Alfredo": {
+                "Price": 750.0
+            },
+            "eperlan": {
+                "Price": 1650.0
+            },
+            "fajitas de pollo": {
+                "Price": 1225.0
+            },
+            "fajitas de cerdo": {
+                "Price": 1550.0
+            },
+            "croquetas de Mima": {
+                "Price": 750.0
+            },
+            "ceviche": {
+                "Price": 900.0
+            },
+            "tacos de carne": {
+                "Price": 1205.0
+            },
+            "tacos marineros": {
+                "Price": 1295.0
+            },
+            "ensalada fria": {
+                "Price": 750.0
+            },
+            "coctel de camaron": {
+                "Price": 1250.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti napolitano": {
+                    "Price": 930.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 930.0
+                },
+                "pizza antihawaiana": {
+                    "Price": 1555.0
+                },
+                "pizza lechoncito": {
+                    "Price": 1595.0
+                },
+                "pizza 5 quesos": {
+                    "Price": 1650.0
+                }
+            },
+            "Pork": {
+                "bistec de cerdo encebollado": {
+                    "Price": 1950.0
+                },
+                "bistec de cerdo grille": {
+                    "Price": 1700.0
+                },
+                "bistec de cerdo empanado": {
+                    "Price": 1750.0
+                },
+                "bistec de cerdo uruguayo": {
+                    "Price": 1955.0
+                },
+                "masa de cerdo frita": {
+                    "Price": 2200.0
+                },
+                "cerdo asado": {
+                    "Price": 2150.0
+                }
+            },
+            "Chicken": {
+                "pollo frito": {
+                    "Price": 1350.0
+                },
+                "bistec de pollo grille": {
+                    "Price": 1350.0
+                },
+                "pollo empanado": {
+                    "Price": 1450.0
+                },
+                "pollo gordon blue": {
+                    "Price": 1925.0
+                }
+            },
+            "Beef": {
+                "aporreado de res": {
+                    "Price": 1950.0
+                },
+                "ropa vieja": {
+                    "Price": 1930.0
+                }
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 1920.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 1980.0
+                },
+                "filete de pescado GaraG": {
+                    "Price": 2225.0
+                },
+                "pescado canciller": {
+                    "Price": 2150.0
+                },
+                "filete Alfredo": {
+                    "Price": 2195.0
+                },
+                "masa de pescado al ajillo": {
+                    "Price": 1920.0
+                },
+                "pargo frito": {
+                    "Price": 2150.0
+                },
+                "camaron al ajillo": {
+                    "Price": 2300.0
+                },
+                "camaron grille": {
+                    "Price": 2105.0
+                },
+                "enchilado de camaron": {
+                    "Price": 2230.0
+                },
+                "camaron empanado": {
+                    "Price": 2290.0
+                }
+            },
+            "Other": {
+                "arroz frito especial": {
+                    "Price": 1350.0
+                },
+                "arroz frito": {
+                    "Price": 1200.0
+                }
+            }
+        },
+        "Extras": {
+            "ensalada estacion": {
+                "Price": 350.0
+            },
+            "vegetales salteados": {
+                "Price": 350.0
+            }
+        },
+        "Desserts": {
+            "copa de helado": {
+                "Price": 400.0
+            },
+            "copa lolita": {
+                "Price": 650.0
+            },
+            "cake a la moda": {
+                "Price": 850.0
+            },
+            "batido de helado": {
+                "Price": 750.0
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

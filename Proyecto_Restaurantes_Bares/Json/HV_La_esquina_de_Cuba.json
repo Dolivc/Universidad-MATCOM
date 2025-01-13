@@ -1,0 +1,195 @@
+{
+    "Name": "La Esquina de Cuba",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "59110994",
+    "Web_Page": "La Esquina de Cuba",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-22:00"],
+        "Tuesday":  ["11:00-22:00"],
+        "Wednesday": ["11:00-22:00"],
+        "Thursday": ["11:00-22:00"],
+        "Friday":   ["11:00-22:00"],
+        "Saturday": ["11:00-22:00"],
+        "Sunday":   ["11:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Esquina de Calle Cuba y Empedrado",
+        "Coordinates": "4JRW+6VX"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Fritura de malanga": {
+                "Price": 750
+            },
+            "Patacon de la esquina": {
+                "Price": 1050
+            },
+            "Montadito de tamal": {
+                "Price": 1080
+            },
+            "Ceviche de pescado": {
+                "Price": 1450
+            },
+            "Taquitos de la casa": {
+                "Price": 1580
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Pollo al vino tinto": {
+                    "Price": 2050
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Pescado grille con crema de malanga": {
+                    "Price": 2950
+                },
+                "Camarones enchilados": {
+                    "Price": 3050
+                },
+                "Frutos del mar": {
+                    "Price": 3150
+                },
+                "Ensalada del mar": {
+                    "Price": 3450
+                },
+                "Cazuela del mar": {
+                    "Price": 3550
+                }
+            },
+            "Other":{
+                "Almuerzo campesino (Cerdo asado, arroz, frijoles, tostones)":{
+                    "Price": 2350
+                },
+                "Habanero con sabor (Ropa vieja, arroz, frijoles, platano macho)":{
+                    "Price": 2380
+                },
+                "Guajiro con tumbao (Masas de cerdo fritas, arroz, frijoles, matajibaro)":{
+                    "Price": 2580
+                },
+                "Arroz con pollo":{
+                    "Price": 2250
+                },
+                "Ribeye a la esquinita":{
+                    "Price": 8450
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Postre del dia": {
+                "Price": 595
+            }
+        },
+        "Beverages": {
+            "Aguas": {
+                "Price": 250
+            },
+            "Refrescos": {
+                "Price": 375
+            },
+            "Cerveza nacional": {
+                "Price": 450
+            },
+            "Copa de vino": {
+                "Price": 650
+            },
+            "Pinha colada": {
+                "Price": 950 
+            },
+            "Margarita": {
+                "Price": 950 
+            },
+            "Sangria": {
+                "Price": 950
+            },
+            "Mojito": {
+                "Price": 750
+            },
+            "Cuba libre": {
+                "Price": 750
+            },
+            "Daiquiri": {
+                "Price": 750
+            },
+            "Caipirinha": {
+                "Price": 750
+            },
+            "Daiquiri de frutas": {
+                "Price": 850
+            },
+            "Cubata": {
+                "Price": 850
+            },
+            "Mojito de frutas": {
+                "Price": 850
+            },
+            "Gin Tonic": {
+                "Price": 850
+            },
+            "Caipiroska": {
+                "Price": 850
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Reservaciones","area para fumadores"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

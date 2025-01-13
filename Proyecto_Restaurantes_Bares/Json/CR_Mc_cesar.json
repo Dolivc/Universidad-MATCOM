@@ -1,0 +1,257 @@
+{
+    "Name": "Mc Cesar",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "1130-1100"
+        ],
+        "Wednesday": [
+            "1130-1100"
+        ],
+        "Thursday": [
+            "1130-1100"
+        ],
+        "Friday": [
+            "1130-1100"
+        ],
+        "Saturday": [
+            "1130-1100"
+        ],
+        "Sunday": [
+            "1130-1100"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "calle primer entre 220 y 221, Cotorro",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "dados jamon y queso": {
+                "Price": 1000.0
+            },
+            "eperlan": {
+                "Price": 1300.0
+            },
+            "tostones rellenos": {
+                "Price": 600.0
+            },
+            "tostones criollos": {
+                "Price": 350.0
+            },
+            "croquetas de la casa": {
+                "Price": 500.0
+            },
+            "picadera Mc Cesar": {
+                "Price": 2500.0
+            },
+            "papas fritas": {
+                "Price": 600.0
+            },
+            "fritura de malanga": {
+                "Price": 400.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti": {
+                    "Price": 500.0
+                }
+            },
+            "Pizza": {
+                "pizza": {
+                    "Price": 500.0
+                }
+            },
+            "Pork": {
+                "churrasco de cerdo": {
+                    "Price": 2000.0
+                },
+                "higado de cerdo a la italiana": {
+                    "Price": 1000.0
+                },
+                "cerdo salteado de vegeteales": {
+                    "Price": 1500.0
+                },
+                "bistec de cerdo grille": {
+                    "Price": 1300.0
+                },
+                "faja de cerdo": {
+                    "Price": 1400.0
+                },
+                "escalope de cerdo": {
+                    "Price": 1400.0
+                },
+                "solomillo de cerdo": {
+                    "Price": 2000.0
+                },
+                "lomo ahumado deshuesado": {
+                    "Price": 1300.0
+                }
+            },
+            "Chicken": {
+                "pechuga de pollo grille": {
+                    "Price": 1300.0
+                },
+                "salteado de pollo": {
+                    "Price": 1400.0
+                },
+                "pollo deshuesado": {
+                    "Price": 900.0
+                },
+                "pollo gordon blue": {
+                    "Price": 1500.0
+                },
+                "suprema de pollo princesa": {
+                    "Price": 1500.0
+                }
+            },
+            "Beef": {
+                "bistec uruguayo": {
+                    "Price": 1500.0
+                },
+                "ropa vieja": {
+                    "Price": 1800.0
+                },
+                "vaca frita": {
+                    "Price": 1800.0
+                },
+                "bistec de res": {
+                    "Price": 2000.0
+                },
+                "churrasco de res": {
+                    "Price": 3000.0
+                }
+            },
+            "Sea": {
+                "langosta enchilada": {
+                    "Price": 2000.0
+                },
+                "langosta al ajillo": {
+                    "Price": 2000.0
+                },
+                "langosta mariposa": {
+                    "Price": 2300.0
+                },
+                "pescado grille": {
+                    "Price": 1500.0
+                },
+                "pescado Mc Cesar": {
+                    "Price": 2500.0
+                },
+                "canciller de pescado": {
+                    "Price": 1800.0
+                },
+                "pescado empanado": {
+                    "Price": 1600.0
+                },
+                "pescado con salsa de limon": {
+                    "Price": 1700.0
+                },
+                "camaron grille": {
+                    "Price": 1900.0
+                },
+                "camaron al ajillo": {
+                    "Price": 1900.0
+                },
+                "camaron enchilado": {
+                    "Price": 2000.0
+                }
+            },
+            "Other": {
+                "brocheta de cerdo y pollo": {
+                    "Price": 1700.0
+                },
+                "garbanzo frito": {
+                    "Price": 1000.0
+                }
+            }
+        },
+        "Extras": {
+            "arroz Mc Cesar": {
+                "Price": 1500.0
+            },
+            "arroz a la campesina": {
+                "Price": 1500.0
+            },
+            "arroz moro": {
+                "Price": 300.0
+            },
+            "arroz blanco": {
+                "Price": 200.0
+            },
+            "arroz frito": {
+                "Price": 500.0
+            }
+        },
+        "Desserts": {
+            "torrejas": {
+                "Price": 250.0
+            },
+            "ensalada de helado": {
+                "Price": 500.0
+            },
+            "bola de helado": {
+                "Price": 100.0
+            },
+            "batido de helado": {
+                "Price": 500.0
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "Name": "La Catedral",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2300"
+        ],
+        "Tuesday": [
+            "800-2300"
+        ],
+        "Wednesday": [
+            "800-2300"
+        ],
+        "Thursday": [
+            "800-2300"
+        ],
+        "Friday": [
+            "800-2300"
+        ],
+        "Saturday": [
+            "800-2300"
+        ],
+        "Sunday": [
+            "800-2300"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza, La Habana 10400 Cuba",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Bombones de queso y pescado": {
+                "Price": 499.0
+            },
+            "Mariquitas de yuca": {
+                "Price": 350.0
+            },
+            "Brusquetas": {
+                "Price": 350.0
+            },
+            "Garbanzos fritos": {
+                "Price": 700.0
+            },
+            "Entremeses surtido": {
+                "Price": 799.0
+            },
+            "Picadera obispo": {
+                "Price": 1350.0
+            },
+            "Fuente de eperlan": {
+                "Price": 1400.0
+            },
+            "Tabla de embutidos": {
+                "Price": 1500.0
+            },
+            "Tacos de cerdo y pollo": {
+                "Price": 1500.0
+            },
+            "Fajitas de pollo frito": {
+                "Price": 1500.0
+            },
+            "Tabla de jamon serrano, chorizo y queso": {
+                "Price": 1900.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo al mojo criollo": {
+                    "Price": 1500.0
+                },
+                "Fajita de cerdo al grill": {
+                    "Price": 1500.0
+                },
+                "Lonjas de pierna ahumado salsa agridulce": {
+                    "Price": 1700.0
+                },
+                "Lonjas de pierna ahumado con queso y pinha": {
+                    "Price": 1800.0
+                },
+                "Milanesa de cerdo con espaguettis": {
+                    "Price": 1500.0
+                }
+            },
+            "Chicken": {
+                "Pollo deshuesado a la plancha": {
+                    "Price": 1400.0
+                },
+                "Fajitas de pollo salteadas": {
+                    "Price": 1400.0
+                },
+                "Milanesa de pollo con espaguettis": {
+                    "Price": 1400.0
+                },
+                "Arroz con pollo a la chorrera": {
+                    "Price": 1500.0
+                }
+            },
+            "Beef": {
+                "Lasanha de res": {
+                    "Price": 1600.0
+                },
+                "Ropa vieja": {
+                    "Price": 1800.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado maitre de hotel": {
+                    "Price": 1700.0
+                },
+                "Filete de pescado frito": {
+                    "Price": 1800.0
+                },
+                "Arroz frito especial con camarones": {
+                    "Price": 1700.0
+                }
+            },
+            "Other": {
+                "Arroz frito": {
+                    "Price": 1500.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Refrescos": {
+                "Price": 199.0
+            },
+            "Limonada de fresas": {
+                "Price": 250.0
+            },
+            "Jugos de frutas": {
+                "Price": 199.0
+            },
+            "Agua natural": {
+                "Price": 199.0
+            },
+            "Malta perla negra": {
+                "Price": 350.0
+            },
+            "Cristal (barril) 500ml": {
+                "Price": 350.0
+            },
+            "Cristal (botella)": {
+                "Price": 350.0
+            },
+            "Bucanero (barril) 500ml": {
+                "Price": 350.0
+            },
+            "Bucanero (botella)": {
+                "Price": 350.0
+            },
+            "Cubetazo 4+1": {
+                "Price": 1500.0
+            },
+            "Michelada clasica": {
+                "Price": 425.0
+            },
+            "Michelada al mojito": {
+                "Price": 425.0
+            },
+            "Michelada vampira": {
+                "Price": 425.0
+            },
+            "Michelada salsanera": {
+                "Price": 425.0
+            },
+            "Mojito": {
+                "Price": 340.0
+            },
+            "Daiquiri": {
+                "Price": 340.0
+            },
+            "Daiquiri de fresas": {
+                "Price": 499.0
+            },
+            "Cubalibre": {
+                "Price": 340.0
+            },
+            "Cubanito": {
+                "Price": 399.0
+            },
+            "Blody mary": {
+                "Price": 499.0
+            },
+            "Sangria": {
+                "Price": 499.0
+            },
+            "Screw driver": {
+                "Price": 599.0
+            },
+            "Caipirinha": {
+                "Price": 599.0
+            },
+            "Pinha colada": {
+                "Price": 599.0
+            },
+            "Martini": {
+                "Price": 599.0
+            },
+            "Old fashioned": {
+                "Price": 599.0
+            },
+            "Whiskey sour": {
+                "Price": 599.0
+            },
+            "Manhatan": {
+                "Price": 599.0
+            },
+            "Negroni": {
+                "Price": 599.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking",
+            "Takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

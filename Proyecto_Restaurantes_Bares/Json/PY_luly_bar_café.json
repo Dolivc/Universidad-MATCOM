@@ -1,0 +1,451 @@
+{
+    "Name": "Luly Bar Cafe",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2200"
+        ],
+        "Tuesday": [
+            "800-2200"
+        ],
+        "Wednesday": [
+            "800-2200"
+        ],
+        "Thursday": [
+            "800-2200"
+        ],
+        "Friday": [
+            "800-2200"
+        ],
+        "Saturday": [
+            "800-2200"
+        ],
+        "Sunday": [
+            "800-2200"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno standard": {
+                    "Price": 1800
+                },
+                "Desayuno xl": {
+                    "Price": 2300
+                },
+                "Super bowl": {
+                    "Price": 850
+                },
+                "Ensalada de frutas": {
+                    "Price": 700
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas de pollo": {
+                "Price": 1100
+            },
+            "Croquetones de serrano": {
+                "Price": 1500
+            },
+            "Croquetones de pescado": {
+                "Price": 1300
+            },
+            "Empanaditas de cerdo": {
+                "Price": 1000
+            },
+            "Pa\u00f1uelo de carbonara": {
+                "Price": 900
+            },
+            "Montaditos": {
+                "Price": 500
+            },
+            "Provolone y serrano": {
+                "Price": 1400
+            },
+            "Tamal en cazuela": {
+                "Price": 1000
+            },
+            "Pimientos piquillo rellenos de atun": {
+                "Price": 1600
+            },
+            "Tapas de tumaca": {
+                "Price": 700
+            },
+            "Tapas de serrano": {
+                "Price": 1500
+            },
+            "Tapas de jamon de pavo": {
+                "Price": 1100
+            },
+            "Tapas de jamon st dalmai": {
+                "Price": 1000
+            },
+            "Tapas de salmon": {
+                "Price": 1900
+            },
+            "Tapas de salchichon iberico": {
+                "Price": 1300
+            },
+            "Tapas de chorizo iberico": {
+                "Price": 1300
+            },
+            "Tapas de chorizo cular": {
+                "Price": 1100
+            },
+            "Tapas de queso azul": {
+                "Price": 900
+            },
+            "Croissant": {
+                "Price": 350
+            },
+            "Donuts": {
+                "Price": 450
+            },
+            "Cesta de pan": {
+                "Price": 600
+            },
+            "Feria de quesos": {
+                "Price": 2200
+            },
+            "Feria de embutidos": {
+                "Price": 3000
+            },
+            "El verdadero remix": {
+                "Price": 2250
+            },
+            "Lecho fresco de vegetales": {
+                "Price": 850
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Rothman azul": {
+                    "Price": 500
+                },
+                "Rothman rojo": {
+                    "Price": 350
+                },
+                "The king": {
+                    "Price": 400
+                },
+                "Mondeo": {
+                    "Price": 600
+                },
+                "H. hupman con filtro": {
+                    "Price": 300
+                },
+                "H. hupman sin filtro": {
+                    "Price": 250
+                }
+            }
+        },
+        "Extras": {
+            "Nutella": {
+                "Price": 250
+            },
+            "Almendras": {
+                "Price": 160
+            },
+            "Chia": {
+                "Price": 50
+            },
+            "Mantequilla": {
+                "Price": 100
+            },
+            "Serrano": {
+                "Price": 675
+            },
+            "Jamon de pavo": {
+                "Price": 450
+            },
+            "Jamon st dalmai": {
+                "Price": 400
+            },
+            "Salmon": {
+                "Price": 700
+            },
+            "Salchichon iberico": {
+                "Price": 610
+            },
+            "Chorizo iberico": {
+                "Price": 500
+            },
+            "Chorizo cular": {
+                "Price": 500
+            },
+            "Queso manchego": {
+                "Price": 500
+            },
+            "Queso azul": {
+                "Price": 500
+            },
+            "Queso provolone": {
+                "Price": 450
+            },
+            "Queso feta": {
+                "Price": 500
+            },
+            "Queso edam": {
+                "Price": 375
+            },
+            "Queso gouda": {
+                "Price": 350
+            },
+            "Huevo": {
+                "Price": 160
+            },
+            "Aceitunas": {
+                "Price": 800
+            },
+            "Lech\u00f3n asado": {
+                "Price": 1000
+            }
+        },
+        "Desserts": {
+            "Casquitos de guayaba con queso": {
+                "Price": 500
+            },
+            "Pudin": {
+                "Price": 250
+            },
+            "Mermelada con queso": {
+                "Price": 300
+            },
+            "Mini muffin": {
+                "Price": 300
+            },
+            "Muffin fusi\u00f3n": {
+                "Price": 500
+            },
+            "Waffle": {
+                "Price": 600
+            },
+            "Pop waffle": {
+                "Price": 900
+            }
+        },
+        "Beverages": {
+            "Agua cm": {
+                "Price": 250
+            },
+            "Agua san benedetto natural": {
+                "Price": 1000
+            },
+            "Agua san benedetto gaseada": {
+                "Price": 1100
+            },
+            "Tonica shweppes": {
+                "Price": 1000
+            },
+            "Tukola": {
+                "Price": 300
+            },
+            "Pepsi": {
+                "Price": 350
+            },
+            "Malta": {
+                "Price": 280
+            },
+            "Granizado": {
+                "Price": 60
+            },
+            "Jugo cajita": {
+                "Price": 250
+            },
+            "Jugo natural": {
+                "Price": 500
+            },
+            "Jugo verde": {
+                "Price": 600
+            },
+            "Limonada": {
+                "Price": 500
+            },
+            "Cristal": {
+                "Price": 450
+            },
+            "Bucanero": {
+                "Price": 450
+            },
+            "Corona": {
+                "Price": 600
+            },
+            "Cruzcampo": {
+                "Price": 400
+            },
+            "Michelada": {
+                "Price": 450
+            },
+            "Copa de campoviejo tempranillo tinto": {
+                "Price": 1000
+            },
+            "Botella de campoviejo tempranillo tinto": {
+                "Price": 4700
+            },
+            "Copa campoviejo tempranillo blanco": {
+                "Price": 900
+            },
+            "Botella campoviejo tempranillo blanco": {
+                "Price": 4200
+            },
+            "Havana club 7 anhos": {
+                "Price": 850
+            },
+            "Havana club 3 anhos": {
+                "Price": 400
+            },
+            "Havana club profundo": {
+                "Price": 250
+            },
+            "Santiago anhejo 8 anhos": {
+                "Price": 1000
+            },
+            "Clan campbell": {
+                "Price": 850
+            },
+            "Ballantines": {
+                "Price": 900
+            },
+            "Jameson": {
+                "Price": 950
+            },
+            "Johnnie walker rl": {
+                "Price": 1000
+            },
+            "Tequila silver/reposado": {
+                "Price": 1200
+            },
+            "Mojito": {
+                "Price": 1200
+            },
+            "Cuba libre": {
+                "Price": 1000
+            },
+            "Cubata": {
+                "Price": 1300
+            },
+            "Gin especial": {
+                "Price": 2000
+            },
+            "Gin tonic": {
+                "Price": 1600
+            },
+            "Vodka tonic": {
+                "Price": 1400
+            },
+            "Caipirinha": {
+                "Price": 1000
+            },
+            "Caipiroska": {
+                "Price": 1100
+            },
+            "Tinto de verano": {
+                "Price": 1300
+            },
+            "Cubanito": {
+                "Price": 1200
+            },
+            "Daiquiri": {
+                "Price": 1025
+            },
+            "Screwdriver": {
+                "Price": 1500
+            },
+            "Expresso": {
+                "Price": 200
+            },
+            "Cortadito": {
+                "Price": 300
+            },
+            "Americano": {
+                "Price": 300
+            },
+            "Bombon": {
+                "Price": 500
+            },
+            "Capuchino": {
+                "Price": 400
+            },
+            "Frapuchino": {
+                "Price": 800
+            },
+            "Cafe con leche": {
+                "Price": 600
+            },
+            "Te": {
+                "Price": 200
+            },
+            "Te helado": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

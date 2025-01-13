@@ -1,0 +1,244 @@
+{
+    "Name": "Spot Bar",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "2400-0"
+        ],
+        "Tuesday": [
+            "2400-0"
+        ],
+        "Wednesday": [
+            "2400-0"
+        ],
+        "Thursday": [
+            "2400-0"
+        ],
+        "Friday": [
+            "2400-0"
+        ],
+        "Saturday": [
+            "2400-0"
+        ],
+        "Sunday": [
+            "2400-0"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": "23 y 12, Vedado, Plaza",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {},
+            "Tortilla": {},
+            "Hambuerguer": {},
+            "Sandwich": {},
+            "Bread": {},
+            "Other": {
+                "Waffles": {
+                    "Price": 600.0
+                },
+                "Americano": {
+                    "Price": 1000.0
+                }
+            }
+        },
+        "Appetizers": {
+            "Brusquetas": {
+                "Price": 500.0
+            },
+            "Croquetas del dia": {
+                "Price": 550.0
+            },
+            "Fritura de malanga": {
+                "Price": 450.0
+            },
+            "Papas fritas": {
+                "Price": 550.0
+            },
+            "Picadera 23 y 12": {
+                "Price": 2500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napoles": {
+                    "Price": 1250.0
+                },
+                "Pasta bolonhesa": {
+                    "Price": 1800.0
+                },
+                "Pasta pesto": {
+                    "Price": 950.0
+                },
+                "Pasta napoles": {
+                    "Price": 1200.0
+                },
+                "Pasta aljillo": {
+                    "Price": 1000.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Tacos de pollo, 3 unidades": {
+                    "Price": 2000.0
+                },
+                "Tacos de pollo, 8 unidades": {
+                    "Price": 3000.0
+                },
+                "Tacos de cerdo, 3 unidades": {
+                    "Price": 2500.0
+                },
+                "Tacos de camaron, 3 unidades": {
+                    "Price": 2500.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cr7": {
+                "Price": 700.0
+            },
+            "Messi": {
+                "Price": 600.0
+            },
+            "Lakers": {
+                "Price": 600.0
+            },
+            "Habana mule": {
+                "Price": 600.0
+            },
+            "Canchancara habana": {
+                "Price": 600.0
+            },
+            "Michelada 23 y 12": {
+                "Price": 500.0
+            },
+            "Zombie": {
+                "Price": 650.0
+            },
+            "Vampiro": {
+                "Price": 700.0
+            },
+            "Cerveza cristal": {
+                "Price": 400.0
+            },
+            "Cerveza cristal extra": {
+                "Price": 500.0
+            },
+            "Cerveza bucanero": {
+                "Price": 400.0
+            },
+            "Cerveza bucanero max": {
+                "Price": 500.0
+            },
+            "Cerveza dispensada": {
+                "Price": 350.0
+            },
+            "Agua nacional": {
+                "Price": 250.0
+            },
+            "Agua importada": {
+                "Price": 450.0
+            },
+            "Refresco nacional": {
+                "Price": 280.0
+            },
+            "Refresco importado": {
+                "Price": 300.0
+            },
+            "Malta": {
+                "Price": 400.0
+            },
+            "Energizante": {
+                "Price": 600.0
+            },
+            "Limonada natural": {
+                "Price": 400.0
+            },
+            "Limonada c/ hierba buena": {
+                "Price": 425.0
+            },
+            "Jugo natural": {
+                "Price": 350.0
+            },
+            "Cafe americano": {
+                "Price": 250.0
+            },
+            "Cafe espresso": {
+                "Price": 250.0
+            },
+            "Cafe espresso c/ coffemate": {
+                "Price": 300.0
+            },
+            "Cafe cortadito": {
+                "Price": 300.0
+            },
+            "Cafe bombom": {
+                "Price": 400.0
+            },
+            "Cafe cappuccino": {
+                "Price": 500.0
+            },
+            "Cafe affocato": {
+                "Price": 500.0
+            },
+            "Cafe frapuccino": {
+                "Price": 550.0
+            },
+            "Cafe frapuccino 23 y 12": {
+                "Price": 650.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

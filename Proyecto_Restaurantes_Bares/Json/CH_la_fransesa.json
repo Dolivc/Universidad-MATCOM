@@ -1,0 +1,412 @@
+{
+    "Name": "La fransesa",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-1200"
+        ],
+        "Tuesday": [
+            "800-1200"
+        ],
+        "Wednesday": [
+            "800-1200"
+        ],
+        "Thursday": [
+            "800-1200"
+        ],
+        "Friday": [
+            "800-1200"
+        ],
+        "Saturday": [
+            "800-1200"
+        ],
+        "Sunday": [
+            "800-1200"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Prado entre San Rafael y Neptuno",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Toston relleno 3.0": {
+                "Price": 1500
+            },
+            "Brusquetas": {
+                "Price": 1500
+            },
+            "Coctel de camarones": {
+                "Price": 1800
+            },
+            "Tostas de jamon serrano": {
+                "Price": 1800
+            },
+            "Bolitas de queso estilo La Francesa": {
+                "Price": 1600
+            },
+            "Ceviche de pesca blanca": {
+                "Price": 1800
+            },
+            "Ensalada Capricho": {
+                "Price": 1800
+            },
+            "Papas bravas": {
+                "Price": 1500
+            },
+            "Papas fritas": {
+                "Price": 1600
+            },
+            "Frituritas de malanga": {
+                "Price": 950
+            },
+            "Croissant Natural": {
+                "Price": 750
+            },
+            "Croquetas de la casa": {
+                "Price": 1600
+            },
+            "Tabla fria": {
+                "Price": 3200
+            },
+            "Tabla caliente": {
+                "Price": 3500
+            },
+            "Tabla de jamon serrano": {
+                "Price": 3500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta Napolitana": {
+                    "Price": 1250
+                },
+                "Pasta Bolonhesa": {
+                    "Price": 1000
+                },
+                "Pasta Carbonara": {
+                    "Price": 1800
+                },
+                "Pasta al Pesto": {
+                    "Price": 1800
+                },
+                "Pasta Aglio Olio": {
+                    "Price": 1260
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Brochetas de cerdo": {
+                    "Price": 2500
+                },
+                "Tacos de cerdo": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "Nuggets de pollo": {
+                    "Price": 1800
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Dados de pescado frito con acompanhamiento de salsa tartara": {
+                    "Price": 1800
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Brownie de chocolate": {
+                "Price": 1200
+            },
+            "Mousse de cafe": {
+                "Price": 950
+            },
+            "Pie de limon": {
+                "Price": 1200
+            },
+            "Chesse cake": {
+                "Price": 1200
+            },
+            "Copa de helado": {
+                "Price": 1200
+            }
+        },
+        "Beverages": {
+            "Batidos de frutas": {
+                "Price": 500
+            },
+            "Batido de helado": {
+                "Price": 500
+            },
+            "Malteada": {
+                "Price": 500
+            },
+            "Limonada Frescura": {
+                "Price": 700
+            },
+            "Jugos de frutas": {
+                "Price": 700
+            },
+            "Refrescos (Cola, Limon y Naranja)": {
+                "Price": 500
+            },
+            "Malta": {
+                "Price": 500
+            },
+            "Agua natural": {
+                "Price": 450
+            },
+            "Agua gaseada": {
+                "Price": 600
+            },
+            "Espresso": {
+                "Price": 300
+            },
+            "Cortado": {
+                "Price": 350
+            },
+            "Capuccino": {
+                "Price": 450
+            },
+            "Frapuccino": {
+                "Price": 550
+            },
+            "Bombon": {
+                "Price": 550
+            },
+            "Carajillo": {
+                "Price": 550
+            },
+            "Espresso Martini": {
+                "Price": 700
+            },
+            "Cafe con leche": {
+                "Price": 700
+            },
+            "Leche con chocolate": {
+                "Price": 750
+            },
+            "Te": {
+                "Price": 300
+            },
+            "Cuba Libre": {
+                "Price": 750
+            },
+            "Mojito": {
+                "Price": 750
+            },
+            "Pinha colada": {
+                "Price": 950
+            },
+            "Pinha colada sin alcohol": {
+                "Price": 900
+            },
+            "Margarita": {
+                "Price": 900
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Daiquiri frapeado": {
+                "Price": 900
+            },
+            "Caipirinha": {
+                "Price": 900
+            },
+            "Caipiroska": {
+                "Price": 900
+            },
+            "Caipirisima": {
+                "Price": 900
+            },
+            "Sangria": {
+                "Price": 900
+            },
+            "Tinto de verano": {
+                "Price": 750
+            },
+            "Mimosa": {
+                "Price": 750
+            },
+            "Aperol Spritz": {
+                "Price": 900
+            },
+            "Michelada": {
+                "Price": 900
+            },
+            "Havana Especial": {
+                "Price": 900
+            },
+            "Cubata": {
+                "Price": 900
+            },
+            "Cubanito": {
+                "Price": 900
+            },
+            "Mary Pickford": {
+                "Price": 900
+            },
+            "Bloody Mary": {
+                "Price": 900
+            },
+            "Gin tonic": {
+                "Price": 950
+            },
+            "Negroni": {
+                "Price": 900
+            },
+            "Tequila sunrise": {
+                "Price": 900
+            },
+            "Old fashioned": {
+                "Price": 900
+            },
+            "Sex on the beach": {
+                "Price": 900
+            },
+            "Cristal": {
+                "Price": 650
+            },
+            "Cristal extra": {
+                "Price": 750
+            },
+            "Corona": {
+                "Price": 600
+            },
+            "Bucanero": {
+                "Price": 650
+            },
+            "Ballantines": {
+                "Price": 900
+            },
+            "Clan Campbell": {
+                "Price": 900
+            },
+            "Johnnie Walker": {
+                "Price": 1200
+            },
+            "Chivas Regal 12": {
+                "Price": 1200
+            },
+            "JB": {
+                "Price": 950
+            },
+            "Havana Club 3 anhos": {
+                "Price": 650
+            },
+            "Havana Club Anhejo Especial": {
+                "Price": 700
+            },
+            "Havana Club 7 anhos": {
+                "Price": 900
+            },
+            "Havana Club Seleccion de Maestros": {
+                "Price": 1700
+            },
+            "Santiago 7 anhos": {
+                "Price": 700
+            },
+            "Santiago 11 anhos": {
+                "Price": 850
+            },
+            "Santiago 12 anhos": {
+                "Price": 900
+            },
+            "Cubay": {
+                "Price": 850
+            },
+            "Pacto Navio": {
+                "Price": 2000
+            },
+            "Tequila Senhor de los Cielos": {
+                "Price": 650
+            },
+            "Tequila Olmeca": {
+                "Price": 650
+            },
+            "Maestro Tequilero": {
+                "Price": 560
+            },
+            "Maestro Tangueray": {
+                "Price": 550
+            },
+            "Ginebra Tanqueray": {
+                "Price": 650
+            },
+            "Ginebra Beefeater": {
+                "Price": 650
+            },
+            "Vodka Lyubov": {
+                "Price": 950
+            },
+            "Vodka Igor": {
+                "Price": 650
+            },
+            "Vodka Absolut": {
+                "Price": 650
+            },
+            "Copa de vino de la casa": {
+                "Price": 760
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

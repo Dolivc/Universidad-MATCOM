@@ -1,0 +1,199 @@
+{
+    "Name": "Pizzeria Los Atrevidos",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2100"
+        ],
+        "Tuesday": [
+            "1000-2100"
+        ],
+        "Wednesday": [
+            "1000-2100"
+        ],
+        "Thursday": [
+            "1000-2100"
+        ],
+        "Friday": [
+            "1000-2100"
+        ],
+        "Saturday": [
+            "1000-2100"
+        ],
+        "Sunday": [
+            "1000-2100"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                "lasagna": {
+                    "Price": 1100.0
+                },
+                "spaghettis napolitanos": {
+                    "Price": 1000.0
+                },
+                "spaghettis de parmesano": {
+                    "Price": 1200.0
+                },
+                "spaghettis de jamon": {
+                    "Price": 1250.0
+                },
+                "spaghettis de atun": {
+                    "Price": 1350.0
+                },
+                "spaghettis de chorizo": {
+                    "Price": 1250.0
+                },
+                "spaghettis de aceituna": {
+                    "Price": 1300.0
+                },
+                "spaghettis de cebolla": {
+                    "Price": 1150.0
+                },
+                "spaghettis hawaianos": {
+                    "Price": 1300.0
+                },
+                "spaghettis 4 quesos": {
+                    "Price": 1400.0
+                },
+                "spaghettis atrevidos": {
+                    "Price": 1050.0
+                },
+                "spaghettis bolonnesa": {
+                    "Price": 1450.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 1100.0
+                },
+                "pizza de cebolla": {
+                    "Price": 1250.0
+                },
+                "pizza de champinnones": {
+                    "Price": 1300.0
+                },
+                "pizza de pimiento": {
+                    "Price": 1250.0
+                },
+                "pizza de jamon": {
+                    "Price": 1350.0
+                },
+                "pizza de aceitunas": {
+                    "Price": 1400.0
+                },
+                "pizza de chorizo": {
+                    "Price": 1350.0
+                },
+                "pizza de chorizo vela": {
+                    "Price": 1150.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1400.0
+                },
+                "pizza de bacon": {
+                    "Price": 1400.0
+                },
+                "pizza de atun": {
+                    "Price": 1500.0
+                },
+                "pizza bolonesa": {
+                    "Price": 1600.0
+                },
+                "pizza de jamon serrano": {
+                    "Price": 1550.0
+                },
+                "pizza de camarones": {
+                    "Price": 1650.0
+                },
+                "pizza 4 quesos": {
+                    "Price": 1500.0
+                },
+                "pizza atrevida": {
+                    "Price": 1800.0
+                },
+                "pizza jamon pierna": {
+                    "Price": 1500.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

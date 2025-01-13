@@ -1,0 +1,207 @@
+{
+    "Name": "Teniente Rey 360",
+    "Type": "Restaurante",
+    "Phone_Number": "78602916",
+    "Web_Page": "Teniente Rey 360",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Teniente Rey, #360, esquina de Aguacate y Villegas",
+        "Coordinates": "null"
+    },
+    "Cuisine": "Criolla",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 400
+            },
+            "Bolitas de queso": {
+                "Price": 500
+            },
+            "Tostones rellenos": {
+                "Price": 600
+            },
+            "Garbanzos fritos": {
+                "Price": 700
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masas de cerdo": {
+                    "Price": 1700
+                },
+                "Fricase de cerdo": {
+                    "Price": 1750
+                }
+            },
+            "Chicken": {
+                "Pechuga de pollo": {
+                    "Price": 1950
+                },
+                "Fajitas de pechuga de pollo": {
+                    "Price": 2000
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1950
+                }
+            },
+            "Sea": {
+                "Coctel de camarones": {
+                    "Price": 700
+                },
+                "Coctel de langosta": {
+                    "Price": 700
+                },
+                "Langosta al ajillo o enchilada": {
+                    "Price": 2500
+                },
+                "Colas de langosta": {
+                    "Price": 2600
+                },
+                "Camarones a la orden (al ajillo o enchilado)": {
+                    "Price": 2500
+                },
+                "Camarones rebosados": {
+                    "Price": 2800
+                },
+                "Pulpo al ajillo o grille": {
+                    "Price": 2700
+                },
+                "Mariscada Teniente Rey": {
+                    "Price": 2900
+                },
+                "Filete de pescado": {
+                    "Price": 2400
+                }
+            },
+            "Other":{
+                "Picadillo a la cubana":{
+                    "Price": 1500
+                },
+                "Solomillo":{
+                    "Price": 1900
+                },
+                "Cazuelita Teniente Rey":{
+                    "Price": 2900
+                },
+                "Filete Mignon":{
+                    "Price": 3200
+                },
+                "Punta de filete":{
+                    "Price": 2900
+                },
+                "Filete Jhonvill":{
+                    "Price": 3500
+                }
+            }
+        },
+        "Extras": {
+            "Arroz": {
+                "Price": 200
+            },
+            "Chatinos": {
+                "Price": 300
+            },
+            "Yuca": {
+                "Price": 200
+            }
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 500
+            },
+            "Torrejas": {
+                "Price": 400
+            }
+        },
+        "Beverages": {
+            "Refrescos nacionales": {
+                "Price": 380
+            },
+            "Refrescos importados": {
+                "Price": 420
+            },
+            "Malta nacional": {
+                "Price": 420
+            },
+            "Agua natural nacional": {
+                "Price": 250
+            },
+            "Kermato": {
+                "Price": 500
+            },
+            "Agua tonica": {
+                "Price": 450
+            },
+            "Cerveza nacional enlatada": {
+                "Price": 360
+            },
+            "Cerveza nacional en botella": {
+                "Price": 460
+            },
+            "Cerveza importada": {
+                "Price": 460
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": ["Area para fumadores","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

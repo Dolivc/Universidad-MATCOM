@@ -1,0 +1,505 @@
+{
+    "Name": "La Fela",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-0"
+        ],
+        "Tuesday": [
+            "1200-0"
+        ],
+        "Wednesday": [
+            "1200-0"
+        ],
+        "Thursday": [
+            "1200-0"
+        ],
+        "Friday": [
+            "1200-0"
+        ],
+        "Saturday": [
+            "1200-0"
+        ],
+        "Sunday": [
+            "1200-0"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#4, Nuestra Senora de Regla entre Remedios y Calzada de Luyano",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Ensalada fria de jamon": {
+                "Price": 600.0
+            },
+            "Ceviche de pescado": {
+                "Price": 2000.0
+            },
+            "Tartar de salmon": {
+                "Price": 2000.0
+            },
+            "Ceviche de camarones": {
+                "Price": 2000.0
+            },
+            "Coctel de camaron": {
+                "Price": 2000.0
+            },
+            "Tabla mixta": {
+                "Price": 2600.0
+            },
+            "Tabla de jamon Serrano y queso azul": {
+                "Price": 2800.0
+            },
+            "Croquetas de la casa": {
+                "Price": 700.0
+            },
+            "Garbanzos fritos": {
+                "Price": 1800.0
+            },
+            "Frituras de malanga": {
+                "Price": 750.0
+            },
+            "Bolitas de queso con salsa agridulce": {
+                "Price": 750.0
+            },
+            "Tostones rellenos con ropa vieja de cerdo": {
+                "Price": 1300.0
+            },
+            "Eperlan de pescado con salsa rosa": {
+                "Price": 2000.0
+            },
+            "Fajitas de pollo": {
+                "Price": 1800.0
+            },
+            "Tacos al pastor": {
+                "Price": 1000.0
+            },
+            "Empanada de la casa en salsa agridulce": {
+                "Price": 600.0
+            },
+            "Tequenos (rollitos de queso)": {
+                "Price": 600.0
+            },
+            "Crema de queso": {
+                "Price": 550.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna": {
+                    "Price": 1200.0
+                },
+                "Espaghettis napolitano de queso blanco": {
+                    "Price": 700.0
+                },
+                "Espaghettis napolitanos de queso importado": {
+                    "Price": 1100.0
+                },
+                "Espaghettis al Pesto con queso importado": {
+                    "Price": 1500.0
+                },
+                "Espaghettis Frutti di Mare": {
+                    "Price": 3200.0
+                }
+            },
+            "Pizza": {
+                "Pizza npolitana": {
+                    "Price": 1000.0
+                },
+                "Pizza La Fela": {
+                    "Price": 2400.0
+                },
+                "Pizza de vegetales": {
+                    "Price": 1700.0
+                },
+                "Super Pizza de queso blanco": {
+                    "Price": 1600.0
+                },
+                "Super Pizza de queso importado": {
+                    "Price": 2400.0
+                },
+                "Pizza de champignones": {
+                    "Price": 1500.0
+                },
+                "Pizza Frutti di Mare": {
+                    "Price": 2900.0
+                },
+                "Pizza Margarita": {
+                    "Price": 1400.0
+                },
+                "Pizza de camarones": {
+                    "Price": 2600.0
+                },
+                "Pizza napolitana con queso blanco": {
+                    "Price": 600.0
+                }
+            },
+            "Pork": {
+                "Masas de cerdo fritas encebolladas": {
+                    "Price": 2800.0
+                },
+                "Chuleta de cerdo": {
+                    "Price": 2500.0
+                },
+                "Bistec de cerdo grille": {
+                    "Price": 2000.0
+                },
+                "Bistec de cerdo encebollado": {
+                    "Price": 2200.0
+                },
+                "Bistec de cerdo gratinado con jamon y queso": {
+                    "Price": 2400.0
+                },
+                "Lonjas de cerdo con mojo criollo": {
+                    "Price": 2800.0
+                }
+            },
+            "Chicken": {
+                "Bistec de pollo grille": {
+                    "Price": 1800.0
+                },
+                "Suprema de pollo grille": {
+                    "Price": 2200.0
+                },
+                "Suprema de pollo gratinada con jamon y queso": {
+                    "Price": 2400.0
+                },
+                "Suprema de pollo a la crema": {
+                    "Price": 2400.0
+                }
+            },
+            "Beef": {
+                "Bistec de palomilla": {
+                    "Price": 2500.0
+                },
+                "Filet Mignon": {
+                    "Price": 4000.0
+                },
+                "Ropa vieja de res": {
+                    "Price": 2500.0
+                },
+                "Vaca frita con anillos de cebolla": {
+                    "Price": 2700.0
+                },
+                "Churrasco de res": {
+                    "Price": 4000.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2500.0
+                },
+                "Filete de pescado gratinado con jamon y queso": {
+                    "Price": 2800.0
+                },
+                "Filete de pescado al limon": {
+                    "Price": 2700.0
+                },
+                "Filete de pescado La Fela": {
+                    "Price": 3200.0
+                },
+                "Filete de pescado John Bill": {
+                    "Price": 3400.0
+                },
+                "Pescado entero frito": {
+                    "Price": 3000.0
+                },
+                "Camaron Termidor": {
+                    "Price": 3200.0
+                },
+                "Camaron a su eleccion (enchilado o al ajillo)": {
+                    "Price": 2800.0
+                },
+                "Caldereta  de mariscos": {
+                    "Price": 3200.0
+                },
+                "Entrecot de res (guarnecido de papas al horno, aromatizado con finas hierbas y acompanado de una copa de vino)": {
+                    "Price": 6000.0
+                }
+            },
+            "Other": {
+                "Cordero al chilindron o al vino tinto": {
+                    "Price": 2800.0
+                },
+                "Cordero estofado": {
+                    "Price": 3000.0
+                },
+                "Arroz con pollo a la chorrera": {
+                    "Price": 2500.0
+                },
+                "Arroz frito": {
+                    "Price": 2500.0
+                },
+                "Brocheta mixta del Corral": {
+                    "Price": 3200.0
+                },
+                "Brocheta mixta del Mar": {
+                    "Price": 3700.0
+                },
+                "Grillada de la casa (cerdo, pollo, pescado y camaron)": {
+                    "Price": 3800.0
+                },
+                "Paella Marinera": {
+                    "Price": 3500.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 150.0
+            },
+            "Arroz moros y cristianos": {
+                "Price": 300.0
+            },
+            "Arroz Pilaf": {
+                "Price": 300.0
+            },
+            "Vianda frita": {
+                "Price": 250.0
+            },
+            "Yuca con mojo criollo": {
+                "Price": 300.0
+            },
+            "Tamal en cazuela": {
+                "Price": 300.0
+            },
+            "Tostones al ajo estilo oriental": {
+                "Price": 300.0
+            },
+            "Ensalada de vegetales frescos": {
+                "Price": 400.0
+            },
+            "Papas fritas": {
+                "Price": 600.0
+            },
+            "Pure de malanga": {
+                "Price": 400.0
+            }
+        },
+        "Desserts": {
+            "Tres Gracias": {
+                "Price": 450.0
+            },
+            "Cake": {
+                "Price": 400.0
+            },
+            "Copa Lolita": {
+                "Price": 450.0
+            },
+            "Tarta": {
+                "Price": 400.0
+            },
+            "Flan": {
+                "Price": 200.0
+            }
+        },
+        "Beverages": {
+            "Batido de mamey / Guayaba / Frutabomba": {
+                "Price": 400.0
+            },
+            "Suero de helado": {
+                "Price": 900.0
+            },
+            "Malteada": {
+                "Price": 550.0
+            },
+            "Agua natural": {
+                "Price": 150.0
+            },
+            "Jugo en conserva": {
+                "Price": 250.0
+            },
+            "Jugo de fruta": {
+                "Price": 250.0
+            },
+            "Refrescos": {
+                "Price": 250.0
+            },
+            "Refresco Pepsi / 7up / Fanta / Coca Cola": {
+                "Price": 300.0
+            },
+            "Malta Bucanero": {
+                "Price": 350.0
+            },
+            "Malta Holandia": {
+                "Price": 350.0
+            },
+            "Cerveza Cristal": {
+                "Price": 350.0
+            },
+            "Termo de cerveza Cristal": {
+                "Price": 2450.0
+            },
+            "Cerveza importada": {
+                "Price": 300.0
+            },
+            "Termo de cerveza importada": {
+                "Price": 2100.0
+            },
+            "Cerveza Heineken": {
+                "Price": 550.0
+            },
+            "Termo de cerveza Heineken": {
+                "Price": 3850.0
+            },
+            "Michelada": {
+                "Price": 400.0
+            },
+            "Chelada": {
+                "Price": 300.0
+            },
+            "Kermato": {
+                "Price": 600.0
+            },
+            "Energizantes": {
+                "Price": 300.0
+            },
+            "Red Bull": {
+                "Price": 350.0
+            },
+            "Cerveza dispensada": {
+                "Price": 350.0
+            },
+            "Termo de dispensada": {
+                "Price": 1750.0
+            },
+            "Caipirinha": {
+                "Price": 650.0
+            },
+            "Caipiroska": {
+                "Price": 650.0
+            },
+            "Screwdriver": {
+                "Price": 600.0
+            },
+            "Jagerinha": {
+                "Price": 650.0
+            },
+            "Jager Mule": {
+                "Price": 650.0
+            },
+            "Sex on the beach": {
+                "Price": 600.0
+            },
+            "Tequila Sunrise": {
+                "Price": 650.0
+            },
+            "Gin & Tonic": {
+                "Price": 1000.0
+            },
+            "Bloody Mary": {
+                "Price": 650.0
+            },
+            "Margarita": {
+                "Price": 650.0
+            },
+            "Sangria": {
+                "Price": 700.0
+            },
+            "Black Russian": {
+                "Price": 600.0
+            },
+            "White Russian": {
+                "Price": 650.0
+            },
+            "Alexander": {
+                "Price": 650.0
+            },
+            "Mary Pickfrod": {
+                "Price": 550.0
+            },
+            "Pina Colada": {
+                "Price": 650.0
+            },
+            "Cubanito": {
+                "Price": 650.0
+            },
+            "Coctel La Fela": {
+                "Price": 600.0
+            },
+            "Coctel Buena Fe": {
+                "Price": 600.0
+            },
+            "Mojito La Fela": {
+                "Price": 600.0
+            },
+            "Daiquiri": {
+                "Price": 500.0
+            },
+            "Ron Expresso": {
+                "Price": 350.0
+            },
+            "Irish Coffee": {
+                "Price": 550.0
+            },
+            "Expresso Martini": {
+                "Price": 500.0
+            },
+            "Cafe Carajillo": {
+                "Price": 350.0
+            },
+            "Cappuccino": {
+                "Price": 600.0
+            },
+            "Cafe Bombon": {
+                "Price": 600.0
+            },
+            "Express Jager": {
+                "Price": 500.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,625 @@
+{
+    "Name": "Tanokura",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 403 %Ave. Rancho Boyeros  Calle B, Santiago de las Vegas",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "maripositas chinas": {
+                "Price": 520.0
+            },
+            "frituras de malanga": {
+                "Price": 520.0
+            },
+            "tostones rellenos de jamon y queso": {
+                "Price": 750.0
+            },
+            "tostones rellenos de chorizo y queso": {
+                "Price": 770.0
+            },
+            "tostones rellenos de ropa vieja": {
+                "Price": 770.0
+            },
+            "tostones rellenos de atun": {
+                "Price": 770.0
+            },
+            "tostones rellenos de cangrejo": {
+                "Price": 770.0
+            },
+            "croquetas de bechamel de pollo": {
+                "Price": 920.0
+            },
+            "croquetas de bechamel de pescado": {
+                "Price": 920.0
+            },
+            "delicias tanokura": {
+                "Price": 2000.0
+            },
+            "garbanzos fritos": {
+                "Price": 1220.0
+            },
+            "eperlan": {
+                "Price": 1020.0
+            },
+            "fajitas de cerdo": {
+                "Price": 920.0
+            },
+            "fajitas de pollo": {
+                "Price": 920.0
+            },
+            "coctel de camaron": {
+                "Price": 1020.0
+            },
+            "coctel de langosta": {
+                "Price": 1020.0
+            },
+            "ensalada fria de pollo": {
+                "Price": 720.0
+            },
+            "ensalada fria de jamon": {
+                "Price": 770.0
+            },
+            "ensalada fria de atun": {
+                "Price": 770.0
+            },
+            "enchilado de cangrejo con pan": {
+                "Price": 820.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghettis alfredo": {
+                    "Price": 2400.0
+                },
+                "spaghettis carbonara": {
+                    "Price": 2600.0
+                },
+                "spaghettis napolitanos con queso": {
+                    "Price": 930.0
+                },
+                "lasagna tanokura": {
+                    "Price": 1230.0
+                }
+            },
+            "Pizza": {
+                "pizza de queso": {
+                    "Price": 1430.0
+                },
+                "pizza tanokura": {
+                    "Price": 2680.0
+                },
+                "pizza de peperoni": {
+                    "Price": 1830.0
+                }
+            },
+            "Pork": {
+                "brochetas de cerdo": {
+                    "Price": 1760.0
+                },
+                "chuletas de cerdo a la brasa": {
+                    "Price": 2100.0
+                },
+                "costilla natural a la brasa": {
+                    "Price": 2900.0
+                },
+                "costilla ahumada a la brasa": {
+                    "Price": 1860.0
+                },
+                "mixta de chorizo parrillero": {
+                    "Price": 1430.0
+                },
+                "lomo ahumado sin hueso a la brasa": {
+                    "Price": 1930.0
+                },
+                "bistec de cerdo a la brasa": {
+                    "Price": 1460.0
+                }
+            },
+            "Chicken": {
+                "rollo de pechuga con jamon, bacon y queso": {
+                    "Price": 2500.0
+                },
+                "churrasco": {
+                    "Price": 2930.0
+                },
+                "pechuga parisien": {
+                    "Price": 2250.0
+                },
+                "pechuga cardenal": {
+                    "Price": 2250.0
+                },
+                "bistec uruguayo don gilberto": {
+                    "Price": 3030.0
+                },
+                "grillada del corral": {
+                    "Price": 2730.0
+                },
+                "grillada mar y tierra": {
+                    "Price": 3930.0
+                },
+                "grillada del mar": {
+                    "Price": 3830.0
+                },
+                "grillada mediterranea": {
+                    "Price": 3030.0
+                },
+                "pollo grille": {
+                    "Price": 1380.0
+                },
+                "pollo frito a la criolla": {
+                    "Price": 1480.0
+                },
+                "suprema de pollo grille": {
+                    "Price": 1330.0
+                },
+                "suprema de pollo gratinada": {
+                    "Price": 1530.0
+                },
+                "bistec de pollo empanado": {
+                    "Price": 1530.0
+                },
+                "gordon blue": {
+                    "Price": 1930.0
+                },
+                "bistec de pollo grille tanokura": {
+                    "Price": 1730.0
+                },
+                "brochetas de pollo": {
+                    "Price": 1460.0
+                },
+                "suprema de pollo a la brasa": {
+                    "Price": 1460.0
+                },
+                "pollo grille a la brasa": {
+                    "Price": 1400.0
+                }
+            },
+            "Beef": {
+                "brochetas de cerdo": {
+                    "Price": 1760.0
+                },
+                "bistec uruguayo de rinnonada de res": {
+                    "Price": 2130.0
+                },
+                "bistec uruguayo de rinnonada de res tnk": {
+                    "Price": 2330.0
+                },
+                "bistec grille de rinnonada de res tnk": {
+                    "Price": 2030.0
+                }
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 1980.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 2380.0
+                },
+                "filete de pescado a la muselina": {
+                    "Price": 2430.0
+                },
+                "filete de pescado grille gratinado": {
+                    "Price": 2230.0
+                },
+                "filete de pescado don pedro": {
+                    "Price": 2930.0
+                },
+                "filete de pescado canciller": {
+                    "Price": 2780.0
+                },
+                "filete de pescado joinville": {
+                    "Price": 3030.0
+                },
+                "filete de pescado relleno": {
+                    "Price": 2780.0
+                },
+                "pescado entero frito": {
+                    "Price": 2400.0
+                },
+                "arroz frito con camaron": {
+                    "Price": 1630.0
+                },
+                "brochetas de langosta": {
+                    "Price": 2060.0
+                },
+                "langosta mariposa a la brasa": {
+                    "Price": 2060.0
+                },
+                "camarones grille": {
+                    "Price": 2030.0
+                },
+                "camarones al ajillo": {
+                    "Price": 2030.0
+                },
+                "enchilado de camarones": {
+                    "Price": 2030.0
+                },
+                "camarones orly": {
+                    "Price": 2330.0
+                },
+                "camarones empanados": {
+                    "Price": 2330.0
+                },
+                "camaron marnay": {
+                    "Price": 2330.0
+                },
+                "langosta grille": {
+                    "Price": 2030.0
+                },
+                "langosta enchilada": {
+                    "Price": 2030.0
+                },
+                "langosta termidor": {
+                    "Price": 2030.0
+                },
+                "langosta varadero": {
+                    "Price": 2030.0
+                },
+                "langosta marnay": {
+                    "Price": 2030.0
+                }
+            },
+            "Other": {
+                "arroz campesino": {
+                    "Price": 1630.0
+                },
+                "paella tanokura": {
+                    "Price": 2530.0
+                },
+                "bistec de cerdo grille": {
+                    "Price": 1430.0
+                },
+                "escalope de cerdo": {
+                    "Price": 1630.0
+                },
+                "masas fritas de cerdo": {
+                    "Price": 1730.0
+                },
+                "fricase de cerdo": {
+                    "Price": 1730.0
+                },
+                "bistec de cerdo grille tanokura": {
+                    "Price": 1930.0
+                },
+                "bistec uruguayo de cerdo": {
+                    "Price": 2180.0
+                },
+                "bistec uruguayo de cerdo tanokura": {
+                    "Price": 2430.0
+                },
+                "lomo ahumado de cerdo sin hueso": {
+                    "Price": 1850.0
+                },
+                "chuletas de cerdo": {
+                    "Price": 2100.0
+                },
+                "lomo ahumado de cerdo con hueso": {
+                    "Price": 1880.0
+                },
+                "costillas de cerdo natural": {
+                    "Price": 2900.0
+                },
+                "costillas de cerdo ahumadas": {
+                    "Price": 1830.0
+                },
+                "estofado de cordero": {
+                    "Price": 2500.0
+                },
+                "chilindron de cordero": {
+                    "Price": 2500.0
+                },
+                "ropa vieja de cordero": {
+                    "Price": 2500.0
+                },
+                "estofado de conejo": {
+                    "Price": 2000.0
+                },
+                "fricase de conejo": {
+                    "Price": 2000.0
+                }
+            }
+        },
+        "Extras": {
+            "ensalada estacion": {
+                "Price": 600.0
+            },
+            "ensalada de vegetales con pollo": {
+                "Price": 720.0
+            },
+            "papas fritas": {
+                "Price": 490.0
+            },
+            "mariquitas de platano": {
+                "Price": 300.0
+            },
+            "mariquitas de malanga": {
+                "Price": 300.0
+            },
+            "tostones": {
+                "Price": 300.0
+            },
+            "boniato frito": {
+                "Price": 300.0
+            },
+            "malanga con mojo": {
+                "Price": 520.0
+            },
+            "yuca con mojo": {
+                "Price": 300.0
+            },
+            "platano maduro frito": {
+                "Price": 300.0
+            },
+            "arroz blanco": {
+                "Price": 270.0
+            },
+            "arroz moro": {
+                "Price": 320.0
+            },
+            "arroz pilaf": {
+                "Price": 470.0
+            },
+            "arroz frito": {
+                "Price": 1130.0
+            },
+            "crema de queso": {
+                "Price": 410.0
+            },
+            "crema aurora": {
+                "Price": 360.0
+            },
+            "crema virginia": {
+                "Price": 520.0
+            },
+            "crema de malanga": {
+                "Price": 720.0
+            },
+            "crema reina": {
+                "Price": 520.0
+            },
+            "crema de mariscos": {
+                "Price": 570.0
+            }
+        },
+        "Desserts": {
+            "sundae de helado": {
+                "Price": 360.0
+            },
+            "cunna de capuchino": {
+                "Price": 780.0
+            },
+            "cake a la moda": {
+                "Price": 780.0
+            },
+            "cunna de tres leches": {
+                "Price": 680.0
+            },
+            "suero de helado": {
+                "Price": 680.0
+            },
+            "flan": {
+                "Price": 400.0
+            },
+            "copa lolita": {
+                "Price": 600.0
+            }
+        },
+        "Beverages": {
+            "agua natural 500ml": {
+                "Price": 300.0
+            },
+            "agua gaseada": {
+                "Price": 600.0
+            },
+            "kermato": {
+                "Price": 550.0
+            },
+            "jugo de lata": {
+                "Price": 360.0
+            },
+            "malta": {
+                "Price": 320.0
+            },
+            "malteada": {
+                "Price": 650.0
+            },
+            "agua natural": {
+                "Price": 65.0
+            },
+            "refrescos variados": {
+                "Price": 300.0
+            },
+            "malta bucanero": {
+                "Price": 385.0
+            },
+            "energizantes": {
+                "Price": 400.0
+            },
+            "limonada": {
+                "Price": 550.0
+            },
+            "pinna colada sin alcohol": {
+                "Price": 700.0
+            },
+            "Cerveza Corona": {
+                "Price": 500.0
+            },
+            "Cerveza Cristal": {
+                "Price": 350.0
+            },
+            "Cerveza Heineken": {
+                "Price": 395.0
+            },
+            "Michelada": {
+                "Price": 350.0
+            },
+            "Chelada": {
+                "Price": 250.0
+            },
+            "Copa de Vino": {
+                "Price": 600.0
+            },
+            "Sangria": {
+                "Price": 650.0
+            },
+            "Tinto de Verano": {
+                "Price": 650.0
+            },
+            "Caipirisima": {
+                "Price": 650.0
+            },
+            "Kaipiroska": {
+                "Price": 650.0
+            },
+            "Daiquiri": {
+                "Price": 650.0
+            },
+            "Cubanito": {
+                "Price": 650.0
+            },
+            "Ron Havana Club 3 Annos": {
+                "Price": 200.0
+            },
+            "Ron Havana Club Especial": {
+                "Price": 250.0
+            },
+            "Ron Havana Club 7 Annos": {
+                "Price": 300.0
+            },
+            "Ron Havana Club Reserva": {
+                "Price": 250.0
+            },
+            "Ginebra Trago": {
+                "Price": 250.0
+            },
+            "Barcelo Blanco": {
+                "Price": 400.0
+            },
+            "Barcelo Dorado": {
+                "Price": 450.0
+            },
+            "Tequila Sennor de los Cielos": {
+                "Price": 500.0
+            },
+            "Tequila Reposado": {
+                "Price": 400.0
+            },
+            "Tequila Olmeca Silver": {
+                "Price": 400.0
+            },
+            "Tequila Olmeca Blanco": {
+                "Price": 400.0
+            },
+            "Vodka Tragos": {
+                "Price": 250.0
+            },
+            "Vodka Absolut": {
+                "Price": 450.0
+            },
+            "Ballantines": {
+                "Price": 400.0
+            },
+            "Ballantines 12 Annos": {
+                "Price": 700.0
+            },
+            "Chivas Regal": {
+                "Price": 700.0
+            },
+            "Red Label": {
+                "Price": 600.0
+            },
+            "Jameson": {
+                "Price": 500.0
+            },
+            "Pacto Navio": {
+                "Price": 600.0
+            },
+            "Gin Tonic": {
+                "Price": 650.0
+            },
+            "Cuba Libre": {
+                "Price": 650.0
+            },
+            "Cubata": {
+                "Price": 650.0
+            },
+            "Mojito": {
+                "Price": 650.0
+            },
+            "Pinna Colada": {
+                "Price": 800.0
+            },
+            "cafe expreso": {
+                "Price": 100.0
+            },
+            "cafe cortado": {
+                "Price": 150.0
+            },
+            "cafe bombon": {
+                "Price": 250.0
+            },
+            "cafe capuchino": {
+                "Price": 250.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

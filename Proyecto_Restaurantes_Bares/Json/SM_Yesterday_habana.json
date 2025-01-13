@@ -1,0 +1,171 @@
+{
+    "Name": "Yesterday Habana",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-0"
+        ],
+        "Tuesday": [
+            "1200-0"
+        ],
+        "Wednesday": [
+            "1200-0"
+        ],
+        "Thursday": [
+            "1200-0"
+        ],
+        "Friday": [
+            "1200-0"
+        ],
+        "Saturday": [
+            "1200-0"
+        ],
+        "Sunday": [
+            "1200-0"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "calle Rita entre Calzada de Guines y Blanchy",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "picadera Yesterday": {
+                "Price": 1300.0
+            },
+            "eperlan": {
+                "Price": 780.0
+            },
+            "coctel de camarones": {
+                "Price": 750.0
+            },
+            "entremes de jamon,queso y chorizo": {
+                "Price": 800.0
+            },
+            "ceviche": {
+                "Price": 650.0
+            },
+            "ensalada fria": {
+                "Price": 650.0
+            },
+            "tostones rellenos": {
+                "Price": 600.0
+            },
+            "fritura de malanga": {
+                "Price": 350.0
+            },
+            "croquetas de la casa": {
+                "Price": 380.0
+            },
+            "fajitas de pollo": {
+                "Price": 750.0
+            },
+            "fajitas de cerdo": {
+                "Price": 750.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti napolitano": {
+                    "Price": 600.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 550.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "filete de pescado": {
+                    "Price": 1100.0
+                },
+                "filete de pescado Jhonbill": {
+                    "Price": 1500.0
+                },
+                "camarones al ajillo": {
+                    "Price": 1500.0
+                },
+                "camarones grille": {
+                    "Price": 1500.0
+                },
+                "enchilado de camarones": {
+                    "Price": 1500.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

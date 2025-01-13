@@ -1,0 +1,122 @@
+{
+    "Name": "La Baliza",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza con queso gouda (small)": {
+                    "Price": 450
+                },
+                "Pizza con queso gouda (large)": {
+                    "Price": 700
+                },
+                "Pizza de queso blanco (small)": {
+                    "Price": 350
+                },
+                "Pizza de queso blanco(large)": {
+                    "Price": 520
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cerveza Importada": {
+                "Price": 250
+            },
+            "Batido de Mamey": {
+                "Price": 230
+            },
+            "Refresco importado": {
+                "Price": 230
+            },
+            "Agua mineral natural": {
+                "Price": 150
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

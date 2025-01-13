@@ -1,0 +1,208 @@
+{
+    "Name": "Beer para creer",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2100"
+        ],
+        "Tuesday": [
+            "1000-2100"
+        ],
+        "Wednesday": [
+            "1000-2100"
+        ],
+        "Thursday": [
+            "1000-2100"
+        ],
+        "Friday": [
+            "1000-2100"
+        ],
+        "Saturday": [
+            "1000-2100"
+        ],
+        "Sunday": [
+            "1000-2100"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Centro comercial Falcon, Alamar",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Hamurguesa simple": {
+                "Price": 450
+            },
+            "Hamburguesa especial": {
+                "Price": 550
+            },
+            "Sandwich pinareno": {
+                "Price": 900
+            },
+            "Croquetas del Chef": {
+                "Price": 650
+            },
+            "Pan con lechon": {
+                "Price": 350
+            },
+            "Sandwish cubano con lechon": {
+                "Price": 950
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghettis napolitanos": {
+                    "Price": 520
+                }
+            },
+            "Pizza": {
+                "Pizza de queso blanco": {
+                    "Price": 160
+                },
+                "Pizza de queso gouda": {
+                    "Price": 250
+                }
+            },
+            "Pork": {
+                "Masas de cerdo fritas": {
+                    "Price": 1350
+                },
+                "Ropa vieja de cerdo": {
+                    "Price": 1400
+                },
+                "Fricase de cerdo": {
+                    "Price": 1400
+                },
+                "Bistec de cerdo grille": {
+                    "Price": 850
+                },
+                "Bistec de cerdo Princesa": {
+                    "Price": 1100
+                },
+                "Milanesa de cerdo": {
+                    "Price": 1100
+                },
+                "Envoltino de cerdo": {
+                    "Price": 1250
+                },
+                "Lomo ahumado": {
+                    "Price": 1000
+                },
+                "Lonjas de cerdo asadas al carbon": {
+                    "Price": 1300
+                },
+                "Uruguayo de cerdo": {
+                    "Price": 1150
+                },
+                "Escalope de cerdo": {
+                    "Price": 950
+                },
+                "Gordon Blue de cerdo": {
+                    "Price": 1250
+                }
+            },
+            "Chicken": {
+                "Fajitas de pollo": {
+                    "Price": 850
+                },
+                "Bistec de pollo grille": {
+                    "Price": 850
+                },
+                "Bistec de pollo gratinado": {
+                    "Price": 1200
+                },
+                "Fricase de pollo": {
+                    "Price": 1400
+                },
+                "Pollo chiflado": {
+                    "Price": 850
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Arroz a la chorrera": {
+                    "Price": 1400
+                },
+                "Arroz frito": {
+                    "Price": 800
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 250
+            },
+            "Arroz moro": {
+                "Price": 180
+            },
+            "Vianda frita": {
+                "Price": 100
+            },
+            "Ensalada de vegetales": {
+                "Price": 80
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

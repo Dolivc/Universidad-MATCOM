@@ -1,0 +1,283 @@
+{
+    "Name": "Bocattas",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "https://linktr.ee/cafe_bocattas",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "0-2400"
+        ],
+        "Tuesday": [
+            "0-2400"
+        ],
+        "Wednesday": [
+            "0-2400"
+        ],
+        "Thursday": [
+            "0-2400"
+        ],
+        "Friday": [
+            "0-2400"
+        ],
+        "Saturday": [
+            "0-2400"
+        ],
+        "Sunday": [
+            "0-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tacos de hab c": {
+                "Price": 800
+            },
+            "Tacos de hamburguesa": {
+                "Price": 950
+            },
+            "Tacos de cerdo": {
+                "Price": 900
+            },
+            "Brusquetas": {
+                "Price": 500
+            },
+            "Chorizo parrillero": {
+                "Price": 2000
+            },
+            "Croquetas de pollo": {
+                "Price": 650
+            },
+            "Desayuno": {
+                "Price": 980
+            },
+            "Ensalada fr\u00eda": {
+                "Price": 540
+            },
+            "Croquetas de jam\u00f3n serrano": {
+                "Price": 750
+            },
+            "Huevos rotos": {
+                "Price": 1050
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price": 900
+                },
+                "Pasta bolo\u00f1esa": {
+                    "Price": 2000
+                },
+                "Pasta con bacon": {
+                    "Price": 1500
+                },
+                "Pasta con jamon pierna especial": {
+                    "Price": 1800
+                },
+                "Pasta con jamon barra": {
+                    "Price": 1100
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Queso gouda 100g": {
+                "Price": 430
+            },
+            "Jam\u00f3n barra": {
+                "Price": 300
+            },
+            "Jam\u00f3n serrano": {
+                "Price": 570
+            },
+            "Jam\u00f3n pierna especial": {
+                "Price": 650
+            },
+            "Queso gouda": {
+                "Price": 380
+            },
+            "Queso azul": {
+                "Price": 500
+            },
+            "Chorizo espa\u00f1ol": {
+                "Price": 400
+            },
+            "Bacon": {
+                "Price": 500
+            },
+            "Huevo": {
+                "Price": 150
+            },
+            "Mantequilla": {
+                "Price": 75
+            },
+            "Agrego de cerdo": {
+                "Price": 400
+            },
+            "At\u00fan": {
+                "Price": 500
+            },
+            "Vianda frita": {
+                "Price": 170
+            },
+            "Mayonesa": {
+                "Price": 50
+            },
+            "Tomate": {
+                "Price": 100
+            },
+            "Cebolla": {
+                "Price": 70
+            },
+            "Pepinillo": {
+                "Price": 35
+            },
+            "Pico de gallo": {
+                "Price": 70
+            },
+            "Lechuga": {
+                "Price": 35
+            },
+            "Pi\u00f1a": {
+                "Price": 35
+            }
+        },
+        "Desserts": {
+            "Dulces finos": {
+                "Price": 1000
+            },
+            "Bola de helado": {
+                "Price": 150
+            },
+            "Copa golosa": {
+                "Price": 800
+            }
+        },
+        "Beverages": {
+            "Agua natural 500 ml": {
+                "Price": 200
+            },
+            "Refresco importado y nacional": {
+                "Price": 260
+            },
+            "Malta": {
+                "Price": 300
+            },
+            "Energizantes": {
+                "Price": 400
+            },
+            "Limonada frappe": {
+                "Price": 600
+            },
+            "Jugos naturales": {
+                "Price": 250
+            },
+            "Cerveza importada": {
+                "Price": 280
+            },
+            "Cerveza nacional": {
+                "Price": 400
+            },
+            "Michelada con cerv import": {
+                "Price": 660
+            },
+            "Michelada con cerv nacional": {
+                "Price": 750
+            },
+            "Chelada": {
+                "Price": 180
+            },
+            "Preparado de michelada": {
+                "Price": 340
+            },
+            "Expresso": {
+                "Price": 130
+            },
+            "Capuchino": {
+                "Price": 225
+            },
+            "Cortado": {
+                "Price": 150
+            },
+            "Americano": {
+                "Price": 210
+            },
+            "Frappuccino": {
+                "Price": 600
+            },
+            "Cafe con leche": {
+                "Price": 275
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

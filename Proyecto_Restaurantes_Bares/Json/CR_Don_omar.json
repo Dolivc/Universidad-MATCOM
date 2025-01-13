@@ -1,0 +1,614 @@
+{
+    "Name": "Don Omar",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-1100"
+        ],
+        "Tuesday": [
+            "1100-1100"
+        ],
+        "Wednesday": [
+            "1100-1100"
+        ],
+        "Thursday": [
+            "1100-1100"
+        ],
+        "Friday": [
+            "1100-1100"
+        ],
+        "Saturday": [
+            "1100-1100"
+        ],
+        "Sunday": [
+            "1100-1100"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Calle 22A % 65 y 63, reparto America, Cotorro",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "picadera Don Omar": {
+                "Price": 1800.0
+            },
+            "ensalada de jamon": {
+                "Price": 350.0
+            },
+            "ensalada de pollo": {
+                "Price": 400.0
+            },
+            "eperlan": {
+                "Price": 950.0
+            },
+            "faja de pollo": {
+                "Price": 700.0
+            },
+            "faja de cerdo": {
+                "Price": 850.0
+            },
+            "coctel de camaron": {
+                "Price": 850.0
+            },
+            "coctel de langosta": {
+                "Price": 800.0
+            },
+            "entremes surtido": {
+                "Price": 650.0
+            },
+            "entremes de jamon y queso": {
+                "Price": 500.0
+            },
+            "tostones de jamon": {
+                "Price": 350.0
+            },
+            "ensalada de atun": {
+                "Price": 350.0
+            },
+            "tostones de queso": {
+                "Price": 350.0
+            },
+            "ensalada de camaron": {
+                "Price": 350.0
+            },
+            "tostones de jamon y queso": {
+                "Price": 800.0
+            },
+            "tostones": {
+                "Price": 400.0
+            },
+            "platano maduro frito": {
+                "Price": 250.0
+            },
+            "chicharrita de platano": {
+                "Price": 250.0
+            },
+            "chicharrita de boniato": {
+                "Price": 250.0
+            },
+            "yuca con mojo": {
+                "Price": 250.0
+            },
+            "ensalada de estacion": {
+                "Price": 250.0
+            },
+            "sopa de mariscos": {
+                "Price": 200.0
+            },
+            "sopa de pollo": {
+                "Price": 1100.0
+            },
+            "sopa de res": {
+                "Price": 700.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti mixta": {
+                    "Price": 750.0
+                },
+                "spaghetti con camaron": {
+                    "Price": 800.0
+                },
+                "spaghetti con atun": {
+                    "Price": 500.0
+                },
+                "spaghetti con jamon": {
+                    "Price": 480.0
+                },
+                "spaghetti con chorizo": {
+                    "Price": 450.0
+                },
+                "spaghetti con queso": {
+                    "Price": 400.0
+                }
+            },
+            "Pizza": {
+                "mixta": {
+                    "Price": 950.0
+                },
+                "hawaiana": {
+                    "Price": 650.0
+                },
+                "atun": {
+                    "Price": 600.0
+                },
+                "camaron": {
+                    "Price": 900.0
+                },
+                "aji": {
+                    "Price": 550.0
+                },
+                "cebolla": {
+                    "Price": 650.0
+                },
+                "chorizo": {
+                    "Price": 600.0
+                },
+                "jamon": {
+                    "Price": 600.0
+                },
+                "queso": {
+                    "Price": 500.0
+                }
+            },
+            "Pork": {
+                "Don Omar con lomo": {
+                    "Price": 2900.0
+                },
+                "lomo hawaiano": {
+                    "Price": 1500.0
+                },
+                "bistec de cerdo uruguayo": {
+                    "Price": 1400.0
+                },
+                "lomo ahumado": {
+                    "Price": 1250.0
+                },
+                "bistec reina": {
+                    "Price": 1150.0
+                },
+                "bistec tuna": {
+                    "Price": 1150.0
+                },
+                "bistec de cerdo gratinado con jamon y queso": {
+                    "Price": 1150.0
+                },
+                "masa de cerdo frita": {
+                    "Price": 1350.0
+                },
+                "bistec de cerdo": {
+                    "Price": 1050.0
+                },
+                "fricase de cerdo": {
+                    "Price": 1100.0
+                },
+                "estofado de cerdo": {
+                    "Price": 1100.0
+                }
+            },
+            "Chicken": {
+                "mega grillada del caribe": {
+                    "Price": 4000.0
+                },
+                "mar y tierra": {
+                    "Price": 3200.0
+                },
+                "Don Omar con pollo": {
+                    "Price": 2700.0
+                },
+                "pollo parisien": {
+                    "Price": 1600.0
+                },
+                "pollo al angel": {
+                    "Price": 950.0
+                },
+                "pollo gordon blue": {
+                    "Price": 1100.0
+                },
+                "pollo reina": {
+                    "Price": 950.0
+                },
+                "pollo gratinado con jamon y queso": {
+                    "Price": 1100.0
+                },
+                "pollo empanado": {
+                    "Price": 900.0
+                },
+                "pollo ahumado hecho jamon": {
+                    "Price": 900.0
+                },
+                "pollo frito": {
+                    "Price": 900.0
+                },
+                "pollo grille": {
+                    "Price": 800.0
+                },
+                "bistec de pechuga de pollo": {
+                    "Price": 1100.0
+                }
+            },
+            "Beef": {
+                "bistec de res uruguayo": {
+                    "Price": 1400.0
+                },
+                "faja de res criolla": {
+                    "Price": 1100.0
+                },
+                "bistec de res grille": {
+                    "Price": 1100.0
+                },
+                "vaca frita": {
+                    "Price": 1100.0
+                },
+                "ropa vieja": {
+                    "Price": 1200.0
+                }
+            },
+            "Sea": {
+                "pescado gratinado con camarones": {
+                    "Price": 1900.0
+                },
+                "canciller": {
+                    "Price": 1600.0
+                },
+                "pescado gratinado con jamon y queso": {
+                    "Price": 1550.0
+                },
+                "pescado gratinado con queso": {
+                    "Price": 1450.0
+                },
+                "pescado empanado": {
+                    "Price": 1300.0
+                },
+                "pescado grille": {
+                    "Price": 1200.0
+                },
+                "gran grillada del mar": {
+                    "Price": 2700.0
+                },
+                "paella al estilo del chef": {
+                    "Price": 2700.0
+                },
+                "cacerola del mar": {
+                    "Price": 2900.0
+                },
+                "delicia tropical": {
+                    "Price": 2500.0
+                },
+                "tazon mariscos": {
+                    "Price": 2500.0
+                },
+                "camaron Hemingway": {
+                    "Price": 2000.0
+                },
+                "camaron al ajillo": {
+                    "Price": 1700.0
+                },
+                "camaron al vino tinto": {
+                    "Price": 1700.0
+                },
+                "camaron empanado": {
+                    "Price": 1700.0
+                },
+                "camaron enchilado": {
+                    "Price": 1800.0
+                },
+                "camaron grille": {
+                    "Price": 1700.0
+                },
+                "enchilado de langosta": {
+                    "Price": 1800.0
+                },
+                "langosta al ron": {
+                    "Price": 1700.0
+                },
+                "langosta mariposa": {
+                    "Price": 1700.0
+                },
+                "ihomville": {
+                    "Price": 2200.0
+                }
+            },
+            "Other": {
+                "grillada Don Omar": {
+                    "Price": 2300.0
+                },
+                "faja mixta a la criolla": {
+                    "Price": 2300.0
+                }
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 150.0
+            },
+            "arroz moro": {
+                "Price": 250.0
+            },
+            "arroz pilaf": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            "batido de helado": {
+                "Price": 400.0
+            },
+            "bolas de helado": {
+                "Price": 400.0
+            },
+            "postre de la casa": {
+                "Price": 500.0
+            },
+            "cunna de cake": {
+                "Price": 400.0
+            }
+        },
+        "Beverages": {
+            "batido de mango": {
+                "Price": 400.0
+            },
+            "batido de mamey": {
+                "Price": 400.0
+            },
+            "jugo de mango": {
+                "Price": 350.0
+            },
+            "refresco 1500ml": {
+                "Price": 550.0
+            },
+            "refresco": {
+                "Price": 250.0
+            },
+            "malta": {
+                "Price": 300.0
+            },
+            "energizantes": {
+                "Price": 300.0
+            },
+            "jugo caja": {
+                "Price": 200.0
+            },
+            "kermato": {
+                "Price": 450.0
+            },
+            "agua natural": {
+                "Price": 160.0
+            },
+            "jugo lata": {
+                "Price": 280.0
+            },
+            "jugo pomo": {
+                "Price": 240.0
+            },
+            "agua 1000ml": {
+                "Price": 200.0
+            },
+            "Coca Cola": {
+                "Price": 270.0
+            },
+            "ron Annejo 7 annos": {
+                "Price": 250.0
+            },
+            "ron Ritual": {
+                "Price": 250.0
+            },
+            "ron Reserva": {
+                "Price": 250.0
+            },
+            "ron Santiago": {
+                "Price": 200.0
+            },
+            "ron Mulata 15 annos": {
+                "Price": 300.0
+            },
+            "ron Old Pard": {
+                "Price": 350.0
+            },
+            "ron Crow Royal": {
+                "Price": 350.0
+            },
+            "ron Flor de Canna": {
+                "Price": 400.0
+            },
+            "ron Brugal": {
+                "Price": 400.0
+            },
+            "ron Santero 7 annos": {
+                "Price": 250.0
+            },
+            "ron Pacto Navio": {
+                "Price": 550.0
+            },
+            "ron Seleccion de Maestros": {
+                "Price": 550.0
+            },
+            "tequila Olmeca reposado": {
+                "Price": 450.0
+            },
+            "tequila Olmeca blanco": {
+                "Price": 400.0
+            },
+            "tequila de chocolate": {
+                "Price": 400.0
+            },
+            "tequila Jose Cuervo": {
+                "Price": 500.0
+            },
+            "whiskey Jamenson": {
+                "Price": 450.0
+            },
+            "whiskey Clan Camber": {
+                "Price": 350.0
+            },
+            "whiskey Ballentine": {
+                "Price": 400.0
+            },
+            "whiskey chiva Regal 15": {
+                "Price": 550.0
+            },
+            "whiskey Granst": {
+                "Price": 300.0
+            },
+            "whiskey WS": {
+                "Price": 200.0
+            },
+            "whiskey River Queen": {
+                "Price": 200.0
+            },
+            "whiskey Jack Daniels": {
+                "Price": 550.0
+            },
+            "whiskey Red Label": {
+                "Price": 450.0
+            },
+            "whiskey Black Label": {
+                "Price": 500.0
+            },
+            "whiskey The Glen Livet": {
+                "Price": 500.0
+            },
+            "whiskey Chanceler": {
+                "Price": 200.0
+            },
+            "vodka Grey goose": {
+                "Price": 500.0
+            },
+            "blue love corona": {
+                "Price": 1000.0
+            },
+            "blue love cristal": {
+                "Price": 900.0
+            },
+            "michelada": {
+                "Price": 450.0
+            },
+            "chelada": {
+                "Price": 450.0
+            },
+            "sangria": {
+                "Price": 400.0
+            },
+            "caipirinna": {
+                "Price": 350.0
+            },
+            "caipiroska": {
+                "Price": 350.0
+            },
+            "cuba libre": {
+                "Price": 350.0
+            },
+            "mojito": {
+                "Price": 350.0
+            },
+            "gin tonic": {
+                "Price": 400.0
+            },
+            "pinna colada": {
+                "Price": 400.0
+            },
+            "cubanito": {
+                "Price": 400.0
+            },
+            "bloody mary": {
+                "Price": 400.0
+            },
+            "screwdriver": {
+                "Price": 350.0
+            },
+            "daiquiri": {
+                "Price": 350.0
+            },
+            "margarita": {
+                "Price": 500.0
+            },
+            "vino tinto": {
+                "Price": 450.0
+            },
+            "vino rosa": {
+                "Price": 350.0
+            },
+            "vino blanco": {
+                "Price": 350.0
+            },
+            "cerveza": {
+                "Price": 260.0
+            },
+            "cerveza Cristal": {
+                "Price": 300.0
+            },
+            "cerveza Bucanero": {
+                "Price": 300.0
+            },
+            "cerveza Corona": {
+                "Price": 400.0
+            },
+            "crema Ruavieja": {
+                "Price": 500.0
+            },
+            "crema Sheridans": {
+                "Price": 550.0
+            },
+            "expresso": {
+                "Price": 200.0
+            },
+            "cortado": {
+                "Price": 250.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

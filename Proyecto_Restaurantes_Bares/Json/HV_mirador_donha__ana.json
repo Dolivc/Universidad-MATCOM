@@ -1,0 +1,367 @@
+{
+    "Name": "Mirador_Donha _Ana",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "830-2200"
+        ],
+        "Tuesday": [
+            "830-2200"
+        ],
+        "Wednesday": [
+            "830-2200"
+        ],
+        "Thursday": [
+            "830-2200"
+        ],
+        "Friday": [
+            "830-2200"
+        ],
+        "Saturday": [
+            "830-2200"
+        ],
+        "Sunday": [
+            "830-2200"
+        ]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coordinates": "406 Obispo, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Coctel de Camarones": {
+                "Price": 1500
+            },
+            "Ensalada de Pollo": {
+                "Price": 1100
+            },
+            "Ensalada de Pescado": {
+                "Price": 1200
+            },
+            "Ensalada Mixta": {
+                "Price": 900
+            },
+            "Croquetas de la Abuela": {
+                "Price": 660
+            },
+            "Chicharritas de Platano": {
+                "Price": 660
+            },
+            "Tostones Rellenos": {
+                "Price": 880
+            },
+            "Tamal en Hojas": {
+                "Price": 660
+            },
+            "Sopa de Pollo": {
+                "Price": 800
+            },
+            "Frituras de Malanga": {
+                "Price": 660
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Cerdo Grille": {
+                    "Price": 2000
+                },
+                "Cerdo Agridulce": {
+                    "Price": 2200
+                },
+                "Chuleta de Cerdo": {
+                    "Price": 2900
+                },
+                "Bistec de Cerdo con Champinhon": {
+                    "Price": 2900
+                },
+                "Milanesa de Cerdo": {
+                    "Price": 2900
+                }
+            },
+            "Chicken": {
+                "Pollo Grille": {
+                    "Price": 2000
+                },
+                "Pollo en Salsa": {
+                    "Price": 2800
+                },
+                "Pollo a la Pinha": {
+                    "Price": 2800
+                },
+                "Brocheta de Pollo": {
+                    "Price": 2800
+                },
+                "Pechuga de Pollo a la Juliana": {
+                    "Price": 4200
+                }
+            },
+            "Beef": {
+                "Ropa Vieja": {
+                    "Price": 2800
+                },
+                "Picadillo a la Habanera": {
+                    "Price": 2500
+                }
+            },
+            "Sea": {
+                "Enchilado de Pescado": {
+                    "Price": 2700
+                },
+                "Filete de Pescado Grille": {
+                    "Price": 2200
+                },
+                "Langosta Batabano": {
+                    "Price": 2000
+                },
+                "Langosta Donha Ana": {
+                    "Price": 3400
+                },
+                "Degustacion de la Casa Mariscada": {
+                    "Price": 3800
+                },
+                "Pulpo: Grille, Ajillo o en Salsa": {
+                    "Price": 3600
+                },
+                "Langosta Grille": {
+                    "Price": 2900
+                },
+                "Langosta en Salsa": {
+                    "Price": 3000
+                },
+                "Langosta al Ron": {
+                    "Price": 3000
+                },
+                "Camaron Grille": {
+                    "Price": 3400
+                },
+                "Camaron al Ajillo": {
+                    "Price": 3500
+                },
+                "Camaron en Salsa": {
+                    "Price": 3500
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Jugos Naturales": {
+                "Price": 220
+            },
+            "Agua Natural 500ml": {
+                "Price": 330
+            },
+            "Agua Natural 600ml": {
+                "Price": 330
+            },
+            "Agua Tonica": {
+                "Price": 330
+            },
+            "Agua Gaseada": {
+                "Price": 220
+            },
+            "Refresco Nacional": {
+                "Price": 330
+            },
+            "Refresco Importado": {
+                "Price": 330
+            },
+            "Malta": {
+                "Price": 330
+            },
+            "Cerveza Nacional": {
+                "Price": 500
+            },
+            "Cerveza Importada": {
+                "Price": 350
+            },
+            "Red Bull": {
+                "Price": 330
+            },
+            "Tigon": {
+                "Price": 330
+            },
+            "Kermato": {
+                "Price": 330
+            },
+            "Vino Tinto": {
+                "Price": 550
+            },
+            "Vino Blanco": {
+                "Price": 550
+            },
+            "Cabernet Suavignon": {
+                "Price": 660
+            },
+            "Vodka Abssolut": {
+                "Price": 660
+            },
+            "Ballantines": {
+                "Price": 550
+            },
+            "Clan Campbell": {
+                "Price": 550
+            },
+            "Chivas Regal 12 Anhos": {
+                "Price": 770
+            },
+            "Johnnie Walker": {
+                "Price": 770
+            },
+            "Olmeca Reposado": {
+                "Price": 660
+            },
+            "Jose Cuervo": {
+                "Price": 660
+            },
+            "Havana Club 3 Anhos": {
+                "Price": 440
+            },
+            "Havana Club 7 Anhos": {
+                "Price": 550
+            },
+            "Havana Club Profundo": {
+                "Price": 440
+            },
+            "Havana Club Especial": {
+                "Price": 550
+            },
+            "Havana Club Reserva": {
+                "Price": 550
+            },
+            "Hav. Club Selec. de Maestros": {
+                "Price": 660
+            },
+            "Ritual": {
+                "Price": 440
+            },
+            "Santiago": {
+                "Price": 550
+            },
+            "Santiago 12 Anhos": {
+                "Price": 660
+            },
+            "Ron Pacto Navio": {
+                "Price": 660
+            },
+            "Ron Cubay Extra Anhejo": {
+                "Price": 880
+            },
+            "Ron Cubay Extra Viejo": {
+                "Price": 880
+            },
+            "Cuba Libre": {
+                "Price": 660
+            },
+            "Mojito": {
+                "Price": 660
+            },
+            "Daiquiri": {
+                "Price": 660
+            },
+            "Limonada Frappe": {
+                "Price": 485
+            },
+            "Pinha Colada": {
+                "Price": 880
+            },
+            "Cubanito": {
+                "Price": 770
+            },
+            "Michelada": {
+                "Price": 770
+            },
+            "Margarita": {
+                "Price": 770
+            },
+            "Gin Tonic": {
+                "Price": 880
+            },
+            "Vodka Tonic": {
+                "Price": 770
+            },
+            "Sangria": {
+                "Price": 770
+            },
+            "Caipirinha": {
+                "Price": 770
+            },
+            "Caipiroska": {
+                "Price": 770
+            },
+            "Caipirissima": {
+                "Price": 770
+            },
+            "Bloody Mary": {
+                "Price": 770
+            },
+            "Cubata": {
+                "Price": 770
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

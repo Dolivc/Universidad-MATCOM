@@ -1,0 +1,282 @@
+{
+    "Name": "D'kmino",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": [
+            "1100-2300"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Pan con chicharrones carnudos y guacamole": {
+                "Price": 1655
+            },
+            "Pan cubano el guapo": {
+                "Price": 3555
+            },
+            "Croquetas de la abuela": {
+                "Price": 1000
+            },
+            "Frituras de malanga y jamon": {
+                "Price": 1700
+            },
+            "Empanadas de la casa": {
+                "Price": 1700
+            },
+            "Carpaccio de ternera aceite trufas y destellos de parmesano": {
+                "Price": 1700
+            },
+            "Berenjenas a la parmesana": {
+                "Price": 1700
+            },
+            "Quesadilla marinera": {
+                "Price": 1700
+            },
+            "Tostas y tacos de res o camaron": {
+                "Price": 1700
+            },
+            "Ensalada cesar con dados de pollo show": {
+                "Price": 1700
+            },
+            "Chorizo gallego al carbon con queso manchego": {
+                "Price": 1700
+            },
+            "Ceviche de pescado y calamares crujientes": {
+                "Price": 1700
+            },
+            "Steak tartar show": {
+                "Price": 1700
+            },
+            "Calamares a la romana con salsa tartara y aceite de sesamo": {
+                "Price": 945
+            },
+            "Burrata fresca con aceite de truffas tomate y aguacate": {
+                "Price": 2100
+            },
+            "Yaquitori de langosta crujiente con salsa chipotle": {
+                "Price": 2255
+            },
+            "Provoleta con blanqueta tomate y pimiento asado": {
+                "Price": 3335
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pastas largas y cortas a la piedra": {
+                    "Price": 3100
+                },
+                "Pasta alfredo": {
+                    "Price": 2950
+                },
+                "Pasta aglio e olio con dados de tomate": {
+                    "Price": 2755
+                }
+            },
+            "Pizza": {
+                "Real pizza italiana 33 cm": {
+                    "Price": 2300
+                },
+                "Pizza imperial": {
+                    "Price": 3655
+                }
+            },
+            "Pork": {
+                "Costillas de cerdo caramelizadas con pure de boniato y jengibre": {
+                    "Price": 4145
+                },
+                "Churrasco de filete de cerdo con salsa de guayaba y mostaza dijon": {
+                    "Price": 2945
+                },
+                "Cerdo asado a lo cubana": {
+                    "Price": 8500
+                },
+                "Tamaribs de cerdo 340g con papas fritas": {
+                    "Price": 4500
+                }
+            },
+            "Chicken": {
+                "Milanesa de pollo con mini ensalada cesar": {
+                    "Price": 2955
+                },
+                "Pollo entero relleno de arroz moro y bacon": {
+                    "Price": 2955
+                }
+            },
+            "Beef": {
+                "Bife de chorizo": {
+                    "Price": 7255
+                },
+                "Picanha chilena": {
+                    "Price": 8000
+                }
+            },
+            "Sea": {
+                "Filete de pescado con vegetales orientales": {
+                    "Price": 3755
+                },
+                "Filete de pescado frito con crujientes de cebolla frita y aderezo": {
+                    "Price": 2950
+                },
+                "Zarzuela de mariscos langosta camar\u00f3n pescado y pulpo": {
+                    "Price": 5500
+                },
+                "Gambon argentino al ajillo": {
+                    "Price": 3555
+                }
+            },
+            "Other": {
+                "Rionada argentina": {
+                    "Price": 8000
+                },
+                "Tamal relleno con lonjas de cerdo y huevo frito": {
+                    "Price": 2955
+                },
+                "Fricando de ternera estofado": {
+                    "Price": 4500
+                },
+                "Straccettis con cebolla y jamon": {
+                    "Price": 3500
+                },
+                "Solomillo de ternera con papas asadas y crema de piquillos": {
+                    "Price": 4550
+                },
+                "Tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas": {
+                    "Price": 7500
+                },
+                "Punta de filete al ajillo con mostaza": {
+                    "Price": 4550
+                }
+            }
+        },
+        "Extras": {
+            "Jamon barra": {
+                "Price": 500
+            },
+            "Jamon serrano": {
+                "Price": 650
+            },
+            "Queso gouda": {
+                "Price": 500
+            },
+            "Queso parmesano": {
+                "Price": 800
+            },
+            "Bacon": {
+                "Price": 500
+            },
+            "Pepperoni": {
+                "Price": 550
+            },
+            "Chorizo asturiano": {
+                "Price": 550
+            },
+            "Camaron": {
+                "Price": 600
+            },
+            "Huevo": {
+                "Price": 400
+            },
+            "Aceitunas": {
+                "Price": 500
+            },
+            "Cebolla": {
+                "Price": 450
+            }
+        },
+        "Desserts": {
+            "Cookies recien horneadas con helado y cremas": {
+                "Price": 2000
+            },
+            "Cheesecake": {
+                "Price": 2000
+            },
+            "Tres leche con fanguito y helado": {
+                "Price": 2000
+            },
+            "Brownie de nueces y helado de pistacho": {
+                "Price": 2000
+            },
+            "Es mas que un flan": {
+                "Price": 2000
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

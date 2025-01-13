@@ -1,0 +1,150 @@
+{
+    "Name": "Cafe boulevard",
+    "Type": "Bar-Restaurante0",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Boulevard de San Refael",
+        "Coordinates": "4JPP+HVW"
+    },
+    "Cuisine": "Cubana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "ensalada de estacion": {
+                "Price": 200
+            },
+            "papas fritas": {
+                "Price": 150
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "fajitas de cerdo": {
+                    "Price": 1350
+                }
+            },
+            "Chicken": {
+                "fajitas de pollo": {
+                    "Price": 1300
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "filete de merluza": {
+                    "Price": 550
+                }
+            },
+            "Other":{
+                "caldosa boulevard":{
+                    "Price": 200
+                },
+                "arroz con subproductos":{
+                    "Price": 300
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "jugo de fruta": {
+                "Price": 100
+            },
+            "cerveza importada": {
+                "Price": 180
+            },
+            "vino tinto cabernet": {
+                "Price": 1340
+            },
+            "licor paso pondal (30ml)": {
+                "Price": 75
+            },
+            "licor fenet blanca (30ml)": {
+                "Price": 75
+            },
+            "grappa carolina bianca (30ml)": {
+                "Price": 75
+            },
+            "ron legendario anhejo (45ml)": {
+                "Price": 90
+            },
+            "ron legendario dorado (45ml)": {
+                "Price": 100
+            },
+            "trago legendario ronse (45ml)": {
+                "Price": 75
+            },
+            "licor de cafe (30ml)": {
+                "Price": 75
+            },
+            "copa de vino blanco (125ml)": {
+                "Price": 145
+            } 
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

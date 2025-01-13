@@ -1,0 +1,472 @@
+{
+    "Name": "El biky",
+    "Type": "Restaurante",
+    "Phone_Number": "7870 6515",
+    "Web_Page": "elbiky.com",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2300"
+        ],
+        "Tuesday": [
+            "800-2300"
+        ],
+        "Wednesday": [
+            "800-2300"
+        ],
+        "Thursday": [
+            "800-2300"
+        ],
+        "Friday": [
+            "800-2300"
+        ],
+        "Saturday": [
+            "800-2300"
+        ],
+        "Sunday": [
+            "800-2300"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Infanta No412 e/ San Lazaro y Concordia",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croqueticas de la casa": {
+                "Price": 700.0
+            },
+            "Frituras de Malanga": {
+                "Price": 500.0
+            },
+            "Tostones rellenos de jamon": {
+                "Price": 2000.0
+            },
+            "Tostones rellenos de ropa vieja": {
+                "Price": 2200.0
+            },
+            "Tostones rellenos mixtos": {
+                "Price": 2200.0
+            },
+            "Tostones rellenos de atun": {
+                "Price": 2200.0
+            },
+            "Sandwich de jamon en pan baguette (con viandas fritas)": {
+                "Price": 700
+            },
+            "Sandwich de queso en pan baguette (con viandas fritas)": {
+                "Price": 1400
+            },
+            "Sandwich de jamon y queso en pan baguette (con viandas fritas)": {
+                "Price": 1200
+            },
+            "Baguette con lomo de cerdo (con viandas fritas)": {
+                "Price": 3500.0
+            },
+            "Baguette de atun": {
+                "Price": 1900.0
+            },
+            "Baguette catalana (jamon serrano con viandas fritas)": {
+                "Price": 1800.0
+            },
+            "Baguette de pollo (pechuga de pollo con viandas fritas)": {
+                "Price": 1900.0
+            },
+            "Baguette cubano (cerdo asado, jamon ahumado y queso)": {
+                "Price": 1393.0
+            },
+            "Pepito de filete de res (filete de res con vegetales y viandas fritas)": {
+                "Price": 5000.0
+            },
+            "Hamburguesa de carne (res) con vegetales y vianda frita": {
+                "Price": 2740.0
+            },
+            "Cheeseburger (res) con queso, vegetales y vianda frita": {
+                "Price": 2950.0
+            },
+            "Hamburguesa especial (res) con jamon, queso, bacon y vegetales": {
+                "Price": 3700.0
+            },
+            "Crema de Queso": {
+                "Price": 850.0
+            },
+            "Crema Reina": {
+                "Price": 850.0
+            },
+            "Crema Aurora": {
+                "Price": 850.0
+            },
+            "Crema Virginia": {
+                "Price": 850.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis a la Carbonara": {
+                    "Price": 3000.0
+                },
+                "Espaguetis con Jamon y Queso": {
+                    "Price": 1250.0
+                },
+                "Espaguetis Napolitanos": {
+                    "Price": 970
+                },
+                "Espaguetis Bolognesa": {
+                    "Price": 2500.0
+                },
+                "Espaguetis con Atun": {
+                    "Price": 2400.0
+                },
+                "Lasanha Bolognesa": {
+                    "Price": 3800.0
+                }
+            },
+            "Pizza": {
+                "Pizza de Queso": {
+                    "Price": 1300
+                }
+            },
+            "Pork": {
+                "Lomo de Cerdo Grille": {
+                    "Price": 3500.0
+                },
+                "Masas de Cerdo Fritas": {
+                    "Price": 2800.0
+                },
+                "Chuleta de Cerdo Frita": {
+                    "Price": 2300.0
+                },
+                "Escalope de Cerdo": {
+                    "Price": 3900
+                },
+                "Bistec de Cerdo a la plancha": {
+                    "Price": 3500.0
+                }
+            },
+            "Chicken": {
+                "Fajitas de pollo": {
+                    "Price": 1300.0
+                },
+                "Pollo Grille": {
+                    "Price": 1800
+                },
+                "Gorden Blue": {
+                    "Price": 2400
+                }
+            },
+            "Beef": {
+                "Carpaccio de Res": {
+                    "Price": 3800.0
+                },
+                "Solomillo de Res": {
+                    "Price": 6800
+                }
+            },
+            "Sea": {
+                "Ceviche de Pescado": {
+                    "Price": 2650.0
+                },
+                "Esperlan de pescado": {
+                    "Price": 1300.0
+                },
+                "Filete de Pescado": {
+                    "Price": 3000
+                },
+                "Filete de Salmon": {
+                    "Price": 5500
+                },
+                "Rosa de salmon ahumado": {
+                    "Price": 4100.0
+                },
+                "Esperlan de langosta": {
+                    "Price": 2900.0
+                },
+                "Ceviche de Camarones": {
+                    "Price": 2800.0
+                },
+                "Coctel de Camarones en Salsa Rosa": {
+                    "Price": 2400.0
+                },
+                "Carpaccio de Pulpo aderezado de aceite extra virgen de olivas": {
+                    "Price": 2300.0
+                },
+                "Zalzuela de Mariscos": {
+                    "Price": 6000
+                },
+                "Pulpo": {
+                    "Price": 5800
+                }
+            },
+            "Other": {
+                "Cazuela de Garbanzos": {
+                    "Price": 2100.0
+                },
+                "Surtido de Quesos": {
+                    "Price": 2200.0
+                },
+                "Pimientos Piquillos Rellenos (queso crema, atun y vegetales)": {
+                    "Price": 1950.0
+                },
+                "Entremes de Jamon Serrano": {
+                    "Price": 2000.0
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada de Vegetales, vegetales de estacion": {
+                "Price": 1000.0
+            },
+            "Ensalada Mixta Vegetal (Queso, atun, huevo y cebolla)": {
+                "Price": 2300.0
+            },
+            "Ensalada Fria de Pasta (De la casa) Italiana": {
+                "Price": 900.0
+            },
+            "Racion de Arroz Blanco": {
+                "Price": 140.0
+            },
+            "Racion de Arroz Mongol": {
+                "Price": 180.0
+            },
+            "Ensalada Verde": {
+                "Price": 200.0
+            },
+            "Papas Fritas": {
+                "Price": 1300.0
+            },
+            "Pure de Malanga": {
+                "Price": 650.0
+            }
+        },
+        "Desserts": {
+            "Flan de Caramelo": {
+                "Price": 400.0
+            },
+            "Cheesecake": {
+                "Price": 920.0
+            },
+            "Bizcocho con helado": {
+                "Price": 720.0
+            },
+            "Copa Tres Leches": {
+                "Price": 960.0
+            },
+            "Pie de Limon": {
+                "Price": 1100.0
+            },
+            "Helado Sencillo": {
+                "Price": 420.0
+            },
+            "Jimaguas": {
+                "Price": 740.0
+            },
+            "Tres Gracias": {
+                "Price": 680.0
+            },
+            "Copa Lolita (Helado con Flan)": {
+                "Price": 860.0
+            },
+            "Ensalada de Helado": {
+                "Price": 900.0
+            },
+            "Batido de Helado": {
+                "Price": 850.0
+            },
+            "Suero de Helado": {
+                "Price": 970.0
+            }
+        },
+        "Beverages": {
+            "Ron Collis": {
+                "Price": 750.0
+            },
+            "Limonada Clarete": {
+                "Price": 2000.0
+            },
+            "Sangria": {
+                "Price": 750.0
+            },
+            "Cuba Libre": {
+                "Price": 1800.0
+            },
+            "Mary Pickford": {
+                "Price": 750.0
+            },
+            "Cuba Bella": {
+                "Price": 750.0
+            },
+            "Majto": {
+                "Price": 750.0
+            },
+            "Daiquiri Rebelde": {
+                "Price": 750.0
+            },
+            "Havana Special": {
+                "Price": 750.0
+            },
+            "B-52": {
+                "Price": 800.0
+            },
+            "Pinha Colada": {
+                "Price": 1000.0
+            },
+            "Bloody Mary": {
+                "Price": 800.0
+            },
+            "Manhattan": {
+                "Price": 900.0
+            },
+            "Cantharchars": {
+                "Price": 750.0
+            },
+            "Martini": {
+                "Price": 800.0
+            },
+            "San Francisco": {
+                "Price": 400.0
+            },
+            "Colada": {
+                "Price": 400.0
+            },
+            "Miami Vice": {
+                "Price": 400.0
+            },
+            "Virgin Maria": {
+                "Price": 400.0
+            },
+            "47'S Frozen": {
+                "Price": 400.0
+            },
+            "Agua Gaseosa Importada": {
+                "Price": 550.0
+            },
+            "Agua Natural sin gas": {
+                "Price": 440.0
+            },
+            "Agua Tonica": {
+                "Price": 1000.0
+            },
+            "Refrescos": {
+                "Price": 550.0
+            },
+            "Malta": {
+                "Price": 650.0
+            },
+            "Cervezas": {
+                "Price": 1200.0
+            },
+            "Jarra de Cerveza": {
+                "Price": 400.0
+            },
+            "Vaso de Cerveza": {
+                "Price": 350.0
+            },
+            "Red Bull": {
+                "Price": 1200.0
+            },
+            "Kermato": {
+                "Price": 1200.0
+            },
+            "Limonada": {
+                "Price": 720.0
+            },
+            "Limonada Fresca": {
+                "Price": 850.0
+            },
+            "Jugos de Frutas Naturales": {
+                "Price": 500.0
+            },
+            "Batidos de Frutas Naturales": {
+                "Price": 600.0
+            },
+            "Copa de Vino": {
+                "Price": 1500.0
+            },
+            "Copa de vino digestivo dulce (50ml)": {
+                "Price": 1200.0
+            },
+            "Michelada": {
+                "Price": 250.0
+            },
+            "Chelada": {
+                "Price": 200.0
+            },
+            "Vaso de Leche": {
+                "Price": 200.0
+            },
+            "Cafe Expreso": {
+                "Price": 170.0
+            },
+            "Cafe Americano": {
+                "Price": 170.0
+            },
+            "Cafe Cortado": {
+                "Price": 200.0
+            },
+            "Cafe con Leche": {
+                "Price": 270.0
+            },
+            "Cafe Carajillo": {
+                "Price": 400.0
+            },
+            "Cafe Bombon": {
+                "Price": 400.0
+            },
+            "Capuchino": {
+                "Price": 310.0
+            },
+            "Te": {
+                "Price": 150.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

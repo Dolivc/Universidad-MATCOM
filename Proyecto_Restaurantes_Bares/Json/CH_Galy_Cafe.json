@@ -1,0 +1,323 @@
+{
+    "Name": "Galy Cafe",
+    "Type": "Restaurante",
+    "Phone_Number": "78634580",
+    "Web_Page": "GalyCafé",
+    "Ownership":  "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-21:00"],
+        "Tuesday":  ["11:00-21:00"],
+        "Wednesday": ["11:00-21:00"],
+        "Thursday": ["11:00-21:00"],
+        "Friday":   ["11:00-21:00"],
+        "Saturday": ["11:00-21:00"],
+        "Sunday":   ["11:00-21:00"]
+        }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Calle San Jose/ Aguila y Galiano",
+        "Coordinates": "4JPP+8WW"
+        },
+
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                "Sandwich de queso": {
+                    "Price": 1150
+                },
+                "Sandwich de jamon": {
+                    "Price": 1150
+                },
+                "Sandwich de jamon y queso": {
+                    "Price": 1200
+                },
+                "Sandwich de jamon, queso y chorizo": {
+                    "Price": 1250
+                },
+                "Sandwich de atun y cebolla": {
+                    "Price": 1270
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas cremosas Galy": {
+                "Price": 650
+            },
+            "Eperlan": {
+                "Price": 760 
+            },
+            "Crema de queso": {
+                "Price": 570
+            },
+            "Crema virginia": {
+                "Price": 600
+            },
+            "Crema aurora": {
+                "Price": 590
+            },
+            "Crema de queso azul": {
+                "Price": 720
+            },
+            "Fajitas de pechuga de pollo": {
+                "Price": 760
+            },
+            "Coctel de camarones": {
+                "Price": 1100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguettis de queso": {
+                    "Price": 1160
+                },
+                "Espaguettis al diablo": {
+                    "Price": 1200
+                },
+                "Espaguettis de jamon": {
+                    "Price": 1270
+                },
+                "Espaguetti de chorizo": {
+                    "Price": 1270
+                },
+                "Espaguetti carbonara": {
+                    "Price": 1450
+                },
+                "Espaguettis camarones": {
+                    "Price": 1550
+                },
+                "Espaguetti con pescado y marisco": {
+                    "Price": 1700
+                },
+                "Lasagna": {
+                    "Price": 1760 
+                }
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 1160
+                },
+                "Pizza de jamon": {
+                    "Price": 1270
+                },
+                "Pizza de chorizo": {
+                    "Price": 1270
+                },
+                "Pizza hawaiana": {
+                    "Price": 1270
+                },
+                "Pizza de cebolla": {
+                    "Price": 1270
+                },
+                "Pizza de pimientos": {
+                    "Price": 1270
+                },
+                "Pizza de camarones": {
+                    "Price": 1250
+                },
+                "Pizza de atun y cebolla": {
+                    "Price": 1500
+                },
+                "Pizza galy(dos quesos)": {
+                    "Price": 1550
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo a la plancha": {
+                    "Price": 2750
+                },
+                "Lomo de cerdo ahumado": {
+                    "Price": 2100
+                }
+            },
+            "Chicken": {
+                "Pechuga a la plancha": {
+                    "Price": 2750
+                },
+                "Pechuga empanada": {
+                    "Price": 3100
+                },
+                "Pechuga gordon bleu": {
+                    "Price": 2970
+                },
+                "Pechuga milanesa": {
+                    "Price": 2860
+                }
+            },
+            "Beef": {
+                "Filetillo de res": {
+                    "Price": 1550
+                },
+                "Bistec uruguayo": {
+                    "Price": 2970
+                },
+                "Bistec de palomilla": {
+                    "Price": 2650
+                },
+                "Ropa vieja": {
+                    "Price": 2650 
+                }
+            },
+            "Sea": {
+                "Pescado a la plancha": {
+                    "Price": 3200
+                },
+                "Pescado empanado": {
+                    "Price": 3200
+                },
+                "Pescado en salsa de tomate con camarones y almejas": {
+                    "Price": 3200
+                },
+                "Filete canciller": {
+                    "Price": 3520
+                },
+                "camarón al ajillo": {
+                    "Price": 3200
+                },
+                "camarón enchilado": {
+                    "Price": 3200
+                },
+                "camarón rebosado": {
+                    "Price": 3200
+                },
+                "camarón empanado": {
+                    "Price": 3200
+                },
+                "camarón a la plancha": {
+                    "Price": 3200
+                },
+                "pulpo enchilado": {
+                    "Price": 3300
+                },
+                "pulpo al ajillo": {
+                    "Price": 3300
+                },
+                "paella melosa del mar": {
+                    "Price": 3100
+                },
+                "mar y tierra": {
+                    "Price": 3300
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 350
+            },
+            "Arroz moro": {
+                "Price": 420 
+            },
+            "Frijol del dia": {
+                "Price": 490
+            },
+            "Vianda hervida con mojo": {
+                "Price": 650
+            },
+            "Papas fritas": {
+                "Price": 720
+            },
+            "Pure de la casa": {
+                "Price": 850
+            },
+            "Ensalada de temporada": {
+                "Price": 850
+            }
+        },
+        "Desserts": {
+            "tarta de chocolate galy": {
+                "Price": 650
+            },
+            "tres leche con hilo de chocolate": {
+                "Price": 690
+            },
+            "helados variados": {
+                "Price": 610
+            }
+        },
+        "Beverages": {
+            "agua natural": {
+                "Price": 385
+            },
+            "agua gaseada": {
+                "Price": 300
+            },
+            "red bull": {
+                "Price": 500
+            },
+            "malteada": {
+                "Price": 500 
+            },
+            "jugos naturales": {
+                "Price": 210
+            },
+            "jugo natural (cajita 200ml)": {
+                "Price": 320
+            },
+            "jugo importado (enlatado)": {
+                "Price": 385
+            },
+            "batido de helado": {
+                "Price": 950
+            },
+            "cervezas nacionales": {
+                "Price": 440
+            },
+            "cervezas importadas": {
+                "Price": 330
+            },
+            "café expreso": {
+                "Price": 330
+            },
+            "café cortado": {
+                "Price": 305
+            },
+            "café cremoso": {
+                "Price": 440
+            },
+            "café galy": {
+                "Price": 500
+            }
+        },
+        "most_sold":{
+            "Dish":["Bistec empanado","Pizza"],
+            "Drink":["Cerveza"]
+        },
+        "least_sold":{
+            "Dish":["Paella"],
+            "Drink": []
+        }
+    }, 
+    "Other_info":{
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Aire acondicionado", "Parqueo", "Servicio a domicilio"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies":{
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros":  true,
+            "Others": false
+        }
+    }  
+}

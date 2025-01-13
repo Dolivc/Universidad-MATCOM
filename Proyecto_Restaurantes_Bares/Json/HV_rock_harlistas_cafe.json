@@ -1,0 +1,371 @@
+{
+    "Name": "Rock_Harlistas_Cafe",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coordinates": " Compostela, & San Juan de Dios, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Napolitana": {
+                    "Price": 1250
+                },
+                "Pesto": {
+                    "Price": 1300
+                },
+                "Carbonara": {
+                    "Price": 1550
+                }
+            },
+            "Pizza": {
+                "Pizza Napoles": {
+                    "Price": 1250
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1500
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Batidos Tropicales": {
+                "Price": 700
+            },
+            "Jugos Tropicales": {
+                "Price": 550
+            },
+            "Limonada Natural": {
+                "Price": 450
+            },
+            "Limonada Frappe": {
+                "Price": 450
+            },
+            "Limonada Frescura": {
+                "Price": 550
+            },
+            "Refrescos Nacionales": {
+                "Price": 400
+            },
+            "Refrescos Importados": {
+                "Price": 550
+            },
+            "Agua Mineral": {
+                "Price": 450
+            },
+            "Agua Gaseada": {
+                "Price": 500
+            },
+            "Agua Tonica": {
+                "Price": 600
+            },
+            "Kermato": {
+                "Price": 650
+            },
+            "Batido de Helado": {
+                "Price": 1100
+            },
+            "Copa de Helado Montano": {
+                "Price": 900
+            },
+            "Hendrick's": {
+                "Price": 1300
+            },
+            "Tanqueray": {
+                "Price": 900
+            },
+            "Bombay Sapphire": {
+                "Price": 900
+            },
+            "Ungava Premium": {
+                "Price": 1100
+            },
+            "Beefeater": {
+                "Price": 550
+            },
+            "Beefeater 24": {
+                "Price": 800
+            },
+            "Van Gogh": {
+                "Price": 1100
+            },
+            "Mezcal Amaras Reposado": {
+                "Price": 900
+            },
+            "Olmeca Silver": {
+                "Price": 800
+            },
+            "Olmeca Reposado": {
+                "Price": 900
+            },
+            "Patron Reposado": {
+                "Price": 2300
+            },
+            "Patron Silver": {
+                "Price": 2100
+            },
+            "Don Julio Reposado": {
+                "Price": 2900
+            },
+            "Tromba Reposado": {
+                "Price": 1700
+            },
+            "Vino Tinto D' la Casa": {
+                "Price": 700
+            },
+            "Vino Tinto Partager": {
+                "Price": 900
+            },
+            "Vino Blanco Marques d' Caceres": {
+                "Price": 750
+            },
+            "Moet y Chandom Imperial": {
+                "Price": 10000
+            },
+            "Sidra Riano Palacio": {
+                "Price": 4000
+            },
+            "Ballantines": {
+                "Price": 950
+            },
+            "Jameson": {
+                "Price": 900
+            },
+            "Chivas 12": {
+                "Price": 1250
+            },
+            "JW Red Label": {
+                "Price": 1000
+            },
+            "JW Black Label": {
+                "Price": 1250
+            },
+            "Jack Daniels No. 7": {
+                "Price": 2100
+            },
+            "Jack Daniels Gentleman": {
+                "Price": 1900
+            },
+            "Crown Royal": {
+                "Price": 1900
+            },
+            "Scottman": {
+                "Price": 700
+            },
+            "Bucanero": {
+                "Price": 550
+            },
+            "Cristal": {
+                "Price": 500
+            },
+            "Cristal B": {
+                "Price": 600
+            },
+            "H.C. 3 Anhos": {
+                "Price": 550
+            },
+            "H.C. 7 Anhos": {
+                "Price": 700
+            },
+            "H.C Seleccion Maestro": {
+                "Price": 1450
+            },
+            "Cubay Anhejo 10 Anhos": {
+                "Price": 800
+            },
+            "Santiago 11": {
+                "Price": 1200
+            },
+            "Santiago Extra Anhejo 12": {
+                "Price": 1100
+            },
+            "Mojito": {
+                "Price": 900
+            },
+            "Mojito Tropical": {
+                "Price": 1000
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Daiquiri Tropical": {
+                "Price": 1000
+            },
+            "Cuba Libre": {
+                "Price": 800
+            },
+            "Cubata": {
+                "Price": 800
+            },
+            "Ron Collins": {
+                "Price": 900
+            },
+            "Tom Collins": {
+                "Price": 950
+            },
+            "Bloody Mary": {
+                "Price": 1100
+            },
+            "Cubanito": {
+                "Price": 1100
+            },
+            "Caipirinha": {
+                "Price": 800
+            },
+            "Caipirissima": {
+                "Price": 800
+            },
+            "Caipiroska": {
+                "Price": 850
+            },
+            "CaipiJagger": {
+                "Price": 900
+            },
+            "Canchanchara": {
+                "Price": 850
+            },
+            "Espresso Martini": {
+                "Price": 1000
+            },
+            "Dry Martini": {
+                "Price": 1000
+            },
+            "Sweet Martini": {
+                "Price": 1000
+            },
+            "Perfect Martini": {
+                "Price": 1150
+            },
+            "Gin Tonic": {
+                "Price": 1000
+            },
+            "Margarita": {
+                "Price": 900
+            },
+            "Negroni": {
+                "Price": 1150
+            },
+            "Old Fashioned": {
+                "Price": 1150
+            },
+            "Pinha Colada": {
+                "Price": 1100
+            },
+            "Sangria": {
+                "Price": 950
+            },
+            "Tinto de Verano": {
+                "Price": 950
+            },
+            "Calimocho": {
+                "Price": 900
+            },
+            "Screwdriver": {
+                "Price": 1000
+            },
+            "Michelada": {
+                "Price": 1100
+            },
+            "Chelada": {
+                "Price": 900
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "Name": "Villarino",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": "http://linktr.ee/restaurantevillarino",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2200"
+        ],
+        "Tuesday": [
+            "1200-2200"
+        ],
+        "Wednesday": [
+            "1200-2200"
+        ],
+        "Thursday": [
+            "1200-2200"
+        ],
+        "Friday": [
+            "1200-2200"
+        ],
+        "Saturday": [
+            "1200-2200"
+        ],
+        "Sunday": [
+            "1200-2200"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Crujientes de yuca con aderezo agridulce": {
+                "Price": 480
+            },
+            "Croquetas de la casa": {
+                "Price": 520
+            },
+            "Bolitas de queso crujientes": {
+                "Price": 720
+            },
+            "Sandwich clasico": {
+                "Price": 520
+            },
+            "Eperlan de pescado": {
+                "Price": 720
+            },
+            "Fajitas de pollo": {
+                "Price": 680
+            },
+            "Cazuelita de garbanzos a la criolla": {
+                "Price": 680
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta de queso": {
+                    "Price": 850
+                },
+                "Pasta de jamon": {
+                    "Price": 920
+                },
+                "Pasta de chorizo": {
+                    "Price": 880
+                },
+                "Pasta carbonara": {
+                    "Price": 950
+                },
+                "Pasta villarino": {
+                    "Price": 1200
+                },
+                "Lasagna de carne": {
+                    "Price": 850
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 700
+                },
+                "Pizza cebolla": {
+                    "Price": 750
+                },
+                "Pizza chorizo": {
+                    "Price": 780
+                },
+                "Pizza doble queso": {
+                    "Price": 950
+                },
+                "Pizza jamon": {
+                    "Price": 800
+                },
+                "Pizza vegetales": {
+                    "Price": 800
+                },
+                "Pizza hawaiana": {
+                    "Price": 880
+                },
+                "Pizza de pollo": {
+                    "Price": 800
+                },
+                "Pizza del mar": {
+                    "Price": 1200
+                },
+                "Pizza de atun": {
+                    "Price": 950
+                },
+                "Pizza de ropa vieja": {
+                    "Price": 950
+                },
+                "Pizza de camarones": {
+                    "Price": 1200
+                },
+                "Pizza al gusto": {
+                    "Price": 1000
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Arroz con pollo a la campesina": {
+                    "Price": 800
+                },
+                "Arroz frito especial": {
+                    "Price": 800
+                },
+                "Risotto": {
+                    "Price": 2250
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 150
+            },
+            "Agua tonica": {
+                "Price": 300
+            },
+            "Malta importada": {
+                "Price": 280
+            },
+            "Malteada": {
+                "Price": 480
+            },
+            "Red bull": {
+                "Price": 220
+            },
+            "Refrescos nacionales": {
+                "Price": 220
+            },
+            "Refrescos importados": {
+                "Price": 235
+            },
+            "Limonada frappe": {
+                "Price": 200
+            },
+            "Jugos naturales": {
+                "Price": 180
+            },
+            "Jugos importados": {
+                "Price": 210
+            },
+            "Cocteles nacionales": {
+                "Price": 475
+            },
+            "Cocteles internacionales": {
+                "Price": 550
+            },
+            "Copa de vino": {
+                "Price": 350
+            },
+            "Cervezas nacionales (cristal/bucanero)": {
+                "Price": 260
+            },
+            "Cervezas importadas": {
+                "Price": 380
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

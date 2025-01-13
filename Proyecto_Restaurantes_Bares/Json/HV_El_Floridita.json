@@ -1,0 +1,182 @@
+{
+    "Name": "El floridita",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "barfloridita",
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-00:00"],
+        "Tuesday":  ["12:00-00:00"],
+        "Wednesday": ["12:00-00:00"],
+        "Thursday": ["12:00-00:00"],
+        "Friday":   ["12:00-00:00"],
+        "Saturday": ["12:00-00:00"],
+        "Sunday":   ["12:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "4JPV+X29",
+        "Coordinates": "Obispo"
+    },
+    "Cuisine": "Criolla",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Cebiche caribenho": {
+                "Price": 1200
+            },
+            "Coctel de langosta": {
+                "Price": 1200
+            },
+            "El viejo y el mar": {
+                "Price": 2150
+            },
+            "Jamon serrano": {
+                "Price": 1350
+            },
+            "Seleccion de quesos": {
+                "Price": 1200
+            },
+            "Pica pica del chef(croquetas del dia)": {
+                "Price": 550
+            },
+            "Tapas de mariscos": {
+                "Price": 1050
+            },
+            "Pasta frutti de mare": {
+                "Price": 1450
+            },
+            "Casuelita colonial":{
+                "Price": 1100
+            },
+            "Crema floridita":{
+                "Price": 600
+            },
+            "Sopa noche de Paris":{
+                "Price": 350
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo Finca vijia": {
+                    "Price": 1700
+                }
+            },
+            "Chicken": {
+                "Caserola de pollo gregorin": {
+                    "Price": 1450
+                }
+            },
+            "Beef": {
+                "Solomillo de res": {
+                    "Price": 2400
+                },
+                "Clasica ropa vieja": {
+                    "Price": 1800
+                }
+            },
+            "Sea": {
+                "Langosta a su gusto": {
+                    "Price": 2850
+                },
+                "Gran plato Hemingway (langosta,pescado y gambas)":{
+                    "Price": 2600
+                },
+                "Cazuelita del pescador":{
+                    "Price": 2400
+                },
+                "Cayuka mixta":{
+                    "Price": 2400
+                },
+                "Papa & Mary":{
+                    "Price": 2350
+                },
+                "Camarones flambeados al ron":{
+                    "Price": 2200
+                },
+                "Pincho de camarones":{
+                    "Price": 1950
+                },
+                "Filete de pescado al estilo Hemingway":{
+                    "Price": 2200
+                },
+                "Filete de pescado a la parrilla":{
+                    "Price": 1800
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz marinero": {
+                "Price": 1450
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Pinha colada": {
+                "Price": 450
+            },
+            "Daiquiri": {
+                "Price": 350
+            },
+            "Mojito": {
+                "Price": 350
+            },
+            "Cuba libre": {
+                "Price": 400
+            }
+        },
+        "most_sold": {
+            "Dish": ["Comida criolla"],
+            "Drink": ["Pinha colada","Cuba libre","Daiquiri"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo"],
+        "Facilities": ["Sillas para ninhos","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

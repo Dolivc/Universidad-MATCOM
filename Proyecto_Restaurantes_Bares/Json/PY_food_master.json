@@ -1,0 +1,204 @@
+{
+    "Name": "Food Master",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "https://linktr.ee/foodmaster.havana",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1030-2100"
+        ],
+        "Tuesday": [
+            "1030-2100"
+        ],
+        "Wednesday": [
+            "1030-2100"
+        ],
+        "Thursday": [
+            "1030-2100"
+        ],
+        "Friday": [
+            "1030-2200"
+        ],
+        "Saturday": [
+            "1030-2200"
+        ],
+        "Sunday": [
+            "1030-2100"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Picadera food master": {
+                "Price": 2700
+            },
+            "Salchichas al grill": {
+                "Price": 1600
+            },
+            "Quesadilla": {
+                "Price": 990
+            },
+            "Tacos": {
+                "Price": 990
+            },
+            "Croquetas": {
+                "Price": 700
+            },
+            "Empanadas": {
+                "Price": 750
+            },
+            "Papas fritas": {
+                "Price": 690
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza margarita": {
+                    "Price": 1900
+                },
+                "Pizza margarita con jamon": {
+                    "Price": 2400
+                },
+                "Pizza diavola": {
+                    "Price": 2600
+                },
+                "Pizza de jamon serrano": {
+                    "Price": 3200
+                },
+                "Pizza de atun": {
+                    "Price": 3100
+                },
+                "La prohibida en italia": {
+                    "Price": 3200
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Empanadas de pi\u00f1a y queso": {
+                "Price": 750
+            },
+            "Muffin": {
+                "Price": 550
+            },
+            "Helado": {
+                "Price": 750
+            }
+        },
+        "Beverages": {
+            "Jugo natural": {
+                "Price": 500
+            },
+            "Jugo cajita": {
+                "Price": 400
+            },
+            "Fresh de pepino": {
+                "Price": 300
+            },
+            "Vino por copa": {
+                "Price": 900
+            },
+            "Gin & tonic": {
+                "Price": 1200
+            },
+            "Chelada": {
+                "Price": 900
+            },
+            "Michelada": {
+                "Price": 1000
+            },
+            "Sangria": {
+                "Price": 1100
+            },
+            "Sangria blanca": {
+                "Price": 1100
+            },
+            "Tinto de verano": {
+                "Price": 900
+            },
+            "Spirit coctel": {
+                "Price": 800
+            },
+            "Cerveza": {
+                "Price": 600
+            },
+            "Cerveza gama alta": {
+                "Price": 800
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

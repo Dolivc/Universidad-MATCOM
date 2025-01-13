@@ -1,0 +1,205 @@
+{
+    "Name": "Europa",
+    "Type": "Restaurante",
+    "Phone_Number": "78644484",
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-00:00"],
+        "Tuesday":  ["12:00-00:00"],
+        "Wednesday": ["12:00-00:00"],
+        "Thursday": ["12:00-00:00"],
+        "Friday":   ["12:00-00:00"],
+        "Saturday": ["12:00-00:00"],
+        "Sunday":   ["12:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo",
+        "Coordinates": "4JQW+CQ6"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Fajitas de cerdo": {
+                "Price": 990
+            },
+            "Nudgget de pollo": {
+                "Price": 415
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 650
+                }
+            },
+            "Pork": {
+                "Lonja de cerdo asaado": {
+                    "Price": 775
+                },
+                "Bistec de cerdo": {
+                    "Price": 850
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 375
+                }
+            },
+            "Sea": {
+                "Arroz con camaron": {
+                    "Price": 550
+                },
+                "Camaron grille": {
+                    "Price": 1900
+                },
+                "Camaron enchilado": {
+                    "Price": 1740
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz sustancia": {
+                "Price": 105
+            },
+            "Arroz blanco": {
+                "Price": 100
+            },
+            "Arroz moro": {
+                "Price": 135
+            },
+            "Vianda hervida": {
+                "Price": 175
+            }
+        },
+        "Desserts": {
+            "Arroz con leche": {
+                "Price": 100
+            },
+            "Bola de helado": {
+                "Price": 45
+            }
+        },
+        "Beverages": {
+            "Cafe expresso": {
+                "Price": 125
+            },
+            "Cafe americano": {
+                "Price": 150
+            },
+            "Limonada": {
+                "Price": 100
+            },
+            "Ron collins": {
+                "Price": 350
+            },
+            "Mojito": {
+                "Price": 300
+            },
+            "Vino blanco": {
+                "Price": 200
+            },
+            "Vino tinto": {
+                "Price": 200
+            },
+            "Jugo nacional": {
+                "Price": 90
+            },
+            "Malta importada": {
+                "Price": 135
+            },
+            "Cerveza importada de lata": {
+                "Price": 175
+            },
+            "Vaso de jugo": {
+                "Price": 100
+            },
+            "Cerveza dispensada": {
+                "Price": 190
+            },
+            "Ron Habana club Anhejo 3 anhos": {
+                "Price": 200
+            },
+            "Ron Habana club Anhejo especial": {
+                "Price": 200
+            },
+            "Ron Habana club Anhejo reserva": {
+                "Price": 380
+            },
+            "Ron Habana ritual renovado": {
+                "Price": 250
+            },
+            "Ron visual Black Tears aguardiente": {
+                "Price": 180
+            },
+            "Ron Habana clb 7anhos": {
+                "Price": 400
+            },
+            "Whisky Chanceler": {
+                "Price": 180
+            },
+            "Whisky Whytemackay blended scotid": {
+                "Price": 650
+            },
+            "Ginebra beefater": {
+                "Price": 215
+            },
+            "Licores": {
+                "Price": 190
+            }
+        },
+        "most_sold": {
+            "Dish": ["Arroz con camarones","Cerdo"],
+            "Drink": ["Cerveza","Mojito","Cocteles"]
+        },
+        "least_sold": {
+            "Dish": ["Pollo"],
+            "Drink": ["Whisky"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada","Musica en vivo"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

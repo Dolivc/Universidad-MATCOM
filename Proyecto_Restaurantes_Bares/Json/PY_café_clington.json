@@ -1,0 +1,302 @@
+{
+    "Name": "CafE Clington",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-1800"
+        ],
+        "Tuesday": [
+            "800-1800"
+        ],
+        "Wednesday": [
+            "800-1800"
+        ],
+        "Thursday": [
+            "800-1800"
+        ],
+        "Friday": [
+            "800-1800"
+        ],
+        "Saturday": [
+            "800-1800"
+        ],
+        "Sunday": [
+            "800-1800"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno americano": {
+                    "Price": 2000
+                },
+                "Bxb": {
+                    "Price": 600
+                }
+            }
+        },
+        "Appetizers": {
+            "Ensalada nicoise": {
+                "Price": 1500
+            },
+            "Ensalada de aguacate y atun": {
+                "Price": 600
+            },
+            "Ensalada de estacion": {
+                "Price": 500
+            },
+            "Ensalada cesarin de suprema de pollo": {
+                "Price": 1000
+            },
+            "Pasta fria de atun": {
+                "Price": 800
+            },
+            "Pasta fria de jamon": {
+                "Price": 800
+            },
+            "Pasta al pesto": {
+                "Price": 800
+            },
+            "Tapas de jamon con frutos secos": {
+                "Price": 700
+            },
+            "Tapas de falsa de atun napado en crema de vinagre balsamico": {
+                "Price": 900
+            },
+            "Tapa iberica": {
+                "Price": 1000
+            },
+            "Bruschettas": {
+                "Price": 900
+            },
+            "Black and white": {
+                "Price": 1000
+            },
+            "Anabella": {
+                "Price": 600
+            },
+            "Hansel y gretel": {
+                "Price": 600
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Yougurt natural de 1l": {
+                    "Price": 1200
+                },
+                "Yogurt probiotico de mango y guayaba": {
+                    "Price": 900
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Flan fanguito": {
+                "Price": 600
+            },
+            "Snicker": {
+                "Price": 750
+            },
+            "Tofi": {
+                "Price": 600
+            },
+            "Tarta de flan fanguito": {
+                "Price": 3500
+            },
+            "Cheesecake sabor fresa, limon y kiwi": {
+                "Price": 750
+            },
+            "Donas de chocolate": {
+                "Price": 570
+            },
+            "Ojos de buey": {
+                "Price": 200
+            },
+            "Magdalena": {
+                "Price": 250
+            },
+            "Hoja": {
+                "Price": 150
+            },
+            "Donas artesanales": {
+                "Price": 200
+            },
+            "Pastel danes": {
+                "Price": 200
+            },
+            "Caracol": {
+                "Price": 250
+            },
+            "Pastel de guayaba": {
+                "Price": 250
+            },
+            "Palmeras": {
+                "Price": 200
+            },
+            "Coquito horneado": {
+                "Price": 200
+            },
+            "Tarta grande de quiche lorraine": {
+                "Price": 3500
+            },
+            "Porcion de tarta quiche lorraine": {
+                "Price": 350
+            },
+            "Tarta peque\u00f1a de quiche lorraine": {
+                "Price": 600
+            },
+            "Tarta san marcos": {
+                "Price": 5000
+            },
+            "Protiferol": {
+                "Price": 450
+            },
+            "Eclair": {
+                "Price": 450
+            }
+        },
+        "Beverages": {
+            "Agua purificada de 500ml": {
+                "Price": 270
+            },
+            "Agua purificada de 1l": {
+                "Price": 350
+            },
+            "Agua purificada de 5l": {
+                "Price": 900
+            },
+            "Agua gaseada": {
+                "Price": 500
+            },
+            "Malta": {
+                "Price": 350
+            },
+            "Pepsi": {
+                "Price": 350
+            },
+            "Redbull": {
+                "Price": 500
+            },
+            "Coca cola": {
+                "Price": 450
+            },
+            "Sprite": {
+                "Price": 450
+            },
+            "Jugos de 1l": {
+                "Price": 900
+            },
+            "Copa de jugos naturales": {
+                "Price": 250
+            },
+            "Cerveza cristal": {
+                "Price": 300
+            },
+            "Cerveza sol": {
+                "Price": 400
+            },
+            "Cerveza bucanero": {
+                "Price": 400
+            },
+            "Cerveza heineken": {
+                "Price": 500
+            },
+            "Cerveza blue": {
+                "Price": 300
+            },
+            "Cerveza corona": {
+                "Price": 550
+            },
+            "Expresso": {
+                "Price": 200
+            },
+            "Cortado": {
+                "Price": 250
+            },
+            "Capuchino": {
+                "Price": 500
+            },
+            "Bombon": {
+                "Price": 500
+            },
+            "Frapuccino": {
+                "Price": 600
+            },
+            "Con leche": {
+                "Price": 600
+            },
+            "Chocolate caliente": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

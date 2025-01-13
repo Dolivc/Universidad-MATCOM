@@ -1,0 +1,201 @@
+{
+    "Name": "Mythos",
+    "Type": "bar-restaurante",
+    "Phone_Number": "63691718",
+    "Web_Page": "@mythos.havana",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-23:00"],
+        "Tuesday":  ["08:00-23:00"],
+        "Wednesday": ["08:00-23:00"],
+        "Thursday": ["08:00-23:00"],
+        "Friday":   ["08:00-23:00"],
+        "Saturday": ["08:00-23:00"],
+        "Sunday":   ["08:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Cuba No. 211 entre Empedrado y O'Reilly",
+        "Coordinates": null
+    },
+    "Cuisine": "Griega",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta Mediterránea": {
+                    "Price": 3000
+                },
+                "Pasta de Camarón al Anís": {
+                    "Price": 3200
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Solomillo de cerdo en salsa de limón griega": {
+                    "Price": 3500
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Risotto de pulpo": {
+                    "Price": 3700
+                },
+                "Risotto de frutos del mar": {
+                    "Price": 4100
+                },
+                "Pulpo Grille": {
+                    "Price": 4200
+                }
+            },
+            "Other":{
+                "Hummus de Garbanzo":{
+                    "Price": 700
+                },
+                "Melitzanosalata":{
+                    "Price": 800
+                },
+                "Tzatziki":{
+                    "Price": 600
+                },
+                "Papas fritas con queso feta y orégano":{
+                    "Price": 1300
+                },
+                "Tyropitakias":{
+                    "Price": 1000
+                },
+                "Aceitunas marinadas con queso feta":{
+                    "Price": 700
+                },
+                "Griego pobre":{
+                    "Price": 750
+                },
+                "Saganaki":{
+                    "Price": 1500
+                },
+                "Souvlaki de cerdo":{
+                    "Price": 2500
+                },
+                "Souvlaki de pechuga de pollo":{
+                    "Price": 2100
+                },
+                "Souvlaki de res":{
+                    "Price": 2800
+                },
+                "Souvlaki vegano":{
+                    "Price": 2000
+                },
+                "Souvlaki de queso feta":{
+                    "Price": 2500
+                },
+                "Pastitsio":{
+                    "Price": 2300
+                },
+                "Imam":{
+                    "Price": 2000
+                },
+                "Saganaki de langosta o camarón":{
+                    "Price": 3500
+                },
+                "Saganaki de frutos del mar":{
+                    "Price": 4000
+                },
+                "Risotto de yogurt griego":{
+                    "Price": 3000
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tarta de Yogurt Griego con reducción de vino tinto": {
+                "Price": 1000
+            }
+        },
+        "Beverages": {
+            "Demeter (Ginebra, mix de pepino y jengibre, zumo de pinha)": {
+                "Price": 1800
+            },
+            "Afrodita (Ginebra, mix no. 2, licor de orgeat)": {
+                "Price": 2000
+            },
+            "Persefone (Ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus)": {
+                "Price": 2100
+            },
+            "Hades": {
+                "Price": 2500
+            },
+            "Dionisio (Ron blanco, reducción de vino tinto, mix no. 3)": {
+                "Price": 2800
+            },
+            "Poseidón": {
+                "Price": 2500
+            },
+            "Ares (Ron oscuro, mix no. 5, tajin, mango)": {
+                "Price": 2400
+            },
+            "Apolo (Ron blanco, Ruavieja, mix no. 7)": {
+                "Price": 2300
+            },
+            "Freddo Expresso (Café batido servido con hielo)": {
+                "Price": 450
+            },
+            "Freddo Capucchino (Café batido servido con leche, nata y hielo)": {
+                "Price": 650
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

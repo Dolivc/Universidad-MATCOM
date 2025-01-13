@@ -1,0 +1,145 @@
+{
+    "Name": "Cafe atardecer",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wednesday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Regla",
+        "Address": "Marti entre Albuquerque y perdomo",
+        "Coordinates": "4MG9+3HX"
+    },
+    "Cuisine": "Criolla",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "con croqueta": {
+                    "Price": 75
+                },
+                "medallon": {
+                    "Price": 90
+                },
+                "con queso": {
+                    "Price": 90
+                },
+                "con perro": {
+                    "Price": 120
+                },
+                "con jamon y queso": {
+                    "Price": 150
+                }
+            },
+            "Other":{}
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaghetti napolitano": {
+                    "Price": 250
+                },
+                "Espaguetti de jamon": {
+                    "Price": 300
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Escalope": {
+                    "Price": 480
+                },
+                "Fajitas": {
+                    "Price": 480
+                },
+                "Fricase": {
+                    "Price": 380
+                }
+            },
+            "Chicken": {
+                "Empanada": {
+                    "Price": 450
+                },
+                "Fajitas": {
+                    "Price": 450
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Empanado": {
+                    "Price": 320
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "arroz": {
+                "Price": null
+            },
+            "vianda": {
+                "Price": null
+            },
+            "ensalada":{
+                "Price": null
+            }
+        },
+        "Desserts": null,
+        "Beverages": {
+            "Cafe": {
+                "Price": 15
+            },
+            "Refresco": {
+                "Price": 20
+            }
+        },
+        "most_sold": {
+            "Dish": ["Cerdo"],
+            "Drink": ["Refresco"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

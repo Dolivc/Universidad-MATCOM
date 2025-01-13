@@ -1,0 +1,669 @@
+{
+    "Name": "Vita Nouva",
+    "Type": "Restaurante",
+    "Phone_Number": "78329774",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-11:30"],
+        "Tuesday":  ["08:00-11:30"],
+        "Wednesday": ["08:00-11:30"],
+        "Thursday": ["08:00-11:30"],
+        "Friday":   ["08:00-11:30"],
+        "Saturday": ["08:00-11:30"],
+        "Sunday":   ["08:00-11:30"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle L esquina 21",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                "Queso": {
+                    "Price": 1300
+                },
+                "Jamon": {
+                    "Price": 1300
+                },
+                "Jamon y queso": {
+                    "Price": 1450
+                },
+                "Pechuga de pollo": {
+                    "Price": 1400
+                },
+                "Atun": {
+                    "Price": 1450
+                },
+                "Jamon serrano": {
+                    "Price": 1600
+                },
+                "Bistec": {
+                    "Price": 1450
+                },
+                "Cubano": {
+                    "Price": 1600
+                },
+                "Hamburguesa": {
+                    "Price": 1250
+                },
+                "Hamburguesa con jamon y queso": {
+                    "Price": 1600
+                },
+                "Hamburguesa con queso": {
+                    "Price": 1500
+                },
+                "Hamburguesa especial": {
+                    "Price": 1850
+                },
+                "Hamburguesa con jamon": {
+                    "Price": 1500
+                },
+                "Tortilla al plato": {
+                    "Price": 750
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 950
+            },
+            "Tostones rellenos": {
+                "Price": 950
+            },
+            "Tostones rellenos con atun": {
+                "Price": 1050
+            },
+            "Picadera vita nuova": {
+                "Price": 1850
+            },
+            "Frituras de malanga": {
+                "Price": 950
+            },
+            "Eperlan de pescado": {
+                "Price": 1050
+            },
+            "Fajitas de pollo": {
+                "Price": 1050
+            },
+            "Desayuno vita nuova": {
+                "Price": 1450
+            },
+            "Pan de la casa": {
+                "Price": 450
+            },
+            "Coctel de camarones": {
+                "Price": 1450
+            },
+            "Ensalada fria de jamon": {
+                "Price": 950
+            },
+            "Ensalada fria de atun": {
+                "Price": 950
+            },
+            "Barenjena a la parmesana": {
+                "Price": 930
+            },
+            "Papas fritas": {
+                "Price": 850
+            },
+            "Canape de jamon serrano y queso": {
+                "Price": 850
+            },
+            "Crema de queso": {
+                "Price": 650
+            },
+            "Crema aurora": {
+                "Price": 700
+            },
+            "Crema virginia": {
+                "Price": 700
+            },
+            "Sopa de la casa": {
+                "Price": 600
+            },
+            "Fajitas de cerdo": {
+                "Price": 1200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti napolitano": {
+                    "Price": 1250
+                },
+                "Espaguetti pesto": {
+                    "Price": 1250
+                },
+                "Espaguetti Tonatta": {
+                    "Price": 2000
+                },
+                "Espaguetti Amatriciana": {
+                    "Price": 1850
+                },
+                "Espaguetti vita nuova": {
+                    "Price": 2050
+                },
+                "Espaguetti agli oli": {
+                    "Price": 1850
+                },
+                "Espaguetti a la carbonara": {
+                    "Price": 1850
+                },
+                "Espaguetti a la bolonesa": {
+                    "Price": 1850
+                },
+                "Lasagna bolonesa": {
+                    "Price": 1650
+                }
+            },
+            "Pizza": {
+                "Napolitana": {
+                    "Price": 1400
+                },
+                "Margarita": {
+                    "Price": 1700
+                },
+                "Jamon de la casa": {
+                    "Price": 1700
+                },
+                "Tonatta": {
+                    "Price": 1900
+                },
+                "4 quesos": {
+                    "Price": 1900
+                },
+                "Hawaiana": {
+                    "Price": 1750
+                },
+                "4 estaciones": {
+                    "Price": 2500
+                },
+                "Tentacion": {
+                    "Price": 2500
+                },
+                "Vita Nuova": {
+                    "Price": 3000
+                }
+            },
+            "Pork": {
+                "Chuleta de cerdo": {
+                    "Price": 3200
+                },
+                "Bistec uruguayo": {
+                    "Price": 3300
+                },
+                "Costillas de cerdo al jugo": {
+                    "Price": 3200
+                },
+                "Bistec de cerdo": {
+                    "Price": 3000
+                },
+                "Fricase de cerdo": {
+                    "Price": 3400
+                }
+            },
+            "Chicken": {
+                "Pollo gordon blue": {
+                    "Price": 3200
+                },
+                "Pollo a la parmesana": {
+                    "Price": 3200
+                },
+                "Pollo a la milanesa": {
+                    "Price": 3200
+                },
+                "Pechuga de pollo grille": {
+                    "Price": 2800
+                }
+            },
+            "Beef": {
+                "Punta de filete de res": {
+                    "Price": 7000
+                },
+                "Ropa vieja de res": {
+                    "Price": 3200
+                },
+                "Picadillo de res a la habanera": {
+                    "Price": 2800
+                },
+                "Solomillo de res": {
+                    "Price": 9000
+                }
+            },
+            "Sea": {
+                "Enchilado de camaron": {
+                    "Price": 3200
+                },
+                "Camaron grille": {
+                    "Price": 3200
+                },
+                "Camaron al ajillo": {
+                    "Price": 3200
+                },
+                "Langosta grille o enchilada": {
+                    "Price": 3300
+                },
+                "Pescado grille": {
+                    "Price": 3100
+                },
+                "Canciller": {
+                    "Price": 4500
+                },
+                "Pescado John Bill": {
+                    "Price": 4500
+                }
+            },
+            "Other":{
+                "Bistec de palomilla grille":{
+                    "Price": 3850
+                },
+                "Estofado de cordero": {
+                    "Price": 3600
+                },
+                "Risotto de pollo": {
+                    "Price": 1650
+                },
+                "Risotto de champinon": {
+                    "Price": 2000
+                },
+                "Risotto de vegetales": {
+                    "Price": 1900
+                },
+                "Risotto de gamba": {
+                    "Price": 2000
+                }
+            }
+        },
+        "Extras": {
+            "Yuca con mojo": {
+                "Price": 550
+            },
+            "Yuca frita": {
+                "Price": 550
+            },
+            "Arroz moro": {
+                "Price": 450
+            },
+            "Arroz blanco": {
+                "Price": 450
+            },
+            "Toston natural": {
+                "Price": 450
+            },
+            "Pure de malanga": {
+                "Price": 550
+            },
+            "Ensalada de vegetales": {
+                "Price": 850
+            }
+        },
+        "Desserts": {
+            "Semifrio V sabores": {
+                "Price": 1200
+            },
+            "Flan de caramelo": {
+                "Price": 500
+            },
+            "Copa Lolita": {
+                "Price": 850
+            },
+            "Helados de la casa": {
+                "Price": 850
+            },
+            "Brownie con helado": {
+                "Price": 900
+            },
+            "Pie de limon": {
+                "Price": 850
+            },
+            "Vaca negra": {
+                "Price": 720
+            }
+        },
+        "Beverages": {
+            "Refresco importado": {
+                "Price": 350
+            },
+            "Jugo de frutas naturales": {
+                "Price": 300
+            },
+            "Agua natural 500ml": {
+                "Price": 300
+            },
+            "Agua natural 1500ml": {
+                "Price": 450
+            },
+            "Agua con gas": {
+                "Price": 300
+            },
+            "Agua tonica": {
+                "Price": 330
+            },
+            "Suero de helado": {
+                "Price": 750
+            },
+            "Batido de helado": {
+                "Price": 700
+            },
+            "Limonada frappe": {
+                "Price": 400
+            },
+            "Red bull": {
+                "Price": 400
+            },
+            "Malta": {
+                "Price": 400
+            },
+            "Jarra de cerveza": {
+                "Price": 500
+            },
+            "Cerveza importada": {
+                "Price": 440
+            },
+            "Cerveza nacional": {
+                "Price": 500
+            },
+            "Cerveza sol": {
+                "Price": 500
+            },
+            "Chelada": {
+                "Price": 800
+            },
+            "Michelada": {
+                "Price": 950
+            },
+            "Cubetazo cerveza importada": {
+                "Price": 3850
+            },
+            "Cubetazo corona, cristal, bucanero": {
+                "Price": 4800
+            },
+            "Cuba libre": {
+                "Price": 550
+            },
+            "Daiquiri": {
+                "Price": 550
+            },
+            "Ron collins": {
+                "Price": 490
+            },
+            "Mary pickford": {
+                "Price": 490
+            },
+            "Cubata": {
+                "Price": 650
+            },
+            "Margarita": {
+                "Price": 880
+            },
+            "Canchanchara": {
+                "Price": 550
+            },
+            "Caipirina": {
+                "Price": 550
+            },
+            "Caipirisima": {
+                "Price": 550
+            },
+            "Caipiroska": {
+                "Price": 550
+            },
+            "Gin tonic": {
+                "Price": 550
+            },
+            "Cubanito": {
+                "Price": 600
+            },
+            "Pinha colada": {
+                "Price": 950
+            },
+            "Pinha colada sin alcohol": {
+                "Price": 750
+            },
+            "Gin con tanqueray": {
+                "Price": 800
+            },
+            "Bloody mary": {
+                "Price": 710
+            },
+            "Scholdriver": {
+                "Price": 450
+            },
+            "Sex on the beach": {
+                "Price": 750
+            },
+            "Martini": {
+                "Price": 1000
+            },
+            "Negroni": {
+                "Price": 710
+            },
+            "Orgasmo": {
+                "Price": 820
+            },
+            "Mojito": {
+                "Price": 550
+            },
+            "Mojito moreno": {
+                "Price": 600
+            },
+            "Presidente": {
+                "Price": 550
+            },
+            "Tequila sunrise": {
+                "Price": 770
+            },
+            "tinto verano": {
+                "Price": 700
+            },
+            "Ton collins": {
+                "Price": 490
+            },
+            "Havana special": {
+                "Price": 550
+            },
+            "Sangria": {
+                "Price": 710
+            },
+            "Long island": {
+                "Price": 930
+            },
+            "Black russian": {
+                "Price": 490
+            },
+            "Coctel vita nuova": {
+                "Price": 770
+            },
+            "Coctel vita nuova sin alcohol": {
+                "Price": 550
+            },
+            "Manhattan": {
+                "Price": 1500
+            },
+            "Blue laboon": {
+                "Price": 900
+            },
+            "T.Heminguay": {
+                "Price": 490
+            },
+            "Havana club 3 anhos": {
+                "Price": 390
+            },
+            "Havana club anejo especial": {
+                "Price": 440
+            },
+            "Havana Club anhejo reserva": {
+                "Price": 550
+            },
+            "Havana club anhejo 7 anos": {
+                "Price": 660
+            },
+            "Havana club seleccion de maestros": {
+                "Price": 820
+            },
+            "Pacto navio": {
+                "Price": 820
+            },
+            "Whisky clan macgregor": {
+                "Price": 330
+            },
+            "Whisky red label": {
+                "Price": 800
+            },
+            "Whisky black label": {
+                "Price": 1000
+            },
+            "Whisky buchanas": {
+                "Price": 1100
+            },
+            "Whisky jamenson": {
+                "Price": 490
+            },
+            "Vodka grey groose": {
+                "Price": 800
+            },
+            "Vodka ciroc": {
+                "Price": 600
+            },
+            "Vodka Stollchanaya": {
+                "Price": 700
+            },
+            "Tequila jose cuervo": {
+                "Price": 820
+            },
+            "Tequila patron": {
+                "Price": 1210
+            },
+            "Tequila olmeca": {
+                "Price": 600
+            },
+            "Baileys": {
+                "Price": 820
+            },
+            "Ballantines": {
+                "Price": 550
+            },
+            "Tanqueray": {
+                "Price": 550
+            },
+            "Jagger": {
+                "Price": 550
+            },
+            "Santiago 8 anhos": {
+                "Price": 600
+            },
+            "Santiago 12 anhos": {
+                "Price": 850
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 900
+            },
+            "Beefeater": {
+                "Price": 500
+            },
+            "Copa de vino frontera": {
+                "Price": 550
+            },
+            "Copa de vino sangre de toro": {
+                "Price": 770
+            },
+            "Copa de vino acantus tinto": {
+                "Price": 660
+            },
+            "Copa de vino crin roja": {
+                "Price": 750
+            },
+            "Copa de vino gato negro": {
+                "Price": 750
+            },
+            "Copa de vino de la casa": {
+                "Price": 550
+            },
+            "Copa de vino vinas del vero": {
+                "Price": 850
+            },
+            "Copa de vino santa julia": {
+                "Price": 850
+            },
+            "Copa de vino federico": {
+                "Price": 850
+            },
+            "Copa de vino vineyard": {
+                "Price": 750
+            },
+            "Copa de vino acantus blanco": {
+                "Price": 750
+            },
+            "Expresso": {
+                "Price": 250
+            },
+            "Americano": {
+                "Price": 300
+            },
+            "Cortado": {
+                "Price": 350
+            },
+            "Capuccino": {
+                "Price": 450
+            },
+            "Frapuccino": {
+                "Price": 500
+            },
+            "Cafe con leche": {
+                "Price": 450
+            },
+            "Cafe bombon": {
+                "Price": 500
+            },
+            "Te de infusion": {
+                "Price": 170
+            },
+            "Chocolate caliente": {
+                "Price": 330
+            },
+            "Malta con leche": {
+                "Price": 650
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Parqueo"],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "True",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "True",
+            "Euros": "True",
+            "Others": "True"
+        }
+    }
+}

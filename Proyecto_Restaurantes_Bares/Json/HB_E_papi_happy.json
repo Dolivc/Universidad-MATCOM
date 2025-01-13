@@ -1,0 +1,277 @@
+{
+    "Name": "Papi_Happy",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "5ta AVE & 470, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Picadera Papi Happy": {
+                "Price": 2900
+            },
+            "Empanadas de la Casa": {
+                "Price": 750
+            },
+            "Frituras de Malanga": {
+                "Price": 480
+            },
+            "Croquetas de la Casa": {
+                "Price": 460
+            },
+            "Ceviche": {
+                "Price": 850
+            },
+            "Coctel de Camarones": {
+                "Price": 1150
+            },
+            "Coctel de Langosta": {
+                "Price": 1150
+            },
+            "Coctel Mixto": {
+                "Price": 1200
+            },
+            "Eperlan": {
+                "Price": 1250
+            },
+            "Fajitas de Pollo": {
+                "Price": 1200
+            },
+            "Entremes Surtido": {
+                "Price": 750
+            },
+            "Tostones Naturales": {
+                "Price": 350
+            },
+            "Tostones Rellenos": {
+                "Price": 550
+            },
+            "Chicharritas": {
+                "Price": 300
+            },
+            "Crema de Queso": {
+                "Price": 1100
+            },
+            "Crema Virginia": {
+                "Price": 1150
+            },
+            "Crema Aurora": {
+                "Price": 1125
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasanha": {
+                    "Price": 1100
+                },
+                "Spaguetti Napolitano": {
+                    "Price": 850
+                },
+                "Spaguetti con Jamon": {
+                    "Price": 1100
+                },
+                "Spaguetti con Camarones": {
+                    "Price": 1350
+                },
+                "Spaguetti Frutti di Mare": {
+                    "Price": 1680
+                }
+            },
+            "Pizza": {
+                "Pizza Papi Happy": {
+                    "Price": 2100
+                },
+                "Pizza Napolitana": {
+                    "Price": 850
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1350
+                },
+                "Pizza de Jamon": {
+                    "Price": 1200
+                },
+                "Pizza de Bacon": {
+                    "Price": 1200
+                },
+                "Pizza de Vegetales": {
+                    "Price": 950
+                },
+                "Pizza de Champinhones": {
+                    "Price": 1350
+                }
+            },
+            "Pork": {
+                "Bistec de Cerdo": {
+                    "Price": 1500
+                },
+                "Lomo Ahumado": {
+                    "Price": 1450
+                },
+                "Lomito de Cerdo": {
+                    "Price": 1550
+                },
+                "Lomito Tres Capas Gratinado": {
+                    "Price": 1800
+                },
+                "Cerdo a la Juliana": {
+                    "Price": 1750
+                }
+            },
+            "Chicken": {
+                "Pechuga Grille": {
+                    "Price": 1500
+                },
+                "Pechuga Rellena": {
+                    "Price": 1750
+                },
+                "Cordon Blue": {
+                    "Price": 1800
+                },
+                "Pollo Frito": {
+                    "Price": 1500
+                },
+                "Higado a la italiana": {
+                    "Price": 1050
+                }
+            },
+            "Beef": {
+                "Uruguayo": {
+                    "Price": 1850
+                }
+            },
+            "Sea": {
+                "Filete de Pescado Grille": {
+                    "Price": 1450
+                },
+                "Filete Canciller": {
+                    "Price": 1750
+                },
+                "Cazuela de Mar": {
+                    "Price": 3200
+                },
+                "Grillada de Mar": {
+                    "Price": 3300
+                },
+                "Mariscos Mixtos": {
+                    "Price": 3500
+                },
+                "Langosta al gusto": {
+                    "Price": 2150
+                },
+                "Camarones al Gusto": {
+                    "Price": 2050
+                },
+                "Pulpo al Gusto": {
+                    "Price": 2500
+                }
+            },
+            "Other": {
+                "Grillada de Mar y Tierra": {
+                    "Price": 3600
+                },
+                "Cordero al Vino Tinto": {
+                    "Price": 2150
+                },
+                "Cordero Montanhes": {
+                    "Price": 2500
+                },
+                "Chilindron de Cordero": {
+                    "Price": 2640
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Helado Cake": {
+                "Price": 660
+            },
+            "Helado Cupcake": {
+                "Price": 550
+            },
+            "Dulce Coco y Queso": {
+                "Price": 650
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

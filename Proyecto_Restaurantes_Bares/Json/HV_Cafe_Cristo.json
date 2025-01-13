@@ -1,0 +1,202 @@
+{
+    "Name": "Cafe cristo",
+    "Type": "Bar Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-00:00"],
+        "Tuesday":  ["11:00-00:00"],
+        "Wednesday": ["11:00-00:00"],
+        "Thursday": ["11:00-00:00"],
+        "Friday":   ["11:00-00:00"],
+        "Saturday": ["11:00-00:00"],
+        "Sunday":   ["11:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Paque cristo",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa": {
+                    "Price": 250
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Pan con croqueta": {
+                    "Price": 200
+                },
+                "Pan con perro": {
+                    "Price": 200
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Toston natural": {
+                "Price": 300
+            },
+            "Toston chorrera": {
+                "Price": 400
+            },
+            "Toston relleno": {
+                "Price": 450
+            },
+            "Surtido de croqueta": {
+                "Price": 250
+            },
+            "Eperlan": {
+                "Price": 1000
+            },
+            "Cerdo juliana": {
+                "Price": 800
+            },
+            "Pollo juliana": {
+                "Price": 800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 200
+                },
+                "Familiar napolitana": {
+                    "Price": 400
+                },
+                "Hawaiana": {
+                    "Price": 470
+                },
+                "Familiar hawaiana": {
+                    "Price": 670
+                }
+            },
+            "Pork": {
+                "Fajas de cerdo": {
+                    "Price": 800
+                },
+                "Bistec de cerdo": {
+                    "Price": 800
+                },
+                "Lomo ahumado": {
+                    "Price": 1100
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 750
+                },
+                "Pollo en salsa": {
+                    "Price": 780
+                },
+                "Pollo a la barbacoa": {
+                    "Price": 780
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Jamon": {
+                "Price": 200
+            },
+            "Queso": {
+                "Price": 200
+            },
+            "Pinha": {
+                "Price": 150
+            },
+            "Pimiento": {
+                "Price": 150
+            },
+            "Cebolla": {
+                "Price": 150
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Mojito": {
+                "Price": 300
+            },
+            "Caipirisima": {
+                "Price": 350
+            },
+            "Canchanchara": {
+                "Price":350
+            },
+            "Cuba libre": {
+                "Price": 300
+            },
+            "Daiquiri": {
+                "Price": 300
+            },
+            "Pinha colada": {
+                "Price": 550
+            },
+            "Daiquiri sabor": {
+                "Price": 550
+            },
+            "Sangria": {
+                "Price": 550
+            },
+            "Gin tonic": {
+                "Price": 550
+            },
+            "Vodka tonic": {
+                "Price": 550
+            },
+            "Long island": {
+                "Price": 1500
+            }
+        },
+        "most_sold": {
+            "Dish": ["Cerdo","Pollo","Pizza"],
+            "Drink": ["Cocteles"]
+        },
+        "least_sold": {
+            "Dish": ["Mariscos"],
+            "Drink": ["Cerveza importada"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Show de Drag Queens"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

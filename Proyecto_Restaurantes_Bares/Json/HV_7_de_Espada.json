@@ -1,0 +1,438 @@
+{
+    "Name": "7 de espada",
+    "Type": "Restaurante-Bar",
+    "Phone_Number": "78609908",
+    "Web_Page": "7 de espada",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:30"],
+        "Tuesday":  ["11:00-23:30"],
+        "Wednesday": ["11:00-23:30"],
+        "Thursday": ["11:00-23:30"],
+        "Friday":   ["11:00-23:30"],
+        "Saturday": ["11:00-23:30"],
+        "Sunday":   ["11:00-23:30"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejon de Espada entre chacon y cuarteles",
+        "Coordinates": "23º8'29''N,82º21'19''W"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hmaburguesa de res": {
+                    "Price": 1400
+                },
+                "Hamburguesa de pollo": {
+                    "Price": 1400
+                }
+            },
+            "Sandwich": {
+                "Sandwich cubano": {
+                    "Price": 2150
+                },
+                "Pan con lechon": {
+                    "Price": 1750
+                },
+                "Sandwich de vegetales": {
+                    "Price": 1050
+                },
+                "Sandwich de pollo": {
+                    "Price": 1450
+                },
+                "Sandwich de queso": {
+                    "Price": 1050
+                },
+                "Sandwich de jamon y queso": {
+                    "Price": 1100
+                },
+                "Sandwich de atun": {
+                    "Price": 1050
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tabla parrillera": {
+                "Price": 1900
+            },
+            "Nugget de papa": {
+                "Price": 850
+            },
+            "Tabla mixta": {
+                "Price": 1100
+            },
+            "Papa frita": {
+                "Price": 850 
+            },
+            "Tostones al ajillo": {
+                "Price": 650
+            },
+            "Frituras de malanga": {
+                "Price": 700
+            },
+            "Tostadas": {
+                "Price": 400 
+            },
+            "Ceviche": {
+                "Price": 1000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price":  1500
+                },
+                "Pasta frutti di mare": {
+                    "Price": 2500
+                },
+                "Pasta bolognesa": {
+                    "Price": 2000
+                },
+                "Pasta de vegetales": {
+                    "Price": 1300
+                },
+                "Pasta de pollo en salsa alfredo": {
+                    "Price": 2100
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Cerdo desmechado": {
+                    "Price": 2900
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 2200
+                }
+            },
+            "Beef": {
+                "Vaca frita": {
+                    "Price": 2300
+                },
+                "Ropa vieja": {
+                    "Price": 2300 
+                },
+                "Picadillo a la habanera": {
+                    "Price": 2200
+                }
+            },
+            "Sea": {
+                "Pescado grille": {
+                    "Price": 2700
+                },
+                "Langosta grille": {
+                    "Price": 2700
+                },
+                "Langosta enchilada": {
+                    "Price": 2800
+                },
+                "Camaron salteado": {
+                    "Price": 2700
+                },
+                "Camaron enchilado": {
+                    "Price": 2900
+                },
+                "Mariscada": {
+                    "Price": 4200 
+                },
+                "Pulpo grille": {
+                    "Price": 3500
+                }
+            },
+            "Other":{
+                "Garbanzo frito":{
+                    "Price": 2800
+                },
+                "Arroz salteado con vegetales": {
+                    "Price": 1300
+                },
+                "Paella": {
+                    "Price": 4200
+                },
+                "Gran paella": {
+                    "Price": 7300 
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada estaciones": {
+                "Price": 500
+            },
+            "Ensalada de atun": {
+                "Price": 1000
+            },
+            "Arroz blanco": {
+                "Price": 400
+            },
+            "Arroz moro": {
+                "Price": 500
+            },
+            "Frijoles negros": {
+                "Price": 500
+            }
+        },
+        "Desserts": {
+            "Helado": {
+                "Price": 650 
+            },
+            "Postre de la casa": {
+                "Price": 750
+            }
+        },
+        "Beverages": {
+            "Cuba libre": {
+                "Price": 750 
+            },
+            "Cubata": {
+                "Price": 800
+            },
+            "Cubanito": {
+                "Price": 950
+            },
+            "Caipirissima": {
+                "Price": 800
+            },
+            "Caipiroska": {
+                "Price": 800
+            },
+            "Caipirinha": {
+                "Price": 800 
+            },
+            "Bloody mary": {
+                "Price": 900 
+            },
+            "Pinha colada": {
+                "Price": 850
+            },
+            "Cerveza nacional": {
+                "Price": 750
+            },
+            "Cerveza importada": {
+                "Price": 650
+            },
+            "Servicio de chelada": {
+                "Price": 250
+            },
+            "Servicio de michelada": {
+                "Price": 300
+            },
+            "Michelada nacional": {
+                "Price": 1050
+            },
+            "Michelada kermato": {
+                "Price": 1100
+            },
+            "Canchanchara": {
+                "Price": 800
+            },
+            "Sangria": {
+                "Price": 850
+            },
+            "Screwdriver": {
+                "Price": 800
+            },
+            "Mojito": {
+                "Price": 700 
+            },
+            "Mojito loco": {
+                "Price": 1050 
+            },
+            "Gin tonic": {
+                "Price": 950
+            },
+            "Vodka tonic": {
+                "Price": 800
+            },
+            "Margarita": {
+                "Price": 750 
+            },
+            "Tequila sunrise": {
+                "Price": 800
+            },
+            "Negroni": {
+                "Price": 1150
+            },
+            "Daiquiri": {
+                "Price": 750 
+            },
+            "Daiquiri de frutas": {
+                "Price": 800
+            },
+            "Martini": {
+                "Price": 850 
+            },
+            "Energizante": {
+                "Price": 600 
+            },
+            "Agua natural": {
+                "Price": 550
+            },
+            "Agua gaseada": {
+                "Price": 550
+            },
+            "Jugos naturales": {
+                "Price": 550
+            },
+            "Limonada frappe": {
+                "Price": 600
+            },
+            "Limonada de hierbabuena": {
+                "Price": 700
+            },
+            "Malteada": {
+                "Price": 800
+            },
+            "Batido de helado": {
+                "Price": 800
+            },
+            "Refresco": {
+                "Price": 600
+            },
+            "Cafe espresso": {
+                "Price": 250
+            },
+            "Capuccino": {
+                "Price": 350 
+            },
+            "Cafe cortado": {
+                "Price": 350
+            },
+            "Americano": {
+                "Price": 250 
+            },
+            "Frapuccino": {
+                "Price": 650
+            },
+            "Cafe con leche": {
+                "Price": 550
+            },
+            "Habana club 3 anhos": {
+                "Price": 650
+            },
+            "Habana club especial": {
+                "Price": 950
+            },
+            "Habana club smoky": {
+                "Price": 950
+            },
+            "Habana club 7 anhos": {
+                "Price": 800
+            },
+            "HC seleccion de maestros": {
+                "Price": 1350
+            },
+            "HC Pacto navio red": {
+                "Price": 1450
+            },
+            "HC Pacto navio": {
+                "Price": 1350
+            },
+            "Cubay extra viejo": {
+                "Price": 1550
+            },
+            "Cubay extra viejo 1870": {
+                "Price": 1650
+            },
+            "Legendario Ronsse": {
+                "Price": 700
+            },
+            "Santiago 8 anhos": {
+                "Price": 700
+            },
+            "Santiago 12 anhos": {
+                "Price": 1200
+            },
+            "Isla del Tesoro": {
+                "Price": 2550
+            },
+            "Swing": {
+                "Price": 1350
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 1250
+            },
+            "Disaronno": {
+                "Price": 1200
+            },
+            "Licor de melocoton": {
+                "Price": 350
+            },
+            "Limoncello": {
+                "Price": 750
+            },
+            "Jagermeifter": {
+                "Price": 750 
+            },
+            "Campario": {
+                "Price": 750
+            },
+            "Amaretto Conti": {
+                "Price": 750
+            },
+            "Drambuie": {
+                "Price": 450
+            },
+            "Bols crema de banana": {
+                "Price": 350
+            },
+            "Airisbei (crema de whisky)": {
+                "Price": 750
+            },
+            "Omelca blanco": {
+                "Price": 750
+            },
+            "Omelca reposado": {
+                "Price": 750
+            },
+            "Vodka de la casa": {
+                "Price": 750
+            },
+            "Copa de vino blanco": {
+                "Price": 800
+            },
+            "Copa de vino tinto": {
+                "Price": 900
+            }
+        },
+        "most_sold": {
+            "Dish": ["Langosta"],
+            "Drink": ["Mojito"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": ["Negrini"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Show"],
+        "Facilities": ["Reservaciones","Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

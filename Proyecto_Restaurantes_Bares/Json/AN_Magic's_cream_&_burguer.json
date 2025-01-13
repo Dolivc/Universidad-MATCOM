@@ -1,0 +1,218 @@
+{
+    "Name": "Magic's Cream & Burguer",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2200"
+        ],
+        "Tuesday": [
+            "1100-2200"
+        ],
+        "Wednesday": [
+            "1100-2200"
+        ],
+        "Thursday": [
+            "1100-2200"
+        ],
+        "Friday": [
+            "1100-2200"
+        ],
+        "Saturday": [
+            "1100-2200"
+        ],
+        "Sunday": [
+            "1100-2200"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calzada de Diez de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "croquetas magic's": {
+                "Price": 400.0
+            },
+            "fritura de malanga": {
+                "Price": 400.0
+            },
+            "tacos de pollo": {
+                "Price": 700.0
+            },
+            "tacos de cerdo": {
+                "Price": 800.0
+            },
+            "fajas de pollo": {
+                "Price": 600.0
+            },
+            "bolitas de queso": {
+                "Price": 500.0
+            },
+            "papas fritas": {
+                "Price": 500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "bola de helado": {
+                "Price": 70.0
+            },
+            "jimaguas": {
+                "Price": 195.0
+            },
+            "ensalada de helado": {
+                "Price": 350.0
+            },
+            "batido de helado": {
+                "Price": 395.0
+            },
+            "tres gracias": {
+                "Price": 245.0
+            }
+        },
+        "Beverages": {
+            "malta": {
+                "Price": 300.0
+            },
+            "pepsi": {
+                "Price": 300.0
+            },
+            "pinna colada sin alcohol": {
+                "Price": 500.0
+            },
+            "refresco de lata": {
+                "Price": 210.0
+            },
+            "cervezas importadas": {
+                "Price": 220.0
+            },
+            "cervezaas nacionales": {
+                "Price": 300.0
+            },
+            "limonada frappe": {
+                "Price": 250.0
+            },
+            "michelada": {
+                "Price": 250.0
+            },
+            "pinna colada con alcohol": {
+                "Price": 575.0
+            },
+            "cuba libre": {
+                "Price": 500.0
+            },
+            "mojito": {
+                "Price": 500.0
+            },
+            "botella label 5": {
+                "Price": 3500.0
+            },
+            "jw red label": {
+                "Price": 600.0
+            },
+            "ballantine's": {
+                "Price": 550.0
+            },
+            "howells": {
+                "Price": 300.0
+            },
+            "gran marchell": {
+                "Price": 300.0
+            },
+            "pacto navio": {
+                "Price": 700.0
+            },
+            "havana club annejo reserva": {
+                "Price": 400.0
+            },
+            "havana club annejo 3 annos": {
+                "Price": 350.0
+            },
+            "ginebra": {
+                "Price": 300.0
+            },
+            "vodka": {
+                "Price": 300.0
+            },
+            "copa vino tinto": {
+                "Price": 600.0
+            },
+            "copa vino blanco": {
+                "Price": 550.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

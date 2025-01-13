@@ -1,0 +1,168 @@
+{
+    "Name": "2KFE",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-22:00"],
+        "Tuesday":  null,
+        "Wednesday": ["08:00-22:00"],
+        "Thursday": ["08:00-22:00"],
+        "Friday":   ["08:00-22:00"],
+        "Saturday": ["08:00-22:00"],
+        "Sunday":   ["08:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Regla",
+        "Address": "Pereira entre Marti y Maceo",
+        "Coordinates": "4MH8+57M"
+    },
+    "Cuisine": "Mexicana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 300
+            },
+            "Viandas fritas": {
+                "Price": 100
+            },
+            "Brusquetas": {
+                "Price": 250
+            },
+            "Entremes surtido": {
+                "Price": 800
+            },
+            "Mini Gordon Bleu": {
+                "Price": 800
+            },
+            "Plato combinado": {
+                "Price": 1200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                "Tacos Carnitas": {
+                    "Price": 850
+                },
+                "Tacos Res": {
+                    "Price": 900
+                },
+                "Tacos Pollo": {
+                    "Price": 600
+                },
+                "Tacos Vegetariano": {
+                    "Price": 400
+                },
+                "Tacos Jamón y Queso": {
+                    "Price": 650
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Espresso": {
+                "Price": 100
+            },
+            "Americano": {
+                "Price": 100
+            },
+            "Cortadito": {
+                "Price": 150
+            },
+            "Con Leche": {
+                "Price": 180
+            },
+            "Caramel Macchiato": {
+                "Price": 250
+            },
+            "Cappuccino": {
+                "Price": 220
+            },
+            "Frappuccino": {
+                "Price": 500
+            },
+            "Irlandés": {
+                "Price": 250
+            },
+            "Alma mía": {
+                "Price": 180
+            },
+            "Minty Coffee": {
+                "Price": 250
+            },
+            "2KF": {
+                "Price": 250
+            },
+            "Lujo": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": ["Tacos"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Viandas Fritas"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Wifi"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

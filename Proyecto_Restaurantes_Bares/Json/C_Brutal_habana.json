@@ -1,0 +1,146 @@
+{
+    "Name": "Brutal Habana",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-0"
+        ],
+        "Tuesday": [
+            "1200-0"
+        ],
+        "Wednesday": [
+            "1200-0"
+        ],
+        "Thursday": [
+            "1200-0"
+        ],
+        "Friday": [
+            "1200-0"
+        ],
+        "Saturday": [
+            "1200-0"
+        ],
+        "Sunday": [
+            "1200-0"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Infanta esquina Calle Universidad",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Fajitas de Pechuga con Papas Fritas": {
+                    "Price": 1500.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Papas Fritas (100g)": {
+                "Price": 300.0
+            },
+            "Papas Fritas (200g)": {
+                "Price": 600.0
+            },
+            "SalchiPapas": {
+                "Price": 500.0
+            },
+            "SalchiPapas BRUTAL": {
+                "Price": 1400.0
+            },
+            "Croquetas de Pollo x 5": {
+                "Price": 175.0
+            },
+            "Croquetas de Pollo x 10": {
+                "Price": 350.0
+            },
+            "Papas Fritas Brutal": {
+                "Price": 1100.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Batido de Helado": {
+                "Price": 1000.0
+            },
+            "Batido de Helado con Gomitas": {
+                "Price": 1400.0
+            },
+            "Batido de Helado BRUTAL": {
+                "Price": 2000.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

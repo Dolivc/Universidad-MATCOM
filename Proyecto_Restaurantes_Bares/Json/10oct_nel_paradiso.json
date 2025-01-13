@@ -1,0 +1,382 @@
+{
+    "Name": "Nel Paradiso",
+    "Type": "Restaurante",
+    "Phone_Number": 52953716,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2330"
+        ],
+        "Tuesday": [
+            "1100-2330"
+        ],
+        "Wednesday": [
+            "1100-2330"
+        ],
+        "Thursday": [
+            "1100-2330"
+        ],
+        "Friday": [
+            "1100-2330"
+        ],
+        "Saturday": [
+            "1100-2330"
+        ],
+        "Sunday": [
+            "1100-2330"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": null,
+        "Coordinates": "3JQQ+JXX, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la casa con salsa rosa": {
+                "Price": 792.0
+            },
+            "Frituras de la casa con miel y mostaza": {
+                "Price": 880.0
+            },
+            "Bastones de pollo con salsa rosa": {
+                "Price": 1760.0
+            },
+            "Bastones de mar en salsa alioli": {
+                "Price": 1760.0
+            },
+            "Tamal en cazuela": {
+                "Price": 1584.0
+            },
+            "Tamal marinero": {
+                "Price": 2376.0
+            },
+            "Coctel de langosta": {
+                "Price": 2112.0
+            },
+            "Tabla de quesos": {
+                "Price": 2816.0
+            },
+            "Lonjas de jamon serrano": {
+                "Price": 2640.0
+            },
+            "Salmon paradiso": {
+                "Price": 2816.0
+            },
+            "Fajitas de cerdo": {
+                "Price": 2112.0
+            },
+            "Crema de queso": {
+                "Price": 1232.0
+            },
+            "Crema de calabaza": {
+                "Price": 750.0
+            },
+            "Ensalada de atun y huevo": {
+                "Price": 1760.0
+            },
+            "Ceviche de pescado": {
+                "Price": 1584.0
+            },
+            "Picadera paradiso ": {
+                "Price": 2992.0
+            },
+            "Coctel de camarones": {
+                "Price": 1936.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Napolitana": {
+                    "Price": 1230.0
+                },
+                "Amatriciana": {
+                    "Price": 1936.0
+                },
+                "Carbonara": {
+                    "Price": 2200.0
+                },
+                "Nero di sepia": {
+                    "Price": 3256.0
+                },
+                "Pasta al pesto": {
+                    "Price": 2756.0
+                },
+                "Lasagna": {
+                    "Price": 1895.0
+                },
+                "Montemari paradiso": {
+                    "Price": 4576.0
+                },
+                "Caldereta de mariscos": {
+                    "Price": 4480.0
+                }
+            },
+            "Pizza": {
+                "Napolitana": {
+                    "Price": 1144.0
+                },
+                "Margarita": {
+                    "Price": 1232.0
+                },
+                "De cebolla": {
+                    "Price": 1325.0
+                },
+                "Ortolan": {
+                    "Price": 1496.0
+                },
+                "Hawaiana": {
+                    "Price": 2288.0
+                },
+                "Jamon o chorizo": {
+                    "Price": 1760.0
+                },
+                "De atun": {
+                    "Price": 2640.0
+                },
+                "De camarones": {
+                    "Price": 2640.0
+                },
+                "De jamon serrano": {
+                    "Price": 2816.0
+                },
+                "Pizza nel paradiso": {
+                    "Price": 2992.0
+                }
+            },
+            "Pork": {
+                "Ropa vieja de res": {
+                    "Price": 2552.0
+                },
+                "Bistec de res": {
+                    "Price": 2904.0
+                },
+                "Fajita de res": {
+                    "Price": 2464.0
+                },
+                "Filete a la douche": {
+                    "Price": 2990.0
+                }
+            },
+            "Chicken": {
+                "Pechuga grille": {
+                    "Price": 2112.0
+                },
+                "Jardinera de pechuga": {
+                    "Price": 2464.0
+                },
+                "Pechuga roquefort": {
+                    "Price": 2816.0
+                },
+                "Pechuga paradiso": {
+                    "Price": 2992.0
+                }
+            },
+            "Beef": {
+                "Bistec de cerdo glaseado al vino tinto": {
+                    "Price": 2112.0
+                },
+                "Chuleta en salsa verde": {
+                    "Price": 2288.0
+                },
+                "Entrecot de cerdo": {
+                    "Price": 3520.0
+                },
+                "Estofado de cerdo": {
+                    "Price": 6600.0
+                }
+            },
+            "Sea": {
+                "Masa de pescado frita": {
+                    "Price": 2640.0
+                },
+                "Filete john bill": {
+                    "Price": 3256.0
+                },
+                "Camarones a eleccion": {
+                    "Price": 2995.0
+                }
+            },
+            "Other": {
+                "Ropa vieja de cordero": {
+                    "Price": 1848.0
+                },
+                "Cabrito picoso": {
+                    "Price": 2640.0
+                },
+                "Cordero al vino tinto": {
+                    "Price": 2464.0
+                },
+                "Arroz frito": {
+                    "Price": 2112.0
+                },
+                "Paella": {
+                    "Price": 3168.0
+                },
+                "Paella especial": {
+                    "Price": 6600.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 422.0
+            },
+            "Arroz moro": {
+                "Price": 636.0
+            },
+            "Arroz pilaf": {
+                "Price": 880.0
+            },
+            "Pure de malanga": {
+                "Price": 640.0
+            },
+            "Ensalada de vegetales": {
+                "Price": 633.0
+            }
+        },
+        "Desserts": {
+            "Flan de caramelo": {
+                "Price": 800.0
+            },
+            "Bola de helado": {
+                "Price": 200.0
+            },
+            "Copa de helado": {
+                "Price": 895.0
+            },
+            "Tarta del dia": {
+                "Price": 980.0
+            }
+        },
+        "Beverages": {
+            "Jugos naturales": {
+                "Price": 270.0
+            },
+            "Batido de fruta natural": {
+                "Price": 450.0
+            },
+            "Malteada": {
+                "Price": 675.0
+            },
+            "Batido de helado": {
+                "Price": 987.0
+            },
+            "Expresso": {
+                "Price": 300.0
+            },
+            "Cortado": {
+                "Price": 375.0
+            },
+            "Americano": {
+                "Price": 350.0
+            },
+            "Capuchino": {
+                "Price": 400.0
+            },
+            "Agua natural": {
+                "Price": 260.0
+            },
+            "Refresco nacional": {
+                "Price": 300.0
+            },
+            "Refresco importado": {
+                "Price": 350.0
+            },
+            "Energizante": {
+                "Price": 330.0
+            },
+            "Red bull": {
+                "Price": 600.0
+            },
+            "Kermato": {
+                "Price": 600.0
+            },
+            "Cerveza nacional": {
+                "Price": 375.0
+            },
+            "Cerveza importada": {
+                "Price": 330.0
+            },
+            "Corona/heineken": {
+                "Price": 600.0
+            },
+            "Copa de vino tinto": {
+                "Price": 600.0
+            },
+            "Copa de vino blanco": {
+                "Price": 550.0
+            },
+            "Sidra": {
+                "Price": 3000.0
+            },
+            "Freixenet": {
+                "Price": 6000.0
+            },
+            "Coctel paradiso": {
+                "Price": 870.0
+            },
+            "Manhattan": {
+                "Price": 720.0
+            },
+            "Blody mary": {
+                "Price": 825.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "Guarderia",
+            "Wifi",
+            "A la carta",
+            "A domicilio"
+        ],
+        "Facilities": [
+            "Reservation_possible",
+            "Children",
+            "Takeaway",
+            "Wifi"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

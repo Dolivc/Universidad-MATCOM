@@ -1,0 +1,306 @@
+{
+    "Name": "La_Pinha_de_Plata",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2200"
+        ],
+        "Tuesday": [
+            "1200-2200"
+        ],
+        "Wednesday": [
+            "1200-2200"
+        ],
+        "Thursday": [
+            "1200-2200"
+        ],
+        "Friday": [
+            "1200-2200"
+        ],
+        "Saturday": [
+            "1200-2200"
+        ],
+        "Sunday": [
+            "1200-2200"
+        ]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coordinates": "522 Obispo, La Habana 10100"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Coctel de Camarones": {
+                "Price": 600
+            },
+            "Croquetas del Chef": {
+                "Price": 450
+            },
+            "Brochetas del Mar": {
+                "Price": 500
+            },
+            "Tapitas al estilo Pinha de Plata": {
+                "Price": 450
+            },
+            "Ensalada de Vegetales": {
+                "Price": 360
+            },
+            "Sopa de Vegetales": {
+                "Price": 300
+            },
+            "Crema de Queso": {
+                "Price": 350
+            },
+            "Crema Aurora": {
+                "Price": 350
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Masas de Cerdo Fritas": {
+                    "Price": 1300
+                },
+                "Bistec de Cerdo en Mojo Criollo": {
+                    "Price": 850
+                }
+            },
+            "Chicken": {
+                "Lonjas de Pollo Salteadas": {
+                    "Price": 750
+                },
+                "Pollo en Salsa de Pinha de Plata": {
+                    "Price": 800
+                }
+            },
+            "Beef": {
+                "Ropa Vieja de Res": {
+                    "Price": 850
+                }
+            },
+            "Sea": {
+                "Filete de Pescado y Camarones": {
+                    "Price": 1300
+                },
+                "Filete de Pescado a la Plancha": {
+                    "Price": 1200
+                },
+                "Camarones Pinha de Plata": {
+                    "Price": 950
+                },
+                "Langosta Grille": {
+                    "Price": 1450
+                },
+                "Langosta a la Cubana": {
+                    "Price": 1450
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Flan al Caramelo": {
+                "Price": 300
+            },
+            "Postres Cubanos": {
+                "Price": 300
+            }
+        },
+        "Beverages": {
+            "Agua Natural Nacional 500ml": {
+                "Price": 50
+            },
+            "Jugos Naturales 200ml": {
+                "Price": 60
+            },
+            "Cervezas Nacionales": {
+                "Price": 200
+            },
+            "Cervezas Importadas": {
+                "Price": 220
+            },
+            "Cerveza Presidente Lata 237ml": {
+                "Price": 120
+            },
+            "Licores Nacionales": {
+                "Price": 100
+            },
+            "Licores Importados": {
+                "Price": 350
+            },
+            "Vino Espumoso Canal Nubiola": {
+                "Price": 1950
+            },
+            "Vino Blanco Botella Frontera": {
+                "Price": 2200
+            },
+            "Vinos por Copas(Tinto y Blanco)": {
+                "Price": 350
+            },
+            "Brandy Torres 15": {
+                "Price": 750
+            },
+            "Brandy Torres 10": {
+                "Price": 600
+            },
+            "Brandy Torres 5": {
+                "Price": 450
+            },
+            "Whisky Ballentines": {
+                "Price": 350
+            },
+            "Whisky Jamenson": {
+                "Price": 300
+            },
+            "Whisky Chivas Regal 12 Anhos": {
+                "Price": 525
+            },
+            "Whisky J. Walker Etiqueta Roja": {
+                "Price": 450
+            },
+            "Ginebra Mon Lovers": {
+                "Price": 425
+            },
+            "Ginebra Beefeater": {
+                "Price": 300
+            },
+            "Tequila Olmeca Blanco": {
+                "Price": 250
+            },
+            "Tequila Olmeca Dorado": {
+                "Price": 300
+            },
+            "Vodka Peach Ciroc": {
+                "Price": 350
+            },
+            "Vodka Navegante": {
+                "Price": 250
+            },
+            "Vodka Absolut": {
+                "Price": 350
+            },
+            "Seleccion de Maestros": {
+                "Price": 500
+            },
+            "Havana Club 7 Anhos": {
+                "Price": 350
+            },
+            "Havana Club Anhejo Especial": {
+                "Price": 200
+            },
+            "Havana Club 3 Anhos": {
+                "Price": 150
+            },
+            "Pacto de Navio": {
+                "Price": 600
+            },
+            "Havana Club Spiced": {
+                "Price": 425
+            },
+            "Havana Club Reserva": {
+                "Price": 275
+            },
+            "Santiago 8 Anhos": {
+                "Price": 450
+            },
+            "Black Tears Aguardiente": {
+                "Price": 100
+            },
+            "Daiquiri Floridita": {
+                "Price": 450
+            },
+            "Pinha Colada": {
+                "Price": 600
+            },
+            "Pinha Colada Saborizada": {
+                "Price": 600
+            },
+            "Caipirinha": {
+                "Price": 500
+            },
+            "Margarita": {
+                "Price": 500
+            },
+            "Whisky Sour": {
+                "Price": 500
+            },
+            "Gin Tonic": {
+                "Price": 500
+            },
+            "Vodka Tonic": {
+                "Price": 500
+            },
+            "Sangria": {
+                "Price": 500
+            },
+            "Limonada": {
+                "Price": 250
+            },
+            "Limonada Saborizada": {
+                "Price": 250
+            },
+            "Virgen Colada": {
+                "Price": 400
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

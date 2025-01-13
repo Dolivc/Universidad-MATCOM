@@ -1,0 +1,397 @@
+{
+    "Name": "Union Francesa de la Habana",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "ONG",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wednesday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 17 entre 23 y 21",
+        "Coordinates": "4JJ2+P8Q"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones rellenos": {
+                "Price": 750
+            },
+            "Eperlan de pescado": {
+                "Price": 1000
+            },
+            "Frituras de malanga": {
+                "Price": 500
+            },
+            "Caldo del dia": {
+                "Price": 600
+            },
+            "Fajitas de pollo": {
+                "Price": 600
+            },
+            "Picadera de la casa": {
+                "Price": 3000
+            },
+            "Entremes surtido": {
+                "Price": 3000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napole": {
+                    "Price": 800
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 400
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo encebollado": {
+                    "Price": 800
+                },
+                "Lomo ahumado": {
+                    "Price": 2000
+                },
+                "Ropa vieja": {
+                    "Price": 2000
+                },
+                "Chuleton": {
+                    "Price": 4800
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 1200
+                },
+                "Pechuga grille": {
+                    "Price": 1500
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2500
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2000
+                },
+                "Filete de emperador": {
+                    "Price": 4000
+                },
+                "Empedrado": {
+                    "Price": 4000
+                },
+                "Salmon": {
+                    "Price": 4000
+                },
+                "Marisco enchilado": {
+                    "Price": 2800
+                },
+                "Marisco mariposa": {
+                    "Price": 2500
+                },
+                "Marisco Reina": {
+                    "Price": 3200
+                },
+                "Camaron al gusto": {
+                    "Price": 2300
+                },
+                "Mariscada": {
+                    "Price": 5000
+                }
+            },
+            "Other":{
+                "Mar y tierra":{
+                    "Price": 4800
+                },
+                "Arroz a la marinera": {
+                    "Price": 4800
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanvo": {
+                "Price": 150
+            },
+            "Arroz moro": {
+                "Price": 200
+            },
+            "Ensalada mixta": {
+                "Price": 350
+            },
+            "Vegetal salteado": {
+                "Price": 400
+            },
+            "Tostones tradicionales": {
+                "Price": 400
+            },
+            "Papas fritas": {
+                "Price": 600
+            }
+        },
+        "Desserts": {
+            "Helado": {
+                "Price": 450
+            },
+            "Otros postres": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 250
+            },
+            "Agua gaseada": {
+                "Price": 280
+            },
+            "Agua tonica": {
+                "Price": 350 
+            },
+            "Jugos naturales": {
+                "Price": 300
+            },
+            "Jugos en conserva": {
+                "Price": 350
+            },
+            "Limonada natural": {
+                "Price": 350
+            },
+            "Limonada frappe": {
+                "Price": 350
+            },
+            "Limonada frescura": {
+                "Price": 400
+            },
+            "Malta": {
+                "Price": 400
+            },
+            "Refresco": {
+                "Price": 400
+            },
+            "Cerveza": {
+                "Price": 400
+            },
+            "Cerveza parranda 500ml": {
+                "Price": 350
+            },
+            "Cerveza parranda 1.500ml": {
+                "Price": 1000
+            },
+            "Cerveza nacional": {
+                "Price": 450
+            },
+            "Servicio de michelada/chelada": {
+                "Price": 150
+            },
+            "Copa de vino": {
+                "Price": 500
+            },
+            "Vino de la casa": {
+                "Price": 2500
+            },
+            "Otros vinos(botella)": {
+                "Price": 3800
+            },
+            "Ron collins": {
+                "Price": 450 
+            },
+            "Tom collins": {
+                "Price": 500 
+            },
+            "Mojito": {
+                "Price": 400
+            },
+            "Cuba libre": {
+                "Price": 450
+            },
+            "Pinha colada": {
+                "Price": 550 
+            },
+            "Cubata": {
+                "Price": 500
+            },
+            "Daiquiri": {
+                "Price": 500
+            },
+            "Sangria tropical": {
+                "Price": 900
+            },
+            "Dri helada": {
+                "Price":800 
+            },
+            "Daiquiri frutal": {
+                "Price": 700
+            },
+            "Zombie": {
+                "Price": 800
+            },
+            "Habana club anhejo blanco": {
+                "Price": 200
+            },
+            "Habana club 3 anhos": {
+                "Price": 250
+            },
+            "Habana club anhejo especial": {
+                "Price": 280
+            },
+            "Habana club anhejo 7 anhos": {
+                "Price": 400
+            },
+            "Habana club anhejo reserva": {
+                "Price": 300
+            },
+            "Ritual": {
+                "Price": 300
+            },
+            "Whiskey Chivas regal 12 anhos": {
+                "Price": 550
+            },
+            "Whiskey Chivas regal 18 anhos": {
+                "Price": 1000
+            },
+            "Whiskey valentine": {
+                "Price": 380
+            },
+            "Whiskey Clan cambell": {
+                "Price": 350
+            },
+            "Otros whiskies economico": {
+                "Price": 250
+            },
+            "Tequila blanco": {
+                "Price": 350
+            },
+            "Tequila reposado": {
+                "Price": 450
+            },
+            "Tres sombreros": {
+                "Price": 500
+            },
+            "Vodka absolut": {
+                "Price": 450
+            },
+            "Ginebra": {
+                "Price": 350
+            },
+            "Seleccion de maestros": {
+                "Price": 650
+            },
+            "Pacto de navio": {
+                "Price": 650
+            },
+            "Crema y licores": {
+                "Price": 250
+            },
+            "Smocky cubana": {
+                "Price": 450
+            },
+            "Black jaret": {
+                "Price": 350 
+            },
+            "Ron conde cuba": {
+                "Price": 500
+            },
+            "Mama juana": {
+                "Price": 500
+            },
+            "Gin tonic": {
+                "Price": 600
+            },
+            "Caipiroska": {
+                "Price": 550
+            },
+            "Sangria": {
+                "Price": 600
+            },
+            "Limonada paris": {
+                "Price": 450
+            },
+            "San francisco": {
+                "Price": 700
+            },
+            "Mary pick foard": {
+                "Price": 700
+            },
+            "Limonada clarete": {
+                "Price": 700
+            },
+            "Mojito de frutas": {
+                "Price": 700
+            },
+            "Long island": {
+                "Price": 800 
+            },
+            "Fires man daiquiri": {
+                "Price": 800
+            },
+            "Cafe expresso": {
+                "Price": 200
+            },
+            "Cafe americano": {
+                "Price": 200
+            },
+            "Cafe cortado": {
+                "Price": 250
+            },
+            "Capuccino": {
+                "Price": 300 
+            },
+            "Frapuccino": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": ["Bistec de cerdo"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Filete de pescado"],
+            "Drink": ["Jugos"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Un dia un 20% o 30% de descuento"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

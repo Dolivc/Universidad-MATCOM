@@ -1,0 +1,225 @@
+{
+    "Name": "La Gordy",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            "1130-2100"
+        ],
+        "Thursday": [
+            "1130-2100"
+        ],
+        "Friday": [
+            "1130-2100"
+        ],
+        "Saturday": [
+            "1130-2100"
+        ],
+        "Sunday": [
+            "1130-2100"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 184 #41308 % 413 & 415",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "tostones criollos": {
+                "Price": 350.0
+            },
+            "fritura de malanga": {
+                "Price": 400.0
+            },
+            "garbanzos fritos": {
+                "Price": 750.0
+            },
+            "garbanzos fritos la gordy": {
+                "Price": 800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "bistec de higado de cerdo": {
+                    "Price": 800.0
+                },
+                "higado de cerdo a la italiana": {
+                    "Price": 850.0
+                },
+                "fricase de cerdo": {
+                    "Price": 1200.0
+                },
+                "fajitas de cerdo encebolladas": {
+                    "Price": 1200.0
+                },
+                "fajitas de cerdo empanadas": {
+                    "Price": 1350.0
+                },
+                "masa de cerdo fritas": {
+                    "Price": 1250.0
+                },
+                "bistec de cerdo grille": {
+                    "Price": 1200.0
+                },
+                "bistec de cerdo a la pinna": {
+                    "Price": 1300.0
+                },
+                "bistec de cerdo empanado": {
+                    "Price": 1350.0
+                },
+                "bistec de cerdo gratinado": {
+                    "Price": 1500.0
+                },
+                "bistec uruguayo de cerdo": {
+                    "Price": 2000.0
+                },
+                "chuleta ahumada de cerdo": {
+                    "Price": 1300.0
+                },
+                "chuleta ahumada de cerdo gratinada": {
+                    "Price": 1500.0
+                }
+            },
+            "Chicken": {
+                "fajitas de pollo encebollada": {
+                    "Price": 950.0
+                },
+                "fajitas de pollo empanadas": {
+                    "Price": 110.0
+                },
+                "fajitas de pollo grille": {
+                    "Price": 950.0
+                },
+                "pollo a la pinna": {
+                    "Price": 1100.0
+                },
+                "pollo deshuesado empanado": {
+                    "Price": 1050.0
+                },
+                "pollo deshuesado gratinado": {
+                    "Price": 1250.0
+                },
+                "fajitas de pechuga encebolladas": {
+                    "Price": 1200.0
+                },
+                "fajitas de pechuga empanadas": {
+                    "Price": 1350.0
+                },
+                "pechuga de pollo grille": {
+                    "Price": 1200.0
+                },
+                "pechuga de pollo a la pinna": {
+                    "Price": 1300.0
+                },
+                "pechuga de pollo empanada": {
+                    "Price": 1350.0
+                },
+                "pechuga de pollo gratinada": {
+                    "Price": 1500.0
+                },
+                "pechuga gordon blue": {
+                    "Price": 2000.0
+                }
+            },
+            "Beef": {
+                "ropa vieja de res": {
+                    "Price": 1300.0
+                },
+                "vaca frita": {
+                    "Price": 1300.0
+                }
+            },
+            "Sea": {
+                "eperlan de pescado": {
+                    "Price": 1400.0
+                },
+                "filete de pescado grille": {
+                    "Price": 1250.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 1400.0
+                },
+                "filete de pescado gratinado": {
+                    "Price": 1800.0
+                },
+                "filete canciller": {
+                    "Price": 2000.0
+                }
+            },
+            "Other": {
+                "ropa vieja de cordero": {
+                    "Price": 950.0
+                }
+            }
+        },
+        "Extras": {
+            "arooz moro": {
+                "Price": 400.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

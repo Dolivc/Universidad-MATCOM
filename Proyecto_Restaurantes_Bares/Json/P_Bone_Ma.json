@@ -1,0 +1,497 @@
+{
+    "Name": "Bone Ma",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["09:00-23:00"],
+        "Tuesday":  ["09:00-23:00"],
+        "Wednesday": ["09:00-23:00"],
+        "Thursday": ["09:00-23:00"],
+        "Friday":   ["09:00-23:00"],
+        "Saturday": ["09:00-23:00"],
+        "Sunday":   ["09:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 21 entre M y L",
+        "Coordinates": "4JR8+GGR"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                "Hamburguesa natural smash": {
+                    "Price": 2150
+                },
+                "Hamburguesa del falafel": {
+                    "Price": 1900
+                },
+                "Hamburguesa smash con bacon y huevo frito": {
+                    "Price": 2500
+                },
+                "Hamburguesa smash con aguacate": {
+                    "Price": 2250
+                }
+            },
+            "Sandwich": {
+                "Sandwich de vegetales": {
+                    "Price": 1300
+                },
+                "Jamon y queso": {
+                    "Price": 1650
+                },
+                "Res": {
+                    "Price": 1800
+                },
+                "Atun": {
+                    "Price": 1700
+                },
+                "Jamon serrano": {
+                    "Price": 2250
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Waffle, nutellq, queso crema, mermelada, miel y fruta":{
+                    "Price": 1900
+                },
+                "Huevos al gusto, pan, mantequilla, mermelada, fruta de temporada, jugo o cafe":{
+                    "Price": 2100
+                },
+                "Huevos al gusto, pan, jamon, queso, mantequilla, jugo o cafe":{
+                    "Price": 2300
+                }
+            }
+        },
+        "Appetizers": {
+            "Papas fritas": {
+                "Price": 1050
+            },
+            "Falafel (Fritura de garbanzo)": {
+                "Price": 1050
+            },
+            "Fritura de malanga": {
+                "Price": 970
+            },
+            "Sopa de vegetales": {
+                "Price": 1150
+            },
+            "Sopa de pollo": {
+                "Price": 1350
+            },
+            "Sopa de lentejas": {
+                "Price": 1200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Napolitana": {
+                    "Price": 1900
+                },
+                "Arrabiata": {
+                    "Price": 2000
+                },
+                "Pesto": {
+                    "Price": 2200
+                },
+                "Bolognesa": {
+                    "Price": 2800
+                },
+                "A la carbonara": {
+                    "Price": 2650
+                }
+            },
+            "Pizza": {
+                "Margarita": {
+                    "Price": 2000
+                },
+                "Funghi": {
+                    "Price": 2200
+                },
+                "Vegetariana": {
+                    "Price": 2300
+                },
+                "4 quesos": {
+                    "Price": 2600
+                },
+                "Hawaiana": {
+                    "Price": 2600
+                },
+                "Diabola/Pepperoni": {
+                    "Price": 2700
+                },
+                "Jamon serrano, rucula y palmesano": {
+                    "Price": 3200
+                },
+                "Atun y cebolla": {
+                    "Price": 2600
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Pechuga de pollo grille": {
+                    "Price": 2350
+                },
+                "Pechuga de pollo enchilada": {
+                    "Price": 2450
+                },
+                "Schnitzel de pollo (pechuga de pollo empanizada)": {
+                    "Price": 3000
+                }
+            },
+            "Beef": {
+                "Ropa vieja de res": {
+                    "Price": 2800
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 5500
+                },
+                "Langosta grille": {
+                    "Price": 4500
+                },
+                "Langosta al ajillo": {
+                    "Price": 4500
+                },
+                "Langosta enchilada": {
+                    "Price": 4500
+                },
+                "Camarones grille": {
+                    "Price": 4500
+                },
+                "Camarones al ajillo": {
+                    "Price": 4500
+                },
+                "Camarones enchilados": {
+                    "Price": 4500
+                },
+                "Pulpo grille": {
+                    "Price": 6000
+                },
+                "Pulpo al ajillo": {
+                    "Price": 6000
+                },
+                "Pulpo enchilado": {
+                    "Price": 6000
+                }
+            },
+            "Other":{
+                "Doner kebat (pan, pollo asado doner, vegetales y salsa)":{
+                    "Price": 1700
+                },
+                "Durum kebat (Trotilla de harina, pollo asado doner, vegetales y salsa)":{
+                    "Price": 1750
+                },
+                "Doner falafel (Pan, falafel, vegetales y salsa)":{
+                    "Price": 1300
+                },
+                "Doner kofte (Pan, kofte de res, vegetales y salsa)":{
+                    "Price": 1750
+                },
+                "Durum kofte (Tortilla de harina, kofte de res, vegetales y salsa)":{
+                    "Price": 1750
+                },
+                "Plato de doner kebat (pollo asado doner, pan, papas fritas, vegetales y salsa)":{
+                    "Price": 2300
+                },
+                "Plato de iskender kebat (pollo asado doner, pan, mantequilla, salsa de tomate, yogurt y vegetales)":{
+                    "Price": 2400
+                },
+                "Plato de kofte de res (kofte de res, pan, papas fritas, vegetales y salsa)":{
+                    "Price": 2500
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada mixta": {
+                "Price": 950
+            },
+            "Koban salata": {
+                "Price": 1200
+            },
+            "Caprese": {
+                "Price": 1450
+            },
+            "Ensalada nizarda": {
+                "Price": 1800
+            }
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 700
+            },
+            "Copa de helado": {
+                "Price": 900
+            },
+            "Copa lolita": {
+                "Price": 1050
+            }
+        },
+        "Beverages": {
+            "Te": {
+                "Price": 400
+            },
+            "Cafe espresso": {
+                "Price": 380
+            },
+            "Cafe crotado": {
+                "Price": 400
+            },
+            "Cafe americano": {
+                "Price": 420
+            },
+            "Cafe capuccino": {
+                "Price": 650
+            },
+            "Frapuccino": {
+                "Price": 700
+            },
+            "Cafe bombom": {
+                "Price": 750
+            },
+            "Cafe con leche": {
+                "Price": 700
+            },
+            "Leche con chocolate": {
+                "Price": 700
+            },
+            "Agua natural": {
+                "Price": 450
+            },
+            "Agua gaseada": {
+                "Price": 750
+            },
+            "Agua tonica": {
+                "Price": 700
+            },
+            "Coca cola/pepsi cola": {
+                "Price": 600
+            },
+            "Sprite": {
+                "Price": 600
+            },
+            "Coca cola zero": {
+                "Price": 600
+            },
+            "Jugo de fruta natural": {
+                "Price": 600
+            },
+            "Batido de fruta natural": {
+                "Price": 950
+            },
+            "Limonada natural": {
+                "Price": 500
+            },
+            "Limonada frappe": {
+                "Price": 550
+            },
+            "Ayran": {
+                "Price": 500
+            },
+            "Suero de helado": {
+                "Price": 1500
+            },
+            "Energy drink": {
+                "Price": 850
+            },
+            "Cerveza cristal": {
+                "Price": 600
+            },
+            "Cerveza bucanero": {
+                "Price": 600
+            },
+            "Heineken": {
+                "Price": 750
+            },
+            "Corona": {
+                "Price": 800
+            },
+            "Servicio de chelada": {
+                "Price": 250
+            },
+            "Servicio de michelada": {
+                "Price": 300
+            },
+            "Cuba libre": {
+                "Price": 1500
+            },
+            "Cubata": {
+                "Price": 1600
+            },
+            "Mojito": {
+                "Price": 1600
+            },
+            "Gin Basil smash": {
+                "Price": 1700
+            },
+            "Caipirinha": {
+                "Price": 1400
+            },
+            "Strawberry caipi": {
+                "Price": 1550
+            },
+            "Daiquiri": {
+                "Price": 1500
+            },
+            "Strawberry Daiquiri": {
+                "Price": 1600
+            },
+            "Pinha colada": {
+                "Price": 1700
+            },
+            "Strawberry colada": {
+                "Price": 1800
+            },
+            "Margarita": {
+                "Price": 1600
+            },
+            "Whisky sour": {
+                "Price": 1650
+            },
+            "espresso martini": {
+                "Price": 1650
+            },
+            "Sangria": {
+                "Price": 1500
+            },
+            "Yeni Raki": {
+                "Price": 1300
+            },
+            "Aperol Spritz": {
+                "Price": 1700
+            },
+            "Campari spritz": {
+                "Price": 1700
+            },
+            "Campari soda": {
+                "Price": 1600
+            },
+            "Absolute vodka soda": {
+                "Price": 1550
+            },
+            "Vino tinta (copa)": {
+                "Price": 950
+            },
+            "Vino blanco(copa)": {
+                "Price": 950
+            },
+            "Bailileys": {
+                "Price": 1100
+            },
+            "Jagermeistir": {
+                "Price": 1200
+            },
+            "Cinzano rosso": {
+                "Price": 1200
+            },
+            "Martini blanco": {
+                "Price": 1200
+            },
+            "Clan cambell": {
+                "Price": 1200
+            },
+            "Jaminson": {
+                "Price": 1400
+            },
+            "Jack daniels": {
+                "Price": 1650
+            },
+            "Jhonny walker red label": {
+                "Price": 1400
+            },
+            "Jonny walker black label": {
+                "Price": 1600
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 1500
+            },
+            "Ballentines": {
+                "Price": 1100
+            },
+            "Ballentines 12 anhos": {
+                "Price": 1400
+            },
+            "Havana club anhejo 3 anhos": {
+                "Price": 800
+            },
+            "Havana club anhejo especial": {
+                "Price": 1050
+            },
+            "Havana club anhejo reserva": {
+                "Price": 1100
+            },
+            "Havana club anhejo 7 anhos": {
+                "Price": 1400
+            },
+            "Ron santiago anhejo": {
+                "Price": 1200
+            },
+            "Ron santiago 8 anhos": {
+                "Price": 1650
+            },
+            "Ron santiago 11 anhos": {
+                "Price": 2200
+            },
+            "Seleccion de maestros": {
+                "Price": 1800
+            },
+            "Tanquerai": {
+                "Price": 1600
+            },
+            "Gin mare": {
+                "Price": 1500
+            },
+            "Beefeather": {
+                "Price": 1500
+            },
+            "London number 1": {
+                "Price": 1900
+            },
+            "The botanist": {
+                "Price": 2100
+            },
+            "Omelca blanco": {
+                "Price": 750
+            },
+            "Omelca reposado": {
+                "Price": 850
+            } 
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": ["Cerveza"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "True",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "True",
+            "Euros": "True",
+            "Others": "True"
+        }
+    }
+}

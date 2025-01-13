@@ -1,0 +1,141 @@
+{
+    "Name": "La Pelota",
+    "Type": "Bar_Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["09:45-21:45"],
+        "Tuesday":  ["09:45-21:45"],
+        "Wednesday": ["09:45-21:45"],
+        "Thursday": ["09:45-21:45"],
+        "Friday":   ["09:45-21:45"],
+        "Saturday": ["09:45-21:45"],
+        "Sunday":   ["09:45-21:45"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Esquina 23 y 12",
+        "Coordinates": null
+    },
+    "Cuisine": "Criolla",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "chicharrón 58g": {
+                "Price": 120
+            },
+            "croqueta 36g": {
+                "Price": 150
+            },
+            "entrante de jamón": {
+                "Price": 300
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "bistec de cerdo": {
+                    "Price": 600
+                },
+                "masa de cerdo frita": {
+                    "Price": 600
+                },
+                "costilla de credo frito": {
+                    "Price": 600
+                }
+            },
+            "Chicken": {
+                "pollo grillé": {
+                    "Price": 550
+                },
+                "pollo asado": {
+                    "Price": 550
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                "picadillo":{
+                    "Price": 250
+                }
+            }
+        },
+        "Extras": {
+            "arroz moro": {
+                "Price": 100
+            },
+            "vianda hervida": {
+                "Price": 40
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "energizante": {
+                "Price": 200
+            },
+            "refresco de cola": {
+                "Price": 190
+            },
+            "jugo de frutas": {
+                "Price": 180
+            },
+            "cerveza importada": {
+                "Price": 200
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": [""],
+        "Facilities": [""],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "False",
+            "Mobile_Payment": "False"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "False",
+            "Euros": "False",
+            "Others": "False"
+        }
+    }
+}

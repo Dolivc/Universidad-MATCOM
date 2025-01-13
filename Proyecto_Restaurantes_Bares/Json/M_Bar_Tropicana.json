@@ -1,0 +1,242 @@
+{
+    "Name": "Bar Tropicana",
+    "Type": "Bar",
+    "Phone_Number": "7279147",
+    "Web_Page": "Cabaret-Tropicana.com",
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-22:00"],
+        "Tuesday":  ["12:00-22:00"],
+        "Wednesday": ["12:00-22:00"],
+        "Thursday": ["12:00-22:00"],
+        "Friday":   ["12:00-22:00"],
+        "Saturday": ["12:00-22:00"],
+        "Sunday":   ["12:00-22:00"]
+    },
+    "Location": {
+        "District": "Marianao",
+        "Address": "72A,Avenida 41",
+        "Coordinates": "3HVJ+R8W"
+    },
+    "Cuisine": null,
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Aguas nacionales": {
+                "Price": 100
+            },
+            "Agua saborizada ": {
+                "Price": 100
+            },
+            "Agua Natural ": {
+                "Price": 100
+            },
+            "Refresco": {
+                "Price": 60
+            },
+            "Jugos de frutas en conserva ": {
+                "Price": 100
+            },
+            "Jugos de frutas naturales": {
+                "Price": 100
+            },
+            "Cervezas nacionales o importadas": {
+                "Price": 200
+            },
+            "Cerveza Dispensada ": {
+                "Price": 160
+            },
+            "Copa de vino de la casa": {
+                "Price": 300
+            },
+            "Havana Club 3 anhos ": {
+                "Price": 100
+            },
+            "Especial Havana Club ": {
+                "Price": 120
+            },
+            "Havana Club 7 anhos ": {
+                "Price": 320
+            },
+            "Havana Club Pacto Navio ": {
+                "Price": 730
+            },
+            "Havana club seleccion de maestros": {
+                "Price": 750
+            },
+            "Aguardiente Gobernador": {
+                "Price": 14300
+            },
+            "Chiva Regal 12 Anhos": {
+                "Price": 995
+            },
+            "Ballentinees finest": {
+                "Price": 500
+            },
+            "J&B ": {
+                "Price": 650
+            },
+            "Johnnie Walker etiqueta roja": {
+                "Price": 550
+            },
+            "Jameson": {
+                "Price": 650
+            },
+            "VAT": {
+                "Price": 580
+            },
+            "Tequila 3 sombreros": {
+                "Price": 300
+            },
+            "Vodka Igor": {
+                "Price": 395
+            },
+            "Brandy Napoleón": {
+                "Price": 190
+            },
+            "Cremas y licores (Cacao)": {
+                "Price": 85
+            },
+            "Cremas y licores (Café)": {
+                "Price": 85
+            },
+            "Cremas y licores(Menta)": {
+                "Price": 85
+            },
+            "Cremas y licores(Marrasquino)": {
+                "Price": 85
+            },
+            "Cremas y licores(Triple sec)": {
+                "Price": 85
+            },
+            "Cremas y licores(Curacao azul)": {
+                "Price": 85
+            },
+            "Cremas y licores(Pinha)": {
+                "Price": 85
+            },
+            "Daiquiri Natural": {
+                "Price": 450
+            },
+            "Daiquiri Frapeado Natural": {
+                "Price": 450
+            },
+            "Cuba libre": {
+                "Price": 730
+            },
+            "cubata": {
+                "Price": 700
+            },
+            "Daiquiri mulata": {
+                "Price": 620
+            },
+            "Daiquiri Saborizado": {
+                "Price": 450
+            },
+            "Gin cola": {
+                "Price": 750
+            },
+            "Gin tonic": {
+                "Price": 785
+            },
+            "Rom tonic": {
+                "Price": 550
+            },
+            "Vodka cola": {
+                "Price": 600
+            },
+            "Vodka tónica": {
+                "Price": 650
+            },
+            "Whisky cola": {
+                "Price": 500
+            },
+            "Tropicana special ": {
+                "Price": 450
+            },
+            "Cocteles Internacionales": {
+                "Price": 500
+            },
+            "Canchánchara": {
+                "Price": 450
+            },
+            "Pinha colada ": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": ["Whiskey"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Show"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

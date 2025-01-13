@@ -1,0 +1,221 @@
+{
+    "Name": "La Libra",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-1200"
+        ],
+        "Tuesday": [
+            "1100-1200"
+        ],
+        "Wednesday": [
+            "1100-1200"
+        ],
+        "Thursday": [
+            "1100-1200"
+        ],
+        "Friday": [
+            "1100-1200"
+        ],
+        "Saturday": [
+            "1100-1200"
+        ],
+        "Sunday": [
+            "1100-1200"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "calle 105 entre 20 y 26, Cotorro",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "fajitas de pollo": {
+                "Price": 1700.0
+            },
+            "fajitas de cerdo": {
+                "Price": 1600.0
+            },
+            "alitas de pollo": {
+                "Price": 1300.0
+            },
+            "croquetas": {
+                "Price": 550.0
+            },
+            "tostones naturales": {
+                "Price": 300.0
+            },
+            "tostones al ajillo": {
+                "Price": 350.0
+            },
+            "tostones rellenos": {
+                "Price": 1100.0
+            },
+            "tostones campesinos": {
+                "Price": 1100.0
+            },
+            "papas fritas": {
+                "Price": 900.0
+            },
+            "fritura de malanga": {
+                "Price": 500.0
+            },
+            "entremes de jamon, queso y aceituna": {
+                "Price": 1500.0
+            },
+            "camaron empanado": {
+                "Price": 1200.0
+            },
+            "eperlan": {
+                "Price": 2100.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti napolitano": {
+                    "Price": 1200.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 1500.0
+                }
+            },
+            "Pork": {
+                "filete de cerdo": {
+                    "Price": 3400.0
+                },
+                "masa de cerdo frita": {
+                    "Price": 2400.0
+                },
+                "brocheta": {
+                    "Price": 2000.0
+                },
+                "bistec de cerdo": {
+                    "Price": 2000.0
+                },
+                "fricase de cerdo": {
+                    "Price": 2300.0
+                },
+                "costilla de cerdo frita": {
+                    "Price": 2300.0
+                },
+                "costilla de cerdo asada": {
+                    "Price": 2400.0
+                },
+                "costilla de cerdo en salsa": {
+                    "Price": 2500.0
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "bistec de res grille": {
+                    "Price": 3000.0
+                },
+                "bistec uruguayo": {
+                    "Price": 2900.0
+                }
+            },
+            "Sea": {
+                "filete de pescado": {
+                    "Price": 2100.0
+                },
+                "pescado canciller": {
+                    "Price": 3300.0
+                },
+                "filete de salmon": {
+                    "Price": 2500.0
+                },
+                "camaron grille": {
+                    "Price": 1700.0
+                },
+                "camaron enchilado": {
+                    "Price": 2200.0
+                },
+                "camaron al ajillo": {
+                    "Price": 1500.0
+                },
+                "calamar en su tinta": {
+                    "Price": 4000.0
+                },
+                "pulpo al ajillo": {
+                    "Price": 3200.0
+                },
+                "pulpo grille": {
+                    "Price": 3300.0
+                },
+                "langosta grille": {
+                    "Price": 2000.0
+                }
+            },
+            "Other": {
+                "chilindron de cordero": {
+                    "Price": 3500.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

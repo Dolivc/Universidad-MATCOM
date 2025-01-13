@@ -1,0 +1,644 @@
+{
+    "Name": "Donha_Cotolin-Todo_al_Carbon",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": [
+            "1100-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "5V97+P4H, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Bruschettas de Pan": {
+                "Price": 650
+            },
+            "Eperlan de Pescado": {
+                "Price": 800
+            },
+            "Fajitas de Pollo": {
+                "Price": 800
+            },
+            "Frituras de Malanga": {
+                "Price": 500
+            },
+            "Tamal en Cazuela": {
+                "Price": 550
+            },
+            "Tostones Rellenos": {
+                "Price": 550
+            },
+            "Garbanzo Frito": {
+                "Price": 1500
+            },
+            "Lasanha de Pollo": {
+                "Price": 850
+            },
+            "Mas q Taco, es un Burrito": {
+                "Price": 600
+            },
+            "Ensalada Fria": {
+                "Price": 500
+            },
+            "Croquetas de la Casa": {
+                "Price": 250
+            },
+            "Papas Fritas": {
+                "Price": 500
+            },
+            "Coctel de Camarones": {
+                "Price": 1500
+            },
+            "Tostones Rellenos de Camaron": {
+                "Price": 1000
+            },
+            "Tabla de Picadera": {
+                "Price": 2500
+            },
+            "Fabada Asturiana": {
+                "Price": 1500
+            },
+            "Tacos de Camarones": {
+                "Price": 1000
+            },
+            "Sandwich de Jamon": {
+                "Price": 450
+            },
+            "Crema de Queso": {
+                "Price": 800
+            },
+            "Crema Aurora": {
+                "Price": 900
+            },
+            "Crema Virginia": {
+                "Price": 1250
+            },
+            "Sopa de Pollo": {
+                "Price": 650
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Napolitano": {
+                    "Price": 750
+                },
+                "Spaguettis con Pollo": {
+                    "Price": 850
+                },
+                "Spaguettis con Jamon y Queso": {
+                    "Price": 900
+                },
+                "Spaguettis con Mariscos": {
+                    "Price": 1300
+                },
+                "Spaguettis a la Bolonhesa": {
+                    "Price": 1350
+                }
+            },
+            "Pizza": {
+                "Napolitana": {
+                    "Price": 350
+                },
+                "De Jamon y Queso": {
+                    "Price": 450
+                },
+                "De Chorizo": {
+                    "Price": 450
+                },
+                "De Atun": {
+                    "Price": 650
+                },
+                "Pizza Mixta": {
+                    "Price": 950
+                },
+                "Pizza Hawaiana": {
+                    "Price": 650
+                },
+                "Pizza Bolonhesa": {
+                    "Price": 900
+                },
+                "F, Napolitana": {
+                    "Price": 750
+                },
+                "F, Pizza de Vegetales": {
+                    "Price": 900
+                },
+                "F, De Jamon y Queso": {
+                    "Price": 1000
+                },
+                "F. De Chorizo": {
+                    "Price": 1000
+                },
+                "F. De Atun": {
+                    "Price": 1300
+                },
+                "F. Pizza Mixta": {
+                    "Price": 2000
+                },
+                "F. Pizza Hawaiana": {
+                    "Price": 1500
+                },
+                "F. Pizza Bolonhesa": {
+                    "Price": 1900
+                },
+                "F. Pizza Ocho Estaciones": {
+                    "Price": 2300
+                },
+                "F. Pizza de Camaron": {
+                    "Price": 2350
+                },
+                "F. Pizza Margarita": {
+                    "Price": 850
+                }
+            },
+            "Pork": {
+                "Churrasco de Cerdo": {
+                    "Price": 1650
+                },
+                "Chuleta de Cerdo al Carbon": {
+                    "Price": 2200
+                },
+                "Costillas de Cerdo al Carbon": {
+                    "Price": 2100
+                },
+                "Masas de Cerdo a la Brasa": {
+                    "Price": 2250
+                },
+                "Lonjas de Cerdo Asado": {
+                    "Price": 2500
+                },
+                "Bistec de Cerdo Encebollado": {
+                    "Price": 2500
+                },
+                "Uruguayo de Cerdo": {
+                    "Price": 3000
+                },
+                "Tabla de la Donha": {
+                    "Price": 4000
+                },
+                "Brochetas de Cerdo al Carbon": {
+                    "Price": 1750
+                },
+                "Fricase de Cerdo": {
+                    "Price": 1750
+                },
+                "Lomo de Cerdo al Carbon y Gratinado(Racion para cuatro personas)": {
+                    "Price": 6000
+                },
+                "Super Ahumado": {
+                    "Price": 3000
+                },
+                "Solomillo de Cerdo": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "Pollo Asado al Carbon": {
+                    "Price": 1750
+                },
+                "Pollo Asado a la Pinha": {
+                    "Price": 1850
+                },
+                "Pollo Frito": {
+                    "Price": 1650
+                },
+                "Gordon Bleu de Pollo": {
+                    "Price": 2000
+                },
+                "Bistec de Pechuga de Pollo": {
+                    "Price": 2000
+                },
+                "Arroz con Pollo a la Chorrera": {
+                    "Price": 1250
+                }
+            },
+            "Beef": {
+                "Ropa Vieja de Res": {
+                    "Price": 1500
+                },
+                "Bistec de Res Encebollado": {
+                    "Price": 2600
+                },
+                "Filet Minoni": {
+                    "Price": 3250
+                },
+                "Bistec de Higado de Res": {
+                    "Price": 1800
+                }
+            },
+            "Sea": {
+                "Pescado Frito Entero": {
+                    "Price": 1500
+                },
+                "Pescado al Jugo": {
+                    "Price": 1850
+                },
+                "Pescado Canciller": {
+                    "Price": 2500
+                },
+                "Pescado Frito mas Grande": {
+                    "Price": 2300
+                },
+                "Camaron Rebosado": {
+                    "Price": 2000
+                },
+                "Enchilado de Camaron": {
+                    "Price": 2100
+                },
+                "Camaron al Ajillo": {
+                    "Price": 1950
+                },
+                "Camaron Hawaiano": {
+                    "Price": 3000
+                },
+                "Enchilado de Langosta": {
+                    "Price": 2200
+                },
+                "Langosta a la Plancha": {
+                    "Price": 2200
+                },
+                "Langosta Hawaiana": {
+                    "Price": 3000
+                },
+                "El Rey del Mar": {
+                    "Price": 3000
+                },
+                "Caldereta de Marisco": {
+                    "Price": 3000
+                },
+                "Enchilado de Cangrejo": {
+                    "Price": 1600
+                },
+                "Pulpo en su Tinta": {
+                    "Price": 2500
+                },
+                "Calamar relleno": {
+                    "Price": 3500
+                }
+            },
+            "Other": {
+                "Fricase de Carnero": {
+                    "Price": 1750
+                },
+                "Paella Mar y Tierra": {
+                    "Price": 3000
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Refresco de Lata": {
+                "Price": 300
+            },
+            "Refresco Pomo Pequenho": {
+                "Price": 260
+            },
+            "Refresco Pepsi": {
+                "Price": 350
+            },
+            "Malta": {
+                "Price": 300
+            },
+            "Malta Bucanero": {
+                "Price": 360
+            },
+            "Jugos Naturales": {
+                "Price": 250
+            },
+            "Agua Natural": {
+                "Price": 200
+            },
+            "Agua Tonica": {
+                "Price": 300
+            },
+            "Energizante": {
+                "Price": 350
+            },
+            "Red Bull": {
+                "Price": 450
+            },
+            "Baileys": {
+                "Price": 500
+            },
+            "Ruavieja": {
+                "Price": 500
+            },
+            "Jagermeister": {
+                "Price": 500
+            },
+            "Licores de la Casa": {
+                "Price": 350
+            },
+            "Gin MG": {
+                "Price": 650
+            },
+            "Gin Master": {
+                "Price": 800
+            },
+            "Beefeater": {
+                "Price": 700
+            },
+            "Gin de la Casa": {
+                "Price": 400
+            },
+            "Vodka de la Casa": {
+                "Price": 350
+            },
+            "Vodka Absolut": {
+                "Price": 550
+            },
+            "Olmeca Blanco": {
+                "Price": 400
+            },
+            "Olmeca Reposado": {
+                "Price": 450
+            },
+            "Jose Cuervo": {
+                "Price": 800
+            },
+            "Tequila Rose": {
+                "Price": 1000
+            },
+            "Tequila Patron": {
+                "Price": 2000
+            },
+            "Vino Blanco": {
+                "Price": 450
+            },
+            "Vino Tinto": {
+                "Price": 500
+            },
+            "Ballentines": {
+                "Price": 650
+            },
+            "Jameson": {
+                "Price": 650
+            },
+            "J.W Black Label": {
+                "Price": 1200
+            },
+            "J.W Jack Daniels": {
+                "Price": 1250
+            },
+            "J.W Jred Label": {
+                "Price": 850
+            },
+            "Black and White": {
+                "Price": 550
+            },
+            "Torres 15": {
+                "Price": 550
+            },
+            "Black Tears": {
+                "Price": 300
+            },
+            "Habana Club Anhejo Blanco": {
+                "Price": 300
+            },
+            "Habana Club 3 Anhos": {
+                "Price": 300
+            },
+            "Habana Club Especial": {
+                "Price": 450
+            },
+            "Habana Club 7 Anhos": {
+                "Price": 500
+            },
+            "Habana Club Seleccion Maestro": {
+                "Price": 550
+            },
+            "Habana Club Pacto Navio": {
+                "Price": 700
+            },
+            "Habana Club Santiago 8 Anhos": {
+                "Price": 450
+            },
+            "Habana Club Santiago 11 Anhos": {
+                "Price": 650
+            },
+            "Habana Club Santiago 12 Anhos": {
+                "Price": 700
+            },
+            "Cubay Extra Anhejo": {
+                "Price": 1350
+            },
+            "Screwdriver": {
+                "Price": 450
+            },
+            "Limonada Frappe": {
+                "Price": 450
+            },
+            "Limonada Presidente": {
+                "Price": 500
+            },
+            "Limonada Electrica": {
+                "Price": 600
+            },
+            "Limonada Natural": {
+                "Price": 450
+            },
+            "Limonada Red": {
+                "Price": 700
+            },
+            "Cuba Libre": {
+                "Price": 500
+            },
+            "Cubata": {
+                "Price": 650
+            },
+            "Daiquiri Natural": {
+                "Price": 500
+            },
+            "Daiquiri Frappe": {
+                "Price": 500
+            },
+            "Daiquiri de Sabores": {
+                "Price": 600
+            },
+            "Mojito": {
+                "Price": 550
+            },
+            "Mojito de Fruta": {
+                "Price": 650
+            },
+            "Mojito al Carbon": {
+                "Price": 1000
+            },
+            "Old Mojito": {
+                "Price": 650
+            },
+            "Gin Tonic": {
+                "Price": 650
+            },
+            "Caipiroska": {
+                "Price": 450
+            },
+            "Caipirisima": {
+                "Price": 450
+            },
+            "Caipirinha": {
+                "Price": 450
+            },
+            "Sangria": {
+                "Price": 600
+            },
+            "Pinha Colada": {
+                "Price": 600
+            },
+            "Canchanchara": {
+                "Price": 400
+            },
+            "Canchanchara Gold": {
+                "Price": 500
+            },
+            "Margarita": {
+                "Price": 500
+            },
+            "Barbie": {
+                "Price": 800
+            },
+            "Lucifer": {
+                "Price": 700
+            },
+            "Flaming Lamborghini": {
+                "Price": 1250
+            },
+            "Orgasmo": {
+                "Price": 800
+            },
+            "Negroni": {
+                "Price": 750
+            },
+            "Blue Lagoon": {
+                "Price": 450
+            },
+            "Long Island": {
+                "Price": 1000
+            },
+            "Black Russian": {
+                "Price": 500
+            },
+            "Padrino": {
+                "Price": 800
+            },
+            "Madrina": {
+                "Price": 800
+            },
+            "Jaguerbull": {
+                "Price": 1000
+            },
+            "Jaguer Laguer": {
+                "Price": 1000
+            },
+            "Blue Hawaii": {
+                "Price": 800
+            },
+            "Submarino": {
+                "Price": 800
+            },
+            "Bloody Mary": {
+                "Price": 650
+            },
+            "Cubanito": {
+                "Price": 600
+            },
+            "Rikiti": {
+                "Price": 650
+            },
+            "Martini Dry": {
+                "Price": 600
+            },
+            "Old Fashioned": {
+                "Price": 850
+            },
+            "Cerveza Cristal": {
+                "Price": 500
+            },
+            "Cerveza Bucanero": {
+                "Price": 500
+            },
+            "Cerveza Importada": {
+                "Price": 250
+            },
+            "Cerveza Corona": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

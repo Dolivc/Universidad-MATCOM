@@ -1,0 +1,348 @@
+{
+    "Name": "Lo de Monik",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "78644029",
+    "Web_Page": "Lo de Monik",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["09:00-22:00"],
+        "Tuesday":  ["09:00-22:00"],
+        "Wednesday": ["09:00-22:00"],
+        "Thursday": ["09:00-22:00"],
+        "Friday":   ["09:00-22:00"],
+        "Saturday": ["09:00-22:00"],
+        "Sunday":   ["09:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Chacon y compostela",
+        "Coordinates": "4JRV+FQ5"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                "Sandwich de vegetales": {
+                    "Price": 1000
+                },
+                "Sandwich de jamon y queso": {
+                    "Price": 1200
+                },
+                "Sandwich de pollo": {
+                    "Price": 1700
+                },
+                "Sandwich de atun": {
+                    "Price": 1500
+                },
+                "Sandwich cubano": {
+                    "Price": 2000
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Dos huevos, tostadas, jamon, vegetales, jugo, cafe":{
+                    "Price": 1800
+                }
+            }
+        },
+        "Appetizers": {
+            "Frituras de malanga": {
+                "Price": 700
+            },
+            "Yucas bravas": {
+                "Price": 700
+            },
+            "Croquetas": {
+                "Price": 700
+            },
+            "Ceviche": {
+                "Price": 1200
+            },
+            "Tartar de atun": {
+                "Price": 900
+            },
+            "Tamal en casuela": {
+                "Price": 1700
+            },
+            "Tostones rellenos de jamon y queso": {
+                "Price": 1100
+            },
+            "Tostones rellenos de ropa vieja": {
+                "Price": 1200
+            },
+            "Tostones rellenos de cerdo": {
+                "Price": 1300
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napolitana": {
+                    "Price": 1800
+                },
+                "Pasta de pollo con salsa alfredo": {
+                    "Price": 2000
+                },
+                "Pasta fruti di mare": {
+                    "Price": 2500
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masas de cerdo": {
+                    "Price": 2800
+                }
+            },
+            "Chicken": {
+                "Pollo grillado": {
+                    "Price": 1700
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2300
+                },
+                "Ropa vieja con garbanzos": {
+                    "Price": 2600
+                },
+                "Punta de filete a la deutche": {
+                    "Price": 3800
+                },
+                "filete mignon": {
+                    "Price": 4500
+                }
+            },
+            "Sea": {
+                "Camaron grillado": {
+                    "Price": 3000
+                },
+                "Pescado empanado": {
+                    "Price": 2600
+                },
+                "Pescado grillado": {
+                    "Price": 2400
+                },
+                "Pulpo grillado": {
+                    "Price": 3800
+                },
+                "Langosta": {
+                    "Price": 3000 
+                }
+            },
+            "Other":{
+                "Taco de vegetales":{
+                    "Price": 1500
+                },
+                "Tacos de pollo": {
+                    "Price": 1700
+                },
+                "Tacos de cerdo": {
+                    "Price": 2200
+                },
+                "Taco de ropa vieja": {
+                    "Price": 2300
+                },
+                "Taco de camaron": {
+                    "Price": 3000
+                },
+                "Taco de pescado": {
+                    "Price": 2400
+                },
+                "Taco de punta de filete": {
+                    "Price": 3800
+                },
+                "Taco de langosta": {
+                    "Price": 2400
+                },
+                "Taco de pulpo": {
+                    "Price": 2500
+                }
+            }
+        },
+        "Extras": {
+            "Arroz": {
+                "Price": 300
+            },
+            "Frijoles": {
+                "Price": 300
+            }
+        },
+        "Desserts": {
+            "Postre de la casa": {
+                "Price": 600
+            }
+        },
+        "Beverages": {
+            "jugo de frutas naturales": {
+                "Price": 400
+            },
+            "Limonada": {
+                "Price": 600 
+            },
+            "Limonada de hierbabuena": {
+                "Price": 600
+            },
+            "Batido de frutas": {
+                "Price": 600
+            },
+            "Agua nacional": {
+                "Price": 300
+            },
+            "Agua nacional gaseada": {
+                "Price": 300
+            },
+            "Refresco": {
+                "Price": 500
+            },
+            "Cerveza importada": {
+                "Price": 700
+            },
+            "Cerveza nacional": {
+                "Price": 700
+            },
+            "Copa de vino blanco": {
+                "Price": 650
+            },
+            "Copa de vino tinto": {
+                "Price": 650
+            },
+            "Botella de vino": {
+                "Price": 2600
+            },
+            "Cafe expresso": {
+                "Price": 300
+            },
+            "Cafe americano": {
+                "Price": 300
+            },
+            "Cafe cortado": {
+                "Price": 350
+            },
+            "Capuccino": {
+                "Price": 400 
+            },
+            "Frapuccino": {
+                "Price": 600 
+            },
+            "Cafe bombom": {
+                "Price": 700 
+            },
+            "Mojito": {
+                "Price": 700 
+            },
+            "Mojito loco": {
+                "Price": 1400 
+            },
+            "Mojito de frutas": {
+                "Price": 750
+            },
+            "Daiquiri": {
+                "Price": 650 
+            },
+            "Daiquiri de fruta": {
+                "Price": 700
+            },
+            "Cuba libre": {
+                "Price": 650
+            },
+            "Habana special": {
+                "Price": 600
+            },
+            "Habana london": {
+                "Price": 800
+            },
+            "Ron collins": {
+                "Price": 600
+            },
+            "Canchanchara": {
+                "Price": 600
+            },
+            "Gin tonic": {
+                "Price": 800
+            },
+            "Caipiroska absolut": {
+                "Price": 850
+            },
+            "Carpiblue": {
+                "Price": 1200
+            },
+            "Negroni": {
+                "Price": 800 
+            },
+            "Pinha colada": {
+                "Price": 650
+            },
+            "Caipirissima": {
+                "Price": 600
+            },
+            "Caipirinha": {
+                "Price": 600 
+            },
+            "Caipirinha Cachaca": {
+                "Price": 600
+            },
+            "Caipiroska": {
+                "Price": 600 
+            },
+            "Cubanito": {
+                "Price": 800
+            },
+            "Michelada": {
+                "Price": 800
+            },
+            "Michelada kermato": {
+                "Price": 850
+            },
+            "chelada": {
+                "Price": 750
+            },
+            "Bloody mary": {
+                "Price": 800
+            },
+            "Margarita": {
+                "Price": 700
+            },
+            "Sangria": {
+                "Price": 700
+            },
+            "Martini": {
+                "Price": 750
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pasta alfredo"],
+            "Drink": ["Pinha colada","Cuba libre"]
+        },
+        "least_sold": {
+            "Dish": ["Pulpo"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "Name": "La ruta de Hemingway",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2300"
+        ],
+        "Tuesday": [
+            "1200-2300"
+        ],
+        "Wednesday": [
+            "1200-2300"
+        ],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Calle Real entre Victoria y Marcos, Cojimar",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la casa": {
+                "Price": 500
+            },
+            "Ceviche de pescado": {
+                "Price": 1300
+            },
+            "Tostones rellenos": {
+                "Price": 1150
+            },
+            "Eperlan de pescado": {
+                "Price": 1300
+            },
+            "Garbanzos fritos": {
+                "Price": 1350
+            },
+            "Ensalada fria": {
+                "Price": 1050
+            },
+            "Brusquetas": {
+                "Price": 450
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 2000
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo a la campesina": {
+                    "Price": 2400
+                },
+                "Masas de cerdo a la campesina": {
+                    "Price": 3200
+                }
+            },
+            "Chicken": {
+                "Pincho Pio": {
+                    "Price": 2500
+                }
+            },
+            "Beef": {
+                "Fricase de costilla": {
+                    "Price": 3650
+                },
+                "Fajas Ibericas": {
+                    "Price": 4250
+                }
+            },
+            "Sea": {
+                "Rueda de pescado": {
+                    "Price": 2700
+                },
+                "Pescado entero": {
+                    "Price": 3100
+                },
+                "Pulpo a las brasas": {
+                    "Price": 3500
+                },
+                "Camaron a la mantequilla": {
+                    "Price": 2900
+                },
+                "Langosta al carbon": {
+                    "Price": 3600
+                }
+            },
+            "Other": {
+                "Chilindron de cordero": {
+                    "Price": 3450
+                },
+                "El Balsero": {
+                    "Price": 3100
+                },
+                "Tambor cubano": {
+                    "Price": 3100
+                }
+            }
+        },
+        "Extras": {
+            "Viandas fritas": {
+                "Price": 300
+            },
+            "Vianda con mojo": {
+                "Price": 300
+            },
+            "Ensalada estacion": {
+                "Price": 400
+            },
+            "Arroz blanco": {
+                "Price": 300
+            },
+            "Arroz moro": {
+                "Price": 400
+            }
+        },
+        "Desserts": {
+            "Postre del dia": {
+                "Price": 750
+            }
+        },
+        "Beverages": {
+            "Jugo en lata": {
+                "Price": 300
+            },
+            "Jugo de fruta": {
+                "Price": 300
+            },
+            "Batido de fruta": {
+                "Price": 420
+            },
+            "Limonada frappe": {
+                "Price": 450
+            },
+            "Limonada frescura": {
+                "Price": 480
+            },
+            "Malta": {
+                "Price": 360
+            },
+            "Malteada": {
+                "Price": 500
+            },
+            "Refresco importado": {
+                "Price": 300
+            },
+            "Agua natural": {
+                "Price": 250
+            },
+            "Agua tonica": {
+                "Price": 700
+            },
+            "Energizante": {
+                "Price": 300
+            },
+            "Kermato": {
+                "Price": 500
+            },
+            "Cerveza nacional": {
+                "Price": 300
+            },
+            "Cerveza en lata importada": {
+                "Price": 250
+            },
+            "Cerveza Presidente": {
+                "Price": 300
+            },
+            "Cerveza Heineken": {
+                "Price": 400
+            },
+            "Cerveza Corona": {
+                "Price": 450
+            },
+            "Copa de vino": {
+                "Price": 650
+            },
+            "Botella de vino": {
+                "Price": 3000
+            },
+            "Todos los cocteles": {
+                "Price": 450
+            },
+            "Sangria": {
+                "Price": 800
+            },
+            "Pinha colada": {
+                "Price": 700
+            },
+            "Gin Tonic": {
+                "Price": 800
+            },
+            "Ron Barcelo Dorado": {
+                "Price": 400
+            },
+            "Brandy": {
+                "Price": 600
+            },
+            "Ginebra Tanqueray": {
+                "Price": 600
+            },
+            "Conac": {
+                "Price": 1000
+            },
+            "Habana Club 7 anos": {
+                "Price": 600
+            },
+            "Habana Club 3 anos": {
+                "Price": 300
+            },
+            "Habana Club Pacto Navio": {
+                "Price": 1200
+            },
+            "Habana Club Reserva": {
+                "Price": 350
+            },
+            "Habana Club Especial": {
+                "Price": 300
+            },
+            "Habana Club Seleccion del Maestro": {
+                "Price": 1300
+            },
+            "Jagermeifter": {
+                "Price": 700
+            },
+            "Legendario": {
+                "Price": 250
+            },
+            "Ron 15 anos": {
+                "Price": 1100
+            },
+            "Whiskey Pasportt": {
+                "Price": 400
+            },
+            "W. Black Label": {
+                "Price": 1000
+            },
+            "W. Double Black Label": {
+                "Price": 1800
+            },
+            "W. 15 anos": {
+                "Price": 1900
+            },
+            "W. Red Label": {
+                "Price": 800
+            },
+            "W. VAT 69": {
+                "Price": 350
+            },
+            "W. Black and White": {
+                "Price": 500
+            },
+            "Bucana": {
+                "Price": 1650
+            },
+            "Tequila Olmeca": {
+                "Price": 800
+            },
+            "Ginebra": {
+                "Price": 600
+            },
+            "Cafe Expresso": {
+                "Price": 250
+            },
+            "Cafe americano": {
+                "Price": 250
+            },
+            "Cafe chocolate": {
+                "Price": 300
+            },
+            "Cafe cortado": {
+                "Price": 300
+            },
+            "Cafe bombon": {
+                "Price": 370
+            },
+            "Cafe con leche": {
+                "Price": 450
+            },
+            "Capuchino": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

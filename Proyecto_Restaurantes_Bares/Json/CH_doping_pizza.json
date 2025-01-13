@@ -1,0 +1,193 @@
+{
+    "Name": "Doping pizza",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada fria natural": {
+                "Price": 500
+            },
+            "Ensalada fria de jamon": {
+                "Price": 600
+            },
+            "Ensalada fria de atun": {
+                "Price": 700
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti napoles": {
+                    "Price": 900
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1000
+                },
+                "Pizza de jamon": {
+                    "Price": 1100
+                },
+                "Pizza hawaiana": {
+                    "Price": 1300
+                },
+                "Pizza de atun": {
+                    "Price": 1300
+                },
+                "Pizza de chorizo": {
+                    "Price": 1400
+                },
+                "Pizza de bacon": {
+                    "Price": 1400
+                },
+                "Pizza doping extreme": {
+                    "Price": 1500
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Lasanha": {
+                    "Price": 1300
+                }
+            }
+        },
+        "Extras": {
+            "Queso": {
+                "Price": 450
+            },
+            "Jamon": {
+                "Price": 350
+            },
+            "Chorizo": {
+                "Price": 350
+            },
+            "Atun": {
+                "Price": 400
+            },
+            "Cebolla": {
+                "Price": 200
+            },
+            "Pimiento": {
+                "Price": 200
+            },
+            "Aceituna": {
+                "Price": 300
+            },
+            "Bacon": {
+                "Price": 400
+            }
+        },
+        "Desserts": {
+            "Paletica de helado clasica": {
+                "Price": 150
+            }
+        },
+        "Beverages": {
+            "Agua": {
+                "Price": 150
+            },
+            "Refresco": {
+                "Price": 250
+            },
+            "Malta": {
+                "Price": 300
+            },
+            "Malteada": {
+                "Price": 650
+            },
+            "Jugos": {
+                "Price": 300
+            },
+            "Cerveza": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

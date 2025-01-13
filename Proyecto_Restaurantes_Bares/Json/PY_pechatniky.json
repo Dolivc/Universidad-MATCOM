@@ -1,0 +1,234 @@
+{
+    "Name": "Pechatniky",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "0-2400"
+        ],
+        "Tuesday": [
+            "0-2400"
+        ],
+        "Wednesday": [
+            "0-2400"
+        ],
+        "Thursday": [
+            "0-2400"
+        ],
+        "Friday": [
+            "0-2400"
+        ],
+        "Saturday": [
+            "0-2400"
+        ],
+        "Sunday": [
+            "0-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno pechatniky": {
+                    "Price": 900
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la casa": {
+                "Price": 950
+            },
+            "Frituras de malanga": {
+                "Price": 820
+            },
+            "Fajitas de pollo": {
+                "Price": 950
+            },
+            "Tostones rellenos": {
+                "Price": 700
+            },
+            "Garbanzo": {
+                "Price": 1000
+            },
+            "Papas fritas": {
+                "Price": 800
+            },
+            "Picadera pechatniky": {
+                "Price": 2900
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pastas": {
+                    "Price": 1300
+                }
+            },
+            "Pizza": {
+                "Pizza": {
+                    "Price": 1050
+                }
+            },
+            "Pork": {
+                "Cerdo": {
+                    "Price": 1800
+                }
+            },
+            "Chicken": {
+                "Pollo": {
+                    "Price": 1050
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Mariscos": {
+                    "Price": 3000
+                }
+            },
+            "Other": {
+                "Vegetales sarteados al carbon": {
+                    "Price": 900
+                },
+                "Ensalada vegetales": {
+                    "Price": 700
+                },
+                "Arroz frito": {
+                    "Price": 1500
+                },
+                "Pelmeni": {
+                    "Price": 1100
+                },
+                "Shawarma": {
+                    "Price": 1000
+                }
+            }
+        },
+        "Extras": {
+            "Jamon": {
+                "Price": 250
+            },
+            "Queso": {
+                "Price": 300
+            },
+            "Pollo": {
+                "Price": 350
+            },
+            "Huevo": {
+                "Price": 300
+            },
+            "Atun": {
+                "Price": 500
+            }
+        },
+        "Desserts": {
+            "Copa 2 bolas": {
+                "Price": 320
+            },
+            "Copa 3 bolas": {
+                "Price": 380
+            },
+            "Tarta pechatniky": {
+                "Price": 590
+            }
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 170
+            },
+            "Refresco importando": {
+                "Price": 350
+            },
+            "Refresco nacional": {
+                "Price": 250
+            },
+            "Malta": {
+                "Price": 330
+            },
+            "Malteda": {
+                "Price": 420
+            },
+            "Energizantes": {
+                "Price": 350
+            },
+            "Jugo natural": {
+                "Price": 280
+            },
+            "Jugo de lata": {
+                "Price": 350
+            },
+            "Cerveza nacional": {
+                "Price": 350
+            },
+            "Cerveza importada": {
+                "Price": 290
+            },
+            "Expreso": {
+                "Price": 200
+            },
+            "Cortado": {
+                "Price": 280
+            },
+            "Capuchino": {
+                "Price": 350
+            },
+            "Americano": {
+                "Price": 200
+            },
+            "Pechatniky": {
+                "Price": 680
+            },
+            "Te o infusion": {
+                "Price": 180
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

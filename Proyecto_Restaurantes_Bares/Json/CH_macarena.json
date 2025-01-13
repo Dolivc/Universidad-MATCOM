@@ -1,0 +1,399 @@
+{
+    "Name": "Macarena",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "1600-300"
+        ],
+        "Wednesday": [
+            "1600-300"
+        ],
+        "Thursday": [
+            "1600-300"
+        ],
+        "Friday": [
+            "1600-300"
+        ],
+        "Saturday": [
+            "1600-300"
+        ],
+        "Sunday": [
+            "1600-300"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la casa": {
+                "Price": 550
+            },
+            "Jamon y queso": {
+                "Price": 650
+            },
+            "Rollitos a la macarena": {
+                "Price": 700
+            },
+            "Tostones rellenos": {
+                "Price": 750
+            },
+            "Surtida queso y embutido": {
+                "Price": 1200
+            },
+            "Mixta la macarena": {
+                "Price": 2200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua 500 ml": {
+                "Price": 200
+            },
+            "Agua tonica 330 ml": {
+                "Price": 220
+            },
+            "Energizante": {
+                "Price": 350
+            },
+            "Refresco limon": {
+                "Price": 300
+            },
+            "Refresco cola": {
+                "Price": 200
+            },
+            "Limonada frappe": {
+                "Price": 600
+            },
+            "Limonada blue": {
+                "Price": 600
+            },
+            "Limonada roja": {
+                "Price": 600
+            },
+            "Limonada natural": {
+                "Price": 600
+            },
+            "Limonada frescura": {
+                "Price": 700
+            },
+            "Cerveza cristal de botella": {
+                "Price": 420
+            },
+            "Cerveza bucanero de botella": {
+                "Price": 400
+            },
+            "Cerveza importada": {
+                "Price": 300
+            },
+            "Mojitos": {
+                "Price": 650
+            },
+            "Cuba libre": {
+                "Price": 550
+            },
+            "Bello monte": {
+                "Price": 550
+            },
+            "Cuba bella": {
+                "Price": 750
+            },
+            "Mary pickford": {
+                "Price": 550
+            },
+            "Havana especial": {
+                "Price": 500
+            },
+            "Presidente": {
+                "Price": 500
+            },
+            "Pinha colada": {
+                "Price": 900
+            },
+            "Daikiri": {
+                "Price": 750
+            },
+            "Caipirissima": {
+                "Price": 750
+            },
+            "Cubanito": {
+                "Price": 400
+            },
+            "Caipiroska": {
+                "Price": 750
+            },
+            "Sex on the beach": {
+                "Price": 550
+            },
+            "Screw driver": {
+                "Price": 550
+            },
+            "Kamikase": {
+                "Price": 650
+            },
+            "Black russian": {
+                "Price": 550
+            },
+            "Cosmopolitan": {
+                "Price": 600
+            },
+            "Camino al cielo": {
+                "Price": 550
+            },
+            "Blue hawaii": {
+                "Price": 550
+            },
+            "Vodka tonic": {
+                "Price": 750
+            },
+            "Bloody mary": {
+                "Price": 550
+            },
+            "Moscu mule": {
+                "Price": 500
+            },
+            "Long islad": {
+                "Price": 800
+            },
+            "Vodka martini": {
+                "Price": 700
+            },
+            "Charro negro": {
+                "Price": 550
+            },
+            "Margarita": {
+                "Price": 750
+            },
+            "Acapulco de noche": {
+                "Price": 600
+            },
+            "Bloody mariachi": {
+                "Price": 600
+            },
+            "Nieblas del caribe": {
+                "Price": 650
+            },
+            "Submarino": {
+                "Price": 700
+            },
+            "Long island ice tea": {
+                "Price": 800
+            },
+            "Tom collins": {
+                "Price": 600
+            },
+            "Caruso": {
+                "Price": 600
+            },
+            "Gin and sin": {
+                "Price": 600
+            },
+            "Gin tonic": {
+                "Price": 750
+            },
+            "Martini": {
+                "Price": 800
+            },
+            "Santiago 8": {
+                "Price": 600
+            },
+            "Hc pacto de navio": {
+                "Price": 1000
+            },
+            "Santiago 11": {
+                "Price": 1000
+            },
+            "Santiago 12": {
+                "Price": 1200
+            },
+            "Monte de la rosa": {
+                "Price": 400
+            },
+            "Olmeca blanco": {
+                "Price": 550
+            },
+            "Olmeca reposado": {
+                "Price": 600
+            },
+            "Don ramon": {
+                "Price": 800
+            },
+            "Gin beefeater": {
+                "Price": 500
+            },
+            "Gin q spades": {
+                "Price": 600
+            },
+            "Gin q rosse": {
+                "Price": 600
+            },
+            "Gin master": {
+                "Price": 650
+            },
+            "Old fashion": {
+                "Price": 700
+            },
+            "Mini julep": {
+                "Price": 800
+            },
+            "Jhon collins": {
+                "Price": 800
+            },
+            "Sangria": {
+                "Price": 750
+            },
+            "Calimocho": {
+                "Price": 600
+            },
+            "Tinto verano": {
+                "Price": 600
+            },
+            "Medusa": {
+                "Price": 450
+            },
+            "Derrame cerebral": {
+                "Price": 450
+            },
+            "B52": {
+                "Price": 600
+            },
+            "Orgasmo": {
+                "Price": 600
+            },
+            "Orgasmos multiples": {
+                "Price": 900
+            },
+            "Chelada": {
+                "Price": 620
+            },
+            "Michelada": {
+                "Price": 750
+            },
+            "Clan campbell": {
+                "Price": 550
+            },
+            "Jameson": {
+                "Price": 550
+            },
+            "Jw red label": {
+                "Price": 650
+            },
+            "Ballantines": {
+                "Price": 650
+            },
+            "Chiva 12": {
+                "Price": 800
+            },
+            "Jack daniel": {
+                "Price": 1000
+            },
+            "Jw black lavel": {
+                "Price": 1100
+            },
+            "Hc anhejo blanco": {
+                "Price": 250
+            },
+            "Hc anhejo 3 anhos": {
+                "Price": 300
+            },
+            "Hc anhejo 7 anhos": {
+                "Price": 500
+            },
+            "Hc ritual": {
+                "Price": 400
+            },
+            "Expreso": {
+                "Price": 150
+            },
+            "Cortado": {
+                "Price": 250
+            },
+            "Carajillo": {
+                "Price": 450
+            },
+            "Frappuccino": {
+                "Price": 750
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

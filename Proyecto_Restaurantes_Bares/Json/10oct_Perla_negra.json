@@ -1,0 +1,489 @@
+{
+    "Name": "Perla Negra",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-0"
+        ],
+        "Tuesday": [
+            "1200-0"
+        ],
+        "Wednesday": [
+            "1200-0"
+        ],
+        "Thursday": [
+            "1200-0"
+        ],
+        "Friday": [
+            "1200-0"
+        ],
+        "Saturday": [
+            "1200-200"
+        ],
+        "Sunday": [
+            "1200-200"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#114, Calle Milagros entre Heredia y Felipe Poey, Santos Suarez",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Maripositas chinas": {
+                "Price": 550.0
+            },
+            "Frituras de malanga": {
+                "Price": 650.0
+            },
+            "Toston Salazar": {
+                "Price": 750.0
+            },
+            "Croquetas de la casa": {
+                "Price": 800.0
+            },
+            "Coctel de langosta": {
+                "Price": 1850.0
+            },
+            "Coctel de camaron": {
+                "Price": 1950.0
+            },
+            "Eperlan": {
+                "Price": 1950.0
+            },
+            "Picadera Perla Negra": {
+                "Price": 2950.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaghettis napolitanos": {
+                    "Price": 1100.0
+                },
+                "Lasagna Bolognesa": {
+                    "Price": 2250.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1550.0
+                },
+                "Pizza Kraken": {
+                    "Price": 2550.0
+                }
+            },
+            "Pork": {
+                "Bistec decerdo grille": {
+                    "Price": 2350.0
+                },
+                "Uruguayo de cerdo": {
+                    "Price": 2975.0
+                },
+                "Chuletazo": {
+                    "Price": 3150.0
+                }
+            },
+            "Chicken": {
+                "Pechuga Isla Tortuga": {
+                    "Price": 2750.0
+                }
+            },
+            "Beef": {
+                "Vaca frita": {
+                    "Price": 2100.0
+                },
+                "Ropa vieja": {
+                    "Price": 2350.0
+                },
+                "Filete de res": {
+                    "Price": 5300.0
+                },
+                "Punta de filete de res": {
+                    "Price": 5300.0
+                },
+                "Filete Mignon": {
+                    "Price": 5850.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2550.0
+                },
+                "Kalipsus": {
+                    "Price": 3100.0
+                },
+                "Filete Canciller": {
+                    "Price": 2750.0
+                },
+                "Pescado Elizabeth": {
+                    "Price": 2800.0
+                },
+                "Camaron al gusto": {
+                    "Price": 2900.0
+                },
+                "Langosta al gusto": {
+                    "Price": 3100.0
+                }
+            },
+            "Other": {
+                "Arroz frito": {
+                    "Price": 2400.0
+                },
+                "Arroz frito especial": {
+                    "Price": 3250.0
+                },
+                "Taco de ropa vieja": {
+                    "Price": 1650.0
+                },
+                "Tesoro Pirata": {
+                    "Price": 4850.0
+                },
+                "Jack Sparrow": {
+                    "Price": 5950.0
+                },
+                "Venganza de la Reina": {
+                    "Price": 7150.0
+                },
+                "Paella Ana Maria": {
+                    "Price": 4150.0
+                },
+                "Grillada Perla Negra": {
+                    "Price": 5575.0
+                },
+                "Taco Pastor": {
+                    "Price": 1850.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 200.0
+            },
+            "Arroz moro": {
+                "Price": 250.0
+            },
+            "Frijol negro": {
+                "Price": 500.0
+            },
+            "Ensalada de vegetales del dia": {
+                "Price": 575.0
+            },
+            "Vianda frita": {
+                "Price": 500.0
+            },
+            "Papas fritas": {
+                "Price": 650.0
+            },
+            "Pure de malanga con tropezones de bacon": {
+                "Price": 675.0
+            }
+        },
+        "Desserts": {
+            "Flan de la casa": {
+                "Price": 450.0
+            },
+            "Tres Gracias": {
+                "Price": 950.0
+            },
+            "Copa Lolita": {
+                "Price": 1050.0
+            },
+            "Crepes Tortuga": {
+                "Price": 700.0
+            },
+            "Waffles Eroticos": {
+                "Price": 750.0
+            }
+        },
+        "Beverages": {
+            "Refresco": {
+                "Price": 350.0
+            },
+            "Malta importada": {
+                "Price": 375.0
+            },
+            "Malta Perla Negra": {
+                "Price": 400.0
+            },
+            "Agua": {
+                "Price": 225.0
+            },
+            "Agua gaseada": {
+                "Price": 225.0
+            },
+            "Cerveza importada": {
+                "Price": 375.0
+            },
+            "Cerveza Cristal": {
+                "Price": 500.0
+            },
+            "Agua tonica": {
+                "Price": 600.0
+            },
+            "Red Bull": {
+                "Price": 650.0
+            },
+            "Kermato": {
+                "Price": 650.0
+            },
+            "Limonada Frappe": {
+                "Price": 450.0
+            },
+            "Limonada Frescura": {
+                "Price": 600.0
+            },
+            "Jugo natural": {
+                "Price": 450.0
+            },
+            "Batido de frutas": {
+                "Price": 550.0
+            },
+            "Batido de helado": {
+                "Price": 850.0
+            },
+            "Chelada": {
+                "Price": 175.0
+            },
+            "Michelada": {
+                "Price": 275.0
+            },
+            "Label 5": {
+                "Price": 750.0
+            },
+            "J&B": {
+                "Price": 875.0
+            },
+            "Jameson": {
+                "Price": 875.0
+            },
+            "Chivas Regal 12 anos": {
+                "Price": 1100.0
+            },
+            "JW Red Label": {
+                "Price": 1100.0
+            },
+            "Jaggermeister": {
+                "Price": 750.0
+            },
+            "Vodka Absolut": {
+                "Price": 650.0
+            },
+            "Vino tinto": {
+                "Price": 500.0
+            },
+            "Vino blanco": {
+                "Price": 500.0
+            },
+            "Tequila Monte de la Rosa": {
+                "Price": 550.0
+            },
+            "Tequila Olmeca Reposado": {
+                "Price": 750.0
+            },
+            "Cremas de sabores": {
+                "Price": 350.0
+            },
+            "Patty'Os": {
+                "Price": 400.0
+            },
+            "Reytor (crema)": {
+                "Price": 500.0
+            },
+            "Ruavieja (crema)": {
+                "Price": 525.0
+            },
+            "Baileys (crema)": {
+                "Price": 750.0
+            },
+            "Havana Club Profundo": {
+                "Price": 350.0
+            },
+            "Havana Club 3 anos": {
+                "Price": 375.0
+            },
+            "Ron Ritual": {
+                "Price": 425.0
+            },
+            "Havana Club Spiced": {
+                "Price": 450.0
+            },
+            "Havana Club Smoky": {
+                "Price": 475.0
+            },
+            "Havana Club 7 anos": {
+                "Price": 550.0
+            },
+            "Santiago 11 anos": {
+                "Price": 650.0
+            },
+            "Santiago 12 anos": {
+                "Price": 750.0
+            },
+            "Pacto Navio": {
+                "Price": 700.0
+            },
+            "Seleccion de Maestro": {
+                "Price": 750.0
+            },
+            "Boltran Reserva": {
+                "Price": 700.0
+            },
+            "Appleton State": {
+                "Price": 800.0
+            },
+            "Coctel Perla Negra": {
+                "Price": 1550.0
+            },
+            "Coctel Perla Rosa": {
+                "Price": 650.0
+            },
+            "Coctel Perla Blue": {
+                "Price": 650.0
+            },
+            "Mojito Perla": {
+                "Price": 850.0
+            },
+            "Pina Colada": {
+                "Price": 950.0
+            },
+            "Margarita Pirata": {
+                "Price": 800.0
+            },
+            "Margarita Reposado": {
+                "Price": 950.0
+            },
+            "Gin tonic": {
+                "Price": 1275.0
+            },
+            "Gin Collins": {
+                "Price": 700.0
+            },
+            "Ron Collins": {
+                "Price": 490.0
+            },
+            "Vodka Tonic": {
+                "Price": 750.0
+            },
+            "Daiquiri": {
+                "Price": 575.0
+            },
+            "Caipirinha": {
+                "Price": 675.0
+            },
+            "Caipiroska Absolut": {
+                "Price": 900.0
+            },
+            "Canchanchara": {
+                "Price": 950.0
+            },
+            "Sangria": {
+                "Price": 950.0
+            },
+            "Sangria Asturiana": {
+                "Price": 900.0
+            },
+            "Cafe Expresso": {
+                "Price": 150.0
+            },
+            "Cafe Cortado": {
+                "Price": 180.0
+            },
+            "Cappuccino": {
+                "Price": 250.0
+            },
+            "Cafe Bombon": {
+                "Price": 450.0
+            },
+            "Frappuccino": {
+                "Price": 550.0
+            },
+            "Botella de Havana Club 7 anos": {
+                "Price": 5500.0
+            },
+            "Botella Ritual": {
+                "Price": 6000.0
+            },
+            "Botella de Seleccion de Maestro": {
+                "Price": 11000.0
+            },
+            "Botella Ron Santiago 11 anos": {
+                "Price": 11500.0
+            },
+            "Botella de Monte de la Rosa": {
+                "Price": 5500.0
+            },
+            "Botella de vodka Absolut": {
+                "Price": 7800.0
+            },
+            "Botella de Jaggermeister": {
+                "Price": 8500.0
+            },
+            "Botella de Label 5": {
+                "Price": 9500.0
+            },
+            "Botella de Jameson": {
+                "Price": 9800.0
+            },
+            "Botella de Ballantine's": {
+                "Price": 10500.0
+            },
+            "Botella de Chivas Regal 12 anos": {
+                "Price": 12500.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Smokers_Area",
+            "Parking",
+            "Wifi"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

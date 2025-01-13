@@ -1,0 +1,397 @@
+{
+    "Name": "Esquina D Fraile",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "52932497",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00-00:00"],
+        "Tuesday":  ["12:00-00:00"],
+        "Wednesday": ["12:00-00:00"],
+        "Thursday": ["12:00-00:00"],
+        "Friday":   ["12:00-00:00"],
+        "Saturday": ["12:00-00:00"],
+        "Sunday":   ["12:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle D entre 1era y 3era",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de pescado": {
+                "Price": 950
+            },
+            "Empanadas de la casa": {
+                "Price": 950
+            },
+            "Frituritas de malanga": {
+                "Price": 850
+            },
+            "Pulpo encebollado al pimenton": {
+                "Price": 3000
+            },
+            "Calamar a la romana": {
+                "Price": 3000
+            },
+            "Ceviche": {
+                "Price": 2100
+            },
+            "Ensalada de langosta": {
+                "Price": 2800
+            },
+            "Coctel tropical de camaron": {
+                "Price": 1800
+            },
+            "Tataki fraile": {
+                "Price": 2100
+            },
+            "Tartar de la pesca del dia": {
+                "Price": 2100
+            },
+            "Ensalada Cesar de pollo": {
+                "Price": 1800
+            },
+            "Jamon serrano y productos ibericos": {
+                "Price": 3500
+            },
+            "Fritos del mar": {
+                "Price": 3000
+            },
+            "Sopa del pescador": {
+                "Price": 850
+            },
+            "Garbanzo frito al estilo cubano": {
+                "Price": 1900
+            },
+            "Manito de cerdo guisada": {
+                "Price": 1800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Tomate y parmesano": {
+                    "Price": 2000
+                },
+                "Frutos del mar": {
+                    "Price": 3000
+                },
+                "Ajo, camaron y Parmesano": {
+                    "Price": 2700
+                },
+                "Amatriciana": {
+                    "Price": 3000
+                },
+                "Bolonesa": {
+                    "Price": 2000
+                },
+                "Carbonara": {
+                    "Price": 2300
+                },
+                "Nero de seppia": {
+                    "Price": 3000
+                }
+            },
+            "Pizza": {
+                "Queso fresco y tomate": {
+                    "Price": 1500
+                },
+                "Jamon": {
+                    "Price": 2100
+                },
+                "Bacon": {
+                    "Price": 2400
+                },
+                "Chorizo": {
+                    "Price": 2400
+                },
+                "Vegetales": {
+                    "Price": 2000
+                },
+                "Cuatro Estaciones": {
+                    "Price": 2800
+                },
+                "Hawaiana": {
+                    "Price": 2400
+                },
+                "Marinera": {
+                    "Price": 3200
+                },
+                "Jamon Serrano": {
+                    "Price": 3000
+                },
+                "Focaccia de jamon serrano y aceitunas": {
+                    "Price": 2500
+                },
+                "Calzone habanero": {
+                    "Price": 3000
+                }
+            },
+            "Pork": {
+                "Solomillo de cerdo con salsa de hongos y frutos seco": {
+                    "Price": 3300
+                }
+            },
+            "Chicken": {
+                "Pollo al curry o teriyaki": {
+                    "Price": 2000
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2100
+                },
+                "Solomillo de res con salsa de 5 pimientos/champinones/queso azul": {
+                    "Price": 6000
+                }
+            },
+            "Sea": {
+                "Pescado al tomate y olivo": {
+                    "Price": 2900
+                },
+                "Pescado con salsa de mostaza a las finas hierba": {
+                    "Price": 2900
+                },
+                "Pescado con alcaparra y cebolla": {
+                    "Price": 3000
+                },
+                "Pescado en refrito de ajo": {
+                    "Price": 2800
+                },
+                "Pescado con mojo iberico": {
+                    "Price": 3200
+                },
+                "Camarones al gusto": {
+                    "Price": 2600
+                },
+                "Langosta al gusto": {
+                    "Price": 3200
+                },
+                "Paella Marinera": {
+                    "Price": 6000
+                }
+            },
+            "Other":{
+                "Arroz negro":{
+                    "Price": 3000
+                },
+                "Arroz meloso con langosta y camaron":{
+                    "Price": 3000
+                },
+                "Arroz con pollo a la chorrera":{
+                    "Price": 2200
+                },
+                "Cordero a la cazuela": {
+                    "Price": 3000
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada de vegetales": {
+                "Price": 600
+            },
+            "Vegetal salteado": {
+                "Price": 700
+            },
+            "Vegetales a la brasa": {
+                "Price": 600
+            },
+            "Pure de viandas": {
+                "Price": 700
+            },
+            "Vianda frita": {
+                "Price": 450
+            },
+            "Arroz blanco": {
+                "Price": 300
+            },
+            "Arroz pilaf": {
+                "Price": 500
+            },
+            "Arroz moro": {
+                "Price": 350
+            }
+        },
+        "Desserts": {
+            "Helado": {
+                "Price": 750
+            },
+            "Flan": {
+                "Price": 800
+            },
+            "Copa lolita": {
+                "Price": 1000
+            },
+            "Brownie con helado": {
+                "Price": 1000
+            },
+            "Tarta tres leches": {
+                "Price": 800
+            },
+            "Cheesecake": {
+                "Price": 1200
+            }
+        },
+        "Beverages": {
+            "Daiquiri": {
+                "Price": 1000
+            },
+            "Daiquiri de frutas": {
+                "Price": 1200
+            },
+            "Cuba libre": {
+                "Price": 1000
+            },
+            "Havana Especial": {
+                "Price": 1000
+            },
+            "Mojito": {
+                "Price": 1000
+            },
+            "Mojito de frutas": {
+                "Price": 1200
+            },
+            "Caipirisima": {
+                "Price": 1000
+            },
+            "Caipiroska": {
+                "Price": 1000
+            },
+            "Pinha colada": {
+                "Price": 1600
+            },
+            "Pinha colada sin alcohol": {
+                "Price": 1400
+            },
+            "Cubata": {
+                "Price": 1000
+            },
+            "Margarita": {
+                "Price": 1500
+            },
+            "Tequilla sunrise": {
+                "Price": 1800
+            },
+            "Screwdriver": {
+                "Price": 1600
+            },
+            "Expresso Martini": {
+                "Price": 2000
+            },
+            "Negroni": {
+                "Price": 2000
+            },
+            "Martini": {
+                "Price": 2000
+            },
+            "Manhattan": {
+                "Price": 2000
+            },
+            "Whisky Sour": {
+                "Price": 1800
+            },
+            "Sangria": {
+                "Price": 1500
+            },
+            "Orgasmo": {
+                "Price": 2000
+            },
+            "Agua gaseada importada": {
+                "Price": 800
+            },
+            "Agua importada": {
+                "Price": 400
+            },
+            "Agua tonica nacional": {
+                "Price": 500
+            },
+            "Agua tonica importada": {
+                "Price": 1200
+            },
+            "Refrescos importados": {
+                "Price": 500
+            },
+            "Limonada": {
+                "Price": 600
+            },
+            "Limonada con hierba buena": {
+                "Price": 700
+            },
+            "Cerveza de tonel 480ml": {
+                "Price": 450
+            },
+            "Cerveza de tonel 250l": {
+                "Price": 250
+            },
+            "Servicio de chelada": {
+                "Price": 250
+            },
+            "Servicio de michelada": {
+                "Price": 350
+            },
+            "Energizantes": {
+                "Price": 1000
+            },
+            "Maltas": {
+                "Price": 500
+            },
+            "Jugos naturales": {
+                "Price": 400
+            },
+            "Cerveza Heineken": {
+                "Price": 800
+            },
+            "Copa de vino tinto": {
+                "Price": 1200
+            },
+            "Copa de vino blanco": {
+                "Price": 1200
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "False",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "False",
+            "Euros": "False",
+            "Others": "False"
+        }
+    }
+}

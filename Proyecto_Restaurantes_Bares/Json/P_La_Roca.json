@@ -1,0 +1,270 @@
+{
+    "Name": "La Roca",
+    "Type": "Restaurante",
+    "Phone_Number": 7334501,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 21 entre M y L",
+        "Coordinates": "4JR8+GGR"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Panes de la casa": {
+                "Price": 250
+            },
+            "Entremes de jamon serrano": {
+                "Price": 1000
+            },
+            "Entremes de jamon y queso": {
+                "Price": 450
+            },
+            "Ensalada de atun": {
+                "Price": 350
+            },
+            "Ensalada fria de pollo": {
+                "Price": 350
+            },
+            "Croquetas del dia": {
+                "Price": 430
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti napolitano": {
+                    "Price": 400
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 500
+                },
+                "Masas de cerdo marinada": {
+                    "Price": 1200
+                },
+                "Bistec de cerdo grille": {
+                    "Price": 600
+                },
+                "Solomillo de cerdo": {
+                    "Price": 1200
+                },
+                "Lonjas de cerdo": {
+                    "Price": 1200
+                }
+            },
+            "Chicken": {
+                "Fuente de pollo": {
+                    "Price": 950
+                },
+                "1/4 de pollo": {
+                    "Price": 600
+                }
+            },
+            "Beef": {
+                "Entrecot de res": {
+                    "Price": 1500
+                }
+            },
+            "Sea": {
+                "Langosta enchilada con vegetales": {
+                    "Price": 2000
+                },
+                "Langosta mariposa": {
+                    "Price": 1800
+                },
+                "Pescado": {
+                    "Price": 1500
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 200
+            },
+            "Arroz moro": {
+                "Price": 250
+            }
+        },
+        "Desserts": {
+            "Helado solitario": {
+                "Price": 90
+            },
+            "Helado jimagua": {
+                "Price": 150
+            },
+            "Copa de helado": {
+                "Price": 250
+            }
+        },
+        "Beverages": {
+            "Refresco nacional": {
+                "Price": 80
+            },
+            "Refresco importado": {
+                "Price": 90
+            },
+            "Malta importada": {
+                "Price": 90
+            },
+            "Cerveza nacional": {
+                "Price": 160
+            },
+            "Cerveza importada": {
+                "Price": 175
+            },
+            "Limonada frappe": {
+                "Price": 150
+            },
+            "Jugo de frutas naturales": {
+                "Price": 150
+            },
+            "Jugo de frutas importada": {
+                "Price": 90
+            },
+            "Agua natural": {
+                "Price": 100
+            },
+            "Agua carboonatada": {
+                "Price": 100
+            },
+            "Bebida energizante": {
+                "Price": 200
+            },
+            "Cafe espresso": {
+                "Price": 80
+            },
+            "Cafe americano": {
+                "Price": 80
+            },
+            "Cafe cortado": {
+                "Price": 90
+            },
+            "Cafe capuccino": {
+                "Price": 130
+            },
+            "Cafe bombon": {
+                "Price": 110
+            },
+            "Cafe mulato": {
+                "Price": 90
+            },
+            "Cafe irlandes": {
+                "Price": 170
+            },
+            "Cafe mama ines": {
+                "Price": 140
+            },
+            "Cafe al licor": {
+                "Price": 90
+            },
+            "Cafe con vodka": {
+                "Price": 200
+            },
+            "Te frio o caliente": {
+                "Price": 30
+            },
+            "White horse": {
+                "Price": 200
+            },
+            "Jhonny walker": {
+                "Price": 400
+            },
+            "Vat 69": {
+                "Price": 250
+            },
+            "Ballentine Finest": {
+                "Price": 250
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 230
+            },
+            "Royal whitehall de luxe": {
+                "Price": 300
+            },
+            "Clan cambell": {
+                "Price": 300
+            },
+            "Genlivet": {
+                "Price": 250
+            },
+            "Ballentine 12 anhos": {
+                "Price": 400
+            },
+            "Jaminson": {
+                "Price": 200
+            },
+            "Whisky the gionlivet 15 anhos": {
+                "Price": 400
+            },
+            "Whisky chivas regal 12 anhos": {
+                "Price": 450
+            },
+            "Jhonny walker black": {
+                "Price": 500
+            },
+            "Black & White": {
+                "Price": 200
+            }
+        },
+        "most_sold": {
+            "Dish": ["Bistec de cerdo"],
+            "Drink": ["Cerveza importada"]
+        },
+        "least_sold": {
+            "Dish": ["Pollo"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo"],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "True",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "True",
+            "Euros": "True",
+            "Others": "True"
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "Name": "ChaChaCha",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "078672450",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00-00:00"],
+        "Tuesday":  ["12:00-00:00"],
+        "Wednesday": ["12:00-00:00"],
+        "Thursday": ["12:00-00:00"],
+        "Friday":   ["12:00-00:00"],
+        "Saturday": ["12:00-00:00"],
+        "Sunday":   ["12:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Monserrate entre Tejadillo y Chacón",
+        "Coordinates": "4JRV+7C3"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Ceviche de la Casa": {
+                "Price": 3050
+            },
+            "Carpaccio de Pulpo con Vinagreta de Cítricos": {
+                "Price": 3850
+            },
+            "Tiradito de Pez con Chicharrita": {
+                "Price": 3050
+            },
+            "Carpaccio de Res con Rúcula y Aceite de Trufa": {
+                "Price": 4450
+            },
+            "Carpaccio de Atún Rojo": {
+                "Price": 4100
+            },
+            "Pan y Mantequilla": {
+                "Price": 1150
+            },
+            "Croquetas Braseadas de Pollo": {
+                "Price": 2250
+            },
+            "Crema de Calabaza, Betabel y Parmesano": {
+                "Price": 1800
+            },
+            "Tacos ChaChaChá": {
+                "Price": 2700
+            },
+            "Empanadillas de Carne BBQ": {
+                "Price": 2250
+            },
+            "Tabla de Jamón Serrano, Salami y Quesos": {
+                "Price": 5700
+            },
+            "Sashimi Ahumado": {
+                "Price": 4100
+            },
+            "Tartar de Res": {
+                "Price": 4450
+            },
+            "Tartar de Atún": {
+                "Price": 4100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Salsa Bolonhesa": {
+                    "Price": 3850
+                },
+                "Camarón, Curry y Pimienta Rosa": {
+                    "Price": 4100
+                },
+                "Salsa Alfredo": {
+                    "Price": 3850
+                },
+                "Salsa Funghi con Pollo y Trufa": {
+                    "Price": 4450
+                },
+                "Salsa Carbonara Trufada": {
+                    "Price": 4150
+                },
+                "Salsa Bisque al Fruti D'Mare": {
+                    "Price": 4900
+                },
+                "Nero di Sepia": {
+                    "Price": 4900
+                },
+                "Funghi - Porcini y Trufa": {
+                    "Price": 4560
+                },
+                "Del Mar": {
+                    "Price": 4560
+                },
+                "Carbonara Trufado": {
+                    "Price": 4180
+                },
+                "Sémola y Trufa": {
+                    "Price": 4180
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masas de Cerdo Confitadas": {
+                    "Price": 3800
+                },
+                "Lechón Cubano": {
+                    "Price": 4560
+                },
+                "Solomillo de Cerdo Espanhol": {
+                    "Price": 5320
+                },
+                "Puntas de Cerdo BBQ": {
+                    "Price": 5320
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Ropa Vieja de la Abuela": {
+                    "Price": 4180
+                },
+                "Picadillo a la Habanera": {
+                    "Price": 4180
+                },
+                "Puntas de Filete Estilo ChaChaChá": {
+                    "Price": 7600
+                }
+            },
+            "Sea": {
+                "Filete de Pescado al Horno con Finas Hierbas": {
+                    "Price": 4180
+                },
+                "Langosta Caribenha": {
+                    "Price": 6460
+                },
+                "Zarzuela de Mariscos": {
+                    "Price": 105000
+                },
+                "Camarones al Gusto": {
+                    "Price": 6460
+                },
+                "Pulpo Nórdico": {
+                    "Price": 9500
+                },
+                "Calamar Patagónico": {
+                    "Price": 6460
+                }
+            },
+            "Other":{
+                "Jorrin":{
+                    "Price": 3050
+                },
+                "César con Pollo y Bacon":{
+                    "Price": 3850
+                },
+                "ChaChaChá":{
+                    "Price": 3850
+                },
+                "Mixta de Salmón":{
+                    "Price": 3850
+                },
+                "Griega":{
+                    "Price": 3850
+                },
+                "Arroz Thai de Pollo, Curry de Coco y Pasas": {
+                    "Price": 4180
+                },
+                "Solomillo Argentino (280g)": {
+                    "Price": 11150
+                },
+                "Entrecote de Ternera (350g)": {
+                    "Price": 5320
+                },
+                "Cóctel de Langosta": {
+                    "Price": 2660
+                },
+                "Patacón ChaChaChá": {
+                    "Price": 2700
+                },
+                "Quesadilla Cuatro Quesos": {
+                    "Price": 3420
+                },
+                "Papa Rellena de Camarón y Queso": {
+                    "Price": 2700
+                },
+                "Frituritas de Malanga": {
+                    "Price": 2250
+                },
+                "Tamal en Cazuela": {
+                    "Price": 1900
+                }
+            }
+        },
+        "Extras": {
+            "Vianda Frita": {
+                "Price": 760
+            },
+            "Puré de Temporada": {
+                "Price": 1140
+            },
+            "Ensalada de Estación": {
+                "Price": 1520
+            },
+            "Arroz Blanco": {
+                "Price": 760
+            },
+            "Frijoles Negros": {
+                "Price": 1140
+            }
+        },
+        "Desserts": {
+            "Brownie": {
+                "Price": 3000
+            },
+            "Esfera de Frutas": {
+                "Price": 3000
+            },
+            "Bizcocho": {
+                "Price": 2900
+            },
+            "Arroz con Leche de la Abuel": {
+                "Price": 2500
+            },
+            "Flan Tía Lola": {
+                "Price": 2700
+            },
+            "Copa de Helado": {
+                "Price": 2200
+            },
+            "Carajillo": {
+                "Price": 1050
+            },
+            "Bombón": {
+                "Price": 1200
+            }
+        },
+        "Beverages": {
+            "Expresso": {
+                "Price": 520
+            },
+            "Nespresso": {
+                "Price": 960
+            },
+            "Cortado": {
+                "Price": 875
+            },
+            "Frappuccino": {
+                "Price": 2200
+            },
+            "Té / Infusiones": {
+                "Price": 620
+            },
+            "Mojito": {
+                "Price": 450
+            },
+            "Mojito de frutas": {
+                "Price": 500
+            },
+            "Daiquiri": {
+                "Price": 500
+            },
+            "Daiquiri de frutas": {
+                "Price": 550
+            },
+            "Cuba libre": {
+                "Price": 350
+            },
+            "Cubata": {
+                "Price": 480
+            },
+            "Cubanito": {
+                "Price": 450
+            },
+            "Michelada": {
+                "Price": 500
+            },
+            "Chelada": {
+                "Price": 450
+            },
+            "Canchanchara": {
+                "Price": 400
+            },
+            "Dry Martini": {
+                "Price": 450
+            },
+            "Negroni": {
+                "Price": 650
+            },
+            "Margarita": {
+                "Price": 450
+            },
+            "Caipirinha": {
+                "Price": 450
+            },
+            "Caipiroska": {
+                "Price": 500
+            },
+            "Pinha colada": {
+                "Price": 500
+            },
+            "Bloody Mary": {
+                "Price": 600
+            },
+            "Sangria": {
+                "Price": 495
+            },
+            "Manhattan": {
+                "Price": 600
+            },
+            "Vodka Tonic": {
+                "Price": 550
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones","Opciones vegetarianas"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

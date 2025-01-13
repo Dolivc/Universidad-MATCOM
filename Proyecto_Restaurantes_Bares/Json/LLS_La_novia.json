@@ -1,0 +1,262 @@
+{
+    "Name": "La Novia",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la Casa": {
+                "Price": 600
+            },
+            "Frituras de Malanga": {
+                "Price": 400
+            },
+            "Bolitas de yuca y queso": {
+                "Price": 350
+            },
+            "Fajitas de cerdo": {
+                "Price": 1000
+            },
+            "Fajitas de pollo": {
+                "Price": 1000
+            },
+            "Picadera Mixta": {
+                "Price": 2200
+            },
+            "Chips de Vianda": {
+                "Price": 200
+            },
+            "Milanesa de Pollo": {
+                "Price": 1200
+            },
+            "Sandwich de Jamon": {
+                "Price": 580
+            },
+            "Sandwich de Jamon y Queso": {
+                "Price": 730
+            },
+            "Sandwich Cubano con cerdo asado": {
+                "Price": 1300
+            },
+            "Ensaladita de aceitunas, queso y peperoni": {
+                "Price": 1100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Napolitanos": {
+                    "Price": 700
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 280
+                },
+                "Pizza de Peperoni": {
+                    "Price": 400
+                }
+            },
+            "Pork": {
+                "Cerdo asado": {
+                    "Price": 1500
+                },
+                "Bistec de Cerdo": {
+                    "Price": 1200
+                },
+                "Chuleta de Cerdo": {
+                    "Price": 1600
+                },
+                "Brochetas de Cerdo": {
+                    "Price": 1800
+                },
+                "Masas fritas de cerdo": {
+                    "Price": 1700
+                }
+            },
+            "Chicken": {
+                "Pollo frito": {
+                    "Price": 1300
+                },
+                "Pollo asado": {
+                    "Price": 1300
+                },
+                "Bistec de Pechuga": {
+                    "Price": 1600
+                }
+            },
+            "Beef": {
+                "Ropa Vieja": {
+                    "Price": 1900
+                }
+            },
+            "Sea": {
+                "Completa de enchilado de Cangrejo": {
+                    "Price": 1500
+                }
+            },
+            "Other": {
+                "Tacos de cerdo": {
+                    "Price": 1100
+                },
+                "Tacos de pollo": {
+                    "Price": 1100
+                },
+                "Tacos de jamon y queso": {
+                    "Price": 1100
+                },
+                "Tacos marineros": {
+                    "Price": 1100
+                },
+                "Tacos de ropa vieja": {
+                    "Price": 1300
+                }
+            }
+        },
+        "Extras": {
+            "Tostones criollos": {
+                "Price": 300
+            },
+            "Tostones Rellenos": {
+                "Price": 850
+            },
+            "Racion de Arroz Moro": {
+                "Price": 300
+            },
+            "Racion de Ensalada": {
+                "Price": 300
+            }
+        },
+        "Desserts": {
+            "Copa de Helado": {
+                "Price": 550
+            },
+            "Flan": {
+                "Price": 270
+            }
+        },
+        "Beverages": {
+            "Jarra de Cerveza dispensada": {
+                "Price": 300
+            },
+            "cerveza importada": {
+                "Price": 250
+            },
+            "cerveza nacional": {
+                "Price": 290
+            },
+            "Michelada mexicana": {
+                "Price": 250
+            },
+            "Michelada": {
+                "Price": 230
+            },
+            "Sangria": {
+                "Price": 550
+            },
+            "Cuba Libre": {
+                "Price": 250
+            },
+            "Caipiroska": {
+                "Price": 300
+            },
+            "Caipirinha": {
+                "Price": 300
+            },
+            "Pina Colada": {
+                "Price": 550
+            },
+            "Agua": {
+                "Price": 150
+            },
+            "Limonada Frappe": {
+                "Price": 340
+            },
+            "Limonada Natural": {
+                "Price": 340
+            },
+            "Jugos Naturales": {
+                "Price": 160
+            },
+            "Batido de Frutas": {
+                "Price": 350
+            },
+            "Batido de Helado": {
+                "Price": 700
+            },
+            "Malta importada": {
+                "Price": 290
+            },
+            "Refresco importado": {
+                "Price": 260
+            },
+            "Energizante": {
+                "Price": 260
+            },
+            "Cafe expresso": {
+                "Price": 100
+            },
+            "Cafe frapuccino": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

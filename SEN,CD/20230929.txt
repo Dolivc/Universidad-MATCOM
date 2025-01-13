@@ -1,6 +1,6 @@
-En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 02:24 horas hasta las 07:27 horas de la mañana, desde las 09:51 horas hasta las 14:39 horas y desde las 16:05 horas hasta las 00:12 horas de la madrugada de hoy.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 02:24 horas hasta las 07:27 horas de la manhana, desde las 09:51 horas hasta las 14:39 horas y desde las 16:05 horas hasta las 00:12 horas de la madrugada de hoy.
 La máxima afectación en el día fue de 326 MW a las 18:40 horas, no coincidente con la hora pico.
-La disponibilidad del SEN a las 07:00 horas es de 2200 MW y la demanda 2280 MW, desde las 06:08 horas de la mañana de hoy se comenzó a afectar el servicio, se estima que la misma se mantenga durante todo el dia.
+La disponibilidad del SEN a las 07:00 horas es de 2200 MW y la demanda 2280 MW, desde las 06:08 horas de la manhana de hoy se comenzó a afectar el servicio, se estima que la misma se mantenga durante todo el dia.
 Se encuentra fuera de servicio por avería la unidad 1 de la CTE Santa Cruz y la unidad 2 de la CTE Felton. En mantenimiento la unidad 8 de la CTE Mariel y la unidad 6 de Energás Boca de Jaruco.
 Se mantienen las limitaciones en la generación térmica (572 MW).
 En la generación distribuida, están indisponibles por avería 885 MW y en mantenimiento 121 MW.

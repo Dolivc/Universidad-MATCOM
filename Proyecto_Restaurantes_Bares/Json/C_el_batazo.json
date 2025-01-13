@@ -1,0 +1,147 @@
+{
+    "Name": "El batazo",
+    "Type": "Restaurante",
+    "Phone_Number": " 58050408",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2200"
+        ],
+        "Tuesday": [
+            "1100-2200"
+        ],
+        "Wednesday": [
+            "1100-2200"
+        ],
+        "Thursday": [
+            "1100-2200"
+        ],
+        "Friday": [
+            "1100-2200"
+        ],
+        "Saturday": [
+            "1100-2200"
+        ],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Primelles 356 entre Santa Teresa y Daois",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis": {
+                    "Price": 600
+                },
+                "Espaguetis de jamon": {
+                    "Price": 780
+                }
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 750
+                },
+                "Pizza de chorizo": {
+                    "Price": 930
+                },
+                "Pizza de jamon": {
+                    "Price": 930
+                },
+                "Pizza de hawaiana": {
+                    "Price": 1130
+                },
+                "Pizza de cebolla": {
+                    "Price": 950
+                },
+                "Pizza de aji": {
+                    "Price": 950
+                },
+                "Pizza de atun": {
+                    "Price": 1250
+                },
+                "Pizza de aceitunas": {
+                    "Price": 950
+                },
+                "Pizza de peperoni": {
+                    "Price": 1050
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

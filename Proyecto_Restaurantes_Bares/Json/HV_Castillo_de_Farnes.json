@@ -1,0 +1,170 @@
+{
+    "Name": "Castillo de Farnes",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["09:00-21:00"],
+        "Tuesday":  ["09:00-21:00"],
+        "Wednesday": ["09:00-21:00"],
+        "Thursday": ["09:00-21:00"],
+        "Friday":   ["09:00-21:00"],
+        "Saturday": ["09:00-21:00"],
+        "Sunday":   ["09:00-21:00"]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obrapia/ Bernaza y Avenida Belgica",
+        "Coordinates": "4JMR+WHC"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Cerdo estofado": {
+                    "Price": 875
+                },
+                "Fajitas de cerdo": {
+                    "Price": 990
+                },
+                "Bistec de cerdo": {
+                    "Price": 850
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Res estofada": {
+                    "Price": 875
+                },
+                "Lonjas de res": {
+                    "Price": 945
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz con sustancia": {
+                "Price": 105
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Gin tonic 215ML": {
+                "Price": 350
+            },
+            "Ron collins 290ML": {
+                "Price": 300
+            },
+            "Daiquiri": {
+                "Price": 300
+            },
+            "Licor cubay de menta 60ML": {
+                "Price": 200
+            },
+            "Licor curacao azul 60ML": {
+                "Price": 200
+            },
+            "Licor cubay de anis": {
+                "Price": 200
+            },
+            "Cerveza importada": {
+                "Price": 175
+            },
+            "Cerveza nacional": {
+                "Price": 160
+            },
+            "Parranda 500ML": {
+                "Price": 180
+            },
+            "Jugo nacional": {
+                "Price": 90
+            },
+            "Limonada 290ML": {
+                "Price": 100
+            },
+            "Vaso de jugo importado200ML": {
+                "Price": 80
+            },
+            "Malta importada": {
+                "Price": 135
+            },
+            "Cafe express 45ML": {
+                "Precio": 125
+            },
+            "Cafe americano 170ML": {
+                "Precio": 150
+            },
+            "Cafe cortado 60ML": {
+                "Precio": 175
+            },
+            "Cafe con leche 170ML": {
+                "Precio": 180
+            },
+            "Leche fria 240ML": {
+                "Precio": 160
+            }
+        },
+        "most_sold": {
+            "Dish": ["Cerdo estofado"],
+            "Drink": ["Cerveza nacional","Refresco"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": ["Cerveza importada"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": [ "Televisor"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

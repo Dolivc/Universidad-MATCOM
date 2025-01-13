@@ -1,0 +1,172 @@
+{
+    "Name": "Pal'Karajo",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2200"
+        ],
+        "Tuesday": [
+            "1000-2200"
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            "1000-2200"
+        ],
+        "Friday": [
+            "1000-2200"
+        ],
+        "Saturday": [],
+        "Sunday": [
+            "1000-2200"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Avenida 101 Esquina 16 Centro Cotorro",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "chicarrita de boniato": {
+                "Price": 200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "tacos de cerdo mechados": {
+                    "Price": 890
+                },
+                "tacos de cerdo estofados": {
+                    "Price": 990
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "jugo de mango": {
+                "Price": 200
+            },
+            "jugo de pi\u00f1a": {
+                "Price": 200
+            },
+            "batido de mango": {
+                "Price": 380
+            },
+            "batido de mamey": {
+                "Price": 400
+            },
+            "batido de trigo": {
+                "Price": 380
+            },
+            "batido de man\u00ed": {
+                "Price": 400
+            },
+            "batido de man\u00ed con chocolate": {
+                "Price": 450
+            },
+            "pi\u00f1a colada": {
+                "Price": 400
+            },
+            "malteada": {
+                "Price": 500
+            },
+            "limonada": {
+                "Price": 400
+            },
+            "michelada con cristal": {
+                "Price": 550
+            },
+            "chelada con cristal": {
+                "Price": 550
+            },
+            "expresso": {
+                "Price": 100
+            },
+            "cortado": {
+                "Price": 150
+            },
+            "capuccino": {
+                "Price": 300
+            },
+            "frapuccino": {
+                "Price": 400
+            },
+            "bomb\u00f3n": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

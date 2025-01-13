@@ -1,0 +1,297 @@
+{
+    "Name": "Restaurante El Pavo",
+    "Type": "Restaurante",
+    "Phone_Number": "524249439",
+    "Web_Page": "Restaurante El pavo",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00-23:00"],
+        "Tuesday":  ["12:00-23:00"],
+        "Wednesday": ["12:00-23:00"],
+        "Thursday": ["12:00-23:00"],
+        "Friday":   ["12:00-23:00"],
+        "Saturday": ["12:00-23:00"],
+        "Sunday":   ["12:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "San luis entre Via Blanca y 6ta",
+        "Coordinates": "4MFJ+M6J"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada Fría de Jamón": {
+                "Price": 600
+            },
+            "Ensalada Fría de Atún": {
+                "Price": 700
+            },
+            "Croquetas": {
+                "Price": 500
+            },
+            "Fajitas": {
+                "Price": 1200
+            },
+            "Tostón relleno de Jamón": {
+                "Price": 500
+            },
+            "Tostón relleno": {
+                "Price": 500
+            },
+            "Coctel de camaron": {
+                "Price": 1500
+            },
+            "Bolitas de queso": {
+                "Price": 550
+            },
+            "Garbanzo Frito": {
+                "Price": 900
+            },
+            "Eperlan": {
+                "Price": 1200
+            },
+            "Entremés": {
+                "Price": 1000
+            },
+            "Papas fritas":{
+                "Price": 550
+            }
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Napolitano": {
+                    "Price": 800
+                },
+                "Espaguetis con Jamón": {
+                    "Price": 1000
+                },
+                "Espaguetis Bolonhesa": {
+                    "Price": 1050
+                },
+                "Espaguetis con Camarones": {
+                    "Price": 2000
+                },
+                "Espaguetis con Atún": {
+                    "Price": 1300
+                },
+                "Espaguetis con Bacon": {
+                    "Price": 1000
+                },
+                "Lasagna de Jamón": {
+                    "Price": 1100
+                },
+                "Lasagna de Carne": {
+                    "Price": 1100
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 800
+                },
+                "Pizza de Cebolla": {
+                    "Price":850
+                },
+                "Pizza de bacon": {
+                    "Price": 1000
+                },
+                "Pizza de Jamón": {
+                    "Price": 1000
+                },
+                "Pizza de Chorizo": {
+                    "Price": 1000
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1050
+                },
+                "Pizza Mixta":{
+                    "Price": 1400
+                },
+                "Pizza de carne":{
+                    "Price":1050
+                },
+                "Pizza 4 estaciones":{
+                    "Price": 2300
+                },
+                "Pizza de Atun/cebolla": {
+                    "Price": 1300
+                },
+                "Pizza de Camarones": {
+                    "Price": 2000
+                },
+                "Pizza Especial 'El Pavo": {
+                    "Price": 2500
+                }
+            },
+            "Pork": {
+                "Masa de Cerdo": {
+                    "Price": 1600
+                },
+                "Cerdo a la Milanesa": {
+                    "Price": 1400
+                },
+                "Bistec de Cerdo": {
+                    "Price": 1300
+                },
+                "Bistec uruguayo":{
+                    "Price": 2500
+                },
+                "Lomo ahumado":{
+                    "Price": 3200
+                }
+            },
+            "Chicken": {
+                "Pechuga de pollo grille":{
+                    "Price": 2900
+                },
+                "Pollo Grille": {
+                    "Price": 2500
+                },
+                "Pollo asado":{
+                    "Price": 3200
+                }
+            },
+            "Beef": {
+                "Bistec de Res": {
+                    "Price": 2700
+                },
+                "Ropa Vieja": {
+                    "Price":2800
+                }
+            },
+            "Sea": {
+                "Camarones Enchilados": {
+                    "Price": 3200
+                },
+                "Camarones al Ajillo": {
+                    "Price": 3000
+                },
+                "Camarones Grille": {
+                    "Price": 2900
+                },
+                "Camarones Empanados": {
+                    "Price": 3200
+                },
+                "Enchilado de Langosta": {
+                    "Price": 2500
+                },
+                "Langosta Grille": {
+                    "Price": 2300
+                },
+                "Pescado Grille": {
+                    "Price": 2900
+                },
+                "Marinada al Pavo": {
+                    "Price": 4500
+                },
+                "Grillada mar y tierra":{
+                    "Price": 4900
+                },
+                "Filete Canchiller":{
+                    "Price": 3500
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras":{
+            "Arroz frito":{
+                "Price": 1800
+            },
+            "Paella criolla":{
+                "Price": 3200
+            },
+            "Paella al pavo":{
+                "Price": 4000
+            },
+            "Arroz blanco":{
+                "Price": 80
+            },
+            "Arroz moro":{
+                "Price":200
+            },
+            "Ensalada estacion":{
+                "Price":400
+            },
+            "Vianda frita":{
+                "Price":200
+            }
+        },
+        "Desserts": {
+            "Tres Leches": {
+                "Price": 750
+            },
+            "Tarta al pavo":{
+                "Price":550
+            }
+        },
+        "Beverages": {
+            "Cerveza Nacional": {
+                "Price": 350
+            },
+            "Cerveza Importada": {
+                "Price": 260
+            },
+            "Agua Natural": {
+                "Price": 250
+            },
+            "Refresco Nacional": {
+                "Price": 280
+            },
+            "Refresco Importado": {
+                "Price": 280
+            },
+            "Malta Importada": {
+                "Price": 320
+            },
+            "Jugo de lata": {
+                "Price": 280
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pork","Pizza"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Chicken"],
+            "Drink": ["Jugo"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Servicio a domicilio","Asientos para personas en sillas de ruedas","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

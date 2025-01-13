@@ -1,0 +1,258 @@
+{
+    "Name": "Antojos",
+    "Type": "bar-restaurante",
+    "Phone_Number": "52824907",
+    "Web_Page": "null",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   null,
+        "Tuesday":  ["11:00-00:00"],
+        "Wednesday": ["11:00-00:00"],
+        "Thursday": ["11:00-00:00"],
+        "Friday":   ["11:00-00:00"],
+        "Saturday": ["11:00-00:00"],
+        "Sunday":   ["11:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejón Espada entre Cuarteles y Chacon",
+        "Coordinates": "23º8'29''N,82º21'19''W"
+    },
+    "Cuisine": "Caribenha",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Fritura de Temporada": {
+                "Price": 950
+            },
+            "Croquetas de la Casa": {
+                "Price": 1700
+            },
+            "Tostones Campesinos": {
+                "Price": 750
+            },
+            "Caldosa Guajira": {
+                "Price": 1400
+            },
+            "Tacos": {
+                "Price": 2700
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Costillas de Cerdo Barbacoa": {
+                    "Price": 4300
+                },
+                "Masas de Cerdo Frita": {
+                    "Price": 3800
+                },
+                "Lomo al Carbón": {
+                    "Price": 4500
+                },
+                "Bistec de Cerdo Encebollado": {
+                    "Price": 3550
+                }
+            },
+            "Chicken": {
+                "Trozos de Pollo a la Mantequilla": {
+                    "Price": 2950
+                },
+                "Pollo Grillé": {
+                    "Price": 2950
+                }
+            },
+            "Beef": {
+                "Ropa Vieja con Platanitos Maduros": {
+                    "Price": 3150
+                },
+                "Picadillo a la Habanera": {
+                    "Price": 2930
+                }
+            },
+            "Sea": {
+                "Camarones al Gusto": {
+                    "Price": 3900
+                },
+                "Pesca al Carbón": {
+                    "Price": 3950
+                }
+            },
+            "Other":{
+                "Ensalada Campesina":{
+                    "Price": 1800
+                },
+                "Arroz a la Chorrera": {
+                    "Price": 3500
+                },
+                "Pinchos Antojos": {
+                    "Price": 3700
+                }
+            }
+        },
+        "Extras": {
+            "Arroz": {
+                "Price": null
+            },
+            "Crema de Malanga": {
+                "Price": 1400
+            },
+            "Vianda Frita": {
+                "Price": 800
+            },
+            "Potaje": {
+                "Price": 950
+            },
+            "Arroz Blanco": {
+                "Price": 800
+            },
+            "Pan Artesanal": {
+                "Price": 1050
+            },
+            "Vegetales al Carbón": {
+                "Price": 1400
+            }
+        },
+        "Desserts": {
+            "Postres de la Casa": {
+                "Price": 950
+            }
+        },
+        "Beverages": {
+            "Aguas Naturales": {
+                "Price": 650
+            },
+            "Mojito Antojos": {
+                "Price": 1280
+            },
+            "Aguas Tónicas": {
+                "Price": 750
+            },
+            "Ron Collins": {
+                "Price": 1180
+            },
+            "Refrescos": {
+                "Price": 650
+            },
+            "Pinha Colada": {
+                "Price": 1630
+            },
+            "Red Bull": {
+                "Price": 850
+            },
+            "Cuba libre": {
+                "Price": 1230
+            },
+            "Jugos Naturales": {
+                "Price": 750
+            },
+            "Cubata": {
+                "Price": 1230
+            },
+            "Cubanito": {
+                "Price": 1380
+            },
+            "Limonada": {
+                "Price": 900
+            },
+            "Canchánchara": {
+                "Price": 1150
+            },
+            "Cerveza": {
+                "Price": 800
+            },
+            "Daiquirí": {
+                "Price": 1250
+            },
+            "Vino Blanco (Copa)": {
+                "Price": 1400
+            },
+            "Havana Special": {
+                "Price": 1180
+            },
+            "Vino Tinto (Copa)": {
+                "Price": 1450
+            },
+            "Gin Tonic": {
+                "Price": 1450
+            },
+            "Bloody Mary": {
+                "Price": 1500
+            },
+            "Negroni": {
+                "Price": 1550
+            },
+            "Martini": {
+                "Price": 1500
+            },
+            "Caipiroska": {
+                "Price": 1250
+            },
+            "Screwdriver": {
+                "Price": 1200
+            },
+            "Margarita": {
+                "Price": 1380
+            },
+            "Mary Pickford": {
+                "Price": 1150
+            },
+            "Chelada": {
+                "Price": 900
+            },
+            "Michelada": {
+                "Price": 1100
+            },
+            "Michelada de la Casa": {
+                "Price": 1200
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Sillas para ninhos","Reservaciones","Opciones vegetarianas"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

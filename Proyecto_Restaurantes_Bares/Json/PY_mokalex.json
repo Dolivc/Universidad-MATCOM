@@ -1,0 +1,230 @@
+{
+    "Name": "Mokalex",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "900-1800"
+        ],
+        "Wednesday": [
+            "900-1800"
+        ],
+        "Thursday": [
+            "900-1800"
+        ],
+        "Friday": [
+            "900-1800"
+        ],
+        "Saturday": [
+            "900-1800"
+        ],
+        "Sunday": [
+            "900-1400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Sandwich cubano": {
+                "Price": 1500
+            },
+            "Sandwich de jam\u00f3n y queso": {
+                "Price": 1300
+            },
+            "Empanada gallega": {
+                "Price": 800
+            },
+            "Tabla de embutidos y quesos": {
+                "Price": 2300
+            },
+            "Aceitunas": {
+                "Price": 700
+            },
+            "Croissant con nutella": {
+                "Price": 1300
+            },
+            "Croissant con jamon y queso": {
+                "Price": 1800
+            },
+            "Ensalada fria": {
+                "Price": 800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna bolognesa": {
+                    "Price": 1800
+                },
+                "Spaghetti con jam\u00f3n": {
+                    "Price": 1500
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Arroz frito": {
+                    "Price": 1800
+                },
+                "Ensalada de humus con pechuga de pollo y vegetales": {
+                    "Price": 1400
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Pasteler\u00eda": {
+                "Price": 350
+            },
+            "Torta de la casa": {
+                "Price": 700
+            }
+        },
+        "Beverages": {
+            "H2o natural": {
+                "Price": 300
+            },
+            "H2o gaseada": {
+                "Price": 400
+            },
+            "H2o gaseada importada": {
+                "Price": 600
+            },
+            "Refresco": {
+                "Price": 400
+            },
+            "Malta": {
+                "Price": 500
+            },
+            "Energizante": {
+                "Price": 400
+            },
+            "Jugos naturales": {
+                "Price": 400
+            },
+            "Jugo \u00f3xido rojo": {
+                "Price": 600
+            },
+            "Cerveza": {
+                "Price": 450
+            },
+            "Michelada": {
+                "Price": 600
+            },
+            "Copa de vino tinto": {
+                "Price": 600
+            },
+            "Copa de vino blanco": {
+                "Price": 600
+            },
+            "Crema catalana": {
+                "Price": 800
+            },
+            "Havana club especial": {
+                "Price": 400
+            },
+            "Havana club 7 a\u00f1os": {
+                "Price": 600
+            },
+            "Whisky j&b": {
+                "Price": 800
+            },
+            "Caf\u00e9 exconvicto": {
+                "Price": 400
+            },
+            "Caf\u00e9 yuma": {
+                "Price": 400
+            },
+            "Caf\u00e9 suturado": {
+                "Price": 500
+            },
+            "Caf\u00e9 conde": {
+                "Price": 600
+            },
+            "Caf\u00e9 mulata": {
+                "Price": 550
+            },
+            "Frapuchino": {
+                "Price": 800
+            },
+            "Frapuhelado": {
+                "Price": 900
+            },
+            "Capuchino": {
+                "Price": 800
+            },
+            "Infusiones": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

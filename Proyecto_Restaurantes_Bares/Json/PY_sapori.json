@@ -1,0 +1,420 @@
+{
+    "Name": "Sapori",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2200"
+        ],
+        "Tuesday": [
+            "800-2200"
+        ],
+        "Wednesday": [
+            "800-2200"
+        ],
+        "Thursday": [
+            "800-2200"
+        ],
+        "Friday": [
+            "800-2200"
+        ],
+        "Saturday": [
+            "800-2200"
+        ],
+        "Sunday": [
+            "800-2200"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Tostadas de mantequilla y mermelada": {
+                    "Price": 400
+                },
+                "Tostadas de aguacate, chia, aceite de oliva y tomate": {
+                    "Price": 800
+                },
+                "Ensalada de frutas": {
+                    "Price": 1000
+                },
+                "Yogurt con cereal": {
+                    "Price": 650
+                },
+                "Yogurt con frutas": {
+                    "Price": 650
+                },
+                "Leche con cereal": {
+                    "Price": 650
+                },
+                "Crepes": {
+                    "Price": 800
+                },
+                "Crepes de nutella": {
+                    "Price": 1000
+                },
+                "Tostadas francesas": {
+                    "Price": 1000
+                },
+                "Waffles": {
+                    "Price": 1000
+                },
+                "Huevos al gusto": {
+                    "Price": 1000
+                },
+                "Huevos benedictos": {
+                    "Price": 1500
+                },
+                "Desayuno continental": {
+                    "Price": 2000
+                },
+                "Desayuno americano": {
+                    "Price": 2000
+                },
+                "Desayuno sapori": {
+                    "Price": 2200
+                },
+                "Desayuno healthy": {
+                    "Price": 2500
+                }
+            }
+        },
+        "Appetizers": {
+            "Croissant natural": {
+                "Price": 600
+            },
+            "Baguette natural peque\u00f1o": {
+                "Price": 180
+            },
+            "Barra de baguette natural": {
+                "Price": 650
+            },
+            "Pan briochi": {
+                "Price": 1500
+            },
+            "Pan boom": {
+                "Price": 250
+            },
+            "Pan rustico": {
+                "Price": 1100
+            },
+            "Bolitas de queso (5u)": {
+                "Price": 1200
+            },
+            "Croquetas (6u)": {
+                "Price": 1200
+            },
+            "Papas fritas": {
+                "Price": 900
+            },
+            "Brusquetas cl\u00e1sicas (4u)": {
+                "Price": 800
+            },
+            "Brusquetas de jamon serrano (4u)": {
+                "Price": 950
+            },
+            "Nuggets de pollo (6u)": {
+                "Price": 2000
+            },
+            "Tacos de pechuga (3u)": {
+                "Price": 2200
+            },
+            "Tacos de cerdo (3u)": {
+                "Price": 2200
+            },
+            "Picadera sapori": {
+                "Price": 4000
+            },
+            "Ensalada cesar": {
+                "Price": 2200
+            },
+            "Ensalada capresse": {
+                "Price": 2700
+            },
+            "Ensalada estaci\u00f3n": {
+                "Price": 1800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Carpaccio de res": {
+                    "Price": 3250
+                },
+                "Ceviche de pescado": {
+                    "Price": 2000
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Dulce de chocolate": {
+                "Price": 750
+            },
+            "Dulce de fresa": {
+                "Price": 700
+            },
+            "Dulce de vainilla": {
+                "Price": 700
+            },
+            "Dulce de avellana": {
+                "Price": 700
+            },
+            "Dulce de lim\u00f3n": {
+                "Price": 700
+            },
+            "Dulce de tiramis\u00fa": {
+                "Price": 750
+            },
+            "Dulce de tres leches": {
+                "Price": 750
+            },
+            "Dulce de yogurt con frutos del bosque": {
+                "Price": 700
+            },
+            "Dulce de pistacho": {
+                "Price": 750
+            },
+            "Tartaleta de chocolate": {
+                "Price": 700
+            },
+            "Tartaleta de pistacho con lim\u00f3n": {
+                "Price": 750
+            },
+            "Cheesecake de fresa": {
+                "Price": 700
+            },
+            "Ferrero rocher": {
+                "Price": 700
+            },
+            "Panna cotta": {
+                "Price": 500
+            },
+            "Matilda": {
+                "Price": 600
+            },
+            "Tarta de yogurt y frutos del bosque": {
+                "Price": 6500
+            },
+            "Tarta de chocolate": {
+                "Price": 6500
+            },
+            "Tarta de fresa": {
+                "Price": 6500
+            },
+            "Tarta de vainilla": {
+                "Price": 6500
+            },
+            "Tarta de avellana": {
+                "Price": 6500
+            },
+            "Tarta de lim\u00f3n": {
+                "Price": 6500
+            },
+            "Tarta tres leches": {
+                "Price": 5000
+            },
+            "Tarta cheesecake fresa": {
+                "Price": 6500
+            },
+            "Tarta matilda": {
+                "Price": 8000
+            },
+            "Tarta de tiramis\u00fa": {
+                "Price": 8000
+            },
+            "Tarta tres leches con frutos rojos": {
+                "Price": 8000
+            }
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 250
+            },
+            "Agua gaseada": {
+                "Price": 650
+            },
+            "Agua t\u00f3nica": {
+                "Price": 600
+            },
+            "Refresco gaseado": {
+                "Price": 550
+            },
+            "Malta": {
+                "Price": 600
+            },
+            "Red bull": {
+                "Price": 750
+            },
+            "Jugo de caja": {
+                "Price": 250
+            },
+            "Jugo natural": {
+                "Price": 450
+            },
+            "Limonada": {
+                "Price": 1000
+            },
+            "Cerveza cristal botella": {
+                "Price": 650
+            },
+            "Cerveza crona botella": {
+                "Price": 650
+            },
+            "Cerveza stella artois": {
+                "Price": 650
+            },
+            "Servicio michelada": {
+                "Price": 500
+            },
+            "Servicio chelada": {
+                "Price": 400
+            },
+            "Tinto de verano": {
+                "Price": 1000
+            },
+            "Sangr\u00eda": {
+                "Price": 1200
+            },
+            "Pi\u00f1a colada": {
+                "Price": 1400
+            },
+            "Aperol spritz": {
+                "Price": 1200
+            },
+            "Daiquiri": {
+                "Price": 1000
+            },
+            "Mojito": {
+                "Price": 1100
+            },
+            "Caipiroska": {
+                "Price": 1100
+            },
+            "Margarita": {
+                "Price": 1300
+            },
+            "Gin tonic": {
+                "Price": 1300
+            },
+            "San francisco": {
+                "Price": 1000
+            },
+            "Cafe expresso": {
+                "Price": 400
+            },
+            "Caf\u00e9 cubano": {
+                "Price": 400
+            },
+            "Caf\u00e9 cortadito": {
+                "Price": 430
+            },
+            "Caf\u00e9 americano": {
+                "Price": 400
+            },
+            "Caf\u00e9 bombon": {
+                "Price": 550
+            },
+            "Caf\u00e9 moca": {
+                "Price": 550
+            },
+            "Caf\u00e9 capuchino": {
+                "Price": 650
+            },
+            "Caf\u00e9 escoses": {
+                "Price": 650
+            },
+            "Caf\u00e9 chantilly": {
+                "Price": 450
+            },
+            "Caf\u00e9 affogato": {
+                "Price": 650
+            },
+            "Caf\u00e9 latte": {
+                "Price": 850
+            },
+            "Frapuccino": {
+                "Price": 1200
+            },
+            "Caf\u00e9 ice latte": {
+                "Price": 850
+            },
+            "Chocolate caliente": {
+                "Price": 850
+            },
+            "Te caliente": {
+                "Price": 250
+            },
+            "Te frio": {
+                "Price": 250
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

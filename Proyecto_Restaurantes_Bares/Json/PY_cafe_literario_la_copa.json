@@ -1,0 +1,172 @@
+{
+    "Name": "Cafe Literario La Copa",
+    "Type": "Restaurante",
+    "Phone_Number": 55094105,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "800-1200"
+        ],
+        "Tuesday": [
+            "800-1200"
+        ],
+        "Wednesday": [
+            "800-1200"
+        ],
+        "Thursday": [
+            "800-1200"
+        ],
+        "Friday": [
+            "800-1200"
+        ],
+        "Saturday": [
+            "800-1200"
+        ],
+        "Sunday": [
+            "800-1200"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": "4JRX+9FV, Mercaderes, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas con tostadas": {
+                "Price": 500.0
+            },
+            "Papas fritas": {
+                "Price": 600.0
+            },
+            "Hot dog": {
+                "Price": 600.0
+            },
+            "Sandwich de jamon y queso": {
+                "Price": 700.0
+            },
+            "Pan con hamburguesa": {
+                "Price": 700.0
+            },
+            "Croissant de jamon con queso": {
+                "Price": 800.0
+            },
+            "Croissant natural": {
+                "Price": 500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Copa de helado": {
+                "Price": 500.0
+            },
+            "Suero helado": {
+                "Price": 800.0
+            }
+        },
+        "Beverages": {
+            "Malteada": {
+                "Price": 500.0
+            },
+            "Malta bucanero": {
+                "Price": 300.0
+            },
+            "Energizante": {
+                "Price": 230.0
+            },
+            "Jugo de lata": {
+                "Price": 270.0
+            },
+            "Agua natural": {
+                "Price": 120.0
+            },
+            "Cafe expresso": {
+                "Price": 1500.0
+            },
+            "Cafe cortado": {
+                "Price": 200.0
+            },
+            "Cafe bombon": {
+                "Price": 350.0
+            },
+            "Capuchino": {
+                "Price": 400.0
+            },
+            "Frapucchino": {
+                "Price": 500.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta"
+        ],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "Name": "Tiki_Bar",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2200"
+        ],
+        "Tuesday": [
+            "900-2200"
+        ],
+        "Wednesday": [
+            "900-2200"
+        ],
+        "Thursday": [
+            "900-2200"
+        ],
+        "Friday": [
+            "900-2200"
+        ],
+        "Saturday": [
+            "900-2200"
+        ],
+        "Sunday": [
+            "900-2200"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": " 4H76+RQH, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones de Jamon y Queso": {
+                "Price": 1200
+            },
+            "Tostones de Chorizo y Queso": {
+                "Price": 1200
+            },
+            "Tostones de Cangrejo": {
+                "Price": 2300
+            },
+            "Tostones de Langosta": {
+                "Price": 4000
+            },
+            "Tostones de Camaron": {
+                "Price": 4000
+            },
+            "Taco de Cangrejo": {
+                "Price": 2500
+            },
+            "Taco de Camaron": {
+                "Price": 4000
+            },
+            "Taco de Langosta": {
+                "Price": 4000
+            },
+            "Papas Tiki": {
+                "Price": 1300
+            },
+            "Ceviche de Pescado": {
+                "Price": 2000
+            },
+            "Ceviche de Langosta": {
+                "Price": 3000
+            },
+            "Coctel de Camaron": {
+                "Price": 3500
+            },
+            "Coctel de Langosta": {
+                "Price": 2900
+            },
+            "Fajita de Cerdo": {
+                "Price": 2250
+            },
+            "Fajita de Pollo": {
+                "Price": 2100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo": {
+                    "Price": 2500
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Ribeye": {
+                    "Price": 12500
+                }
+            },
+            "Sea": {
+                "Camaron al Gusto": {
+                    "Price": 4000
+                },
+                "Langosta al Gusto": {
+                    "Price": 4000
+                },
+                "Enchilado de Cangrejo": {
+                    "Price": 2500
+                },
+                "Pulpo al Gusto": {
+                    "Price": 3800
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Red Bull": {
+                "Price": 700
+            },
+            "Energizante": {
+                "Price": 420
+            },
+            "Malta": {
+                "Price": 500
+            },
+            "Cerveza": {
+                "Price": 500
+            },
+            "Refresco": {
+                "Price": 450
+            },
+            "Malteada": {
+                "Price": 1000
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

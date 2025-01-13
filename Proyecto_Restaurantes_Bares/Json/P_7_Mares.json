@@ -1,0 +1,160 @@
+{
+    "Name": "7 Mares",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-10:00"],
+        "Tuesday":  ["12:00-10:00"],
+        "Wednesday": ["12:00-10:00"],
+        "Thursday": ["12:00-10:00"],
+        "Friday":   ["12:00-10:00"],
+        "Saturday": ["12:00-10:00"],
+        "Sunday":   ["12:00-10:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Esquina Avenida 23 entre calle I y calle J ",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "":{
+                    "Price": null
+                }
+            }
+        },
+        "Appetizers": {
+            "Eperlan de pescado": {
+                "Price": 600
+            },
+            "Croquetas de la casa": {
+                "Price": 250
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Chuletas de cerdo": {
+                    "Price": 900
+                },
+                "Masas de cerdo": {
+                    "Price": 900
+                },
+                "Bistec de cerdo grille": {
+                    "Price": 850
+                },
+                "Fajitas de cerdo": {
+                    "Price": 850
+                },
+                "Lomo ahumado grille": {
+                    "Price": 850
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Langosta grille": {
+                    "Price": 1200
+                },
+                "Langosta enchilada": {
+                    "Price": 1200
+                },
+                "Camaron grille": {
+                    "Price": 750
+                },
+                "Camaron enchilado": {
+                    "Price": 750
+                },
+                "Rueda de bonito grille": {
+                    "Price": 700
+                },
+                "Filete de pescado empanado": {
+                    "Price": 800
+                },
+                "Masas de pescado enchilada": {
+                    "Price": 800
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 90
+            },
+            "Arroz moro": {
+                "Price": 180
+            },
+            "Arroz con vegetales": {
+                "Price": 200
+            },
+            "Ensalada mixta": {
+                "Price": 150
+            },
+            "Vianda frita": {
+                "Price": 200
+            },
+            "Vianda hervida con mojo": {
+                "Price": 100
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": ["Mariscos"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": ["Lomo ahumado"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "False",
+            "Mobile_Payment": "True"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "False",
+            "Euros": "False",
+            "Others": "False"
+        }
+    }
+}

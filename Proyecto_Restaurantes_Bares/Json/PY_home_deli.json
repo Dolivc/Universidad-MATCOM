@@ -1,0 +1,171 @@
+{
+    "Name": "Home Deli",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "https://homedelimercado.com",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2100"
+        ],
+        "Tuesday": [
+            "900-2100"
+        ],
+        "Wednesday": [
+            "900-2100"
+        ],
+        "Thursday": [
+            "900-2100"
+        ],
+        "Friday": [
+            "900-2100"
+        ],
+        "Saturday": [
+            "900-2100"
+        ],
+        "Sunday": [
+            "900-2100"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tabla mixta": {
+                "Price": null
+            },
+            "Chips mariflye": {
+                "Price": 380
+            },
+            "Focaccina": {
+                "Price": 400
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza margarita": {
+                    "Price": 1900
+                },
+                "Pizza baby": {
+                    "Price": 1100
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Serrano": {
+                "Price": 850
+            },
+            "Chorizo iberico": {
+                "Price": 550
+            },
+            "Pepperoni": {
+                "Price": 700
+            },
+            "Jamon york": {
+                "Price": 720
+            },
+            "Mozarella": {
+                "Price": 980
+            },
+            "Gouda": {
+                "Price": 700
+            }
+        },
+        "Desserts": {
+            "Copa de helado": {
+                "Price": 950
+            }
+        },
+        "Beverages": {
+            "Copa de vino": {
+                "Price": 600
+            },
+            "Vaso de cerveza": {
+                "Price": 220
+            },
+            "Jarra de cerveza": {
+                "Price": 380
+            },
+            "Expresso": {
+                "Price": 250
+            },
+            "Cortado": {
+                "Price": 320
+            },
+            "Americano": {
+                "Price": 300
+            },
+            "Con leche": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

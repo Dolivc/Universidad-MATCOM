@@ -1,0 +1,273 @@
+{
+    "Name": "El Bejuco",
+    "Type": "Restaurante",
+    "Phone_Number": 5350671673,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "0-2400"
+        ],
+        "Tuesday": [
+            "0-2400"
+        ],
+        "Wednesday": [
+            "0-2400"
+        ],
+        "Thursday": [
+            "0-2400"
+        ],
+        "Friday": [
+            "0-2400"
+        ],
+        "Saturday": [
+            "0-2400"
+        ],
+        "Sunday": [
+            "0-2400"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": null,
+        "Coordinates": "4HJR+9Q La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Combo dulce": {
+                    "Price": 950.0
+                },
+                "Combo salado": {
+                    "Price": 950.0
+                },
+                "Tostadas con dulce": {
+                    "Price": 250.0
+                },
+                "Tostadas con salsa": {
+                    "Price": 250.0
+                },
+                "Agrego de queso": {
+                    "Price": 150.0
+                },
+                "Agrego de jamon": {
+                    "Price": 200.0
+                },
+                "Fruta de temporada": {
+                    "Price": 250.0
+                }
+            }
+        },
+        "Appetizers": {
+            "Tostones naturales": {
+                "Price": 400.0
+            },
+            "Tostones rellenos": {
+                "Price": 800.0
+            },
+            "Brusquetas": {
+                "Price": 500.0
+            },
+            "Picadera simple": {
+                "Price": 600.0
+            },
+            "Picadera guajira": {
+                "Price": 1200.0
+            },
+            "Chicharritas": {
+                "Price": 300.0
+            },
+            "Tamal con cerdo": {
+                "Price": 900.0
+            },
+            "Tamal": {
+                "Price": 200.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua": {
+                "Price": 300.0
+            },
+            "Refresco": {
+                "Price": 300.0
+            },
+            "Jugos naturales": {
+                "Price": 250.0
+            },
+            "Batidos": {
+                "Price": 350.0
+            },
+            "Limonada": {
+                "Price": 500.0
+            },
+            "Cafe expreso": {
+                "Price": 150.0
+            },
+            "Cortado": {
+                "Price": 250.0
+            },
+            "Capuccino": {
+                "Price": 300.0
+            },
+            "Frappuccino": {
+                "Price": 350.0
+            },
+            "Macchiato": {
+                "Price": 250.0
+            },
+            "Iced latte": {
+                "Price": 350.0
+            },
+            "Americano": {
+                "Price": 300.0
+            },
+            "Cerveza cristal (botella)": {
+                "Price": 350.0
+            },
+            "Michelada": {
+                "Price": 750.0
+            },
+            "Chelada": {
+                "Price": 700.0
+            },
+            "Mojito": {
+                "Price": 500.0
+            },
+            "Cuba libre": {
+                "Price": 450.0
+            },
+            "Caipirinha": {
+                "Price": 400.0
+            },
+            "Caipiroska": {
+                "Price": 400.0
+            },
+            "Caipirisima": {
+                "Price": 400.0
+            },
+            "Canchanchara": {
+                "Price": 450.0
+            },
+            "Melonada": {
+                "Price": 700.0
+            },
+            "Verano en un vaso": {
+                "Price": 600.0
+            },
+            "Tinto de verano": {
+                "Price": 600.0
+            },
+            "Pinha colada": {
+                "Price": 700.0
+            },
+            "Bejuco colora'o": {
+                "Price": 700.0
+            },
+            "Bejuco gin": {
+                "Price": 700.0
+            },
+            "Cubata con reserva": {
+                "Price": 650.0
+            },
+            "Cubata con 7 anhos": {
+                "Price": 800.0
+            },
+            "Linea black tears": {
+                "Price": 350.0
+            },
+            "Linea 7 anhos": {
+                "Price": 600.0
+            },
+            "Linea smoky": {
+                "Price": 700.0
+            },
+            "Linea santiago": {
+                "Price": 900.0
+            },
+            "Linea reserva": {
+                "Price": 400.0
+            },
+            "Tequila blanco": {
+                "Price": 350.0
+            },
+            "Tequila reposado": {
+                "Price": 500.0
+            },
+            "Copa de vino": {
+                "Price": 500.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta"
+        ],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

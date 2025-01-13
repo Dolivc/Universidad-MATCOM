@@ -1,0 +1,257 @@
+{
+    "Name": "The Place",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-300"
+        ],
+        "Tuesday": [
+            "800-300"
+        ],
+        "Wednesday": [
+            "800-300"
+        ],
+        "Thursday": [
+            "800-300"
+        ],
+        "Friday": [
+            "800-300"
+        ],
+        "Saturday": [
+            "800-300"
+        ],
+        "Sunday": [
+            "800-300"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "calle 100, pasando Aldabo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "croquetas": {
+                "Price": 600.0
+            },
+            "eperlan": {
+                "Price": 900.0
+            },
+            "tostones": {
+                "Price": 500.0
+            },
+            "frituras malanga": {
+                "Price": 500.0
+            },
+            "garbanzos fritos": {
+                "Price": 1950.0
+            },
+            "sopon imperial": {
+                "Price": 1300.0
+            },
+            "picadera the place": {
+                "Price": 2300.0
+            },
+            "papas fritas": {
+                "Price": 800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis napolitanos": {
+                    "Price": 800.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 800.0
+                }
+            },
+            "Pork": {
+                "chuleta cerdo": {
+                    "Price": 1750.0
+                },
+                "chuleton": {
+                    "Price": 3000.0
+                },
+                "costilla cerdo": {
+                    "Price": 1700.0
+                },
+                "masa cerdo frita": {
+                    "Price": 1700.0
+                },
+                "chilindron cordero": {
+                    "Price": 1950.0
+                },
+                "bistec cerdo grille": {
+                    "Price": 1600.0
+                }
+            },
+            "Chicken": {
+                "pechuga pollo grille": {
+                    "Price": 1400.0
+                },
+                "pollo frito": {
+                    "Price": 1200.0
+                }
+            },
+            "Beef": {
+                "ropa vieja": {
+                    "Price": 1500.0
+                },
+                "bistec res": {
+                    "Price": 1800.0
+                },
+                "bistec uruguayo": {
+                    "Price": 1800.0
+                }
+            },
+            "Sea": {
+                "pescado": {
+                    "Price": 1500.0
+                },
+                "canciller": {
+                    "Price": 1800.0
+                },
+                "langosta en sus variedades": {
+                    "Price": 1950.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "malta bucanero": {
+                "Price": 300.0
+            },
+            "lata refresco": {
+                "Price": 290.0
+            },
+            "caja jugos": {
+                "Price": 260.0
+            },
+            "pomo agua": {
+                "Price": 200.0
+            },
+            "energizante": {
+                "Price": 330.0
+            },
+            "limonada frappe": {
+                "Price": 600.0
+            },
+            "jarra cerveza cristal": {
+                "Price": 300.0
+            },
+            "termo cerveza cristal": {
+                "Price": 2000.0
+            },
+            "cerveza cristal": {
+                "Price": 300.0
+            },
+            "cerveza importada": {
+                "Price": 250.0
+            },
+            "caipiroska": {
+                "Price": 500.0
+            },
+            "caipirisima": {
+                "Price": 500.0
+            },
+            "mojito": {
+                "Price": 520.0
+            },
+            "gin tonic": {
+                "Price": 500.0
+            },
+            "sangria": {
+                "Price": 600.0
+            },
+            "michelada": {
+                "Price": 900.0
+            },
+            "chelada": {
+                "Price": 500.0
+            },
+            "margarita": {
+                "Price": 550.0
+            },
+            "red label": {
+                "Price": 550.0
+            },
+            "old pard": {
+                "Price": 950.0
+            },
+            "jamerson": {
+                "Price": 600.0
+            },
+            "tequila": {
+                "Price": 450.0
+            },
+            "tequila reposado": {
+                "Price": 500.0
+            },
+            "seleccion maestro": {
+                "Price": 1150.0
+            },
+            "pacto navio": {
+                "Price": 1150.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,489 @@
+{
+    "Name": "Havana Center",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "52946230",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00 - 22:00"],
+        "Tuesday":  ["08:00 - 22:00"],
+        "Wednesday": ["08:00 - 22:00"],
+        "Thursday": ["08:00 - 22:00"],
+        "Friday":   ["08:00 - 22:00"],
+        "Saturday": ["08:00 - 22:00"],
+        "Sunday":   null
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Lagunas",
+        "Coordinates": "4JRH+2VW"
+        },
+
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast":{
+            "Egg":{
+                "Huevo revuelto Natural":{
+                    "Price": 500
+                },
+                "Huevo revuelto con Vegetales.":{
+                    "Price": 550
+                },
+                "Huevo revuelto con Queso":{
+                    "Price": 600
+                },
+                "Huevo revuelto con Jamón":{
+                    "Price": 600
+                },
+                "Huevo revuelto con Jamón y Queso":{
+                    "Price": 650
+                }
+            },
+            "Tortilla":{
+                "Tortilla Natural":{
+                    "Price": 425
+                },
+                "Tortilla con Vegetales":{
+                    "Price": 475
+                },
+                "Tortilla con Queso":{
+                    "Price": 475
+                },
+                "Tortilla con Jamón":{
+                    "Price": 475
+                },
+                "Tortilla con Jamón y Queso":{
+                    "Price": 540
+                }
+            },
+            "Hamburguer":{
+                "Hamburguesas sencillas":{
+                    "Price": 380
+                },
+                "Hamburguesas con Vegetales":{
+                    "Price": 400
+                },
+                "Hamburguesas con Queso":{
+                    "Price": 450
+                },
+                "Hamburguesas con Jamón":{
+                    "Price": 460
+                },
+                "Hamburguesas con Jamón y Queso":{
+                    "Price": 500
+                },
+                "Hamburguesas Súper":{
+                    "Price": 750
+                },
+                "Hamburguesas Súper al Burro":{
+                    "Price": 850
+                }
+            },
+            "Sandwich":{
+                "Sándwich de Jamón":{
+                    "Price": 300
+                },
+                "Sándwich de Jamón y Queso":{
+                    "Price": 350
+                },
+                "Pan con Lechón":{
+                    "Price": 600
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers":{
+            "Croquetas de la casa":{
+                "Price": 750
+            },
+            "Bolitas de Queso":{
+                "Price": 750
+            },
+            "Fajitas de Pollo":{
+                "Price": 1300
+            },
+            "Fajitas de Cerdo":{
+                "Price": 1500
+            },
+            "Quesadilla de Pollo":{
+                "Price": 1100
+            },
+            "Quesadilla de Cerdo":{
+                "Price": 1300
+            },
+            "Tostones Chatinos":{
+                "Price": 400
+            },
+            "Tostones Rellenas con jamón y queso":{
+                "Price": 750 
+            },
+            "Tostones Rellenos con atún":{
+                "Price": 1200
+            },
+            "Dedos de Queso":{
+                "Price": 750
+            }
+        },
+        "Main_Courses":{
+            "Pasta":{
+                "Espaguetis Napolitano":{
+                    "price": 800
+                },
+                "Espaguetis con Jamón":{
+                    "price": 850
+                },
+                "Espaguetis De la Casa":{
+                    "price": 1000
+                }
+            },
+            "Pizza":{
+                "Pizza Napolitana":{
+                    "price": 750
+                },
+                "Pizza Jamón":{
+                    "price": 900
+                },
+                "Pizza Cebolla":{
+                    "price": 900
+                },
+                "Pizza Vegetales":{
+                    "price": 1000
+                },
+                "Pizza hawaiana":{
+                    "price": 1200
+                }
+            },
+            "Pork":{
+                "Lomo ahumado":{
+                    "price": 1400
+                },
+                "Bistec de Cerdo":{
+                    "price": 1500
+                },
+                "Bistec de Cerdo encebollado":{
+                    "price": 1550
+                },
+                "Bistec de Cerdo Milanesa":{
+                    "price": 1650
+                },
+                "Fajitas de Cerdo encebollado":{
+                    "price": 1600
+                },
+                "Fajitas de Cerdo a la Campesina":{
+                    "price": 1600
+                },
+                "Fajitas de Cerdo empanadas":{
+                    "price": 1600
+                },
+                "Ropa vieja de Cerdo":{
+                    "price": 1600
+                },
+                "Lonjas de Cerdo asado":{
+                    "price": 1600
+                },
+                "Masa de Cerdo Frita":{
+                    "price": 1850
+                },
+                "Bistec de Cerdo Uruguayo":{
+                    "price": 1800
+                },
+                "Fricase de Cerdo":{
+                    "price": 1850
+                },
+                "Chuleta de Cerdo":{
+                    "price": 1600
+                },
+                "Solomillo al jugo":{
+                    "price": 1850
+                },
+                "Fricase de costilla de cerdo":{
+                    "price": 1800
+                },
+                "Chuleton de cerdo asado":{
+                    "price": 2300
+                },
+                "Chuleton de cerdo asado con cebolla":{
+                    "price": 2500
+                },
+                "Chuleton de cerdo gratinado con queso":{
+                    "price": 2800
+                }
+            },
+            "Chicken":{
+                "Bistec de Pollo grille":{
+                    "price": 1250
+                },
+                "Bistec de Pollo encebollado":{
+                    "price": 1300
+                },
+                "Bistec Gordon blue":{
+                    "price": 1700
+                },
+                "Fajitas de Pollo a la Pinha":{
+                    "price": 1300
+                },
+                "Fajitas de Pollo a la Campesina":{
+                    "price": 1350
+                },
+                "Fajitas de Pollo empanadas":{
+                    "price": 1400
+                },
+                "Fajitas de Pollo encebollado":{
+                    "price": 1350
+                },
+                "Pollo asado":{
+                    "price": 1500
+                },
+                "Pollo Frito":{
+                    "price": 1500
+                }
+            },
+            "Beef":{
+                "Fricase de res":{
+                    "price": 2300
+                },
+                "Bistec Uruguayo":{
+                    "price": 2300
+                }
+            },
+            "Sea":{
+                "Pescado Frito entero":{
+                    "price": 2000
+                },
+                "Filete de Pescado Grille":{
+                    "price": 1200
+                },
+                "Filete de Pescado Encebollado":{
+                    "price": 1250
+                },
+                "Filete de Pescado CANCILLER":{
+                    "price": 1400
+                },
+                "Ceviche":{
+                    "price": 1350
+                },
+                "Langosta enchilada":{
+                    "price": 2500
+                },
+                "Langosta a la diabla":{
+                    "price": 2800
+                },
+                "Tabla del mar":{
+                    "price": 2500
+                },
+                "Eperlan":{
+                    "price": 1400
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras":{
+            "Arroz moro":{
+                "price": 350
+            },
+            "Arroz":{
+                "price": 300
+            },
+            "Vianda Frita":{
+                "price": 350
+            },
+            "Vegetales salteados":{
+                "price": 350
+            },
+            "Arroz amarillo":{
+                "price": 350
+            },
+            "Papas fritas":{
+                "price": 600
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages":{
+            "Agua Natural Ciego Montero / Natural 500ml":{
+                "Price": 150
+            },
+            "Agua Natural Ciego Montero / Natural 1500ml":{
+                "Price": 300
+            },
+            "Jugos Naturales":{
+                "Price": 250
+            },
+            "Batidos frutas Naturales":{
+                "Price": 400
+            },
+            "Jugos de cajitas":{
+                "Price": 260
+            },
+            "Refrescos":{
+                "Price": 300
+            },
+            "Refrescos Nacionales":{
+                "Price": 260
+            },
+            "Maltas Nacionales ":{
+                "Price": 300
+            },
+            "Maltas importadas":{
+                "Price": 320
+            },
+            "Malteada/ malta con leche":{
+                "Price": 500
+            },
+            "Energizantes":{
+                "Price": 300
+            },
+            "Cerveza Nacional":{
+                "Price": 300
+            },
+            "Cerveza Importada":{
+                "Price": 250
+            },
+            "Licor triple":{
+                "Price": 150
+            },
+            "Licor de menta":{
+                "Price": 150
+            },
+            "Licor de Granadina":{
+                "Price": 250
+            },
+            "Licor de Cacao":{
+                "Price": 150
+            },
+            "Licor de Curasao":{
+                "Price": 250
+            },
+            "Cremas":{
+                "Price": 350
+            },
+            "Beefeather":{
+                "Price": 350
+            },
+              "Aguardiente":{
+                "Price": 250
+            },
+            "Chivas Regal 12 anhos":{
+                "Price": 300
+            },
+            "Black & White":{
+                "Price": 350
+            },
+            "Ballentine's":{
+                "Price": 350
+            },
+            "Ballentine's 12 anhos":{
+                "Price": 400
+            },
+            "Jameson":{
+                "Price": 350 
+            },
+            "Clan Campbell":{
+                "Price": 400
+            },
+            "Old Partner":{
+                "Price": 180
+            },
+            "Blend Seven":{
+                "Price": 200
+            },
+            "Samarskaya":{
+                "Price": 250
+            },
+            "Iganoff":{
+                "Price": 200
+            },
+            "Kriloff red":{
+                "Price": 200
+            },
+            "Kriloff Black":{
+                "Price": 200
+            },
+            "Absolut":{
+                "Price": 450
+            },
+              "Tequila Especial":{
+                "Price": 600
+            },
+            "Olmeca Reposado":{
+                "Price": 600
+            },
+            "Tequila Silver":{
+                "Price": 450
+            },
+              "Limonada":{
+                "Price": 250
+            },
+            "Cherry Temple":{
+                "Price": 250
+            },
+            "San Francisco":{
+                "Price": 350
+            },
+            "Pinha colada":{
+                "Price": 450
+            },
+            "Cuba libre":{
+                "Price": 450
+            },
+            "Sangría":{
+                "Price": 450
+            },
+            "Mojito":{
+                "Price": 450
+            },
+            "Cubata":{
+                "Price": 450
+            },
+            "Gin Tonic ":{
+                "Price": 500
+            },
+            "Vodka Tonic":{
+                "Price": 500
+            },
+            "Screw Driver":{
+                "Price": 450
+            },
+            "Caipirinha":{
+                "Price": 450
+            },
+            "Caipiroska":{
+                "Price": 450
+            },
+            "Daiquiri":{
+                "Price": 500
+            }
+        },
+        "most_sold":{
+            "Dish":["Bistec de cerdo", "Langosta"],
+            "Drink":["Cerveza importada"]
+        },
+        "least_sold":{
+            "Dish":["Pollo"],
+            "Drink":["Whiskey"]
+        }
+    },
+    "Other_info":{
+    "Entertainment": ["Musica grabada"],
+    "Facilities": null,
+    "Payments_Options": {
+        "Cash": true,
+        "Credit_Card": false,
+        "Mobile_Payment": true
+        },
+        "Accepted_Currencies":{
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }   
+    }   
+}

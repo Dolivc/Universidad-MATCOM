@@ -1,0 +1,256 @@
+{
+    "Name": "La Baronesa",
+    "Type": "Restaurante",
+    "Phone_Number":null,
+    "Web_Page":null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00 - 22:00"],
+        "Tuesday":  ["08:00 - 22:00"],
+        "Wednesday": ["08:00 - 22:00"],
+        "Thursday": ["08:00 - 22:00"],
+        "Friday":   ["08:00 - 22:00"],
+        "Saturday": ["08:00 - 22:00"],
+        "Sunday":   ["08:00 - 22:00"]
+        },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Lagunas",
+        "Coordinates": "4JRH+3x3"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                "Frito natural": {
+                    "Price": 450
+                },
+                "Revuelto con vegetales": {
+                    "Price": 500
+                },
+                "Revuelto con jamón": {
+                    "Price": 550
+                },
+                "Revuelto con queso": {
+                    "Price": 550
+                },
+                "Revuelto con jamón y queso": {
+                    "Price": 600
+                }
+            },
+            "Tortilla": {
+                "Natural": {
+                    "Price": 330
+                },
+                "Con vegetales": {
+                    "Price": 380
+                },
+                "Con queso": {
+                    "Price": 400
+                },
+                "Con jamón": {
+                    "Price": 400
+                },
+                "Con jamón y queso": {
+                    "Price": 450
+                }
+            },
+            "Hamburguer": {
+                "Sencilla": {
+                    "Price": 300
+                },
+                "con Vegetales": {
+                    "Price": 350
+                },
+                "con jamon": {
+                    "Price": 400
+                },
+                "con Queso": {
+                    "Price": 400
+                },
+                "con Jamón y queso": {
+                    "Price": 500
+                },
+                "Súper": {
+                    "Price": 650
+                },
+                "Súper al burro ": {
+                    "Price": 800
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Pan con Bistec Pollo": {
+                    "Price": 600
+                },
+                "Pan con Bistec Cerdo": {
+                    "Price": 750
+                },
+                "Pan con Jamón y Queso": {
+                    "Price": 350
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la Casa": {
+                "Price": 600
+            },
+            "Croquetas con Jamón y Queso": {
+                "Price": 750
+            },
+            "Fajitas de Jamón y queso": {
+                "Price": 950
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 1500
+                },
+                "Bistec de cerdo encebollado": {
+                    "Price": 1550
+                },
+                "Cerdo a la campesina (picante)-": {
+                    "Price": 1550
+                },
+                "Ropa vieja ": {
+                    "Price": 1650
+                },
+                "Fajitas con vegetales": {
+                    "Price": 1550
+                },
+                "Fajitas empanizadas": {
+                    "Price": 1600
+                },
+                "Lonjas de cerdo": {
+                    "Price": 1500
+                },
+                "Lomo ahumado": {
+                    "Price": 1350
+                },
+                "Fricase de cerdo ": {
+                    "Price": 1850
+                },
+                "Solomillo al jugo": {
+                    "Price": 1750
+                },
+                "Bistec uruguayo": {
+                    "Price": 1800
+                },
+                "Chuleton de Cerdo": {
+                    "Price": 1850
+                }
+            },
+            "Chicken": {
+                "Chiflado": {
+                    "Price": 750
+                },
+                "Parrilla Bistec": {
+                    "Price": 1200
+                },
+                "A la campesina": {
+                    "Price": 1250
+                },
+                "Fajitas con vegetales": {
+                    "Price": 1250
+                },
+                "Fajitas empanizadas": {
+                    "Price": 1350
+                }
+            },
+            "Beef": {
+                "Fricasé de Res": {
+                    "Price": 2300
+                },
+                "Ropa Vieja de Res": {
+                    "Price": 2300
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 1500
+                },
+                "Camarones": {
+                    "Price": 1600
+                },
+                "Langosta": {
+                    "Price": 2500
+                },
+                "Canciller": {
+                    "Price": 1800
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Vegetales salteados": {
+                "Price": 350
+            },
+            "Moro": {
+                "Price": 250
+            },
+            "Fritura de Vianda": {
+                "Price": 350
+            },
+            "Tostones": {
+                "Price": 450
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Expreso": {
+                "Price": 100
+            },
+            "Cortadito": {
+                "Price": 150
+            },
+            "Americano": {
+                "Price": 150
+            },
+            "Con Leche": {
+                "Price": 200
+            },
+            "Capuchino": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": ["Bistec de cerdo"],
+            "Drink": ["Jugos"]
+        },
+        "least_sold": {
+            "Dish": ["Pollo"],
+            "Drink": ["Cerveza"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

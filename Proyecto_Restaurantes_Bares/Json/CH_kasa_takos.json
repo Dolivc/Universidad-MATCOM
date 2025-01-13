@@ -1,0 +1,530 @@
+{
+    "Name": "Kasa Takos",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "https://beacons.ai/kasatakos",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-30"
+        ],
+        "Tuesday": [
+            "1200-30"
+        ],
+        "Wednesday": [
+            "1200-30"
+        ],
+        "Thursday": [
+            "1200-30"
+        ],
+        "Friday": [
+            "1200-30"
+        ],
+        "Saturday": [
+            "1200-30"
+        ],
+        "Sunday": [
+            "1200-30"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Nachos": {
+                "Price": 400
+            },
+            "Tostones rellenos r.v": {
+                "Price": 800
+            },
+            "Frituras de malanga": {
+                "Price": 500
+            },
+            "Tostones rellenos camaron": {
+                "Price": 900
+            },
+            "Croquetas de la casa": {
+                "Price": 600
+            },
+            "Pozole": {
+                "Price": 700
+            },
+            "Tostones rellenos jsm": {
+                "Price": 700
+            },
+            "Pica pica que rico": {
+                "Price": 1600
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Bistec grille de cerdo encebollado": {
+                    "Price": 1300
+                },
+                "Fajitas de cerdo salteadas": {
+                    "Price": 1400
+                },
+                "Solomillo de cerdo": {
+                    "Price": 2000
+                },
+                "Ranchero de cerdo": {
+                    "Price": 1800
+                },
+                "Rollo de la casa (cerdo)": {
+                    "Price": 1850
+                }
+            },
+            "Chicken": {
+                "Bistec de pechuga de pollo al graten": {
+                    "Price": 1400
+                },
+                "Bistec grille de pollo": {
+                    "Price": 900
+                },
+                "Pollo a la mexicana": {
+                    "Price": 950
+                },
+                "Fajitas de pollo salteadas": {
+                    "Price": 1000
+                },
+                "Ranchero de pollo": {
+                    "Price": 1200
+                }
+            },
+            "Beef": {
+                "Solomillo de res": {
+                    "Price": 2000
+                },
+                "Vaca frita": {
+                    "Price": 1250
+                },
+                "Ropa vieja": {
+                    "Price": 1400
+                },
+                "Bistec de res encebollado": {
+                    "Price": 1600
+                },
+                "Rollo de la casa (res)": {
+                    "Price": 2000
+                }
+            },
+            "Sea": {
+                "Ajillo de pescado": {
+                    "Price": 1400
+                },
+                "Enchilado de pescado": {
+                    "Price": 1500
+                },
+                "John ville": {
+                    "Price": 2000
+                },
+                "Grille de camaron": {
+                    "Price": 1700
+                },
+                "Ajillo de camaron": {
+                    "Price": 2000
+                },
+                "Enchilado de camaron": {
+                    "Price": 1850
+                },
+                "Grille de pescado": {
+                    "Price": 1300
+                },
+                "Grille de langosta": {
+                    "Price": 1700
+                },
+                "Ajillo de langosta": {
+                    "Price": 2000
+                },
+                "Enchilado de langosta": {
+                    "Price": 1850
+                },
+                "Termidor": {
+                    "Price": 2200
+                }
+            },
+            "Other": {
+                "Rollo de la casa (res)": {
+                    "Price": 2000
+                },
+                "Tacos de vegetales": {
+                    "Price": 800
+                },
+                "Tacos de pollo": {
+                    "Price": 950
+                },
+                "Tacos de carnita": {
+                    "Price": 1000
+                },
+                "Tacos de ropa vieja": {
+                    "Price": 1100
+                },
+                "Tacos de cochinita": {
+                    "Price": 1100
+                },
+                "Tacos al pastor": {
+                    "Price": 1200
+                },
+                "Tacos de camaron": {
+                    "Price": 1600
+                },
+                "Tacos de langosta": {
+                    "Price": 1600
+                },
+                "Takos combinados": {
+                    "Price": 1600
+                },
+                "Quesadillas de vegetales": {
+                    "Price": 850
+                },
+                "Quesadillas de pollo": {
+                    "Price": 1000
+                },
+                "Quesadillas de carnita": {
+                    "Price": 1050
+                },
+                "Quesadillas de ropa vieja": {
+                    "Price": 1150
+                },
+                "Quesadillas de cochinita": {
+                    "Price": 1150
+                },
+                "Quesadillas al pastor": {
+                    "Price": 1250
+                },
+                "Quesadillas de camaron": {
+                    "Price": 1650
+                },
+                "Quesadillas de langosta": {
+                    "Price": 1650
+                },
+                "Burritos de vegetales": {
+                    "Price": 900
+                },
+                "Burritos de pollo": {
+                    "Price": 1150
+                },
+                "Burritos de carnita": {
+                    "Price": 1100
+                },
+                "Burritos de ropa vieja": {
+                    "Price": 1200
+                },
+                "Burritos de cochinita": {
+                    "Price": 1200
+                },
+                "Burritos al pastor": {
+                    "Price": 1300
+                },
+                "Burritos de camaron": {
+                    "Price": 1700
+                },
+                "Burritos de langosta": {
+                    "Price": 1700
+                },
+                "Chimichangas de vegetales": {
+                    "Price": 920
+                },
+                "Chimichangas de pollo": {
+                    "Price": 1170
+                },
+                "Chimichangas de carnita": {
+                    "Price": 1120
+                },
+                "Chimichangas de ropa vieja": {
+                    "Price": 1220
+                },
+                "Chimichangas de cochinita": {
+                    "Price": 1220
+                },
+                "Chimichangas al pastor": {
+                    "Price": 1320
+                },
+                "Chimichangas de camaron": {
+                    "Price": 1720
+                },
+                "Chimichangas de langosta": {
+                    "Price": 1720
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 150
+            },
+            "Arroz moro": {
+                "Price": 250
+            },
+            "Vegetales": {
+                "Price": 400
+            },
+            "Vianda frita": {
+                "Price": 450
+            }
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 350
+            },
+            "Postre de la casa": {
+                "Price": 250
+            }
+        },
+        "Beverages": {
+            "Agua natural 1.5 l": {
+                "Price": 350
+            },
+            "Agua natural 500 ml": {
+                "Price": 250
+            },
+            "Energizante": {
+                "Price": 500
+            },
+            "Refrescos pepsy y 7up": {
+                "Price": 300
+            },
+            "Refresco santa": {
+                "Price": 250
+            },
+            "Limonada natural": {
+                "Price": 300
+            },
+            "Limonada clarete": {
+                "Price": 450
+            },
+            "Jugos naturales": {
+                "Price": 300
+            },
+            "Limonada frappe": {
+                "Price": 300
+            },
+            "Limonada frescura": {
+                "Price": 400
+            },
+            "Cerveza cristal": {
+                "Price": 350
+            },
+            "Cerveza heineken": {
+                "Price": 540
+            },
+            "Cerveza krombacher": {
+                "Price": 250
+            },
+            "Cerveza 8.6": {
+                "Price": 370
+            },
+            "Mojito": {
+                "Price": 450
+            },
+            "Ron collins": {
+                "Price": 400
+            },
+            "Mojito saborizado": {
+                "Price": 500
+            },
+            "Cubata": {
+                "Price": 500
+            },
+            "Canchanchara": {
+                "Price": 400
+            },
+            "Daiquiri": {
+                "Price": 450
+            },
+            "Havana especial": {
+                "Price": 500
+            },
+            "Daiquiri saborizado": {
+                "Price": 500
+            },
+            "Mary pickford": {
+                "Price": 400
+            },
+            "Cuba libre": {
+                "Price": 450
+            },
+            "Margarita": {
+                "Price": 600
+            },
+            "Caipirinha": {
+                "Price": 400
+            },
+            "Gold margarita": {
+                "Price": 700
+            },
+            "Caipiroska": {
+                "Price": 450
+            },
+            "Calimocho": {
+                "Price": 400
+            },
+            "Caipirissima": {
+                "Price": 450
+            },
+            "Gin tonic": {
+                "Price": 1300
+            },
+            "Screw driver": {
+                "Price": 400
+            },
+            "Vodka tonic": {
+                "Price": 650
+            },
+            "Servicio chelada": {
+                "Price": 200
+            },
+            "Blue lagoon": {
+                "Price": 600
+            },
+            "Servicio michelada": {
+                "Price": 250
+            },
+            "Sangria": {
+                "Price": 500
+            },
+            "Tinto de verano": {
+                "Price": 600
+            },
+            "Pinha colada": {
+                "Price": 600
+            },
+            "Vino tinto": {
+                "Price": 1000
+            },
+            "Black tears aguardiente": {
+                "Price": 200
+            },
+            "Hab club anhejo 7 anhos": {
+                "Price": 500
+            },
+            "Black tears super dry": {
+                "Price": 260
+            },
+            "Ron santiago 11 anhos": {
+                "Price": 750
+            },
+            "Black tears dry spiced": {
+                "Price": 300
+            },
+            "Ron santiago 12 anhos": {
+                "Price": 800
+            },
+            "Hab club anhejo reserva": {
+                "Price": 300
+            },
+            "Pacto navio": {
+                "Price": 950
+            },
+            "Hab club ritual": {
+                "Price": 500
+            },
+            "Olmeca blanco": {
+                "Price": 400
+            },
+            "Dark chocolate": {
+                "Price": 500
+            },
+            "Olmeca reposado": {
+                "Price": 500
+            },
+            "Viuda de romero": {
+                "Price": 500
+            },
+            "Johnnie walker red label": {
+                "Price": 750
+            },
+            "Black & white whisky": {
+                "Price": 500
+            },
+            "Brandy torre 10": {
+                "Price": 400
+            },
+            "Vermouth blanco": {
+                "Price": 250
+            },
+            "Brandy torre 15": {
+                "Price": 450
+            },
+            "Vermouth rosso": {
+                "Price": 250
+            },
+            "Ginebra": {
+                "Price": 300
+            },
+            "Vodka": {
+                "Price": 250
+            },
+            "Cafe express": {
+                "Price": 150
+            },
+            "Cafe americano": {
+                "Price": 150
+            },
+            "Cafe cortado": {
+                "Price": 170
+            },
+            "Cafe con leche": {
+                "Price": 350
+            },
+            "Cafe capuccino": {
+                "Price": 350
+            },
+            "Cafe frapuccino": {
+                "Price": 350
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

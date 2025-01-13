@@ -1,0 +1,124 @@
+{
+    "Name": "El Balcon de los hermanos",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["10:00-11:00"],
+        "Tuesday":  ["10:00-11:00"],
+        "Wednesday": ["10:00-11:00"],
+        "Thursday": ["10:00-11:00"],
+        "Friday":   ["10:00-11:00"],
+        "Saturday": ["10:00-11:00"],
+        "Sunday":   ["10:00-11:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo",
+        "Coordinates": "4JRW+2M"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napoles": {
+                    "Price": 1700
+                },
+                "Pasta del mar": {
+                    "Price": 2500
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Mixto de cerdo y pollo con vegetales": {
+                    "Price": 2900
+                }
+            },
+            "Chicken": {
+                "Fajitas de pollo": {
+                    "Price": 2500
+                },
+                "Pollo dos hermanos": {
+                    "Price": 2600
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Mixto grille de langosta y camarones": {
+                    "Price": 2900
+                },
+                "Mixto de langosta y pescado": {
+                    "Price": 3000
+                },
+                "Langosta": {
+                    "Price": 3500
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz con vegetales": {
+                "Price": 1900
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": ["Salteado de res"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Pollo"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

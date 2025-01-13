@@ -1,0 +1,230 @@
+{
+    "Name": "Berkana",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "Berkana",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["09:00-22:00"],
+        "Tuesday":  ["09:00-22:00"],
+        "Wednesday": ["09:00-22:00"],
+        "Thursday": ["09:00-22:00"],
+        "Friday":   ["09:00-22:00"],
+        "Saturday": ["09:00-22:00"],
+        "Sunday":   ["09:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo y obrapia",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Ceviche de pescado": {
+                "Price": 2440
+            },
+            "Cebiche de camaron": {
+                "Price": 2450
+            },
+            "Tostones rellenos": {
+                "Price": 1515
+            },
+            "Crema virginia": {
+                "Price": 1830
+            },
+            "Crema de queso": {
+                "Price": 1715
+            },
+            "Crema de jamon y queso": {
+                "Price": 1770
+            },
+            "Ensalada de vegetales": {
+                "Price": 300
+            },
+            "Sopa marinera": {
+                "Price": 3020
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti con queso": {
+                    "Price": 1340
+                },
+                "Espaguetti de jamon y queso": {
+                    "Price": 2080
+                },
+                "Espaguetti frutos del mar": {
+                    "Price": 3790
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo a la criolla(arroz, vianda hervida y ensalada de vegetal)": {
+                    "Price": 3300
+                },
+                "Bistec de cerdo al grill": {
+                    "Price": 2520
+                },
+                "Escalope de cerdo con  cebolla": {
+                    "Price": 3100
+                },
+                "Bistec de cerdo empanado": {
+                    "Price": 2940
+                },
+                "Bistec de cerdo a la roca": {
+                    "Price": 3730
+                }
+            },
+            "Chicken": {
+                "Pierna de pollo grille (arroz, vianda hervida y ensalada de vegetal)": {
+                    "Price": 2800
+                },
+                "Suprema de pollo grille": {
+                    "Price": 1760
+                },
+                "Milanesa de pollo": {
+                    "Price": 2420
+                },
+                "Suprema de pollo napada  con queso": {
+                    "Price": 3200
+                }
+            },
+            "Beef": {
+                "Milanesa de res": {
+                    "Price": 3300
+                },
+                "Bistec de res con cebolla": {
+                    "Price": 3150
+                },
+                "Ropa vieja": {
+                    "Price": 2370
+                }
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2820
+                },
+                "Enchilado de pescado": {
+                    "Price": 3360
+                },
+                "Filete de pescado empanado": {
+                    "Price": 3300
+                },
+                "Camarones grille": {
+                    "Price": 2820
+                },
+                "Camarones al ajillo": {
+                    "Price": 3180
+                },
+                "Camarones en salsa criolla": {
+                    "Price": 3200
+                },
+                "Langosta grille": {
+                    "Price": 2670
+                },
+                "Langosta en salsa napada con queso": {
+                    "Price": 3650
+                }
+            },
+            "Other":{
+                    "Chilindron de cordero":{
+                    "Price": 4400
+                },
+                "Cordero mechado":{
+                    "Price": 3720
+                },
+                "Cordero en salsa demi glase":{
+                    "Price": 3020
+                }
+            }
+        },
+        "Extras": {
+            "Tostones rellenos": {
+                "Price": 850
+            },
+            "Tostones tradicionales": {
+                "Price": 700
+            },
+            "Vianda hervida a la criolla": {
+                "Price": 560
+            },
+            "Arroz moro": {
+                "Price": 580
+            },
+            "Arroz blanoc": {
+                "Price": 380
+            },
+            "Arroz con vegetales": {
+                "Price": 690
+            },
+            "Arroz pilaf": {
+                "Price": 580
+            }
+        },
+        "Desserts": {
+            "Flan de leche": {
+                "Price": 750
+            },
+            "Bolas de helado con sirope": {
+                "Price": 650
+            },
+            "Criollo cubano": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Cafe express": {
+                "Price": 275
+            },
+            "Rocio de gallo": {
+                "Price": 440
+            }
+        },
+        "most_sold": {
+            "Dish": ["Ropa vieja","Paella"],
+            "Drink": ["Cerveza Cristal"]
+        },
+        "least_sold": {
+            "Dish": ["Pollo"],
+            "Drink": ["Cerveza importada"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo","Musica grabada"],
+        "Facilities": ["Sillas de ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

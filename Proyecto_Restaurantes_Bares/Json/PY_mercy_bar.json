@@ -1,0 +1,570 @@
+{
+    "Name": "Mercy bar",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "linktr.ee/mercybarcafe",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Pan baguette": {
+                "Price": 250
+            },
+            "Croquetas del dia (8u)": {
+                "Price": 800
+            },
+            "Ensalada de vegetales": {
+                "Price": 500
+            },
+            "Mariquitas de pollo": {
+                "Price": 1200
+            },
+            "Bolitas de queso (8u)": {
+                "Price": 950
+            },
+            "Yuca rellena": {
+                "Price": 1500
+            },
+            "Tacos del dia (3u)": {
+                "Price": 1500
+            },
+            "Pollo picaro": {
+                "Price": 1600
+            },
+            "Tabla de embutidos": {
+                "Price": 1900
+            },
+            "Tacos mercy": {
+                "Price": 2100
+            },
+            "Tabla de queso": {
+                "Price": 2600
+            },
+            "Eperlan": {
+                "Price": 2600
+            },
+            "Ceviche": {
+                "Price": 2500
+            },
+            "Pescadilla": {
+                "Price": 2800
+            },
+            "Entrepan con atun": {
+                "Price": 1200
+            },
+            "Entrepan cubano": {
+                "Price": 1400
+            },
+            "Entrepan serrano": {
+                "Price": 2200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Canelon de pollo": {
+                    "Price": 1400
+                },
+                "Lasagna de jamon": {
+                    "Price": 1600
+                },
+                "Pasta mercy": {
+                    "Price": 2800
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1300
+                },
+                "Pizza de jamon": {
+                    "Price": 1500
+                },
+                "Pizza de chorizo": {
+                    "Price": 150
+                },
+                "Pizza hawaiana": {
+                    "Price": 1500
+                },
+                "Pizza de vegetales": {
+                    "Price": 1500
+                },
+                "Pizza de aceitunas": {
+                    "Price": 1500
+                },
+                "Pizza de atun": {
+                    "Price": 1600
+                },
+                "Pizza familiar": {
+                    "Price": 2200
+                },
+                "Pizza mercy": {
+                    "Price": 3000
+                },
+                "Pizza serrano": {
+                    "Price": 3200
+                }
+            },
+            "Pork": {
+                "Fajitas de cerdo": {
+                    "Price": 1800
+                },
+                "Masas de cerdo": {
+                    "Price": 1800
+                },
+                "Lomo ahumado": {
+                    "Price": 2100
+                },
+                "Gordon blue de cerdo": {
+                    "Price": 3200
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 1700
+                }
+            },
+            "Beef": {
+                "Ropa vieja de res": {
+                    "Price": 2600
+                },
+                "Brochetas al hornillo": {
+                    "Price": 2900
+                }
+            },
+            "Sea": {
+                "Pescado frito entero": {
+                    "Price": 3300
+                },
+                "Filete de pescado": {
+                    "Price": 2600
+                },
+                "Mariscos al gusto": {
+                    "Price": 3500
+                }
+            },
+            "Other": {
+                "Menu ejecutivo (entrante, plato fuerte, jugo/vaso cerveza, cafe)": {
+                    "Price": 3500
+                },
+                "Parrillada criolla": {
+                    "Price": 4700
+                },
+                "Parrillada marinera": {
+                    "Price": 7300
+                },
+                "Parrillada mixta": {
+                    "Price": 8700
+                },
+                "Risotto": {
+                    "Price": 2900
+                },
+                "Estofado de cordero": {
+                    "Price": 3000
+                },
+                "Rabo encendido": {
+                    "Price": 3000
+                },
+                "Arroz frito": {
+                    "Price": 1350
+                },
+                "Garbanzo frito": {
+                    "Price": 1400
+                },
+                "Mixto mercy": {
+                    "Price": 3450
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tarta nata": {
+                "Price": 600
+            },
+            "Bola jimagua": {
+                "Price": 750
+            },
+            "Dulce de tres leche": {
+                "Price": 900
+            }
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 280
+            },
+            "Agua gaseada": {
+                "Price": 300
+            },
+            "Agua gaseada importada": {
+                "Price": 750
+            },
+            "Agua t\u00f3nica importada": {
+                "Price": 590
+            },
+            "Refresco lata": {
+                "Price": 400
+            },
+            "Redbull": {
+                "Price": 650
+            },
+            "Malta": {
+                "Price": 450
+            },
+            "Malteada": {
+                "Price": 600
+            },
+            "Jugos naturales": {
+                "Price": 250
+            },
+            "Limonada frappe": {
+                "Price": 400
+            },
+            "Long island": {
+                "Price": 700
+            },
+            "Screwdriver": {
+                "Price": 750
+            },
+            "Mojito": {
+                "Price": 750
+            },
+            "Daiquiri": {
+                "Price": 750
+            },
+            "Gin tonic": {
+                "Price": 750
+            },
+            "Vodka tonic": {
+                "Price": 975
+            },
+            "Pi\u00f1a colada": {
+                "Price": 750
+            },
+            "Caipirisima": {
+                "Price": 750
+            },
+            "Caipiroska": {
+                "Price": 750
+            },
+            "Blody mary": {
+                "Price": 750
+            },
+            "Mary pickfor": {
+                "Price": 750
+            },
+            "Tequila sunrise": {
+                "Price": 900
+            },
+            "Cuba libre": {
+                "Price": 750
+            },
+            "Shot jager meister": {
+                "Price": 750
+            },
+            "Daiquiri sabor": {
+                "Price": 1000
+            },
+            "Margarita": {
+                "Price": 850
+            },
+            "Margarita sabor": {
+                "Price": 1000
+            },
+            "Canchanchara con santiago 8 a\u00f1os": {
+                "Price": 850
+            },
+            "Sanria": {
+                "Price": 850
+            },
+            "Tinto de verano": {
+                "Price": 850
+            },
+            "Sangira blanca": {
+                "Price": 850
+            },
+            "Martini": {
+                "Price": 900
+            },
+            "Campari orange": {
+                "Price": 900
+            },
+            "Cubanito": {
+                "Price": 1000
+            },
+            "Aperol sprite": {
+                "Price": 1300
+            },
+            "Beer beer": {
+                "Price": 1200
+            },
+            "Jager bomb": {
+                "Price": 1200
+            },
+            "Ciroc": {
+                "Price": 780
+            },
+            "Rones santiago blanco": {
+                "Price": 600
+            },
+            "Santiago a\u00f1ejo 8 a\u00f1os": {
+                "Price": 650
+            },
+            "Santiago a\u00f1ejo 11 a\u00f1os": {
+                "Price": 1000
+            },
+            "Santiago a\u00f1ejo 12 a\u00f1os": {
+                "Price": 1200
+            },
+            "Black and white": {
+                "Price": 500
+            },
+            "Johnnie walker red label": {
+                "Price": 700
+            },
+            "Johnnie walker black label": {
+                "Price": 1000
+            },
+            "J&b": {
+                "Price": 650
+            },
+            "Buchanan \u201cs master": {
+                "Price": 1000
+            },
+            "Buchanan \u201cs master 18 a\u00f1os": {
+                "Price": 45000
+            },
+            "Jw double black": {
+                "Price": 45000
+            },
+            "Jw gold reserve": {
+                "Price": 65000
+            },
+            "Jw gold 18 a\u00f1os": {
+                "Price": 90000
+            },
+            "Le tribute": {
+                "Price": 750
+            },
+            "Tanqueray": {
+                "Price": 800
+            },
+            "Licor 43": {
+                "Price": 450
+            },
+            "Baileys": {
+                "Price": 690
+            },
+            "Sambuca": {
+                "Price": 690
+            },
+            "Licor frangelico": {
+                "Price": 850
+            },
+            "Tequila del a casa": {
+                "Price": 450
+            },
+            "Cubetazo": {
+                "Price": 1800
+            },
+            "Vaso 240 ml": {
+                "Price": 250
+            },
+            "Jarra 500ml": {
+                "Price": 450
+            },
+            "Servicio chelar o michelar": {
+                "Price": 200
+            },
+            "Cerveza lata": {
+                "Price": 380
+            },
+            "Cerveza cristal": {
+                "Price": 500
+            },
+            "Cerveza stella artois": {
+                "Price": 600
+            },
+            "Vino blanco por copa": {
+                "Price": 850
+            },
+            "Vi\u00f1a esmeralda": {
+                "Price": 4400
+            },
+            "Sangre de toro blanco": {
+                "Price": 4000
+            },
+            "Celeste verdejo": {
+                "Price": 4200
+            },
+            "Vi\u00f1a sol original": {
+                "Price": 4200
+            },
+            "Sangre de toro chardonnay selection": {
+                "Price": 5500
+            },
+            "Grahams fine white port": {
+                "Price": 8800
+            },
+            "Waltraud": {
+                "Price": 9700
+            },
+            "Vino tinto o rose por copa": {
+                "Price": 850
+            },
+            "Santa digna gran reserva": {
+                "Price": 4000
+            },
+            "Sangre de toro rioja": {
+                "Price": 4400
+            },
+            "Altos ib\u00e9ricos crianza": {
+                "Price": 4600
+            },
+            "Torres corona crianza": {
+                "Price": 4600
+            },
+            "Celeste roble": {
+                "Price": 5000
+            },
+            "Jean le\u00f3n 3055 merlot": {
+                "Price": 6700
+            },
+            "Gran corona reserva": {
+                "Price": 6900
+            },
+            "Altos ib\u00e9ricos reserva": {
+                "Price": 7900
+            },
+            "Grahams fine tawny port": {
+                "Price": 8750
+            },
+            "Celeste crianza": {
+                "Price": 9300
+            },
+            "Purgatori": {
+                "Price": 9900
+            },
+            "Secret del priorat": {
+                "Price": 1100
+            },
+            "Zuccardi o malbec": {
+                "Price": 1100
+            },
+            "Mas la plana": {
+                "Price": 38400
+            },
+            "Sangre de toro rose": {
+                "Price": 6800
+            },
+            "Jean le\u00f3n 3055": {
+                "Price": 6800
+            },
+            "Santa digna": {
+                "Price": 4000
+            },
+            "Juve & camps gran reserva": {
+                "Price": 28000
+            },
+            "Vi\u00f1a esmeralda sparkling": {
+                "Price": 5500
+            },
+            "Te frio o caliente": {
+                "Price": 200
+            },
+            "Expresso": {
+                "Price": 400
+            },
+            "Cortado": {
+                "Price": 500
+            },
+            "Americano": {
+                "Price": 400
+            },
+            "Capuchino": {
+                "Price": 700
+            },
+            "Frapuchino": {
+                "Price": 700
+            },
+            "Carajillo": {
+                "Price": 700
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking",
+            "takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

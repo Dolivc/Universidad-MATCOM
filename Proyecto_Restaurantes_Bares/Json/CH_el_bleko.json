@@ -1,0 +1,318 @@
+{
+    "Name": "El Bleko",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1300-200"
+        ],
+        "Tuesday": [
+            "1300-200"
+        ],
+        "Wednesday": [
+            "1300-200"
+        ],
+        "Thursday": [
+            "1300-200"
+        ],
+        "Friday": [
+            "1300-200"
+        ],
+        "Saturday": [
+            "1300-200"
+        ],
+        "Sunday": [
+            "1300-200"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Frituras de malanga": {
+                "Price": 750
+            },
+            "Croquetas mixtas": {
+                "Price": 1050
+            },
+            "Palitos de queso": {
+                "Price": 1100
+            },
+            "Tacos de cerdo": {
+                "Price": 1550
+            },
+            "Tacos de cerdo ahumado": {
+                "Price": 1750
+            },
+            "Tacos de pollo": {
+                "Price": 1450
+            },
+            "Nachos de salsa de queso": {
+                "Price": 900
+            },
+            "Nachos con pollo a la barbacoa": {
+                "Price": 1450
+            },
+            "Alitas de pollo a la barbacoa": {
+                "Price": 1350
+            },
+            "Crostini mixto": {
+                "Price": 950
+            },
+            "Torrejas saladas con cerdo ahumado": {
+                "Price": 1050
+            },
+            "Quesadillas de jamon pierna": {
+                "Price": 1650
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 1250
+                },
+                "Pizza de jamon": {
+                    "Price": 1450
+                },
+                "Pizza de chorizo": {
+                    "Price": 1450
+                }
+            },
+            "Pork": {
+                "Bistec a la plancha": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "Pollo frito": {
+                    "Price": 1500
+                },
+                "Fajita de pechuga de pollo": {
+                    "Price": 2500
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 250
+            },
+            "Santa cola": {
+                "Price": 350
+            },
+            "Santa limon": {
+                "Price": 350
+            },
+            "Santa naranja": {
+                "Price": 350
+            },
+            "Energizante": {
+                "Price": 500
+            },
+            "Caipirisima": {
+                "Price": 650
+            },
+            "Canchanchara": {
+                "Price": 650
+            },
+            "Caipiroska": {
+                "Price": 650
+            },
+            "Caipirinha": {
+                "Price": 650
+            },
+            "Mojito": {
+                "Price": 650
+            },
+            "Cuba libre": {
+                "Price": 650
+            },
+            "Sangria": {
+                "Price": 650
+            },
+            "Margarita": {
+                "Price": 600
+            },
+            "Pinha colada": {
+                "Price": 650
+            },
+            "Old fashion": {
+                "Price": 750
+            },
+            "Laguna azul": {
+                "Price": 650
+            },
+            "Tr reserva": {
+                "Price": 300
+            },
+            "Tr barcelo dorado": {
+                "Price": 400
+            },
+            "Tr barcelo anhejo": {
+                "Price": 450
+            },
+            "Tr ritual": {
+                "Price": 300
+            },
+            "Tr anhejo especial": {
+                "Price": 300
+            },
+            "Tr vat 69": {
+                "Price": 500
+            },
+            "Tr black white": {
+                "Price": 600
+            },
+            "Tr jw black": {
+                "Price": 1500
+            },
+            "Tr jw red": {
+                "Price": 1100
+            },
+            "Tr ballantines": {
+                "Price": 1000
+            },
+            "Tr doble black": {
+                "Price": 1800
+            },
+            "Gin master": {
+                "Price": 650
+            },
+            "Gin master pink": {
+                "Price": 650
+            },
+            "Gin tanqueray": {
+                "Price": 650
+            },
+            "Gin beefarer": {
+                "Price": 550
+            },
+            "Gin johpur reserva": {
+                "Price": 900
+            },
+            "Vodka tonic": {
+                "Price": 500
+            },
+            "Tr ciroc": {
+                "Price": 1000
+            },
+            "Tr ciroc coco": {
+                "Price": 1000
+            },
+            "Tr finlandia": {
+                "Price": 600
+            },
+            "Czech driver": {
+                "Price": 750
+            },
+            "Tequila de la casa": {
+                "Price": 400
+            },
+            "Licores: bailey's": {
+                "Price": 800
+            },
+            "Licores: jagermeister": {
+                "Price": 450
+            },
+            "Licores: jaeger": {
+                "Price": 800
+            },
+            "Copa de vino": {
+                "Price": 500
+            },
+            "Cristal lata": {
+                "Price": 350
+            },
+            "Bucanero lata": {
+                "Price": 350
+            },
+            "Cristal botella": {
+                "Price": 500
+            },
+            "Bucanero botella": {
+                "Price": 500
+            },
+            "Hollandia": {
+                "Price": 300
+            },
+            "Unlaguer": {
+                "Price": 330
+            },
+            "Cafe expreso": {
+                "Price": 250
+            },
+            "Cafe capuccino": {
+                "Price": 400
+            },
+            "Cafe cortadito": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

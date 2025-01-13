@@ -1,0 +1,247 @@
+{
+    "Name": "Fin de Siglo",
+    "Type": "bar-restaurante",
+    "Phone_Number": "59529982",
+    "Web_Page": "Fin de Siglo",
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["10:00-22:00"],
+        "Tuesday":  ["10:00-22:00"],
+        "Wednesday": ["10:00-22:00"],
+        "Thursday": ["10:00-22:00"],
+        "Friday":   ["10:00-23:00"],
+        "Saturday": ["10:00-23:00"],
+        "Sunday":   ["10:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Aguila entre San Martin y San Rafael",
+        "Coordinates": null
+    },
+    "Cuisine": "italiana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "croquetas de la casa": {
+                "Price": 700
+            },
+            "tabla de jamon y queso": {
+                "Price": 1200
+            },
+            "picadera Fin de siglo": {
+                "Price": 2500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaghetti de queso blanco": {
+                    "Price": 900
+                },
+                "espaghetti de queso blanco con jamon": {
+                    "Price": 1000
+                },
+                "espaghetti de queso blanco con chorizo": {
+                    "Price": 1000
+                },
+                "espaghetti de queso blanco con pollo": {
+                    "Price": 850
+                },
+                "espaghetti de queso gouda": {
+                    "Price": 1200
+                },
+                "espaghetti de queso gouda con jamon": {
+                    "Price": 1400
+                },
+                "espaghetti de queso gouda con chorizo": {
+                    "Price": 1400
+                }
+            },
+            "Pizza": {
+                "pizza de queso blanco": {
+                    "Price": 800
+                },
+                "pizza de queso blanco con jamon": {
+                    "Price": 950
+                },
+                "pizza de queso blanco con chorizo": {
+                    "Price": 950
+                },
+                "pizza de queso blanco hawaiana": {
+                    "Price": 1500
+                },
+                "pizza de queso gouda": {
+                    "Price": 1200
+                },
+                "pizza de queso gouda con jamon": {
+                    "Price": 1400
+                },
+                "pizza de queso gouda con chorizo": {
+                    "Price": 1400
+                },
+                "pizza de queso gouda hawaiana": {
+                    "Price": 1800
+                }
+            },
+            "Pork": {
+                "pollo salteado con vegetales": {
+                    "Price": 800
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "refresco": {
+                "Price": 300
+            },
+            "cerveza dispensada": {
+                "Price": 400
+            },
+            "caipirinha": {
+                "Price": 550
+            },
+            "caipiríssima": {
+                "Price": 550
+            },
+            "caipiroska": {
+                "Price": 660
+            },
+            "daiquirí": {
+                "Price": 550
+            },
+            "daiquirí Rebelde": {
+                "Price": 550
+            },
+            "margarita": {
+                "Price": 990
+            },
+            "cubata": {
+                "Price": 550
+            },
+            "Cuba libre": {
+                "Price": 550
+            },
+            "3 Anhos": {
+                "Price": 550
+            },
+            "carta Blanca": {
+                "Price": 550
+            },
+            "especial": {
+                "Price": 330
+            },
+            "pacto Navío": {
+                "Price": 440
+            },
+            "cuban spiced": {
+                "Price": 20000
+            },
+            "ron santiago": {
+                "Price": 550
+            },
+            "jameson": {
+                "Price": 880
+            },
+            "clan sampbell": {
+                "Price": 1100
+            },
+            "vat 69": {
+                "Price": 990
+            },
+            "ballantines": {
+                "Price": 990
+            },
+            "old partner": {
+                "Price": 13500
+            },
+            "red label": {
+                "Price": 35000
+            },
+            "beeffatter": {
+                "Price": 1100
+            },
+            "jagger": {
+                "Price": 440
+            },
+            "tequila silver": {
+                "Price": 990
+            },
+            "tequila reposado": {
+                "Price": 880
+            },
+            "tequila chocolate": {
+                "Price": 990
+            },
+            "rua vieja": {
+                "Price": 1100
+            },
+            "amaretto": {
+                "Price": 880
+            },
+            "chelada": {
+                "Price": 770
+            },
+            "michelada": {
+                "Price": 880
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

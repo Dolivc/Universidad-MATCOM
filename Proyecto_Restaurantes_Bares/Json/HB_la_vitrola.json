@@ -1,0 +1,354 @@
+{
+    "Name": "La Vitrola",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "830-1400"
+        ],
+        "Tuesday": [
+            "830-1400"
+        ],
+        "Wednesday": [
+            "830-1400"
+        ],
+        "Thursday": [
+            "830-1400"
+        ],
+        "Friday": [
+            "830-1400"
+        ],
+        "Saturday": [
+            "830-1400"
+        ],
+        "Sunday": [
+            "830-1400"
+        ]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Plaza Vieja entre Muralla y San Ignacio",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Yuca with cheese": {
+                "Price": 440
+            },
+            "Bruschetta": {
+                "Price": 540
+            },
+            "Croquettes": {
+                "Price": 440
+            },
+            "Fish eperlan": {
+                "Price": 1730
+            },
+            "Meat ball": {
+                "Price": 720
+            },
+            "Fried pork chunks": {
+                "Price": 1730
+            },
+            "Fried pork ribs": {
+                "Price": 1730
+            },
+            "Beef of chicken or pork burguer": {
+                "Price": 870
+            },
+            "Ham and cheese sandwich": {
+                "Price": 720
+            },
+            "Tuna fish sandwich": {
+                "Price": 720
+            },
+            "Chicken or pork tacos": {
+                "Price": 1040
+            },
+            "Shrimps tacos": {
+                "Price": 1240
+            },
+            "Fried Chickpea": {
+                "Price": 870
+            },
+            "Fried Stuffed Plantain": {
+                "Price": 650
+            },
+            "Tamales in leaves": {
+                "Price": 360
+            },
+            "Tamales Vitrola": {
+                "Price": 700
+            },
+            "Vitrola Mixed": {
+                "Price": 2880
+            },
+            "Vitrola salad": {
+                "Price": 530
+            },
+            "Plaza Vieja salad": {
+                "Price": 720
+            },
+            "Picadera Vitrola": {
+                "Price": 1730
+            },
+            "Assorted Picadera": {
+                "Price": 1730
+            },
+            "Shrimps cocktail": {
+                "Price": 1590
+            },
+            "Fish cebiche": {
+                "Price": 1880
+            },
+            "Octopus in Gardin / Grill": {
+                "Price": 3000
+            },
+            "Grandma's Patacon": {
+                "Price": 1500
+            },
+            "Chicken sandwich": {
+                "Price": 720
+            },
+            "Cuban sandwich": {
+                "Price": 940
+            },
+            "Vitrola sandwich": {
+                "Price": 940
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Chicken or pork fajitas": {
+                    "Price": 1160
+                },
+                "Fried pork chunks": {
+                    "Price": 1730
+                },
+                "Fried pork ribs": {
+                    "Price": 1730
+                },
+                "Three piece of pork loin": {
+                    "Price": 1730
+                },
+                "Pork steak with onion": {
+                    "Price": 1230
+                }
+            },
+            "Chicken": {
+                "Grilled chicken breast": {
+                    "Price": 1160
+                },
+                "Chicken Gordon Blue": {
+                    "Price": 1440
+                },
+                "Chicken or pork fajitas": {
+                    "Price": 1160
+                },
+                "Grilled Chicken": {
+                    "Price": 1160
+                }
+            },
+            "Beef": {
+                "Beef steak": {
+                    "Price": 2160
+                },
+                "Fried beef": {
+                    "Price": 1440
+                },
+                "Uruguayo steak": {
+                    "Price": 1440
+                },
+                "Ropa Vieja": {
+                    "Price": 1440
+                }
+            },
+            "Sea": {
+                "Fried whole fish": {
+                    "Price": 2600
+                },
+                "John Bill fish": {
+                    "Price": 2400
+                },
+                "Fish fillet Monte Toro": {
+                    "Price": 2400
+                },
+                "Fish fillet Canciller": {
+                    "Price": 2600
+                },
+                "Grilled fish fillet / breaded": {
+                    "Price": 1850
+                },
+                "Fish fillet gouda": {
+                    "Price": 2100
+                },
+                "Camarones al gusto": {
+                    "Price": 1590
+                },
+                "Fried rice with shrimps": {
+                    "Price": 1020
+                }
+            },
+            "Other": {
+                "Mixed Grill": {
+                    "Price": 2160
+                },
+                "Rural Grill": {
+                    "Price": 2600
+                },
+                "Skewer of your choice": {
+                    "Price": 1160
+                },
+                "Lamb stew": {
+                    "Price": 2600
+                },
+                "Land and sea": {
+                    "Price": 2600
+                }
+            }
+        },
+        "Extras": {
+            "Fried viands": {
+                "Price": 240
+            },
+            "Vegetable salad": {
+                "Price": 300
+            },
+            "White rice": {
+                "Price": 160
+            },
+            "Moro rice": {
+                "Price": 240
+            },
+            "Day beans": {
+                "Price": 240
+            },
+            "Rice with vegetables": {
+                "Price": 240
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Expresso": {
+                "Price": 240
+            },
+            "American coffee": {
+                "Price": 240
+            },
+            "Coffe with a dash of milk": {
+                "Price": 300
+            },
+            "Coffee with milk": {
+                "Price": 300
+            },
+            "Chocolate with milk": {
+                "Price": 390
+            },
+            "Capuccino": {
+                "Price": 390
+            },
+            "National water": {
+                "Price": 390
+            },
+            "National softdrinks": {
+                "Price": 400
+            },
+            "Imported softdrinks": {
+                "Price": 400
+            },
+            "Softdrink dispensed": {
+                "Price": 250
+            },
+            "Malt drink": {
+                "Price": 400
+            },
+            "Imported malt": {
+                "Price": 400
+            },
+            "Glass of dispensed beer": {
+                "Price": 180
+            },
+            "Imported beer": {
+                "Price": 350
+            },
+            "Dispensed beer mug": {
+                "Price": 350
+            },
+            "National Michelada": {
+                "Price": 340
+            },
+            "Imported Michelada": {
+                "Price": 540
+            },
+            "Lemonade": {
+                "Price": 390
+            },
+            "Natural juice": {
+                "Price": 240
+            },
+            "Fruits milk shake": {
+                "Price": 450
+            },
+            "Ice cream milk shake": {
+                "Price": 540
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

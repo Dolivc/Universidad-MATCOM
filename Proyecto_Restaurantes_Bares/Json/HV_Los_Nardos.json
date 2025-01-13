@@ -1,0 +1,411 @@
+{
+    "Name": "Los Nardos",
+    "Type": "Restaurante",
+    "Phone_Number": "78632985",
+    "Web_Page": "Restaurante Los Nardos y Asturianito",
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-00:00"],
+        "Tuesday":  ["12:00-00:00"],
+        "Wednesday": ["12:00-00:00"],
+        "Thursday": ["12:00-00:00"],
+        "Friday":   ["12:00-00:00"],
+        "Saturday": ["12:00-00:00"],
+        "Sunday":   ["12:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Paseo de Marti, frente al Capitolio",
+        "Coordinates": "4JMR+RMW"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                "Tortilla espanhola": {
+                    "Price": 865
+                },
+                "Tortilla vazca": {
+                    "Price": 940
+                }
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada de vegetales frescos": {
+                "Price": 620
+            },
+            "Ensalada de frutas tropicales": {
+                "Price": 725
+            },
+            "Coctel de frutas tropicales": {
+                "Price": 805
+            },
+            "Ensalada de rollo de primavera": {
+                "Price": 1035
+            },
+            "Surtidito de la casa": {
+                "Price": 2420
+            },
+            "Ensalada a la vinagreta": {
+                "Price": 1710
+            },
+            "Ensalada mediterranea": {
+                "Price": 1710
+            },
+            "Estilo de Los Nardos,": {
+                "Price": 1710
+            },
+            "Camaroncillos en coctel": {
+                "Price": 1425
+            },
+            "Ensaladita de atun": {
+                "Price": 1425
+            },
+            "Carpaccio de pescado": {
+                "Price": 935
+            },
+            "Coctel de pescado": {
+                "Price": 935
+            },
+            "Ensalada de jamon serrano y frutas tropicales": {
+                "Price": 2590
+            },
+            "Gran tabla de embutidos y quesos": {
+                "Price": 4040
+            },
+            "Tamal en cazuela": {
+                "Price": 1060
+            },
+            "Bolitas de queso": {
+                "Price": 1920
+            },
+            "Garbanzos fritos": {
+                "Price": 1295
+            },
+            "Gran Picadera de los Nardos": {
+                "Price": 2485
+            },
+            "Sopa de pollo": {
+                "Price": 865
+            },
+            "Fabada al estilo del Chef": {
+                "Price": 1450
+            },
+            "Sopa de vegetales": {
+                "Price": 490
+            },
+            "Gazpacho Andaluz": {
+                "Price": 640
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 2200
+                },
+                "Escalope de cerdo": {
+                    "Price": 2330
+                },
+                "Uruguayo de cerdo": {
+                    "Price": 2500
+                },
+                "Masas de cerdo": {
+                    "Price": 2800
+                },
+                "Chuletas de cerdo": {
+                    "Price": 2500
+                },
+                "Lomo de cerdo ahumado": {
+                    "Price": 2500
+                },
+                "Pierna de cerdo hawaiana": {
+                    "Price": 2800
+                },
+                "Pierna de cerdo a la criolla": {
+                    "Price": 2800
+                },
+                "Ropa vieja de cerdo": {
+                    "Price": 2780
+                },
+                "Cerdo salteado": {
+                    "Price": 2260
+                }
+            },
+            "Chicken": {
+                "Pollo frito": {
+                    "Price": 2480
+                },
+                "Pollo grille": {
+                    "Price": 2490
+                },
+                "Pollo Gordon Blue": {
+                    "Price": 2870
+                },
+                "Fajitas de pollo": {
+                    "Price": 2230
+                },
+                "Pechuga de pollo grille": {
+                    "Price": 2420
+                },
+                "Dados de pollo al gusto": {
+                    "Price": 2160
+                },
+                "Brocheta mixta de pollo": {
+                    "Price": 2230
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2500
+                },
+                "Pescado Canciller": {
+                    "Price": 2845
+                },
+                "Masas de pescado": {
+                    "Price": 2500
+                },
+                "Eperlan de pescado": {
+                    "Price": 2500
+                },
+                "Filete de Pescado Joinville": {
+                    "Price": 2870
+                },
+                "Filete de pescado Monte Toro": {
+                    "Price": 2590
+                },
+                "Filete de pescado Don Pedro": {
+                    "Price": 2745
+                },
+                "Camarones al gusto": {
+                    "Price": 2900
+                },
+                "Langosta": {
+                    "Price": 2660
+                }
+            },
+            "Other":{
+                "Cena cubana":{
+                    "Price": 3235
+                },
+                "Cordero al gusto": {
+                    "Price": 2715
+                },
+                "Paletilla de cordero a las finas hierbas": {
+                    "Price": 3610
+                },
+                "Paella mixta": {
+                    "Price": 1920
+                },
+                "Paella de vegetales": {
+                    "Price": 1575
+                },
+                "Grillada Mar y Tierra": {
+                    "Price": 4460
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 295
+            },
+            "Moros y cristianos": {
+                "Price": 295
+            },
+            "Frijoles": {
+                "Price": 295
+            },
+            "Viandas hervidas": {
+                "Price": 295
+            },
+            "Vegetales salteados": {
+                "Price": 295
+            },
+            "Arroz Indiana": {
+                "Price": 295
+            }
+        },
+        "Desserts": {
+            "Flan al caramelo": {
+                "Price": 449
+            },
+            "Copa Lolita": {
+                "Price": 719
+            },
+            "Torta del dia": {
+                "Price": 559
+            },
+            "Helado": {
+                "Price": 719
+            },
+            "Torrejas en almibar": {
+                "Price": 559
+            },
+            "Cake a la moda": {
+                "Price": 819
+            },
+            "Torta helada": {
+                "Price": 559
+            },
+            "Torta 3 leches": {
+                "Price": 559
+            },
+            "Brownie de chocolate": {
+                "Price": 719
+            },
+            "Pudin": {
+                "Price": 439
+            }
+        },
+        "Beverages": {
+            "Agua nacional": {
+                "Price": 164
+            },
+            "Agua importada": {
+                "Price": 219
+            },
+            "Refresco nacional": {
+                "Price": 275
+            },
+            "Refresco de maquina": {
+                "Price": 207
+            },
+            "Refresco importado": {
+                "Price": 275
+            },
+            "Red Bull": {
+                "Price": 461
+            },
+            "Kermato": {
+                "Price": 449
+            },
+            "Maltas": {
+                "Price": 649
+            },
+            "Malteada": {
+                "Price": 274
+            },
+            "Cana de cerveza": {
+                "Price": 512
+            },
+            "Jarra de cerveza": {
+                "Price": 1650
+            },
+            "Jarrazo": {
+                "Price": 659
+            },
+            "Michelada": {
+                "Price": 308
+            },
+            "Cerveza nacional": {
+                "Price": 308
+            },
+            "Cerveza importada": {
+                "Price": 461
+            },
+            "Copa de vino": {
+                "Price": 345
+            },
+            "Vermouth": {
+                "Price": 230
+            },
+            "Limonada": {
+                "Price": 263
+            },
+            "Jugos naturales": {
+                "Price": 349
+            },
+            "Jugos importados": {
+                "Price": 247
+            },
+            "Jugos de caja": {
+                "Price": 165
+            },
+            "Cafe": {
+                "Price": 219
+            },
+            "Cafe cortado": {
+                "Price": 219
+            },
+            "Cafe con leche": {
+                "Price": 274
+            },
+            "Cafe Capuccino": {
+                "Price": 274
+            },
+            "Cafe bombon": {
+                "Price": 274
+            },
+            "Cafe irlandes": {
+                "Price": 109
+            },
+            "Mojito": {
+                "Price": 385
+            },
+            "Daiquiri": {
+                "Price": 385
+            },
+            "Cuba libre": {
+                "Price": 456
+            },
+            "Sangria": {
+                "Price": 495
+            },
+            "Pinha colada": {
+                "Price": 439
+            },
+            "San Francisco": {
+                "Price": 329
+            },
+            "Otros cocteles": {
+                "Price": 439
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

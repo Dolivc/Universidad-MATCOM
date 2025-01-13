@@ -1,0 +1,209 @@
+{
+    "Name": "El Pelicano",
+    "Type": "Restaurante",
+    "Phone_Number": 63960310,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            "1000-1800"
+        ],
+        "Thursday": [
+            "1000-1800"
+        ],
+        "Friday": [
+            "1000-1800"
+        ],
+        "Saturday": [
+            "1000-1800"
+        ],
+        "Sunday": [
+            "1000-1800"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": null,
+        "Coordinates": "4J52+FF7, Avenida 26, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Pan con jamon y queso": {
+                    "Price": 350.0
+                },
+                "Pan con perro": {
+                    "Price": 360.0
+                },
+                "Pan con lechon": {
+                    "Price": 500.0
+                },
+                "Pan con hamburguesa": {
+                    "Price": 550.0
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 350.0
+            },
+            "Picadera de jamon y queso": {
+                "Price": 450.0
+            },
+            "Papas fritas": {
+                "Price": 550.0
+            },
+            "Bolitas de queso": {
+                "Price": 650.0
+            },
+            "Salchipapa": {
+                "Price": 750.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Brochetas de cerdo": {
+                    "Price": 950.0
+                },
+                "Bistec de cerdo": {
+                    "Price": 950.0
+                },
+                "Lonja de cerdo": {
+                    "Price": 950.0
+                },
+                "Masa de cerdo": {
+                    "Price": 990.0
+                }
+            },
+            "Chicken": {
+                "Pollo frito": {
+                    "Price": 420.0
+                },
+                "Pollo chiflado": {
+                    "Price": 520.0
+                },
+                "Brochetas de pollo y vegetales": {
+                    "Price": 580.0
+                },
+                "Brochetas mixtas": {
+                    "Price": 700.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Arroz moro": {
+                "Price": 150.0
+            },
+            "Arroz blanco": {
+                "Price": 150.0
+            }
+        },
+        "Desserts": {
+            "Paleta de chocolate": {
+                "Price": 260.0
+            },
+            "Pote de helado": {
+                "Price": 495.0
+            }
+        },
+        "Beverages": {
+            "Cafe expresso": {
+                "Price": 90.0
+            },
+            "Cafe cortado": {
+                "Price": 110.0
+            },
+            "Cafe bombon": {
+                "Price": 150.0
+            },
+            "Jugo de cajita": {
+                "Price": 190.0
+            },
+            "Agua": {
+                "Price": 120.0
+            },
+            "Refresco de lata": {
+                "Price": 195.0
+            },
+            "Limonada frape": {
+                "Price": 250.0
+            },
+            "Energizante": {
+                "Price": 220.0
+            },
+            "Cerveza": {
+                "Price": 190.0
+            },
+            "Chelada": {
+                "Price": 290.0
+            },
+            "Cuba libre": {
+                "Price": 380.0
+            },
+            "Michelada": {
+                "Price": 390.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A domicilio",
+            "Zoologico"
+        ],
+        "Facilities": [
+            "Takeaway"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

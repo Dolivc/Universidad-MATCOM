@@ -1,0 +1,186 @@
+{
+    "Name": "Comida Criolla Ocho Vias",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": [
+            "1100-2300"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Croquetas de queso": {
+                "Price": 500.0
+            },
+            "Tostones Rellenos": {
+                "Price": 800.0
+            },
+            "Tostones Tradicionales": {
+                "Price": 250.0
+            },
+            "Papas Fritas": {
+                "Price": 800.0
+            },
+            "Platanos Fritos": {
+                "Price": 200.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo(460 gramos)": {
+                    "Price": 2200.0
+                },
+                "Chuleta de Cerdo(460 gramos)": {
+                    "Price": 2200.0
+                },
+                "Fricase de Cerdo(430 gramos)": {
+                    "Price": 2500.0
+                },
+                "Costilla Frita o Fricase": {
+                    "Price": 2200.0
+                },
+                "Masa Frita(430 gramos)": {
+                    "Price": 2200.0
+                }
+            },
+            "Chicken": {
+                "Bistec de Pollo": {
+                    "Price": 2000.0
+                },
+                "Pechuga de Pollo": {
+                    "Price": 2500.0
+                }
+            },
+            "Beef": {
+                "Bistec Uruguayo)": {
+                    "Price": 2800.0
+                },
+                "Ropa Vieja(460 gramos)": {
+                    "Price": 2700.0
+                }
+            },
+            "Sea": {
+                "Pescado Entero a la Marinera": {
+                    "Price": 2200.0
+                },
+                "Pescado Empanado": {
+                    "Price": 2500.0
+                },
+                "Enchilado de Cangrejo": {
+                    "Price": 1800.0
+                },
+                "Camaron Enchilado": {
+                    "Price": 2700.0
+                },
+                "Langosta Grille(690 gramos)": {
+                    "Price": 2700.0
+                },
+                "Langosta Enchilada(690 gramos)": {
+                    "Price": 2800.0
+                }
+            },
+            "Other": {
+                "Fricase de Carnero(960 gramos)": {
+                    "Price": 2200.0
+                },
+                "Bistec de Higado(460 gramos)": {
+                    "Price": 1600.0
+                },
+                "Higado Italiana(460 gramos)": {
+                    "Price": 1600.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz Moro": {
+                "Price": 200.0
+            },
+            "Ensalada Mixta": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

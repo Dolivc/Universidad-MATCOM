@@ -1,0 +1,263 @@
+{
+    "Name": "Coco Blue",
+    "Type": "Restaurante",
+    "Phone_Number": 59121916,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            "1000-30"
+        ],
+        "Friday": [
+            "1000-30"
+        ],
+        "Saturday": [
+            "1000-30"
+        ],
+        "Sunday": [
+            "1000-30"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": null,
+        "Coordinates": "4HJW+C3 La Habana, Cuba"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno": {
+                    "Price": 2800.0
+                },
+                "Hamburguesa de pollo": {
+                    "Price": 1400.0
+                },
+                "Hamburguesa de res": {
+                    "Price": 1900.0
+                },
+                "Sandwich zorra pelua": {
+                    "Price": 1600.0
+                }
+            }
+        },
+        "Appetizers": {
+            "Nachos": {
+                "Price": 400.0
+            },
+            "Boniato frito": {
+                "Price": 500.0
+            },
+            "Frituras de malanga": {
+                "Price": 700.0
+            },
+            "Croquetas de pescado": {
+                "Price": 1000.0
+            },
+            "Croquetas de res": {
+                "Price": 1100.0
+            },
+            "Tacos de pollo": {
+                "Price": 1100.0
+            },
+            "Tacos de vegetales": {
+                "Price": 1000.0
+            },
+            "Tacos de res": {
+                "Price": 1200.0
+            },
+            "Ceviche": {
+                "Price": 1600.0
+            },
+            "Fajitas de pollo": {
+                "Price": 1200.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti napolitano": {
+                    "Price": 1600.0
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Bistec de pollo": {
+                    "Price": 2000.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2100.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 2000.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Cascos de guayaba": {
+                "Price": 800.0
+            }
+        },
+        "Beverages": {
+            "Expresso": {
+                "Price": 400.0
+            },
+            "Cortado": {
+                "Price": 450.0
+            },
+            "Capuccino": {
+                "Price": 500.0
+            },
+            "Frappuccino": {
+                "Price": 600.0
+            },
+            "Americano": {
+                "Price": 350.0
+            },
+            "Frutas": {
+                "Price": 450.0
+            },
+            "Natural": {
+                "Price": 450.0
+            },
+            "Frappe": {
+                "Price": 500.0
+            },
+            "Frescura": {
+                "Price": 600.0
+            },
+            "Tonica": {
+                "Price": 500.0
+            },
+            "Gaseada": {
+                "Price": 600.0
+            },
+            "Refrescos": {
+                "Price": 500.0
+            },
+            "Energizante": {
+                "Price": 700.0
+            },
+            "Importadas": {
+                "Price": 500.0
+            },
+            "Nacional": {
+                "Price": 550.0
+            },
+            "Cristal dispensada": {
+                "Price": 400.0
+            },
+            "Cubetazo": {
+                "Price": 2800.0
+            },
+            "Mojito": {
+                "Price": 700.0
+            },
+            "Cuba libre": {
+                "Price": 700.0
+            },
+            "Cubata": {
+                "Price": 600.0
+            },
+            "Daiquiri": {
+                "Price": 700.0
+            },
+            "Daiquiri de sabores": {
+                "Price": 750.0
+            },
+            "Caipirinha": {
+                "Price": 600.0
+            },
+            "Caipiroska base": {
+                "Price": 570.0
+            },
+            "Caipirisima": {
+                "Price": 650.0
+            },
+            "Pinha colada": {
+                "Price": 700.0
+            },
+            "Chelada": {
+                "Price": 880.0
+            },
+            "Michelada": {
+                "Price": 900.0
+            },
+            "Sangria": {
+                "Price": 1100.0
+            },
+            "Margarita": {
+                "Price": 800.0
+            },
+            "Long island": {
+                "Price": 1100.0
+            },
+            "Jagger bomb": {
+                "Price": 1000.0
+            },
+            "Blue lagon": {
+                "Price": 1100.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la Carta",
+            "Entretenimiento"
+        ],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

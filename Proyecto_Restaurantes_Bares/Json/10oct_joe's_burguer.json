@@ -1,0 +1,136 @@
+{
+    "Name": "Joe's Burguer",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2200"
+        ],
+        "Tuesday": [
+            "800-2200"
+        ],
+        "Wednesday": [
+            "800-2200"
+        ],
+        "Thursday": [
+            "800-2200"
+        ],
+        "Friday": [
+            "800-2200"
+        ],
+        "Saturday": [
+            "800-2200"
+        ],
+        "Sunday": [
+            "800-2200"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "Esquina Mayia Rodriguez y Aranguren",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Copa de helado": {
+                "Price": 300
+            }
+        },
+        "Beverages": {
+            "Cerveza": {
+                "Price": 350
+            },
+            "Limonada frappe": {
+                "Price": 500
+            },
+            "Batido de helado": {
+                "Price": 700
+            },
+            "Malteada": {
+                "Price": 500
+            },
+            "Potes de helado": {
+                "Price": 1000
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

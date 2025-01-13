@@ -1,0 +1,317 @@
+{
+    "Name": "La nueva Guitarreta",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wednesday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Regla",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Picadera de jamon, chorizo, queso gouda, aceitunas, papas fritas": {
+                "Price": 850
+            },
+            "Picadera mini jamon, chorizo, queso gouda, aceitunas": {
+                "Price": 550
+            },
+            "Picadera guitarron jamon, chorizo, queso gouda, aceitunas, frituras de malanga,fajitas de pollo,chips de boniato": {
+                "Price": 3000
+            },
+            "Maripositas chinas": {
+                "Price": 400
+            },
+            "croquetas bechamel": {
+                "Price": 650
+            },
+            "Croquetas de la abuela": {
+                "Price": 350
+            },
+            "papas fritas con ketchup y QG": {
+                "Price": 650
+            },
+            "Papas fritas con ketchup": {
+                "Price": 500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna": {
+                    "Price": 1350
+                },
+                "Espaguetis de queso blanco": {
+                    "Price": 500
+                },
+                "Espaguetis de queso gouda": {
+                    "Price": 650
+                }
+            },
+            "Pizza": {
+                "Pizza de queso blanco": {
+                    "Price": 700
+                },
+                "Pizza de queso gouda": {
+                    "Price": 950
+                },
+                "Pizza Hawaiana QB": {
+                    "Price": 1000
+                },
+                "Pizza Hawaiana QG": {
+                    "Price": 1250
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Pechuga empanada": {
+                    "Price": 1500
+                },
+                "Pechuga grille": {
+                    "Price": 1350
+                },
+                "Pechuga Milanesa": {
+                    "Price": 1600
+                },
+                "Pechuga princesa": {
+                    "Price": 1750
+                },
+                "Fajitas de pollo": {
+                    "Price": 800
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1750
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz frito": {
+                "Price": 1500
+            },
+            "Arroz frito especial": {
+                "Price": 1800
+            },
+            "Tacos de pollo": {
+                "Price": 750
+            },
+            "Tacos de res": {
+                "Price": 1350
+            },
+            "Tostones rellenos QB": {
+                "Price": 600
+            },
+            "Tostones rellenos QG": {
+                "Price": 750
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua Natural Importada": {
+                "Price": 200
+            },
+            "Refresco de cola Importado": {
+                "Price": 220
+            },
+            "Refresco de cola importado Pepsi": {
+                "Price": 260
+            },
+            "Refresco de limón importado 7up": {
+                "Price": 270
+            },
+            "Refresco de Naranja imp Fanta": {
+                "Price": 260
+            },
+            "Refresco de Naranja Importado": {
+                "Price": 260
+            },
+            "Refresco Mate": {
+                "Price": 280
+            },
+            "Malta Nacional Bucanero": {
+                "Price": 300
+            },
+            "Energizante importado": {
+                "Price": 400
+            },
+            "Energizante Red Bull": {
+                "Price": 500
+            },
+            "Limonada Frape": {
+                "Price": 290
+            },
+            "Suero de Helado": {
+                "Price": 350
+            },
+            "Pinha Colada Virgen": {
+                "Price": 500
+            },
+            "Pinha Colada": {
+                "Price": 600
+            },
+            "Cerveza Importada": {
+                "Price": 220
+            },
+            "Cerveza Nacional": {
+                "Price": 285
+            },
+            "Pantera Rosa": {
+                "Price": 650
+            },
+            "Sangría": {
+                "Price": 400
+            },
+            "Tinto Verano": {
+                "Price": 350
+            },
+            "Long Island": {
+                "Price": 700
+            },
+            "Screwdriver": {
+                "Price": 300
+            },
+            "Gin Tonic Basic": {
+                "Price": 450
+            },
+            "Gin Tonic con Beefeater": {
+                "Price": 600
+            },
+            "VodkaTonic": {
+                "Price": 450
+            },
+            "Cuba libre": {
+                "Price": 250
+            },
+            "Cubata": {
+                "Price": 350
+            },
+            "POCIÓN GUITARRETA": {
+                "Price": 500
+            },
+            "Ron Hav Club Anhejo Especial": {
+                "Price": 300
+            },
+            "Ron Hav Club Anhejo 7 anhos": {
+                "Price": 350
+            },
+            "Crema Tequila de Fresa": {
+                "Price": 400
+            },
+            "Crema de Ron Rua Vieja": {
+                "Price": 450
+            },
+            "Whisky Ballantines": {
+                "Price": 600
+            },
+            "Whisky Jameson": {
+                "Price": 550
+            },
+            "Whisky Chivas Regal": {
+                "Price": 700
+            },
+            "Whisky JB": {
+                "Price": 450
+            },
+            "Whisky Chanceler": {
+                "Price": 200
+            },
+            "Shot Tequila Olmeca Silver": {
+                "Price": 400
+            },
+            "Shot Jagermeifter": {
+                "Price": 450
+            },
+            "Copa de Vino Tinto Semidulce": {
+                "Price": 350
+            },
+            "Copa de Vino Tinto Merlot": {
+                "Price": 400
+            },
+            "Copa de Vino Tinto Cabernet Sauvignon": {
+                "Price": 450
+            },
+            "Copa de Vino Tinto Tempranillo": {
+                "Price": 675
+            },
+            "Copa de Vino Blanco": {
+                "Price": 350
+            },
+            "Michelada": {
+                "Price": 250
+            },
+            "Chelada": {
+                "Price": 150
+            },
+            "Caipiroska": {
+                "Price": 450
+            },
+            "Caipirisima": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza","Ropa vieja"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

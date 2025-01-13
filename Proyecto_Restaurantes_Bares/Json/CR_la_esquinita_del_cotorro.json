@@ -1,0 +1,129 @@
+{
+    "Name": "La esquinita del Cotorro",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2000"
+        ],
+        "Tuesday": [
+            "1000-2000"
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            "1000-2000"
+        ],
+        "Friday": [
+            "1000-2000"
+        ],
+        "Saturday": [],
+        "Sunday": [
+            "1000-2000"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Avenida 71",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "tostones": {
+                "Price": 200
+            },
+            "tortilla natural": {
+                "Price": 220
+            },
+            "tortilla de queso blanco": {
+                "Price": 280
+            },
+            "tortilla de jam\u00f3n": {
+                "Price": 320
+            },
+            "tortilla de chorizo": {
+                "Price": 320
+            },
+            "tortilla mixta": {
+                "Price": 410
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

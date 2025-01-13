@@ -1,0 +1,159 @@
+{
+    "Name": "Cafe Toscano",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2200"
+        ],
+        "Tuesday": [
+            "800-2200"
+        ],
+        "Wednesday": [
+            "800-2200"
+        ],
+        "Thursday": [
+            "800-2200"
+        ],
+        "Friday": [
+            "800-2200"
+        ],
+        "Saturday": [
+            "800-2200"
+        ],
+        "Sunday": [
+            "800-2200"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guines",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "tostones rellenos": {
+                "Price": 250
+            },
+            "tostones": {
+                "Price": 150
+            },
+            "platano": {
+                "Price": 100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti": {
+                    "Price": 330
+                },
+                "espaguetti con queso gouda": {
+                    "Price": 400
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 17
+                },
+                "pizza doble de queso": {
+                    "Price": 250
+                },
+                "pizza hawaiana": {
+                    "Price": 290
+                },
+                "pizza gouda": {
+                    "Price": 250
+                },
+                "pizza cubana": {
+                    "Price": 320
+                },
+                "pizza grande napolitana": {
+                    "Price": 550
+                },
+                "pizza grande doble de queso": {
+                    "Price": 790
+                },
+                "pizza grande gouda": {
+                    "Price": 940
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "pollo chiflado": {
+                    "Price": 400
+                },
+                "pollo especial": {
+                    "Price": 1000
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

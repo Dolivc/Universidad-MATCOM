@@ -1,0 +1,175 @@
+{
+    "Name": "FoodTruck Pelegrin",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2100"
+        ],
+        "Tuesday": [
+            "800-2100"
+        ],
+        "Wednesday": [
+            "800-2100"
+        ],
+        "Thursday": [
+            "800-2100"
+        ],
+        "Friday": [
+            "800-2100"
+        ],
+        "Saturday": [
+            "800-2100"
+        ],
+        "Sunday": [
+            "800-2100"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Waffles": {
+                    "Price": 700
+                },
+                "Desayuno": {
+                    "Price": 1250
+                }
+            }
+        },
+        "Appetizers": {
+            "Bolitas de queso": {
+                "Price": 850
+            },
+            "Papas fritas": {
+                "Price": 600
+            },
+            "Croquetas": {
+                "Price": 700
+            },
+            "S\u00e1ndwich jamon y queso": {
+                "Price": 750
+            },
+            "Sandwich atun": {
+                "Price": 850
+            },
+            "S\u00e1ndwich cubano": {
+                "Price": 1200
+            },
+            "S\u00e1ndwich pelegrin": {
+                "Price": 1300
+            },
+            "Sandwich pechuga": {
+                "Price": 2500
+            },
+            "Perro caliente": {
+                "Price": 750
+            },
+            "Palomitas": {
+                "Price": 850
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Jugos": {
+                "Price": 270
+            },
+            "Expresso": {
+                "Price": 150
+            },
+            "Cortado": {
+                "Price": 250
+            },
+            "Capuchino": {
+                "Price": 400
+            },
+            "Caf\u00e9 bombon": {
+                "Price": 450
+            },
+            "Frapuchino": {
+                "Price": 550
+            },
+            "Carajillo": {
+                "Price": 350
+            },
+            "Leche fr\u00eda": {
+                "Price": 370
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

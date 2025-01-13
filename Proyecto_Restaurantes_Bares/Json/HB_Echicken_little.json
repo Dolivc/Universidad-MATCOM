@@ -1,0 +1,295 @@
+{
+    "Name": "Chicken_Little",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "5ta. B y 5ta. C, 5B15 e 504, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada de Pollo": {
+                "Price": 825
+            },
+            "Coctel de Camaron": {
+                "Price": 1300
+            },
+            "Coctel de Langosta": {
+                "Price": 1300
+            },
+            "Tabla Surtida Chicken Little": {
+                "Price": 1995
+            },
+            "Crudo de Pescado": {
+                "Price": 995
+            },
+            "Sopa de Pollo con Fideos": {
+                "Price": 595
+            },
+            "Tostones Rellenos": {
+                "Price": 895
+            },
+            "Tostones Rellenos Mixtos": {
+                "Price": 925
+            },
+            "Tapas de Pescado": {
+                "Price": 725
+            },
+            "Tapas Mixtas": {
+                "Price": 995
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo Grille": {
+                    "Price": 2050
+                },
+                "Masas Fritas": {
+                    "Price": 2395
+                },
+                "Masas Hawaianas": {
+                    "Price": 2550
+                },
+                "Costillas de Cerdo Fritas": {
+                    "Price": 1525
+                }
+            },
+            "Chicken": {
+                "Pollo Grille": {
+                    "Price": 1650
+                },
+                "Pollo al Ajillo": {
+                    "Price": 1795
+                },
+                "Pollo Salteado con Pinha": {
+                    "Price": 1675
+                },
+                "Pollo a la Mostaza": {
+                    "Price": 1795
+                },
+                "Suprema Especial de Pollo": {
+                    "Price": 2150
+                },
+                "Pollo Tropical": {
+                    "Price": 2295
+                },
+                "Pollo Princesa": {
+                    "Price": 1995
+                },
+                "Pollo Salteado con Vegetales": {
+                    "Price": 1795
+                },
+                "Bistec Uruguayo": {
+                    "Price": 2795
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Filete de Pescado Grille": {
+                    "Price": 1995
+                },
+                "Pescado con Vegetales": {
+                    "Price": 2095
+                },
+                "Dados de Pescado al Ajillo": {
+                    "Price": 2095
+                },
+                "Filete Jon Ville": {
+                    "Price": 2795
+                },
+                "Filete Canciller": {
+                    "Price": 2695
+                },
+                "Filete Costa Sur": {
+                    "Price": 2795
+                },
+                "Filete Princesa": {
+                    "Price": 2395
+                },
+                "Camaron Grille": {
+                    "Price": 2495
+                },
+                "Camaron al Ajillo": {
+                    "Price": 2595
+                },
+                "Camarones Enchilados": {
+                    "Price": 2595
+                },
+                "Camarones Empanados": {
+                    "Price": 2595
+                },
+                "Langosta Grille": {
+                    "Price": 2595
+                },
+                "Langosta Enchilada": {
+                    "Price": 2595
+                },
+                "Langosta al Ajillo": {
+                    "Price": 2595
+                },
+                "Tres Delicias": {
+                    "Price": 2900
+                },
+                "Gran Plato del Mar": {
+                    "Price": 3300
+                },
+                "Cazuela Marinera": {
+                    "Price": 2995
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Flan de Caramelo": {
+                "Price": 325
+            },
+            "Helados": {
+                "Price": 450
+            },
+            "Copa Lolita": {
+                "Price": 550
+            }
+        },
+        "Beverages": {
+            "Ron Havana Club 7 Anhos": {
+                "Price": 325
+            },
+            "Ballantine Finest": {
+                "Price": 800
+            },
+            "Ballantine 12": {
+                "Price": 600
+            },
+            "Limonada Frappe": {
+                "Price": 650
+            },
+            "Agua Nacional": {
+                "Price": 250
+            },
+            "Agua Tonica": {
+                "Price": 250
+            },
+            "Sodas Nacionales": {
+                "Price": 325
+            },
+            "Sodas Importadas": {
+                "Price": 350
+            },
+            "Malta": {
+                "Price": 400
+            },
+            "Cerveza Nacional": {
+                "Price": 345
+            },
+            "Cerveza Corona": {
+                "Price": 495
+            },
+            "Mojito": {
+                "Price": 395
+            },
+            "Daiquiri": {
+                "Price": 400
+            },
+            "Cuba Libre": {
+                "Price": 450
+            },
+            "Gin Tonic": {
+                "Price": 525
+            },
+            "Caipirinha": {
+                "Price": 375
+            },
+            "Caipiroska": {
+                "Price": 650
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

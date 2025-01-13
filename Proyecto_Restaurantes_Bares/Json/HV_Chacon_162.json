@@ -1,0 +1,398 @@
+{
+    "Name": "chacon 162",
+    "Type": "Restaurante",
+    "Phone_Number": "78601386",
+    "Web_Page": "Chacon 162",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-12:00"],
+        "Tuesday":  ["11:00-12:00"],
+        "Wednesday": ["11:00-12:00"],
+        "Thursday": ["11:00-12:00"],
+        "Friday":   ["11:00-12:00"],
+        "Saturday": ["11:00-12:00"],
+        "Sunday":   ["11:00-12:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejon entrechacon y compostela",
+        "Coordinates": "4JRV+HV4"
+    },
+    "Cuisine": " Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Baguette de ropa vieja y palmesano": {
+                    "Price": 1700
+                },
+                "Baguette de pollo": {
+                    "Price": 1700
+                },
+                "Baguette de vegetales": {
+                    "Price": 1100
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Cebiche de pescado": {
+                "Price": 1650
+            },
+            "Empanaditas": {
+                "Price": 650 
+            },
+            "Croquetas": {
+                "Price": 700
+            },
+            "Brusquetas": {
+                "Price": 680 
+            },
+            "Garbanzo frito": {
+                "Price": 1250
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Frutti de mare": {
+                    "Price": 2700
+                },
+                "Al buey": {
+                    "Price": 2200
+                },
+                "Pollo al curri": {
+                    "Price": 2100
+                },
+                "vegetales": {
+                    "Price": 1700
+                },
+                "Salmon": {
+                    "Price": 2950
+                },
+                "Camaron": {
+                    "Price": 2700
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masa de cerdo": {
+                    "Price": 2900
+                },
+                "Costillas de cerdo": {
+                    "Price": 3100
+                },
+                "Bistec de cerdo": {
+                    "Price": 2500
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 2200
+                }
+            },
+            "Beef": {
+                "Filete mignon": {
+                    "Price": 6000
+                },
+                "Ropa vieja": {
+                    "Price": 2500
+                }
+            },
+            "Sea": {
+                "Camaron al gusto": {
+                    "Price": 2900
+                },
+                "Camaron al ajillo": {
+                    "Price": 3200
+                },
+                "Pulpo al gusto": {
+                    "Price": 4800
+                },
+                "Pescado grille": {
+                    "Price": 2600
+                },
+                "Langosta al gusto": {
+                    "Price": 2980
+                }
+            },
+            "Other":{
+                "Caldo marinero":{
+                    "Price": 1450
+                },
+                "Caldo de vegetales":{
+                    "Price": 990
+                },
+                "Caldo de pollo":{
+                    "Price": 1350
+                },
+                "Ensalada de vegetales":{
+                    "Price": 690
+                },
+                "Ensalada cesar con salmon":{
+                    "Price": 1700
+                },
+                "Ensalada cesar": {
+                    "Price": 1450
+                },
+                "Ensalada verde de la casa": {
+                    "Price": 700
+                },
+                "Arroz meloso": {
+                    "Price": 2950
+                },
+                "Arroz frito": {
+                    "Price": 2500
+                },
+                "Tacos de marisco": {
+                    "Price": 2300 
+                },
+                "Tacos de ropa vieja": {
+                    "Price": 2200
+                },
+                "Tacos frio de marisco": {
+                    "Price": 2300
+                },
+                "Taco de pollo": {
+                    "Price": 2100
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tarta de la casa": {
+                "Price": 700
+            }
+        },
+        "Beverages": {
+            "Bloddy Mary Twin": {
+                "Price": 1100
+            },
+            "Michelada Street Bob": {
+                "Price": 1400
+            },
+            "Martini": {
+                "Price": 1050 
+            },
+            "Michelada de la casa": {
+                "Price": 1000
+            },
+            "Mojito": {
+                "Price": 900 
+            },
+            "Jinger Mojito": {
+                "Price": 1050
+            },
+            "Mojito Anhejo": {
+                "Price": 1050
+            },
+            "Mojito Loco": {
+                "Price": 1200 
+            },
+            "Mojito de fruta": {
+                "Price": 950
+            },
+            "Caipi de fruta": {
+                "Price": 950
+            },
+            "Cuba libre": {
+                "Price": 900
+            },
+            "Cubata": {
+                "Price": 950 
+            },
+            "Canchanchara": {
+                "Price": 900
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Daiquiri de frutas": {
+                "Price": 950
+            },
+            "Habana Special": {
+                "Price": 1000
+            },
+            "Caipirinha": {
+                "Price": 900 
+            },
+            "Caipiroska": {
+                "Price": 900
+            },
+            "Caipirissima": {
+                "Price": 900
+            },
+            "Bloddy Mary": {
+                "Price": 950 
+            },
+            "Cubanito": {
+                "Price": 900 
+            },
+            "Margarita": {
+                "Price": 1000
+            },
+            "Sangria": {
+                "Price": 1000
+            },
+            "Pinha colada": {
+                "Price": 1050 
+            },
+            "Gin tonic": {
+                "Price": 1100
+            },
+            "Habana club anhejo especial": {
+                "Price": 550
+            },
+            "Habana club anhejo 3 anhos": {
+                "Price": 500
+            },
+            "Habana club anhejo reserva": {
+                "Price": 600
+            },
+            "Habana club anhejo 7 anhos": {
+                "Price": 750
+            },
+            "Habana club pacto navio": {
+                "Price": 1650
+            },
+            "Habana club seleccion de maestros": {
+                "Price": 1600
+            },
+            "Santiago anhejo": {
+                "Price": 1000
+            },
+            "Santiago anhejo 11 anhos": {
+                "Price": 1500
+            },
+            "Santiago anhejo 12 anhos": {
+                "Price": 1550
+            },
+            "Copa de vino tinto": {
+                "Price": 900
+            },
+            "Copa de vino blanco": {
+                "Price": 900
+            },
+            "Whisky Clan campell": {
+                "Price": 1000
+            },
+            "Ballantines": {
+                "Price": 1100 
+            },
+            "Ballentines 12": {
+                "Price": 1200
+            },
+            "Chivas regal 12": {
+                "Price": 1500
+            },
+            "Chivas regal 18 anhos": {
+                "Price": 1550
+            },
+            "Chivas regal extra": {
+                "Price": 1550
+            },
+            "JB": {
+                "Price": 1550
+            },
+            "Hamesson": {
+                "Price": 1100
+            },
+            "Jhonny walker black label": {
+                "Price": 1500
+            },
+            "Jhonny walker red label": {
+                "Price": 1400
+            },
+            "Jack daniels": {
+                "Price": 1600
+            },
+            "Pepsi cola": {
+                "Price": 600 
+            },
+            "Sprite": {
+                "Price": 600
+            },
+            "Jugos naturales": {
+                "Price": 550
+            },
+            "Limonada": {
+                "Price": 600 
+            },
+            "Limonada de pepino y apio": {
+                "Price": 650
+            },
+            "Agua natural": {
+                "Price": 500
+            },
+            "Agua gaseada": {
+                "Price": 600
+            },
+            "Agua tonica": {
+                "Price": 650
+            },
+            "Cafe espresso": {
+                "Price": 360
+            },
+            "Cafe cortado": {
+                "Price": 420
+            },
+            "Cafe con leche": {
+                "Price": 420
+            },
+            "Cafe capuccino": {
+                "Price": 480
+            },
+            "Cafe frapuccino": {
+                "Price": 960
+            },
+            "Te": {
+                "Price": 330
+            },
+            "Cerveza nacional": {
+                "Price": 850
+            },
+            "Cerveza importada": {
+                "Price": 700
+            }
+        },
+        "most_sold": {
+            "Dish": ["Ropa vieja"],
+            "Drink": ["Pulpo"]
+        },
+        "least_sold": {
+            "Dish": ["Mojito"],
+            "Drink": ["Whisky"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

@@ -1,0 +1,503 @@
+{
+    "Name": "La_Barca",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-1200"
+        ],
+        "Tuesday": [
+            "1200-1200"
+        ],
+        "Wednesday": [
+            "1200-1200"
+        ],
+        "Thursday": [
+            "1200-1200"
+        ],
+        "Friday": [
+            "1200-1200"
+        ],
+        "Saturday": [
+            "1200-1200"
+        ],
+        "Sunday": [
+            "1200-1200"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": " 4MR2+2M8 La barca, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Cesta de Panes de la Casa": {
+                "Price": 300
+            },
+            "Ensalada Fria de Pollo": {
+                "Price": 450
+            },
+            "Ensaladilla de Atun": {
+                "Price": 500
+            },
+            "Brosquettas": {
+                "Price": 800
+            },
+            "Fritura de Malanga": {
+                "Price": 600
+            },
+            "Croqueticas de la Casa": {
+                "Price": 750
+            },
+            "Fajitas de Pechuga": {
+                "Price": 450
+            },
+            "Surtido La Barca": {
+                "Price": 3500
+            },
+            "Tostones Rellenos de Jamon y Queso": {
+                "Price": 450
+            },
+            "Tostones Rellenos de Atun": {
+                "Price": 500
+            },
+            "Tabla de Jamon Serrano": {
+                "Price": 2000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Bolognesa": {
+                    "Price": 1000
+                },
+                "Espaguetis Napoles": {
+                    "Price": 600
+                },
+                "Espaguetis Carbonara": {
+                    "Price": 1200
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Brocheta de Solomillo y Bacon": {
+                    "Price": 1500
+                },
+                "Lonjas de Cerdo": {
+                    "Price": 1800
+                },
+                "Solomillo de Cerdo": {
+                    "Price": 2500
+                },
+                "Masas de Cerdo Cubanas": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "Pollo Asado": {
+                    "Price": 1000
+                }
+            },
+            "Beef": {
+                "Entrecot de Res": {
+                    "Price": 2000
+                },
+                "Filete Minhon": {
+                    "Price": 2500
+                },
+                "Filete Chateaubriand": {
+                    "Price": 3500
+                },
+                "Timbal de Ropa Vieja": {
+                    "Price": 1500
+                }
+            },
+            "Sea": {
+                "Filete de Pescado Grille": {
+                    "Price": 2000
+                }
+            },
+            "Other": {
+                "Brocheta Campesina": {
+                    "Price": 1500
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Copa de Helado": {
+                "Price": 500
+            },
+            "Arroz con Leche de la Abuela": {
+                "Price": 600
+            },
+            "Flan Caramelizado": {
+                "Price": 600
+            }
+        },
+        "Beverages": {
+            "Cerveza Nacional": {
+                "Price": 200
+            },
+            "Cerveza Importada": {
+                "Price": 250
+            },
+            "Refresco Nacional": {
+                "Price": 90
+            },
+            "Refresco Importado": {
+                "Price": 100
+            },
+            "Malta Importada": {
+                "Price": 170
+            },
+            "Jugo Importado": {
+                "Price": 100
+            },
+            "Jugo Natural": {
+                "Price": 200
+            },
+            "Agua Natural": {
+                "Price": 150
+            },
+            "Copa de Vino de la Casa": {
+                "Price": 450
+            },
+            "Te Frio/Caliente": {
+                "Price": 120
+            },
+            "Brandy Gran Reserva Carlos": {
+                "Price": 600
+            },
+            "Brandies Torres 5 Anhos": {
+                "Price": 350
+            },
+            "Brandies Torres 10 Anhos": {
+                "Price": 400
+            },
+            "Brandies Torres 15 Anhos": {
+                "Price": 600
+            },
+            "Anis Marie Brizard": {
+                "Price": 150
+            },
+            "Anis Chinchon Dulce": {
+                "Price": 150
+            },
+            "Anis Seco Chinchon": {
+                "Price": 150
+            },
+            "Crema Bailey's": {
+                "Price": 250
+            },
+            "Crema Amarula 17%": {
+                "Price": 200
+            },
+            "Crema Ruavieja": {
+                "Price": 350
+            },
+            "Crema Barcelo Destileria Mg": {
+                "Price": 250
+            },
+            "Crema Catalana Sentric": {
+                "Price": 20
+            },
+            "Licor Jarabe Kiwi Trial": {
+                "Price": 250
+            },
+            "Licor Anis Mono Dulce": {
+                "Price": 250
+            },
+            "Licor Anis Mono Seco": {
+                "Price": 500
+            },
+            "Licor de Menta Mints Marie Brizard": {
+                "Price": 180
+            },
+            "Licor de Litchi Litchao Marie Brizard": {
+                "Price": 150
+            },
+            "Licor Sheridans": {
+                "Price": 250
+            },
+            "Licor Tia Maria Coffee": {
+                "Price": 250
+            },
+            "Licor Campari": {
+                "Price": 250
+            },
+            "Licor Luxardo Marraschino Originale": {
+                "Price": 250
+            },
+            "Licor Disaronno Amaretto": {
+                "Price": 250
+            },
+            "Licor Sambuca Molinari": {
+                "Price": 250
+            },
+            "Licor Aperol": {
+                "Price": 250
+            },
+            "Licor Frangelico": {
+                "Price": 250
+            },
+            "Licor Fernet Branca": {
+                "Price": 200
+            },
+            "Licor Limoncello Golmar": {
+                "Price": 250
+            },
+            "Licor Limoncello": {
+                "Price": 150
+            },
+            "Licor Zoco Pacharan": {
+                "Price": 150
+            },
+            "Licor Triple Sec Sorel": {
+                "Price": 150
+            },
+            "Licor de Cafe": {
+                "Price": 150
+            },
+            "Licor de Manzana": {
+                "Price": 150
+            },
+            "Ginebra Citadelle": {
+                "Price": 250
+            },
+            "Ginebra Gordon": {
+                "Price": 150
+            },
+            "Ginegra Tanqueray": {
+                "Price": 200
+            },
+            "Ginebra Hendrick": {
+                "Price": 300
+            },
+            "Ginebra Gin MG Master": {
+                "Price": 200
+            },
+            "Ginebra Gin Mare": {
+                "Price": 350
+            },
+            "Ginebra Tonic": {
+                "Price": 150
+            },
+            "Vodka Belvedere": {
+                "Price": 300
+            },
+            "Vodka Ciroc(Destileria MG)": {
+                "Price": 400
+            },
+            "Vodka Wiborowa": {
+                "Price": 600
+            },
+            "Vodka Ciroc Melocoton": {
+                "Price": 400
+            },
+            "Vodka Ciroc Cereza": {
+                "Price": 400
+            },
+            "Vodka Ciroc Manzana": {
+                "Price": 400
+            },
+            "Vodka Youri Dolgorouki": {
+                "Price": 400
+            },
+            "Vodka Sobieski": {
+                "Price": 150
+            },
+            "Vodka Starotorunska": {
+                "Price": 250
+            },
+            "Vodka Finlandia Classic": {
+                "Price": 250
+            },
+            "Vodka Nord": {
+                "Price": 200
+            },
+            "Vodka Ciroc": {
+                "Price": 400
+            },
+            "Tequila Blanco Don Julio MG": {
+                "Price": 250
+            },
+            "Tequila El Jimador Blanco MG": {
+                "Price": 200
+            },
+            "Tequila Olmeca Blanco": {
+                "Price": 180
+            },
+            "Tequila Olmeca Reposado": {
+                "Price": 200
+            },
+            "Tequila Herradura Blanco": {
+                "Price": 130
+            },
+            "Tequila Don Julio Reposado": {
+                "Price": 150
+            },
+            "Tequila Don Julio 70 Aniversario": {
+                "Price": 150
+            },
+            "Tequila el Jimador Reposado": {
+                "Price": 300
+            },
+            "Vermouth Yzaguirre Rosado": {
+                "Price": 400
+            },
+            "Vermouth Rosso Totino": {
+                "Price": 150
+            },
+            "Vermouth Blanco Cinsano": {
+                "Price": 180
+            },
+            "Vermouth Ross Cinsano": {
+                "Price": 180
+            },
+            "Vermouth Dry Cinsano": {
+                "Price": 180
+            },
+            "Vermouth de Jerez La Copa": {
+                "Price": 250
+            },
+            "Vermouth Yzaguirre Blanco": {
+                "Price": 150
+            },
+            "Vermouth Yzaguirre Tinto": {
+                "Price": 150
+            },
+            "Ron Havana Club Anhejo Blanco": {
+                "Price": 190
+            },
+            "Ron Havana Club Pacto Navio": {
+                "Price": 175
+            },
+            "Ron Havana Cuban Spice": {
+                "Price": 235
+            },
+            "Ron Havana Club Edicicion Prof A": {
+                "Price": 200
+            },
+            "Ron Havana Club Edicicion Prof C": {
+                "Price": 135
+            },
+            "Ron Havana Club Union": {
+                "Price": 3500
+            },
+            "Ron Havana Club Smoki": {
+                "Price": 280
+            },
+            "Ron Isla del Tesoro": {
+                "Price": 3000
+            },
+            "Ron Havana Club Anhejo Reserva": {
+                "Price": 220
+            },
+            "Ron Havana Club Profundo": {
+                "Price": 200
+            },
+            "Ron Havana Club Ritual": {
+                "Price": 180
+            },
+            "Ron Havana Club Anhejo 3 Anhos": {
+                "Price": 150
+            },
+            "Ron Havana Club Anhejo 7 Anhos": {
+                "Price": 260
+            },
+            "Ron Havana Club Anhejo Especial Oro": {
+                "Price": 150
+            },
+            "Ron Havana Club Gran Reserva 15 Anhos": {
+                "Price": 900
+            },
+            "Ron Havana Club Seleccion de Maestro": {
+                "Price": 395
+            },
+            "Ron Havana Club Tributo": {
+                "Price": 2500
+            },
+            "Ron Varadero 3 Anhos": {
+                "Price": 120
+            },
+            "Ron Varadero 5 Anhos": {
+                "Price": 130
+            },
+            "Ron Varadero 7 Anhos": {
+                "Price": 180
+            },
+            "Ron Santero 15 Anhos": {
+                "Price": 500
+            },
+            "Ron Vigia Tears Dorado": {
+                "Price": 180
+            },
+            "Ron Vigia Black Tears Super Dry": {
+                "Price": 180
+            },
+            "Ron Vigia Black Tears Aguardiente": {
+                "Price": 200
+            },
+            "Legendario Anhejo Blanco": {
+                "Price": 250
+            },
+            "Legendario Rouse": {
+                "Price": 220
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

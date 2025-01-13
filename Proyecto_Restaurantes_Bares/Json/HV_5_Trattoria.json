@@ -1,0 +1,378 @@
+{
+    "Name": "5 Esquinas trattoria",
+    "Type": "Restaurante",
+    "Phone_Number": "78606295",
+    "Web_Page": "5esquinastrattoria",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wednesday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Habana 104 esquina cuarteles",
+        "Coordinates": "4JRV+QW9"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Focaccia de la casa": {
+                "Price": 1200
+            },
+            "Cesta de panecillos": {
+                "Price": 300
+            },
+            "Combinacion de francoise": {
+                "Price": 3000
+            },
+            "Brusqueta mixta": {
+                "Price": 1200
+            },
+            "Ensalada de pulpo y vegetales en pesto de hierbabuena": {
+                "Price": 2500
+            },
+            "Croquetas de la casa": {
+                "Price": 1200
+            },
+            "Tabla de jamon serrano y salami al olivo": {
+                "Price": 6000
+            },
+            "Carpaccio de res al parmesano y alcaparra": {
+                "Price": 2500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna de mejillones y perejil":{
+                    "Price": 3000
+                },
+                "Lasagna de mariscos":{
+                    "Price": 3500
+                },
+                "Lasagna de frutos secos y judia blanca":{
+                    "Price": 3000
+                },
+                "Lasagna a la bolognesa":{
+                    "Price": 3000
+                },
+                "nhoquis a los 4 quesos":{
+                    "Price": 3000
+                },
+                "Rabiolis a la mantequilla y ajos":{
+                    "Price": 2800
+                },
+                "Rabiolis al pesto":{
+                    "Price": 2800
+                },
+                "Rabiolis a la bolognesa":{
+                    "Price": 2800
+                },
+                "Berengena palmesana":{
+                    "Price": 2800
+                },
+                "Risotto con hongos":{
+                    "Price": 3500
+                },
+                "Risotto marinero":{
+                    "Price": 3500
+                },
+                "Risotto 5 esquinas":{
+                    "Price": 3500
+                }
+            },
+            "Pizza": {
+                "Pizza margarita": {
+                    "Price": 2200
+                },
+                "Pizza Marinara": {
+                    "Price": 2000
+                },
+                "Pizza 4 estaciones": {
+                    "Price": 2500
+                },
+                "Pizza charcuteria": {
+                    "Price": 2700
+                },
+                "Pizza napolitana": {
+                    "Price": 2600
+                },
+                "Pizza calzone": {
+                    "Price": 2700
+                },
+                "Pizza gultosa": {
+                    "Price": 3200
+                },
+                "Pizza 5 esquinas": {
+                    "Price": 2800
+                },
+                "Pizza de pepperoni": {
+                    "Price": 2800
+                }
+            },
+            "Pork": {
+                "Solomillo de cerdo": {
+                    "Price": 3900
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Filete de res a la milanesa": {
+                    "Price": 4500
+                },
+                "Filete de res a la pimienta verde": {
+                    "Price": 4500
+                }
+            },
+            "Sea": {
+                "Filete de pescado en salsa verde": {
+                    "Price": 3500
+                },
+                "Suprema de pescado en limon": {
+                    "Price": 3500
+                },
+                "Filete de pescado a la milanesa": {
+                    "Price": 3500
+                },
+                "Camarones a su gusto": {
+                    "Price": 4500
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada griega": {
+                "Price": 2000
+            },
+            "Ensalada cesar": {
+                "Price": 2000
+            },
+            "Ensalada de vegetales frescos": {
+                "Price": 1000
+            },
+            "Ensalada caprese": {
+                "Price": 2000
+            },
+            "Sopa de verduras": {
+                "Price": 1200
+            },
+            "Crema de quewso azul con frutas confitadas": {
+                "Price": 1600
+            },
+            "Gaspacho": {
+                "Price": 1500
+            },
+            "Sopa de vegetales y mariscos": {
+                "Price": 2000
+            },
+            "Tomate": {
+                "Price": 2200
+            },
+            "Pesto a la genovesa": {
+                "Price": 2500
+            },
+            "Ajo, aceite de oliva y peperonchini": {
+                "Price": 2500
+            },
+            "Alfredo": {
+                "Price": 2600
+            },
+            "Sorrentina": {
+                "Price": 2500
+            },
+            "Arrabiata": {
+                "Price": 2500
+            },
+            "Amatriciana": {
+                "Price": 2600
+            },
+            "Bolognesa": {
+                "Price": 2700
+            },
+            "Carbonara": {
+                "Price": 2700
+            },
+            "Mariscos": {
+                "Price": 3200
+            },
+            "Salsa puttanesca": {
+                "Price": 2800
+            }
+        },
+        "Desserts": {
+            "Tiramisu de la casa": {
+                "Price": 800
+            },
+            "Cheesecake": {
+                "Price": 800
+            },
+            "Selva negra": {
+                "Price": 800
+            }
+        },
+        "Beverages": {
+            "Cafe expresso": {
+                "Price": 300
+            },
+            "Cafe americano": {
+                "Price": 350
+            },
+            "Capuccino": {
+                "Price": 350
+            },
+            "Cafe cortado": {
+                "Price": 350
+            },
+            "Cafe con leche": {
+                "Price": 500
+            },
+            "Cafe carajillo": {
+                "Price": 800
+            },
+            "Cafe rocio de gallo": {
+                "Price": 700
+            },
+            "Te": {
+                "Price": 300
+            },
+            "Mojito": {
+                "Price": 1200
+            },
+            "Pinha colada": {
+                "Price": 1200
+            },
+            "Daiquiri": {
+                "Price": 1200
+            },
+            "Habana special": {
+                "Price": 1200
+            },
+            "Cuba libre": {
+                "Price": 1200
+            },
+            "Cubata": {
+                "Price": 1400
+            },
+            "Caipirinha": {
+                "Price": 1200
+            },
+            "Caipiroska": {
+                "Price": 1200
+            },
+            "Sangria": {
+                "Price": 1400
+            },
+            "Tinto de verano": {
+                "Price": 1400
+            },
+            "Gin tonic": {
+                "Price": 1600
+            },
+            "Vodka tonic": {
+                "Price": 1600
+            },
+            "Cubanito": {
+                "Price": 1200
+            },
+            "Bloody mary": {
+                "Price": 1200
+            },
+            "Margarita": {
+                "Price": 1200
+            },
+            "Copa de vino tinto": {
+                "Price":1200
+            },
+            "Copa de vino blanco": {
+                "Price": 1200
+            },
+            "Agua natural nacional": {
+                "Price": 400
+            },
+            "Agua gaseada nacional": {
+                "Price": 400
+            },
+            "Agua gaseada importada": {
+                "Price": 650
+            },
+            "Agua tonica nacional": {
+                "Price": 400
+            },
+            "Agua tonica importada": {
+                "Price": 600
+            },
+            "Refrescos importados": {
+                "Price": 500
+            },
+            "Cervezas nacionales": {
+                "Price": 600
+            },
+            "Cervezas importadas": {
+                "Price": 550
+            },
+            "Michelada nacional": {
+                "Price": 900
+            },
+            "Michelada importada": {
+                "Price": 800
+            },
+            "Jugos naturales": {
+                "Price": 400
+            },
+            "Limonada natural": {
+                "Price":500
+            },
+            "Limoonada frappe": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

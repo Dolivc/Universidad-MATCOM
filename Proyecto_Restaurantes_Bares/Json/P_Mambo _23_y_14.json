@@ -1,0 +1,700 @@
+{
+    "Name": "Mambo 23 y 12",
+    "Type": "Bar-Restaurante",
+    "Phone_Number": "78366908",
+    "Web_Page": null,
+    "Ownership": "Cooperativa",
+    "Operating_Hours": {
+        "Monday":   ["11:00-00:00"],
+        "Tuesday":  ["11:00-00:00"],
+        "Wednesday": ["11:00-00:00"],
+        "Thursday": ["11:00-00:00"],
+        "Friday":   ["11:00-00:00"],
+        "Saturday": ["11:00-00:00"],
+        "Sunday":   ["11:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 23 entre 12 y 14",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa de Pollo": {
+                    "Price": 1345
+                },
+                "Hamburguesa de Cerdo": {
+                    "Price": 1365
+                },
+                "Hamburguesa de res": {
+                    "Price": 1470
+                },
+                "Súper Hamburguesa Mambo": {
+                    "Price": 2100
+                }
+            },
+            "Sandwich": {
+                "Bocata de Jamón Pierna": {
+                    "Price": 1260
+                },
+                "Bocata de jamon y queso": {
+                    "Price": 1240
+                },
+                "Bocata Cubanita": {
+                    "Price": 1365
+                },
+                "Bocata de Atún": {
+                    "Price": 1360
+                },
+                "Bocata de Cerdo Asado": {
+                    "Price": 1550
+                },
+                "Bocata de Pechuga de Pollo": {
+                    "Price": 1525
+                }
+            },
+            "Bread": {
+                "pan baguette": {
+                    "Price": 680
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Pollito Mambo": {
+                "Price": 990
+            },
+            "Burrito": {
+                "Price": 1100
+            },
+            "quesadilla": {
+                "Price": 950
+            },
+            "Fajitas de cerdo empanadas": {
+                "Price": 3680
+            },
+            "Bolitas de queso": {
+                "Price": 1470
+            },
+            "Croquetas de la Casa": {
+                "Price": 1420
+            },
+            "Tacos de la casa": {
+                "Price": 1630
+            },
+            "Brusquetas (Tomate troceado, cebolla, ajo, cilantro, aceite de oliva, queso)": {
+                "Price": 1210
+            },
+            "Camarón rebozado": {
+                "Price": 2050
+            },
+            "Fajitas de Pollo empanadas": {
+                "Price": 2200
+            },
+            "Eperlán de Pescado": {
+                "Price": 1940
+            },
+            "Pica Pica Mambo": {
+                "Price": 3570
+            },
+            "Garbanzos fritos": {
+                "Price": 1440
+            },
+            "Ensalada fría jamón": {
+                "Price": 1210
+            },
+            "Ensalada fría atún": {
+                "Price": 1260
+            },
+            "Cóctel de Camarón": {
+                "Price": 1620
+            },
+            "Ceviche de la Casa": {
+                "Price": 2100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta Nápole": {
+                    "Price": 1400
+                },
+                "Al pesto": {
+                    "Price": 1420
+                },
+                "pasta bolonhesa": {
+                    "Price": 1890
+                },
+                "Lasanha del dia": {
+                    "Price": 2420
+                },
+                "Vegetariano (Vegetales salteados, tomate natural y queso)": {
+                    "Price": 1420
+                },
+                "Al Ajillo": {
+                    "Price": 1420
+                },
+                "Amatriciana": {
+                    "Price": 1680
+                },
+                "Pasta carbonara": {
+                    "Price": 1890
+                },
+                "Pasta frutti di mare": {
+                    "Price": 3780
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 1680
+                }
+            },
+            "Pork": {
+                "Bistec uruguayo de cerdo": {
+                    "Price": 2500
+                },
+                "Bistec de cerdo encebollado": {
+                    "Price": 1650
+                },
+                "gordon blue": {
+                    "Price": 2170
+                }
+            },
+            "Chicken": {
+                "Fajitas de pollo salteadas con vegetales y champinhones": {
+                    "Price": 1800
+                },
+                "Pollo grille": {
+                    "Price": 2120
+                }
+            },
+            "Beef": {
+                "Ropa Vieja": {
+                    "Price": 2160
+                },
+                "vaca frita": {
+                    "Price": 1950
+                }
+            },
+            "Sea": {
+                "Pescado empanizado": {
+                    "Price": 1860
+                },
+                "Langosta de la casa": {
+                    "Price": 3480
+                },
+                "Camarón de la casa": {
+                    "Price": 1620
+                },
+                "Pescado Grillé": {
+                    "Price": 1550
+                },
+                "Canciller": {
+                    "Price": 2700
+                }
+            },
+            "Other":{
+                "Bistec de palomilla":{
+                    "Price": 2290
+                },
+                "Grillada mar y tierra": {
+                    "Price": 2470
+                },
+                "Tacos de marisco": {
+                    "Price": 2000
+                },
+                "Rissotto de carne": {
+                    "Price": 2420
+                },
+                "Paella de marisco 2 pax": {
+                    "Price": 3890
+                },
+                "Paella de carne 2 pax": {
+                    "Price": 3570
+                },
+                "Paella Carne 1 Pax": {
+                    "Price": 2050
+                },
+                "Paella de Mariscos 1 Pax": {
+                    "Price": 2310
+                },
+                "Rissoto de Mariscos":{
+                    "Price": 2835
+                },
+                "Ensalada de pollo": {
+                    "Price": 1650
+                },
+                "Ensalada de vegetal": {
+                    "Price": 700
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 475
+            },
+            "arroz moro": {
+                "Price": 575
+            },
+            "Vegetales Salteados": {
+                "Price": 475
+            },
+            "Puré de Temporada": {
+                "Price": 575
+            },
+            "Vianda frita": {
+                "Price": 420
+            }
+        },
+        "Desserts": {
+            "Postre del dia": {
+                "Price": 1100
+            }
+        },
+        "Beverages": {
+            "Agua Nacional": {
+                "Price": 320
+            },
+            "Agua gaseada importada": {
+                "Price": 850
+            },
+            "Agua Tónica Importada": {
+                "Price": 750
+            },
+            "Refresco Importado": {
+                "Price": 380
+            },
+            "Malta Importada": {
+                "Price": 580
+            },
+            "Malteada": {
+                "Price": 800
+            },
+            "Bebida energética": {
+                "Price": 630
+            },
+            "Cerveza Nacional de botella": {
+                "Price": 730
+            },
+            "Cerveza Importada de botella": {
+                "Price": 730
+            },
+            "Cerveza Importada de lata": {
+                "Price": 470
+            },
+            "Servicio de michelada": {
+                "Price": 150
+            },
+            "Cubetazo Mambo": {
+                "Price": 5800
+            },
+            "Batidos de frutas": {
+                "Price": 580
+            },
+            "Suero de helado": {
+                "Price": 1700
+            },
+            "Jugos Mixtos de cajitas 200 ML": {
+                "Price": 420
+            },
+            "Jugos Naturales del Día": {
+                "Price": 450
+            },
+            "Limonada Natural": {
+                "Price": 650
+            },
+            "limonada Frappé": {
+                "Price": 680
+            },
+            "Limonada con Hierba Buena": {
+                "Price": 680
+            },
+            "san francisco": {
+                "Price": 890
+            },
+            "Café Expreso": {
+                "Price": 260
+            },
+            "Café Cortado": {
+                "Price": 275
+            },
+            "Café Americano": {
+                "Price": 365
+            },
+            "Carajillo": {
+                "Price": 420
+            },
+            "Café Bombón": {
+                "Price": 630
+            },
+            "Frapuchino": {
+                "Price": 525
+            },
+            "Café con Leche": {
+                "Price": 525
+            },
+            "Café Capuchino": {
+                "Price": 575
+            },
+            "Ron cubay extra anhejo": {
+                "Price": 3150
+            },
+            "Ron cubay ectra viejo": {
+                "Price": 2625
+            },
+            "Ron pacto navío": {
+                "Price": 2500
+            },
+            "habana club spiced": {
+                "Price": 980
+            },
+            "Ron Barceló gran anhejo": {
+                "Price": 525
+            },
+            "Habana Club 3 anhos": {
+                "Price": 430
+            },
+            "Habana Club Especial": {
+                "Price": 380
+            },
+            "Habana Club Reserva": {
+                "Price": 430
+            },
+            "Habana Club Ritual": {
+                "Price": 420
+            },
+            "Habana Club 7 anhos": {
+                "Price": 950
+            },
+            "Habana Club Selección de Maestros": {
+                "Price": 2800
+            },
+            "Santiago 8 Anhos": {
+                "Price": 1000
+            },
+            "Santiago 11 Anhos": {
+                "Price": 1900
+            },
+            "Santiago 12 Anhos": {
+                "Price": 2150
+            },
+            "Habana club 7 anhos edición limitada": {
+                "Price": 790
+            },
+            "Black tears super dry": {
+                "Price": 290
+            },
+            "Habana club 15 anhos": {
+                "Price": 2625
+            },
+            "Torres 5": {
+                "Price": 500
+            },
+            "Torres 10": {
+                "Price": 700
+            },
+            "Torres 15": {
+                "Price": 1000
+            },
+            "Torres 20": {
+                "Price": 1500
+            },
+            "Copa vino blanco": {
+                "Price": 850
+            },
+            "Copa vino tinto": {
+                "Price": 850
+            },
+            "Botella vino blanco Vinha Esmeralda": {
+                "Price": 5500
+            },
+            "Botella vino blanco Celeste": {
+                "Price": 4000
+            },
+            "Botella vino blanco Casillero del Diablo": {
+                "Price": 5500
+            },
+            "Botella vino Rosado Acantus": {
+                "Price": 4000
+            },
+            "Botella vino tinto Celeste Crianza": {
+                "Price": 4000
+            },
+            "Botella vino tinto Otonhal Reserva": {
+                "Price": 4000
+            },
+            "Botella vino tinto Sangre de Toro": {
+                "Price": 4000
+            },
+            "Botella Cava Mistingett": {
+                "Price": 2500
+            },
+            "Caipirinha": {
+                "Price": 630
+            },
+            "negroni": {
+                "Price": 1050
+            },
+            "Caipiroska": {
+                "Price": 680
+            },
+            "Screw driver": {
+                "Price": 575
+            },
+            "Cuba libre": {
+                "Price": 800
+            },
+            "cubata": {
+                "Price": 900
+            },
+            "cubanito": {
+                "Price": 950
+            },
+            "Mojito": {
+                "Price": 1100
+            },
+            "Que Rico Mambo": {
+                "Price": 950
+            },
+            "Mojito de Frutas": {
+                "Price": 1250
+            },
+            "Pinha Colada": {
+                "Price": 1300
+            },
+            "Que rico Mambo Grey Goose": {
+                "Price": 1750
+            },
+            "Daiquirí Natural": {
+                "Price": 850
+            },
+            "Caipiroska con Grey goose": {
+                "Price": 1840
+            },
+            "Daiquiri de Frutas": {
+                "Price": 1000
+            },
+            "Gin tonic": {
+                "Price": 1650
+            },
+            "sangría": {
+                "Price": 800
+            },
+            "Margarita": {
+                "Price": 1200
+            },
+            "martini coctel": {
+                "Price": 630
+            },
+            "Bloody mary": {
+                "Price": 1000
+            },
+            "Canchanchara": {
+                "Price": 700
+            },
+            "Aperol Spritz": {
+                "Price": 2625
+            },
+            "Mimosa": {
+                "Price": 735
+            },
+            "Servicio de coctel": {
+                "Price": 200
+            },
+            "Caipirísima": {
+                "Price": 770
+            },
+            "Servicio de Gin Tonic": {
+                "Price": 800
+            },
+            "Servicio de Vodka tonic": {
+                "Price": 800
+            },
+            "Vodka tonic": {
+                "Price": 1650
+            },
+            "Tinto de verano": {
+                "Price": 800
+            },
+            "Old parr 12": {
+                "Price": 1950
+            },
+            "Buchanan's 12": {
+                "Price": 3200
+            },
+            "Jack Daniels": {
+                "Price": 1650
+            },
+            "Grants": {
+                "Price": 900
+            },
+            "Grant's triple woods": {
+                "Price": 650
+            },
+            "Clan Macgregor": {
+                "Price": 500
+            },
+            "J&B": {
+                "Price": 1260
+            },
+            "Ballantines": {
+                "Price": 1150
+            },
+            "Chivas Regal 12": {
+                "Price": 2200
+            },
+            "The Glenlivest": {
+                "Price": 1850
+            },
+            "Johnnie Walker black label": {
+                "Price": 2550
+            },
+            "Red label": {
+                "Price": 1200
+            },
+            "Johnnie Walker ": {
+                "Price": 750
+            },
+            "jamesson": {
+                "Price": 1300
+            },
+            "Jack daniel de sabor": {
+                "Price": 1350
+            },
+            "Black and whie": {
+                "Price": 750
+            },
+            "clan campbell": {
+                "Price": 1130
+            },
+            "Campari": {
+                "Price": 1470
+            },
+            "Extra dry": {
+                "Price": 360
+            },
+            "Blanco": {
+                "Price": 360
+            },
+            "Rosso": {
+                "Price": 360
+            },
+            "tito's": {
+                "Price": 1350
+            },
+            "Grey goose": {
+                "Price": 3350
+            },
+            "Ciroc": {
+                "Price": 2900
+            },
+            "Stolíchnaya": {
+                "Price": 750
+            },
+            "Absolut": {
+                "Price": 1200
+            },
+            "Master gin pink": {
+                "Price": 900
+            },
+            "Master Ginebra": {
+                "Price": 800
+            },
+            "gordons": {
+                "Price": 800
+            },
+            "MG rose": {
+                "Price": 900
+            },
+            "tanqueray": {
+                "Price": 1350
+            },
+            "Tanqueray Ten": {
+                "Price": 2700
+            },
+            "Beefeater": {
+                "Price": 900
+            },
+            "mg": {
+                "Price": 800
+            },
+            "Bombay": {
+                "Price": 1950
+            },
+            "1800 cristalino": {
+                "Price": 7000
+            },
+            "Olmeca Reposado": {
+                "Price": 1200
+            },
+            "Tequila rose": {
+                "Price": 2900
+            },
+            "Amarula": {
+                "Price": 1170
+            },
+            "Aperol": {
+                "Price": 1500
+            },
+            "Licor 43": {
+                "Price": 1500
+            },
+            "Jägermeifer": {
+                "Price": 850
+            },
+            "Anís del mono dulce": {
+                "Price": 110000
+            },
+            "Anís del mono seco": {
+                "Price": 1100
+            },
+            "Baileys": {
+                "Price": 1400
+            },
+            "sambuca": {
+                "Price": 850
+            },
+            "limoncello": {
+                "Price": 860
+            },
+            "Frangelico": {
+                "Price": 3600
+            },
+            "Amaretto": {
+                "Price": 560
+            }
+        },
+        "most_sold": {
+            "Dish": ["Camaron rebosado"],
+            "Drink": ["Limonada"]
+        },
+        "least_sold": {
+            "Dish": ["Filete mignon"],
+            "Drink": ["Whisky"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica","Realidad virtual"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": false
+        }
+    }
+}

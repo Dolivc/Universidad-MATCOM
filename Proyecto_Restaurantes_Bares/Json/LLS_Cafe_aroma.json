@@ -1,0 +1,345 @@
+{
+    "Name": "Cafe Aroma",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Nachos con Salsa": {
+                "Price": 200
+            },
+            "Croquetas": {
+                "Price": 320
+            },
+            "Picadera Aroma": {
+                "Price": 550
+            },
+            "Sandwich de Jamon y Queso": {
+                "Price": 360
+            },
+            "Sandwich de Jamon": {
+                "Price": 360
+            },
+            "Sandwich de Queso": {
+                "Price": 360
+            },
+            "Sandwich de Pollo": {
+                "Price": 370
+            },
+            "Sandwich de Atun": {
+                "Price": 480
+            },
+            "Sandwich Hawaiano": {
+                "Price": 430
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Fajitas de Cerdo": {
+                    "Price": 600
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Eperlan de Pescado": {
+                    "Price": 700
+                },
+                "Enchilado de Cangrejo": {
+                    "Price": 600
+                }
+            },
+            "Other": {
+                "Garbanzos Fritos": {
+                    "Price": 600
+                },
+                "Tacos de Pollo": {
+                    "Price": 500
+                },
+                "Tacos de Cangrejo": {
+                    "Price": 600
+                },
+                "Tacos de Cerdo": {
+                    "Price": 620
+                },
+                "Tacosd de Ropa Vieja": {
+                    "Price": 750
+                },
+                "Tacos de Jamon Pierna": {
+                    "Price": 750
+                },
+                "Tostones rellenos de Jamon y Queso": {
+                    "Price": 380
+                },
+                "Tostones Rellenos de Atun": {
+                    "Price": 400
+                },
+                "Tostones Rellenos de Ropa Vieja": {
+                    "Price": 500
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Donas": {
+                "Price": 200
+            },
+            "Helado/Galletas": {
+                "Price": 320
+            },
+            "Bola de Helado": {
+                "Price": 140
+            },
+            "Dulce Aroma": {
+                "Price": 350
+            }
+        },
+        "Beverages": {
+            "Caipirinha": {
+                "Price": 250
+            },
+            "Daiquiri": {
+                "Price": 250
+            },
+            "Caipiroska": {
+                "Price": 280
+            },
+            "Caipirisima": {
+                "Price": 280
+            },
+            "Screwdriver": {
+                "Price": 280
+            },
+            "Mojito": {
+                "Price": 300
+            },
+            "Mojito Ruso": {
+                "Price": 300
+            },
+            "Cremas de Tequila": {
+                "Price": 320
+            },
+            "Pina Colada": {
+                "Price": 350
+            },
+            "Martini": {
+                "Price": 300
+            },
+            "Copa de Vino": {
+                "Price": 300
+            },
+            "Gin & Tonic": {
+                "Price": 350
+            },
+            "Sex on the Beach": {
+                "Price": 320
+            },
+            "Sangria": {
+                "Price": 350
+            },
+            "Margarita": {
+                "Price": 350
+            },
+            "Orgasmo": {
+                "Price": 350
+            },
+            "Cervezas Importadas": {
+                "Price": 230
+            },
+            "Habana Club 3 anos": {
+                "Price": 250
+            },
+            "Habana Club Especial": {
+                "Price": 280
+            },
+            "Habana Club Reserva": {
+                "Price": 300
+            },
+            "Habana Club 7 anos": {
+                "Price": 350
+            },
+            "Habana Club Smoky": {
+                "Price": 350
+            },
+            "Seleccion de Maestros": {
+                "Price": 600
+            },
+            "Pacto Navio": {
+                "Price": 600
+            },
+            "Black Tears Super Dry": {
+                "Price": 250
+            },
+            "Black Tears Roble Superior": {
+                "Price": 300
+            },
+            "Tequila Olmeca": {
+                "Price": 300
+            },
+            "Crema Baileys": {
+                "Price": 300
+            },
+            "Jagermeiste": {
+                "Price": 380
+            },
+            "Vodka": {
+                "Price": 250
+            },
+            "Ciroc": {
+                "Price": 400
+            },
+            "Expresso": {
+                "Price": 100
+            },
+            "Capuccino": {
+                "Price": 150
+            },
+            "Cortadito": {
+                "Price": 120
+            },
+            "Moka": {
+                "Price": 180
+            },
+            "Carajillo": {
+                "Price": 180
+            },
+            "Especiado": {
+                "Price": 110
+            },
+            "Americano": {
+                "Price": 115
+            },
+            "Bombon": {
+                "Price": 110
+            },
+            "Cremoso": {
+                "Price": 300
+            },
+            "Jugo Natural": {
+                "Price": 250
+            },
+            "Limonada": {
+                "Price": 100
+            },
+            "Batido de Chocolate": {
+                "Price": 180
+            },
+            "Batido de Frutas": {
+                "Price": 280
+            },
+            "Batido de Helado": {
+                "Price": 330
+            },
+            "Batido de Helado Plus": {
+                "Price": 380
+            },
+            "Frapuccino": {
+                "Price": 550
+            },
+            "Frapuccino Moka": {
+                "Price": 280
+            },
+            "Frapuccino Aroma": {
+                "Price": 300
+            },
+            "Frapuccino Sorpresa": {
+                "Price": 350
+            },
+            "Frapuccino Mousse": {
+                "Price": 380
+            },
+            "Capricho": {
+                "Price": 350
+            },
+            "Refresco Importado": {
+                "Price": 210
+            },
+            "Malta": {
+                "Price": 250
+            },
+            "Agua": {
+                "Price": 150
+            },
+            "Jugo de Caja Pequeno": {
+                "Price": 190
+            },
+            "Jugo de Caja Grande": {
+                "Price": 450
+            },
+            "Pomo de Refresco": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

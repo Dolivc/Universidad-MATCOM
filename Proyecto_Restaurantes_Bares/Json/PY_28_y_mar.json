@@ -1,0 +1,354 @@
+{
+    "Name": "28 y Mar",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "830-2400"
+        ],
+        "Tuesday": [
+            "830-2400"
+        ],
+        "Wednesday": [
+            "830-2400"
+        ],
+        "Thursday": [
+            "830-2400"
+        ],
+        "Friday": [
+            "830-2400"
+        ],
+        "Saturday": [
+            "830-2400"
+        ],
+        "Sunday": [
+            "830-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno europeo": {
+                    "Price": 1650
+                },
+                "Desayuno americano": {
+                    "Price": 1650
+                },
+                "Desayuno miramar": {
+                    "Price": 2150
+                },
+                "Desayuno continental": {
+                    "Price": 2800
+                },
+                "Ensalada de frutas": {
+                    "Price": 700
+                },
+                "Tortilla natural": {
+                    "Price": 750
+                },
+                "Huevo frito o revuelto con bacon": {
+                    "Price": 1050
+                },
+                "Mini bocadito de jamon y queso": {
+                    "Price": 800
+                },
+                "Tostadas con mantequilla": {
+                    "Price": 650
+                },
+                "Crepes": {
+                    "Price": 750
+                }
+            }
+        },
+        "Appetizers": {
+            "Crema aurora": {
+                "Price": 7500
+            },
+            "Crema de queso": {
+                "Price": 750
+            },
+            "Crema virginia": {
+                "Price": 750
+            },
+            "Tapas variadas": {
+                "Price": 1100
+            },
+            "Tapas de croquetas": {
+                "Price": 1250
+            },
+            "Tostones rellenos": {
+                "Price": 950
+            },
+            "Brusquetas": {
+                "Price": 950
+            },
+            "Bolitas de queso": {
+                "Price": 950
+            },
+            "Empanadas de queso azul": {
+                "Price": 1050
+            },
+            "Empanadas de bolonesa": {
+                "Price": 1050
+            },
+            "Fajitas de pollo": {
+                "Price": 1450
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti": {
+                    "Price": 1150
+                },
+                "Lasagna de jamon": {
+                    "Price": 1750
+                },
+                "Lasagna de bolonesa": {
+                    "Price": 2150
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Solomillo de cerdo": {
+                    "Price": 4500
+                }
+            },
+            "Chicken": {
+                "Pechuga de pollo": {
+                    "Price": 3500
+                }
+            },
+            "Beef": {
+                "Solomillo de res": {
+                    "Price": 6500
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Pollo y cerdo": {
+                    "Price": 4000
+                },
+                "Pollo y res": {
+                    "Price": 5000
+                },
+                "Res y cerdo": {
+                    "Price": 5500
+                },
+                "Trio de fantasia": {
+                    "Price": 7250
+                },
+                "Ensalada primavera": {
+                    "Price": 1350
+                },
+                "Ensalada caprichosa": {
+                    "Price": 1750
+                },
+                "Ensalada verano": {
+                    "Price": 1650
+                },
+                "Ensalada marinera": {
+                    "Price": 1600
+                }
+            }
+        },
+        "Extras": {
+            "Jamon serrano": {
+                "Price": 850
+            },
+            "Jamon barra": {
+                "Price": 400
+            },
+            "Jamon pierna": {
+                "Price": 450
+            },
+            "Chorizo": {
+                "Price": 450
+            },
+            "Bacon": {
+                "Price": 450
+            },
+            "Salsa bolonesa": {
+                "Price": 550
+            },
+            "Pechuga de pollo": {
+                "Price": 650
+            },
+            "Atun": {
+                "Price": 450
+            },
+            "Champinon": {
+                "Price": 350
+            },
+            "Aceitunas": {
+                "Price": 350
+            },
+            "Vegetal de estacion": {
+                "Price": 350
+            },
+            "Vianda frita": {
+                "Price": 350
+            },
+            "Papas fritas": {
+                "Price": 550
+            },
+            "Pina glaseada": {
+                "Price": 350
+            },
+            "Queso gouda": {
+                "Price": 450
+            },
+            "Queso mozzarella": {
+                "Price": 450
+            },
+            "Queso parmesano": {
+                "Price": 550
+            },
+            "Queso azul": {
+                "Price": 550
+            },
+            "Nutella": {
+                "Price": 450
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 300
+            },
+            "Agua natural importada": {
+                "Price": 350
+            },
+            "Agua carbonatada": {
+                "Price": 300
+            },
+            "Agua carbonatada importada": {
+                "Price": 850
+            },
+            "Agua tonica mg": {
+                "Price": 600
+            },
+            "Agua tonica schweppes": {
+                "Price": 900
+            },
+            "Refresco nacional": {
+                "Price": 350
+            },
+            "Refresco importado": {
+                "Price": 450
+            },
+            "Malta": {
+                "Price": 450
+            },
+            "Malteada": {
+                "Price": 650
+            },
+            "Red bull": {
+                "Price": 650
+            },
+            "Jugo de fruta natural": {
+                "Price": 350
+            },
+            "Jugo de caja importado": {
+                "Price": 300
+            },
+            "Kermato": {
+                "Price": 750
+            },
+            "Cerveza": {
+                "Price": 650
+            },
+            "Cafe expresso": {
+                "Price": 350
+            },
+            "Cafe americano": {
+                "Price": 350
+            },
+            "Cafe nespresso": {
+                "Price": 700
+            },
+            "Cafe bombon": {
+                "Price": 550
+            },
+            "Cafe capuchino": {
+                "Price": 700
+            },
+            "Cafe capuchino nespresso": {
+                "Price": 950
+            },
+            "Cafe cortado": {
+                "Price": 400
+            },
+            "Cafe con leche": {
+                "Price": 600
+            },
+            "Cafe irlandes": {
+                "Price": 700
+            },
+            "Frapuccino": {
+                "Price": 750
+            },
+            "Chocolate a la espanola": {
+                "Price": 600
+            },
+            "Te caliente o frio": {
+                "Price": 350
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

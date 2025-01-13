@@ -1,0 +1,142 @@
+{
+    "Name": "Hotel Paseo Habana",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "700-2200"
+        ],
+        "Tuesday": [
+            "700-2200"
+        ],
+        "Wednesday": [
+            "700-2200"
+        ],
+        "Thursday": [
+            "700-2200"
+        ],
+        "Friday": [
+            "700-2200"
+        ],
+        "Saturday": [
+            "700-2200"
+        ],
+        "Sunday": [
+            "700-2200"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle A entre 15 y 17",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Cerdo estofado": {
+                    "Price": 1450.0
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 950.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Arroz amarillo": {
+                    "Price": 230.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Vino espumoso condelier": {
+                "Price": 1725.0
+            },
+            "Vino espumoso brincos": {
+                "Price": 2398.0
+            },
+            "Vino rosado santa digna": {
+                "Price": 2112.0
+            },
+            "Vino blanco la vinha": {
+                "Price": 1200.0
+            },
+            "Vino tinto la vinha": {
+                "Price": 1200.0
+            },
+            "Vino tinto entre rios": {
+                "Price": 1068.0
+            },
+            "Pomo de refresco sirope": {
+                "Price": 1080.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

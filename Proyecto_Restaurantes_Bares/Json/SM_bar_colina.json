@@ -1,0 +1,144 @@
+{
+    "Name": "Bar Colina",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-1100"
+        ],
+        "Tuesday": [
+            "1100-1100"
+        ],
+        "Wednesday": [
+            "1100-1100"
+        ],
+        "Thursday": [
+            "1100-1100"
+        ],
+        "Friday": [
+            "1100-1100"
+        ],
+        "Saturday": [
+            "1100-1100"
+        ],
+        "Sunday": [
+            "1100-1100"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "esquina b y calzada de guines reparto merceditas",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "entremes de jamon y queso": {
+                "Price": 600
+            },
+            "croquetas": {
+                "Price": 400
+            },
+            "frituras de malanga": {
+                "Price": 550
+            },
+            "tostones": {
+                "Price": 400
+            },
+            "tostones rellenos": {
+                "Price": 600
+            },
+            "chicharrita": {
+                "Price": 300
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti napolitano": {
+                    "Price": 550
+                }
+            },
+            "Pizza": {
+                "pizza napolitana grande": {
+                    "Price": 650
+                },
+                "pizza napolitana": {
+                    "Price": 220
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

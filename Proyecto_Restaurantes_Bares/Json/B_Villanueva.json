@@ -1,0 +1,1224 @@
+{
+    "Name": "Villanueva",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2330"
+        ],
+        "Tuesday": [
+            "900-2330"
+        ],
+        "Wednesday": [
+            "900-2330"
+        ],
+        "Thursday": [
+            "900-2330"
+        ],
+        "Friday": [
+            "900-2330"
+        ],
+        "Saturday": [
+            "900-2330"
+        ],
+        "Sunday": [
+            "900-2330"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "182 # 39 511 e/ 395 y 397, Santiago de las Vegas",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "ensalada simple de estacion": {
+                "Price": 700.0
+            },
+            "ensalada mixta de estacion": {
+                "Price": 700.0
+            },
+            "ensalada de pollo": {
+                "Price": 800.0
+            },
+            "ensalada de jamon": {
+                "Price": 850.0
+            },
+            "ensalada de jamon y pollo": {
+                "Price": 1050.0
+            },
+            "tabla de queso surtida": {
+                "Price": 1300.0
+            },
+            "ensalada de atun": {
+                "Price": 1100.0
+            },
+            "aceitunas": {
+                "Price": 750.0
+            },
+            "coctel de camarones": {
+                "Price": 1350.0
+            },
+            "coctel de pescado": {
+                "Price": 1300.0
+            },
+            "coctel de langosta": {
+                "Price": 2700.0
+            },
+            "brusquetas": {
+                "Price": 750.0
+            },
+            "bxb": {
+                "Price": 800.0
+            },
+            "baguette con mayonesa": {
+                "Price": 750.0
+            },
+            "dados de queso": {
+                "Price": 985.0
+            },
+            "coctel de atun": {
+                "Price": 1000.0
+            },
+            "ensalada cesar": {
+                "Price": 1180.0
+            },
+            "ensalada meli melo": {
+                "Price": 1100.0
+            },
+            "ensalada campera": {
+                "Price": 1380.0
+            },
+            "ensalada marino": {
+                "Price": 1420.0
+            },
+            "de serrano": {
+                "Price": 1700.0
+            },
+            "entremes/variado": {
+                "Price": 1500.0
+            },
+            "entremes villanueva": {
+                "Price": 1700.0
+            },
+            "crema virginia": {
+                "Price": 850.0
+            },
+            "crema aurora": {
+                "Price": 850.0
+            },
+            "crema a la reina": {
+                "Price": 850.0
+            },
+            "crema/queso": {
+                "Price": 850.0
+            },
+            "crema jamon-queso": {
+                "Price": 1100.0
+            },
+            "crema bisoux villanueva": {
+                "Price": 1100.0
+            },
+            "crema malanga/serrano": {
+                "Price": 1100.0
+            },
+            "consome": {
+                "Price": 550.0
+            },
+            "crema batabano": {
+                "Price": 900.0
+            },
+            "sopa de cebolla": {
+                "Price": 1100.0
+            },
+            "sopa china": {
+                "Price": 850.0
+            },
+            "sopa china/mariscos": {
+                "Price": 950.0
+            },
+            "sopa de pollo": {
+                "Price": 1250.0
+            },
+            "sopa de minestrone": {
+                "Price": 950.0
+            },
+            "bolitas de queso": {
+                "Price": 100.0
+            },
+            "eperlan de pescado": {
+                "Price": 1250.0
+            },
+            "garbanzos fritos": {
+                "Price": 850.0
+            },
+            "caldereta/mariscos": {
+                "Price": 850.0
+            },
+            "frijoles negros": {
+                "Price": 850.0
+            },
+            "croquetas buffet": {
+                "Price": 950.0
+            },
+            "maripositas chinas": {
+                "Price": 850.0
+            },
+            "sopa de res": {
+                "Price": 700.0
+            },
+            "sopa de pescado": {
+                "Price": 1850.0
+            },
+            "tostones rellenos de jamon y queso": {
+                "Price": 1030.0
+            },
+            "tostones rellenos de jamon serrano y queso": {
+                "Price": 1130.0
+            },
+            "tostones rellenos de picadillo de res y queso": {
+                "Price": 1130.0
+            },
+            "tostones rellenos de camaron y queso": {
+                "Price": 1150.0
+            },
+            "tostones rellenos de atun y queso": {
+                "Price": 1130.0
+            },
+            "tostones rellenos de chorizo y queso": {
+                "Price": 1030.0
+            },
+            "tostones rellenos de queso": {
+                "Price": 830.0
+            },
+            "tostones rellenos mixtos": {
+                "Price": 1130.0
+            },
+            "huevos fritos con jamon": {
+                "Price": 720.0
+            },
+            "huevos fritos naturales": {
+                "Price": 650.0
+            },
+            "huevos fritos con chorizo": {
+                "Price": 710.0
+            },
+            "huevos a la americana": {
+                "Price": 720.0
+            },
+            "huevos a lo marisel": {
+                "Price": 700.0
+            },
+            "tortilla de papa": {
+                "Price": 800.0
+            },
+            "tortilla de jamon": {
+                "Price": 720.0
+            },
+            "tortilla de queso": {
+                "Price": 810.0
+            },
+            "tortilla de chorizo": {
+                "Price": 710.0
+            },
+            "tortilla de cebolla": {
+                "Price": 700.0
+            },
+            "tortilla espannola": {
+                "Price": 950.0
+            },
+            "tortilla natural": {
+                "Price": 550.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis villanueva": {
+                    "Price": 1150.0
+                },
+                "espaguetis a la bolonnesa": {
+                    "Price": 1300.0
+                },
+                "espaguetis de camarones": {
+                    "Price": 1450.0
+                },
+                "espaguetis al burro": {
+                    "Price": 900.0
+                },
+                "espaguetis napolitanos": {
+                    "Price": 1050.0
+                },
+                "espaguetis de jamon": {
+                    "Price": 1180.0
+                },
+                "espaguetis de jamon y chorizo": {
+                    "Price": 1250.0
+                },
+                "espaguetis alfredo": {
+                    "Price": 1600.0
+                },
+                "espaguetis al pesto": {
+                    "Price": 1150.0
+                },
+                "coditos villanueva": {
+                    "Price": 1250.0
+                },
+                "coditos de camarones": {
+                    "Price": 1450.0
+                },
+                "coditos de chorizo": {
+                    "Price": 1150.0
+                },
+                "coditos de jamon": {
+                    "Price": 1180.0
+                },
+                "coditos al burro": {
+                    "Price": 900.0
+                },
+                "coditos napolitanos": {
+                    "Price": 1050.0
+                },
+                "coditos a la bolonnesa": {
+                    "Price": 1300.0
+                },
+                "coditos de jamon y chorizo": {
+                    "Price": 1250.0
+                },
+                "lasagna a la bolonnesa": {
+                    "Price": 1500.0
+                },
+                "lasagna de jamon": {
+                    "Price": 1600.0
+                },
+                "canelon a la bolonnesa": {
+                    "Price": 1400.0
+                },
+                "canelon de jamon": {
+                    "Price": 1300.0
+                }
+            },
+            "Pizza": {
+                "pizza familiar villanueva": {
+                    "Price": 1650.0
+                },
+                "pizza familiar de chorizo": {
+                    "Price": 1295.0
+                },
+                "pizza familiar margarita": {
+                    "Price": 2100.0
+                },
+                "pizza familiar 4 quesos": {
+                    "Price": 1900.0
+                },
+                "pizza familiar de queso": {
+                    "Price": 1270.0
+                },
+                "pizza familiar de cebolla": {
+                    "Price": 1470.0
+                },
+                "pizza familiar de camarones": {
+                    "Price": 1950.0
+                },
+                "pizza familiar de atun": {
+                    "Price": 1870.0
+                },
+                "pizza familiar de jamon": {
+                    "Price": 1480.0
+                },
+                "pizza familiar de aji": {
+                    "Price": 2000.0
+                },
+                "pizza familiar combinada": {
+                    "Price": 1650.0
+                },
+                "pizza familiar de vegetales": {
+                    "Price": 2200.0
+                },
+                "pizza familiar de aceitunas": {
+                    "Price": 1570.0
+                },
+                "pizza familiar de langosta": {
+                    "Price": 1480.0
+                },
+                "pizza familiar hawaiana": {
+                    "Price": 1950.0
+                },
+                "pizza napolitana": {
+                    "Price": 830.0
+                },
+                "pizza margarita": {
+                    "Price": 900.0
+                },
+                "pizza 4 quesos": {
+                    "Price": 1550.0
+                },
+                "pizza de cebolla": {
+                    "Price": 900.0
+                },
+                "pizza de camarones": {
+                    "Price": 1430.0
+                },
+                "pizza de langosta": {
+                    "Price": 1430.0
+                },
+                "pizza de atun": {
+                    "Price": 1180.0
+                },
+                "pizza de jamon": {
+                    "Price": 940.0
+                },
+                "pizza de aji": {
+                    "Price": 1080.0
+                },
+                "pizza de aceitunas": {
+                    "Price": 880.0
+                },
+                "pizza de vegetales": {
+                    "Price": 1500.0
+                },
+                "pizza combinada": {
+                    "Price": 1250.0
+                },
+                "pizza de chorizo": {
+                    "Price": 1050.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1100.0
+                },
+                "pizza villanueva": {
+                    "Price": 1300.0
+                }
+            },
+            "Pork": {
+                "pinchitos a lo carlitos": {
+                    "Price": 2400.0
+                },
+                "completa lomo ahumado a la parrilla ": {
+                    "Price": 2200.0
+                },
+                "completa costillas al carbon": {
+                    "Price": 3600.0
+                },
+                "completa masas fritas": {
+                    "Price": 2500.0
+                },
+                "fricase de cerdo": {
+                    "Price": 2000.0
+                },
+                "picadillo de cerdo": {
+                    "Price": 2100.0
+                },
+                "medallones villanueva": {
+                    "Price": 2800.0
+                },
+                "estofado de cerdo": {
+                    "Price": 3100.0
+                },
+                "carne asada en cazuela": {
+                    "Price": 2800.0
+                },
+                "carne rebosada": {
+                    "Price": 2800.0
+                },
+                "masas de cerdo fritas": {
+                    "Price": 2400.0
+                },
+                "filete de cerdo a la parrilla": {
+                    "Price": 2400.0
+                },
+                "cerdo empanado carlitos": {
+                    "Price": 2750.0
+                },
+                "ramiro cerdo villanueva": {
+                    "Price": 2250.0
+                },
+                "costillas de cerdo al carbon": {
+                    "Price": 3100.0
+                },
+                "filete de cerdo juliana encebollado": {
+                    "Price": 2450.0
+                },
+                "completa bistec de cerdo a la parrilla": {
+                    "Price": 1800.0
+                },
+                "completa bistec de cerdo empanado": {
+                    "Price": 1900.0
+                },
+                "chop suey de jamon": {
+                    "Price": 2000.0
+                },
+                "chop suey de cerdo": {
+                    "Price": 1850.0
+                },
+                "bistec de corte mixto a la parrilla": {
+                    "Price": 1950.0
+                },
+                "lomo ahumado": {
+                    "Price": 1500.0
+                },
+                "lomo ahumado especial": {
+                    "Price": 2100.0
+                },
+                "lomo ahumado gratinado": {
+                    "Price": 1750.0
+                },
+                "lomo ahumado gratinado especial": {
+                    "Price": 2350.0
+                },
+                "lomo ahumado a la parrilla": {
+                    "Price": 1700.0
+                },
+                "lomo ahumado a la parrilla especial ": {
+                    "Price": 2250.0
+                },
+                "mini uruguayo de cerdo": {
+                    "Price": 1950.0
+                },
+                "bistec de cerdo a la parrilla ": {
+                    "Price": 1700.0
+                },
+                "bistec de cerdo parrilla gratinado": {
+                    "Price": 1950.0
+                },
+                "bistec a lo ramiro": {
+                    "Price": 1900.0
+                },
+                "bistec de cerdo grille": {
+                    "Price": 1400.0
+                },
+                "bistec de cerdo grille gratinado": {
+                    "Price": 1950.0
+                }
+            },
+            "Chicken": {
+                "la trenza de la negra pinarenna": {
+                    "Price": 3600.0
+                },
+                "carnes al pincho sur": {
+                    "Price": 3100.0
+                },
+                "uruguayo villanueva original ": {
+                    "Price": 2600.0
+                },
+                "brochetas mar y tierra ": {
+                    "Price": 2100.0
+                },
+                "prepara lo maximo": {
+                    "Price": 2500.0
+                },
+                "parrillada villanueva": {
+                    "Price": 4950.0
+                },
+                "churrasco de cerdo a la villanueva": {
+                    "Price": 4000.0
+                },
+                "pincho san jacobo": {
+                    "Price": 3400.0
+                },
+                "mar y tierra": {
+                    "Price": 6800.0
+                },
+                "pollo entero relleno": {
+                    "Price": 4700.0
+                },
+                "pollo entero villanueva": {
+                    "Price": 4300.0
+                },
+                "pollo a la barbacoa (1/2 pollo)": {
+                    "Price": 2100.0
+                },
+                "pollo a la parrilla (1/2 pollo)": {
+                    "Price": 2100.0
+                },
+                "pollo frito tradicional (1/2 pollo)": {
+                    "Price": 1900.0
+                },
+                "pollo frito tradicional (1/4 pollo)": {
+                    "Price": 1400.0
+                },
+                "pollo a la parrilla (1/4 pollo)": {
+                    "Price": 1450.0
+                },
+                "pollo a la parrilla gratinado (1/4 pollo)": {
+                    "Price": 1650.0
+                },
+                "pollo en salsa de tomate (1/4 pollo)": {
+                    "Price": 1350.0
+                },
+                "pollo asado a la mostaza (1/4 pollo)": {
+                    "Price": 1370.0
+                },
+                "pollo asado con mantequilla (1/4 pollo)": {
+                    "Price": 1370.0
+                },
+                "pollo asado con mayonesa (1/4 pollo)": {
+                    "Price": 1450.0
+                },
+                "pollo asado (1/4 pollo)": {
+                    "Price": 1300.0
+                },
+                "chop suey de pollo (0.50 lb)": {
+                    "Price": 1650.0
+                },
+                "pollo frito tradicional gratinado (1/2 pollo)": {
+                    "Price": 2100.0
+                },
+                "pollo frito tradicional gratinado (1/4 pollo)": {
+                    "Price": 1550.0
+                },
+                "suprema de pollo grille": {
+                    "Price": 1500.0
+                },
+                "gordon blue de pollo especial": {
+                    "Price": 2300.0
+                },
+                "mini gordon blum": {
+                    "Price": 1970.0
+                },
+                "gordon blue de pollo villanueva": {
+                    "Price": 2800.0
+                },
+                "gordon blue de poilo especial gratinado": {
+                    "Price": 2500.0
+                },
+                "mini gordon blue de pollo gratinado": {
+                    "Price": 2170.0
+                },
+                "gordon blue de pollo villanueva gratinado": {
+                    "Price": 2950.0
+                },
+                "suprema rebozada": {
+                    "Price": 1850.0
+                },
+                "suprema glaseado con pinna": {
+                    "Price": 1700.0
+                },
+                "suprema de pollo a la juliana encebollada": {
+                    "Price": 1750.0
+                },
+                "suprema de pollo empanada": {
+                    "Price": 1750.0
+                },
+                "suprema de pollo a la parrilla": {
+                    "Price": 1700.0
+                },
+                "suprema de pollo a lo ramiro": {
+                    "Price": 2200.0
+                },
+                "fajitas de pollo empanadas": {
+                    "Price": 1750.0
+                },
+                "ramiro de pollo villanueva": {
+                    "Price": 2750.0
+                }
+            },
+            "Beef": {
+                "completa bistec de res empanado": {
+                    "Price": 2500.0
+                },
+                "rinnonada villanueva": {
+                    "Price": 2300.0
+                },
+                "carpaccio de res": {
+                    "Price": 2100.0
+                },
+                "rinnonada de res": {
+                    "Price": 1950.0
+                },
+                "rinnonada de res a la parrilla": {
+                    "Price": 2100.0
+                },
+                "rinnonada empanada": {
+                    "Price": 2300.0
+                },
+                "uruguayo de rinnonada especial": {
+                    "Price": 3800.0
+                },
+                "mini uruguayo de rinnonada": {
+                    "Price": 2600.0
+                },
+                "uruguayovillanueva derinnonada": {
+                    "Price": 4600.0
+                },
+                "uruguayo de rinnonada a la mariscada": {
+                    "Price": 5200.0
+                },
+                "bistec de corte mixto": {
+                    "Price": 1750.0
+                },
+                "bistec empanado de corte mixto": {
+                    "Price": 2350.0
+                },
+                "uruguayo especial de corte mixto": {
+                    "Price": 3850.0
+                },
+                "mini uruguayo de corte mixto": {
+                    "Price": 2550.0
+                },
+                "rollito villanueva": {
+                    "Price": 1550.0
+                },
+                "rollitos villanueva dobles": {
+                    "Price": 2550.0
+                },
+                "ropa vieja": {
+                    "Price": 2100.0
+                },
+                "uruguayo villanueva de corte mixto": {
+                    "Price": 4350.0
+                },
+                "uruguayo corte mixto mariscada ": {
+                    "Price": 4950.0
+                },
+                "vaca frita": {
+                    "Price": 2400.0
+                },
+                "ropa vieja res": {
+                    "Price": 2300.0
+                },
+                "brochetas de res": {
+                    "Price": 3000.0
+                },
+                "filete mignon": {
+                    "Price": 3500.0
+                },
+                "filete de res a la deutch": {
+                    "Price": 3850.0
+                },
+                "picadillo a la habanera": {
+                    "Price": 3000.0
+                },
+                "filete de res a la parrilla": {
+                    "Price": 3450.0
+                },
+                "ramiro palomilla villanueva": {
+                    "Price": 3950.0
+                },
+                "ramiro palomilla especial": {
+                    "Price": 3350.0
+                },
+                "filete de res juliana encebollado": {
+                    "Price": 3400.0
+                },
+                "la mucha carne rica": {
+                    "Price": 4500.0
+                },
+                "carne mechada villanueva": {
+                    "Price": 2950.0
+                },
+                "completa bistec de res a la parrilla": {
+                    "Price": 2300.0
+                },
+                "carne borracha": {
+                    "Price": 2550.0
+                },
+                "bistec empanado": {
+                    "Price": 1650.0
+                },
+                "bistec empanado gratinado": {
+                    "Price": 1850.0
+                },
+                "bistec uruguayo de cerdo especial": {
+                    "Price": 2200.0
+                },
+                "bistec uruguayo cerdo especial gratinado": {
+                    "Price": 2400.0
+                },
+                "bistec uruguayo al softball": {
+                    "Price": 2400.0
+                },
+                "bistec uruguayo al softball gratinado": {
+                    "Price": 2600.0
+                },
+                "bistec uruguayo a la villanueva": {
+                    "Price": 2700.0
+                },
+                "bistec uruguayo villa nueva gratinado": {
+                    "Price": 2900.0
+                }
+            },
+            "Sea": {
+                "filete de pescado a la romana": {
+                    "Price": 1950.0
+                },
+                "filete de pescado grille": {
+                    "Price": 1600.0
+                },
+                "filete de pescado empanizado al graten": {
+                    "Price": 2150.0
+                },
+                "filete de pescado grille al graten": {
+                    "Price": 1850.0
+                },
+                "canciller mariscada": {
+                    "Price": 3100.0
+                },
+                "filete canciller": {
+                    "Price": 2600.0
+                },
+                "filete canciller al graten": {
+                    "Price": 2850.0
+                },
+                "filete monta de toro": {
+                    "Price": 2400.0
+                },
+                "filete a lo ramiro de pescado": {
+                    "Price": 2500.0
+                },
+                "dos metes de pescado rellenos com jamon parsof": {
+                    "Price": 2650.0
+                },
+                "filete monta de toro al graten": {
+                    "Price": 2650.0
+                },
+                "filete canciller villanueva": {
+                    "Price": 3100.0
+                },
+                "filete canciller villanueva gratinada": {
+                    "Price": 3350.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 1900.0
+                },
+                "filete de pescado a la parrilla": {
+                    "Price": 1850.0
+                },
+                "filete de pescado a la parrilla gratinado": {
+                    "Price": 2100.0
+                },
+                "filete de pescado rebosado": {
+                    "Price": 2000.0
+                },
+                "filete de pescado jonvilleg": {
+                    "Price": 3000.0
+                },
+                "filete de pescado a la orlis": {
+                    "Price": 1900.0
+                },
+                "calderetas de pescado": {
+                    "Price": 2500.0
+                },
+                "filete de pescado al ajillo": {
+                    "Price": 2600.0
+                },
+                "ramiro de pescado villanueva": {
+                    "Price": 2650.0
+                },
+                "pescado entero": {
+                    "Price": 1000.0
+                },
+                "pescado pomodoro oliva": {
+                    "Price": 2500.0
+                },
+                "ceviche": {
+                    "Price": 1850.0
+                },
+                "camarones grille": {
+                    "Price": 2500.0
+                },
+                "camarones rebasados": {
+                    "Price": 2800.0
+                },
+                "camarones a la orlis": {
+                    "Price": 2500.0
+                },
+                "camarones al ajillo": {
+                    "Price": 2500.0
+                },
+                "camarones mornay": {
+                    "Price": 2500.0
+                },
+                "carbonara de camaron": {
+                    "Price": 2500.0
+                },
+                "brochetas de camaron": {
+                    "Price": 2500.0
+                },
+                "enchilado de camaron": {
+                    "Price": 2500.0
+                },
+                "pulpo": {
+                    "Price": 2300.0
+                },
+                "langosta rebosada": {
+                    "Price": 2800.0
+                },
+                "langosta thermidor": {
+                    "Price": 2500.0
+                },
+                "langosta a la orlis": {
+                    "Price": 2500.0
+                },
+                "langosta mornay": {
+                    "Price": 2500.0
+                },
+                "langosta varadero": {
+                    "Price": 2500.0
+                },
+                "langosta batabano": {
+                    "Price": 2500.0
+                },
+                "enchilado de langosta": {
+                    "Price": 2500.0
+                },
+                "langosta grille": {
+                    "Price": 2500.0
+                },
+                "cazuelita de mariscos villanueva": {
+                    "Price": 3000.0
+                },
+                "escalope de langosta a lo hace marisel": {
+                    "Price": 2500.0
+                },
+                "masa frita de langosto/salsas ricas": {
+                    "Price": 2500.0
+                },
+                "langosta mariposa a": {
+                    "Price": 2500.0
+                },
+                "cola de lumposta, maniera min jy versi": {
+                    "Price": 2500.0
+                },
+                "mariscadas": {
+                    "Price": 4800.0
+                }
+            },
+            "Other": {
+                "cordero al romero": {
+                    "Price": 2500.0
+                },
+                "estofado de cordero": {
+                    "Price": 2600.0
+                },
+                "chilindron de cordero": {
+                    "Price": 2400.0
+                },
+                "ropa vieja de cordero": {
+                    "Price": 2400.0
+                },
+                "chuleta de cordero asada": {
+                    "Price": 2500.0
+                },
+                "chuleta de cordero asada gratinada": {
+                    "Price": 2700.0
+                },
+                "conejo estofado": {
+                    "Price": 3000.0
+                },
+                "conejo en salsa de tomate": {
+                    "Price": 2850.0
+                },
+                "conejo asado": {
+                    "Price": 2800.0
+                },
+                "conejo al ajillo": {
+                    "Price": 3000.0
+                },
+                "conejo alioli": {
+                    "Price": 2850.0
+                }
+            }
+        },
+        "Extras": {
+            "paella criolla": {
+                "Price": 2950.0
+            },
+            "paella valenciana": {
+                "Price": 2750.0
+            },
+            "paella de mariscos": {
+                "Price": 3500.0
+            },
+            "arroz salteado": {
+                "Price": 1000.0
+            },
+            "arroz salteado/vegetales": {
+                "Price": 1100.0
+            },
+            "arroz salteado/camaron": {
+                "Price": 1500.0
+            },
+            "arroz pilaf": {
+                "Price": 700.0
+            },
+            "arroz blanco": {
+                "Price": 450.0
+            },
+            "arroz moro": {
+                "Price": 650.0
+            },
+            "arroz amarillo con cerdo": {
+                "Price": 2750.0
+            },
+            "arroz amarillo de jamon": {
+                "Price": 2350.0
+            },
+            "arroz amarillo con pollo": {
+                "Price": 1950.0
+            },
+            "arroz amarillo con vegetales": {
+                "Price": 2200.0
+            },
+            "arroz amarillo con pescado": {
+                "Price": 2150.0
+            },
+            "arroz frito": {
+                "Price": 1100.0
+            },
+            "arroz frito/camarones": {
+                "Price": 1650.0
+            },
+            "risotto de mariscos": {
+                "Price": 3800.0
+            },
+            "arroz con maiz": {
+                "Price": 1350.0
+            },
+            "arroz frito/pescado": {
+                "Price": 1450.0
+            },
+            "papas rebosadas carmita": {
+                "Price": 750.0
+            },
+            "papas fritas (naturales)": {
+                "Price": 750.0
+            },
+            "papas fritas (precocidas)": {
+                "Price": 750.0
+            },
+            "pure de papas": {
+                "Price": 750.0
+            },
+            "pure de malanga": {
+                "Price": 650.0
+            },
+            "papas al horno": {
+                "Price": 750.0
+            },
+            "papas bravas": {
+                "Price": 750.0
+            },
+            "chips de platanos": {
+                "Price": 500.0
+            },
+            "chips de malangas": {
+                "Price": 500.0
+            },
+            "tostones": {
+                "Price": 500.0
+            },
+            "platano maduro frito": {
+                "Price": 500.0
+            },
+            "frituras de malanga": {
+                "Price": 650.0
+            },
+            "boniato frito": {
+                "Price": 500.0
+            },
+            "vianda hervida con mojo": {
+                "Price": 500.0
+            },
+            "ensalada salteada": {
+                "Price": 850.0
+            },
+            "salsa tomate": {
+                "Price": 250.0
+            },
+            "salsa sangria": {
+                "Price": 750.0
+            },
+            "salsa agridulce": {
+                "Price": 350.0
+            },
+            "salsa mayonesa": {
+                "Price": 250.0
+            },
+            "salsa tartara": {
+                "Price": 420.0
+            },
+            "salsa rosa": {
+                "Price": 400.0
+            },
+            "salsa de pinna y queso": {
+                "Price": 850.0
+            },
+            "salsa de chocolate y pinna": {
+                "Price": 800.0
+            },
+            "queso": {
+                "Price": 800.0
+            },
+            "lomo ahumado": {
+                "Price": 750.0
+            },
+            "jamon": {
+                "Price": 400.0
+            },
+            "chorizo": {
+                "Price": 450.0
+            },
+            "aceitunas": {
+                "Price": 450.0
+            },
+            "camaron": {
+                "Price": 1000.0
+            },
+            "langosta": {
+                "Price": 1000.0
+            },
+            "atun": {
+                "Price": 700.0
+            },
+            "aji": {
+                "Price": 350.0
+            },
+            "cebolla": {
+                "Price": 300.0
+            },
+            "pinna": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            "postres caseros": {
+                "Price": 450.0
+            },
+            "tres leches (cunna)": {
+                "Price": 750.0
+            },
+            "tarta de chocolate (cunna)": {
+                "Price": 700.0
+            },
+            "cake (cunna)": {
+                "Price": 650.0
+            },
+            "copa de helado (una bola)": {
+                "Price": 250.0
+            },
+            "copa de helado (dos bolas)": {
+                "Price": 500.0
+            },
+            "semifrio": {
+                "Price": 500.0
+            },
+            "cheesecake (cunna)": {
+                "Price": 600.0
+            }
+        },
+        "Beverages": {
+            "agua natural": {
+                "Price": 200.0
+            },
+            "agua gaseada": {
+                "Price": 250.0
+            },
+            "agua natural (importada)": {
+                "Price": 1500.0
+            },
+            "agua tonica (nacional)": {
+                "Price": 300.0
+            },
+            "agua tonica (importada)": {
+                "Price": 700.0
+            },
+            "refrescos (importados)": {
+                "Price": 350.0
+            },
+            "jugos de frutas naturales": {
+                "Price": 350.0
+            },
+            "jugo de tomate": {
+                "Price": 350.0
+            },
+            "malta": {
+                "Price": 350.0
+            },
+            "malteadas": {
+                "Price": 550.0
+            },
+            "bebida energizante": {
+                "Price": 500.0
+            },
+            "limonada": {
+                "Price": 400.0
+            },
+            "kermato": {
+                "Price": 600.0
+            },
+            "cerveza importada": {
+                "Price": 280.0
+            },
+            "cerveza nacional": {
+                "Price": 370.0
+            },
+            "cerveza corona": {
+                "Price": 500.0
+            },
+            "cerveza heineken": {
+                "Price": 500.0
+            },
+            "expreso": {
+                "Price": 200.0
+            },
+            "te": {
+                "Price": 150.0
+            },
+            "cortadito": {
+                "Price": 300.0
+            },
+            "capuchino": {
+                "Price": 490.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

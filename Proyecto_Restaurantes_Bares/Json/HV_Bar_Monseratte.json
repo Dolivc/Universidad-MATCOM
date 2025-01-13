@@ -1,0 +1,187 @@
+{
+    "Name": "Bar Monserrate",
+    "Type": "Bar",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-22:00"],
+        "Tuesday":  ["12:00-22:00"],
+        "Wednesday": ["12:00-22:00"],
+        "Thursday": ["12:00-22:00"],
+        "Friday":   ["12:00-22:00"],
+        "Saturday": ["12:00-22:00"],
+        "Sunday":   ["12:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obrapia/ Bernaza y Avenida Belgica",
+        "Coordinates": "4JMR+WHC"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Picada de salchicha": {
+                "Price": 60
+            },
+            "Croquetas de jamon": {
+                "Price": 250
+            },
+            "Croquetas de pollo": {
+                "Price": 150
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo grille": {
+                    "Price": 850
+                },
+                "Fajitas de cerdo": {
+                    "Price": 990
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Res estofada": {
+                    "Price": 875
+                }
+            },
+            "Sea": {
+                "Cola de langosta": {
+                    "Price": 2300
+                },
+                "Anillas de langosta": {
+                    "Price": 2175
+                },
+                "Camaron grille": {
+                    "Price": 1900
+                },
+                "Camaron enchilado": {
+                    "Price": 1740
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 100
+            },
+            "Arroz moro": {
+                "Price": 135
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cuba libre": {
+                "Price": 300
+            },
+            "Cubata 290ML": {
+                "Price": 325
+            },
+            "Daiquiri ": {
+                "Price": 300
+            },
+            "Licor cubay de menta 60ML": {
+                "Price": 200
+            },
+            "Licor curacao azul 60ML": {
+                "Price": 200
+            },
+            "Licor cubay de anis": {
+                "Price": 200
+            },
+            "Chanceler 60ML": {
+                "Precio": 180
+            },
+            "HC 3 anhos 60ML": {
+                "Precio": 200
+            },
+            "HC blanco 60ML": {
+                "Precio": 200
+            },
+            "HC reserva 60ML": {
+                "Precio": 380
+            },
+            "HC especial 60ML": {
+                "Precio": 250
+            },
+            "HC ritual 60ML": {
+                "Precio": 250
+            },
+            "Limonada 290ML": {
+                "Price": 100
+            },
+            "Cerveza importada": {
+                "Price": 175
+            },
+            "Cerveza nacional": {
+                "Price": 160
+            },
+            "Parranda 500ML": {
+                "Price": 180
+            },
+            "Cerveza 500ML dispensada": {
+                "Precio": 190
+            },
+            "Jugo nacional": {
+                "Price": 90
+            },
+            "Bebida energizante": {
+                "Precio": 200
+            },
+            "Malta importada": {
+                "Price": 135
+            },
+            "Vaso de jugo importado 200ML": {
+                "Price": 80
+            }
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Grupo musical"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

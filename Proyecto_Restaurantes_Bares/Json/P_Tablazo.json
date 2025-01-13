@@ -1,0 +1,637 @@
+{
+    "Name": "Tablazo",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-200"
+        ],
+        "Tuesday": [
+            "900-200"
+        ],
+        "Wednesday": [
+            "900-200"
+        ],
+        "Thursday": [
+            "900-200"
+        ],
+        "Friday": [
+            "900-200"
+        ],
+        "Saturday": [
+            "900-200"
+        ],
+        "Sunday": [
+            "900-200"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 1era entre C y D, Vedado.",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Desayuno Tablazo": {
+                "Price": 1100.0
+            },
+            "Desayuno Pura Vida": {
+                "Price": 850.0
+            },
+            "Tostadas Francesas": {
+                "Price": 900.0
+            },
+            "Cesta de pan ": {
+                "Price": 490.0
+            },
+            "Frituras de Malanga ": {
+                "Price": 790.0
+            },
+            "Croquetas de la Casa": {
+                "Price": 495.0
+            },
+            "Papas Fritas": {
+                "Price": 890.0
+            },
+            "Empanadas de espinacas y queso trufado ": {
+                "Price": 750.0
+            },
+            "Eperlan de pescado ": {
+                "Price": 1300.0
+            },
+            "Empanadas de la casa ": {
+                "Price": 890.0
+            },
+            "Cremosa de la casa": {
+                "Price": 1300.0
+            },
+            "Tamal en Cazuela": {
+                "Price": 890.0
+            },
+            "Tostones rellenos de cangrejo": {
+                "Price": 950.0
+            },
+            "Tostones rellenos de atun y pico de gallo": {
+                "Price": 1200.0
+            },
+            "Ensalada rio arriba": {
+                "Price": 2100.0
+            },
+            "Ensalada tablazo": {
+                "Price": 1700.0
+            },
+            "Ensalada ranchera": {
+                "Price": 1450.0
+            },
+            "Ensalada Capresse": {
+                "Price": 900.0
+            },
+            "Ensalada estacion": {
+                "Price": 900.0
+            },
+            "Ceviche de Pescado": {
+                "Price": 950.0
+            },
+            "Ensalada fria": {
+                "Price": 700.0
+            },
+            "Montaditos de Cangrejo": {
+                "Price": 750.0
+            },
+            "Coctel de Langosta": {
+                "Price": 1300.0
+            },
+            "Garbanzo Tablazo": {
+                "Price": 1200.0
+            },
+            "Carbanzo de pulpo": {
+                "Price": 2700.0
+            },
+            "Carpaccio de res mi chef": {
+                "Price": 2300.0
+            },
+            "Picadera Tablazo": {
+                "Price": 2900.0
+            },
+            "Tabla de jamon serrano y queso": {
+                "Price": 3000.0
+            },
+            "Montaditos de salmon ahumado": {
+                "Price": 2800.0
+            },
+            "Tabla cimarrona": {
+                "Price": 2500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pomodoro": {
+                    "Price": 990.0
+                },
+                "Amatriciana": {
+                    "Price": 1200.0
+                },
+                "Bolognesa": {
+                    "Price": 1290.0
+                },
+                "Carbonara": {
+                    "Price": 1690.0
+                },
+                "Cangrejo y camarones": {
+                    "Price": 1750.0
+                },
+                "Pasta Harakiri": {
+                    "Price": 2100.0
+                }
+            },
+            "Pizza": {
+                "Margarita": {
+                    "Price": 1300.0
+                },
+                "Habana 500": {
+                    "Price": 1850.0
+                },
+                "Calzone Tablazo": {
+                    "Price": 2200.0
+                },
+                "4 quesos": {
+                    "Price": 1850.0
+                },
+                "Pizza Top": {
+                    "Price": 2400.0
+                },
+                "Focaccia de jamon serrano": {
+                    "Price": 1380.0
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo con mojo criollo": {
+                    "Price": 2500.0
+                },
+                "Masas de cerdo frita con salsa chimichurri": {
+                    "Price": 3100.0
+                },
+                "Lomo de cerdo ahumado con salsa agridulce de yogurt": {
+                    "Price": 2600.0
+                },
+                "Costilla de cerdo con salsa barbacoa": {
+                    "Price": 3600.0
+                },
+                "Lomo salteado de cerdo": {
+                    "Price": 2600.0
+                },
+                "Cordon bleu de cerdo y salsa ahumada": {
+                    "Price": 3000.0
+                }
+            },
+            "Chicken": {
+                "Supremo de pollo con salsa cazadora": {
+                    "Price": 2400.0
+                },
+                "Cordon Bleu de pollo y agridulce de yogurt": {
+                    "Price": 2700.0
+                },
+                "Pechuga rellena con jamon y queso  con salsa ahumada": {
+                    "Price": 2600.0
+                },
+                "Pollo grille deshuesado con mantequilla de ajo": {
+                    "Price": 2400.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja entomatadad": {
+                    "Price": 2400.0
+                },
+                "Bistec de res encebollado con cilantro y aceite de oliva": {
+                    "Price": 2850.0
+                },
+                "Mignon de res con salsa cazadora": {
+                    "Price": 4950.0
+                },
+                "Solomillo de res con salsa de pimienta, champinones y trufas": {
+                    "Price": 4950.0
+                },
+                "Lomo saltado de res": {
+                    "Price": 4500.0
+                }
+            },
+            "Sea": {
+                "Pescado grille con salsa maitre hotel": {
+                    "Price": 2500.0
+                },
+                "Maleconazo": {
+                    "Price": 3000.0
+                },
+                "Papillote de pescado": {
+                    "Price": 2600.0
+                },
+                "Cola de langosta a su eleccion": {
+                    "Price": 3600.0
+                },
+                "Causa de Calamar": {
+                    "Price": 1950.0
+                },
+                "Langostinos salteados en salsa cajun": {
+                    "Price": 2200.0
+                },
+                "Wok de mariscos": {
+                    "Price": 4000.0
+                },
+                "Calamar Recuerdo": {
+                    "Price": 3500.0
+                },
+                "Camarones a su eleccion": {
+                    "Price": 3300.0
+                }
+            },
+            "Other": {
+                "Indeciso": {
+                    "Price": 2500.0
+                },
+                "Suprema solo en casa": {
+                    "Price": 2700.0
+                },
+                "Cordero estilo tablazo": {
+                    "Price": 2700.0
+                },
+                "Cordero Estofado": {
+                    "Price": 2600.0
+                },
+                "Ropa vieja de cordero": {
+                    "Price": 2300.0
+                },
+                "Paisa Cubana": {
+                    "Price": 2300.0
+                },
+                "Grill-Mar": {
+                    "Price": 3400.0
+                },
+                "Risotto de res y hongos": {
+                    "Price": 3350.0
+                },
+                "Arroz toque profundo": {
+                    "Price": 3200.0
+                },
+                "Jarrete de cordero en salsa de curry, leche de coco y aceitunas verdes": {
+                    "Price": 2500.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz moro": {
+                "Price": 350.0
+            },
+            "arroz blanco": {
+                "Price": 300.0
+            },
+            "Frijoles del dia": {
+                "Price": 350.0
+            },
+            "Yuca": {
+                "Price": 350.0
+            },
+            "Ensalada de Vegetales": {
+                "Price": 3900.0
+            },
+            "Pisto de Vegetales": {
+                "Price": 350.0
+            },
+            "Vegetales grille": {
+                "Price": 350.0
+            },
+            "Chicharritas de Boniato": {
+                "Price": 450.0
+            },
+            "Tostones criollos": {
+                "Price": 500.0
+            },
+            "Platano maduro frito": {
+                "Price": 500.0
+            },
+            "Chicharritas de platano": {
+                "Price": 500.0
+            }
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 800.0
+            },
+            "Copa Lolita": {
+                "Price": 990.0
+            },
+            "Helado": {
+                "Price": 500.0
+            },
+            "tarta de la casa": {
+                "Price": 800.0
+            },
+            "Brownie con helado": {
+                "Price": 850.0
+            }
+        },
+        "Beverages": {
+            "Cuba libre": {
+                "Price": 690.0
+            },
+            "Caipiroska": {
+                "Price": 690.0
+            },
+            "Ron Collins": {
+                "Price": 690.0
+            },
+            "Sangria": {
+                "Price": 750.0
+            },
+            "Havana especial": {
+                "Price": 650.0
+            },
+            "Caipirinha": {
+                "Price": 650.0
+            },
+            "Cubata": {
+                "Price": 790.0
+            },
+            "Aperol spritz": {
+                "Price": 1300.0
+            },
+            "Cubanito": {
+                "Price": 750.0
+            },
+            "Expresso Martini": {
+                "Price": 800.0
+            },
+            "Margarita Rose": {
+                "Price": 1100.0
+            },
+            "Margarita": {
+                "Price": 950.0
+            },
+            "Mojito": {
+                "Price": 690.0
+            },
+            "Mojito de frutas": {
+                "Price": 720.0
+            },
+            "Pina colada sin alcohol": {
+                "Price": 850.0
+            },
+            "Pina colada con alcohol": {
+                "Price": 950.0
+            },
+            "Canchanchara": {
+                "Price": 690.0
+            },
+            "Daiquiri": {
+                "Price": 690.0
+            },
+            "Daiquiri de frutas": {
+                "Price": 720.0
+            },
+            "Mimosa": {
+                "Price": 700.0
+            },
+            "Bloody Mary": {
+                "Price": 750.0
+            },
+            "Sangria Tablazo": {
+                "Price": 850.0
+            },
+            "Refrescos": {
+                "Price": 420.0
+            },
+            "Malta": {
+                "Price": 450.0
+            },
+            "Malteada": {
+                "Price": 650.0
+            },
+            "Limonada": {
+                "Price": 520.0
+            },
+            "Limonada con hierba buena": {
+                "Price": 550.0
+            },
+            "Limonada frescura": {
+                "Price": 580.0
+            },
+            "Agua Natural": {
+                "Price": 350.0
+            },
+            "Agua gaseada": {
+                "Price": 500.0
+            },
+            "Juego Natural": {
+                "Price": 300.0
+            },
+            "Jugo en conserva": {
+                "Price": 350.0
+            },
+            "Batido de frutas": {
+                "Price": 650.0
+            },
+            "Batido de galletas de chocolate": {
+                "Price": 890.0
+            },
+            "Suero de Helado": {
+                "Price": 890.0
+            },
+            "Cerveza": {
+                "Price": 600.0
+            },
+            "Servicio Michelada": {
+                "Price": 300.0
+            },
+            "Servicio Chelada": {
+                "Price": 150.0
+            },
+            "Bebida energetica": {
+                "Price": 700.0
+            },
+            "Kermato": {
+                "Price": 750.0
+            },
+            "Beefeater": {
+                "Price": 600.0
+            },
+            "Gordons": {
+                "Price": 700.0
+            },
+            "Tanqueray": {
+                "Price": 800.0
+            },
+            "Havana Club 3 anhos": {
+                "Price": 450.0
+            },
+            "Havana Club 7 anhos": {
+                "Price": 600.0
+            },
+            "Havana Club reserva": {
+                "Price": 550.0
+            },
+            "Seleccion de Maestros": {
+                "Price": 800.0
+            },
+            "Santiago 12 anhos": {
+                "Price": 950.0
+            },
+            "Santiago 11 anhos": {
+                "Price": 900.0
+            },
+            "Santiago 8 anhos": {
+                "Price": 650.0
+            },
+            "Santiago Tradicion": {
+                "Price": 600.0
+            },
+            "Clan Campbell": {
+                "Price": 600.0
+            },
+            "Jameson": {
+                "Price": 600.0
+            },
+            "JB": {
+                "Price": 600.0
+            },
+            "Ballantines": {
+                "Price": 650.0
+            },
+            "Ballentine 12s": {
+                "Price": 900.0
+            },
+            "Chivas Regal 12": {
+                "Price": 800.0
+            },
+            "Jack Daniels": {
+                "Price": 950.0
+            },
+            "Jonnie walker Etiqueta Roja": {
+                "Price": 700.0
+            },
+            "Jonnie walker Etiqueta negra": {
+                "Price": 1000.0
+            },
+            "Jonnie walker doble etiqueta negra": {
+                "Price": 1100.0
+            },
+            "Jonnie walker etiqueta verde": {
+                "Price": 4000.0
+            },
+            "Jonnie walker Etiqueta azul": {
+                "Price": 8000.0
+            },
+            "Copa de vino tinto": {
+                "Price": 800.0
+            },
+            "Copa de vino blanco": {
+                "Price": 800.0
+            },
+            "Copa de vino rosado": {
+                "Price": 800.0
+            },
+            "Botella de la casa": {
+                "Price": 3200.0
+            },
+            "Botella premium": {
+                "Price": 4200.0
+            },
+            "Licor Cointreau": {
+                "Price": 600.0
+            },
+            "Crema baileys": {
+                "Price": 850.0
+            },
+            "Sambuca": {
+                "Price": 550.0
+            },
+            "Amareto": {
+                "Price": 600.0
+            },
+            "Crema de Whisky": {
+                "Price": 600.0
+            },
+            "Cinzano rojo": {
+                "Price": 500.0
+            },
+            "Cinzano blanco": {
+                "Price": 500.0
+            },
+            "Campari": {
+                "Price": 750.0
+            },
+            "Crema Catalana": {
+                "Price": 650.0
+            },
+            "Olmeca dorado": {
+                "Price": 850.0
+            },
+            "Olmeca blanco": {
+                "Price": 800.0
+            },
+            "Patron blanco": {
+                "Price": 1500.0
+            },
+            "Patron Reposado": {
+                "Price": 1600.0
+            },
+            "Vodka de la casa": {
+                "Price": 600.0
+            },
+            "Absolut": {
+                "Price": 650.0
+            },
+            "Absolut Raspberry": {
+                "Price": 700.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

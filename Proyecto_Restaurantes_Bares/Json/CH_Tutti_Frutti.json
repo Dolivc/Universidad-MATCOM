@@ -1,0 +1,182 @@
+{
+    "Name": "Tutti Frutti",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-20:00"],
+        "Tuesday":  ["08:00-20:00"],
+        "Wednesday": ["08:00-20:00"],
+        "Thursday": ["08:00-20:00"],
+        "Friday":   ["08:00-20:00"],
+        "Saturday": ["08:00-20:00"],
+        "Sunday":   ["08:00-20:00"]
+    }, 
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "San Lazaro entre San Fransico y Espada",
+        "Coordinates": null
+    },
+    "Cuisine": "Desayunos",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                "Huevo": {
+                    "Price": 250
+                }
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                "Sándwiche Cubano":{
+                    "Price": 1200
+                },
+                "Sándwiches Aguacate": {
+                    "Price": 1200
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Desayuno completo":{
+                    "Price": 1200
+                },
+                
+                "Atun":{
+                    "Price": 800 
+                },
+                "Jamon":{
+                    "Price": 300 
+                },
+                "Pollo": {
+                    "Price": 500
+                },
+                "Cebolla": {
+                    "Price": 200
+                }
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Copa de frutas": {
+                "Price": 400
+            },
+            "Dulce de fruta":{
+                "Price": 600
+            },
+            "Tutti Frutti": {
+                "Price": 500
+            },
+            "Frutas dulces": {
+                "Price": 300
+            }
+        },
+        "Beverages": {
+            "Jugo Natural": {
+                "Price": 400
+            },
+            "Batidos": {
+                "Price": 600
+            },
+            "Champola": {
+                "Price": 600
+            },
+            "Smoothies": {
+                "Price": 800
+            },
+            "Leche": {
+                "Price": 400
+            },
+            "Café": {
+                "Price": 900
+            },
+            "Mojito": {
+                "Price": 700
+            },
+            "Mojito Tutti Frutti": {
+                "Price": 800
+            },
+            "Daiquirí": {
+                "Price": 700
+            },
+            "Daiquirí Tutti Frutti": {
+                "Price": 800
+            },
+            "Santiago": {
+                "Price": 900
+            },
+            "Cuba libre": {
+                "Price": 700
+            },
+            "Pinha Colada": {
+                "Price": 900
+            },
+            "Canchánchara": {
+                "Price": 800
+            },
+            "Caribbean": {
+                "Price": 900
+            },
+            "Emma": {
+                "Price": 900
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

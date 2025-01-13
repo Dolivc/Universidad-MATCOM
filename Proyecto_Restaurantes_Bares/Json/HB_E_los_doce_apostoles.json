@@ -1,0 +1,192 @@
+{
+    "Name": "Los Doce Apostoles",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Complejo Morro Cabana,Via Monumental",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Entremes de jamon y queso": {
+                "Price": 400
+            },
+            "Eperlan de pescado": {
+                "Price": 550
+            },
+            "Anillas de calamar": {
+                "Price": 550
+            },
+            "Alitas de pollo": {
+                "Price": 450
+            },
+            "Nuggets de pollo": {
+                "Price": 250
+            },
+            "Picadera especial": {
+                "Price": 600
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Fajitas de cerdo": {
+                    "Price": 800
+                },
+                "Masas de cerdo": {
+                    "Price": 900
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 700
+                }
+            },
+            "Beef": {
+                "Fajitas de res": {
+                    "Price": 950
+                },
+                "Steak de res": {
+                    "Price": 950
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 900
+                },
+                "Pescado del Chef": {
+                    "Price": 1100
+                },
+                "Gambas al grill": {
+                    "Price": 1200
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cerveza dispensada": {
+                "Price": 190
+            },
+            "Cerveza importada": {
+                "Price": 220
+            },
+            "Cerveza nacional": {
+                "Price": 215
+            },
+            "Maltas": {
+                "Price": 210
+            },
+            "Maltina Perla Negra": {
+                "Price": 180
+            },
+            "Jugo natural en caja": {
+                "Price": 300
+            },
+            "Refrescos nacionales": {
+                "Price": 280
+            },
+            "Vino tinto (copa)": {
+                "Price": 200
+            },
+            "Ron Habana Club Anejo Blanco (shot)": {
+                "Price": 80
+            },
+            "Ron Habana Club profundo (shot)": {
+                "Price": 160
+            },
+            "Ron Habana Club Seleccion de Maestro (shot)": {
+                "Price": 350
+            },
+            "Ron Cubay carta blanca (shot)": {
+                "Price": 100
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "Name": "El Trafico",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2200"
+        ],
+        "Tuesday": [
+            "1000-2200"
+        ],
+        "Wednesday": [
+            "1000-2200"
+        ],
+        "Thursday": [
+            "1000-2200"
+        ],
+        "Friday": [
+            "1000-2200"
+        ],
+        "Saturday": [
+            "1000-2200"
+        ],
+        "Sunday": [
+            "1000-2200"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guines entre 90 y 94",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti con queso blanco": {
+                    "Price": 400
+                },
+                "espaguetti con queso gouda": {
+                    "Price": 420
+                },
+                "espaguetti con queso parmesano": {
+                    "Price": 450
+                }
+            },
+            "Pizza": {
+                "pizza de queso blanco": {
+                    "Price": 280
+                },
+                "pizza de queso blanco XL": {
+                    "Price": 770
+                },
+                "pizza de queso gouda": {
+                    "Price": 320
+                },
+                "pizza de queso gouda XL": {
+                    "Price": 830
+                },
+                "pizza de queso parmesano": {
+                    "Price": 350
+                },
+                "pizza de queso parmesano XL": {
+                    "Price": 850
+                }
+            },
+            "Pork": {
+                "bistec de cerdo": {
+                    "Price": 1950
+                },
+                "cerdo guisado": {
+                    "Price": 2000
+                },
+                "lomo ahumado": {
+                    "Price": 2000
+                },
+                "costilla de cerdo": {
+                    "Price": 2000
+                },
+                "chuleta de cerdo": {
+                    "Price": 1950
+                },
+                "masa de cerdo frita": {
+                    "Price": 2000
+                }
+            },
+            "Chicken": {
+                "bistec de pollo": {
+                    "Price": 1500
+                },
+                "pechuga de pollo": {
+                    "Price": 1950
+                }
+            },
+            "Beef": {
+                "bistec de res": {
+                    "Price": 1950
+                },
+                "ropa vieja": {
+                    "Price": 2000
+                }
+            },
+            "Sea": {
+                "filete de merluza": {
+                    "Price": 2000
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz moro": {
+                "Price": 300
+            },
+            "vianda": {
+                "Price": 150
+            },
+            "ensalada": {
+                "Price": 200
+            },
+            "tamal": {
+                "Price": 200
+            },
+            "papas fritas": {
+                "Price": 600
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

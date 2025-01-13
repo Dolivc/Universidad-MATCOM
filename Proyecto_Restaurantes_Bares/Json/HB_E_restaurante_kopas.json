@@ -1,0 +1,338 @@
+{
+    "Name": "Restaurante_Kopas",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2300"
+        ],
+        "Tuesday": [
+            "1000-2300"
+        ],
+        "Wednesday": [
+            "1000-2300"
+        ],
+        "Thursday": [
+            "1000-2300"
+        ],
+        "Friday": [
+            "1000-2300"
+        ],
+        "Saturday": [
+            "1000-2300"
+        ],
+        "Sunday": [
+            "1000-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "esquina, 5ta Avenida, 482, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta a la Carbonara": {
+                    "Price": 1100
+                },
+                "Pasta Amatriciana": {
+                    "Price": 1300
+                },
+                "Pasta de Atun": {
+                    "Price": 1450
+                },
+                "Pasta de Camaron": {
+                    "Price": 1550
+                },
+                "Pasta de Jamon": {
+                    "Price": 1275
+                },
+                "Pasta Napolitana": {
+                    "Price": 975
+                },
+                "Calzone Mixto": {
+                    "Price": 1975
+                },
+                "Focaccia": {
+                    "Price": 790
+                }
+            },
+            "Pizza": {
+                "Pizza Aceitunas": {
+                    "Price": 1590
+                },
+                "Pizza Caballo": {
+                    "Price": 1975
+                },
+                "Pizza de Atun": {
+                    "Price": 1975
+                },
+                "Pizza de Bacon": {
+                    "Price": 1850
+                },
+                "Pizza de Camaron": {
+                    "Price": 1995
+                },
+                "Pizza de Cebolla": {
+                    "Price": 1250
+                },
+                "Pizza de Chorizo": {
+                    "Price": 1550
+                },
+                "Pizza de Jamon": {
+                    "Price": 1650
+                },
+                "Pizza de Pimiento": {
+                    "Price": 1250
+                },
+                "Pizza Diablo": {
+                    "Price": 1850
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1700
+                },
+                "Pizza Jamon Serrano": {
+                    "Price": 2700
+                },
+                "Pizza Kopas": {
+                    "Price": 2200
+                },
+                "Pizza Margarita": {
+                    "Price": 1500
+                },
+                "Pizza Marinera": {
+                    "Price": 2575
+                },
+                "Pizza Mixta": {
+                    "Price": 2000
+                },
+                "Pizza Napolitana": {
+                    "Price": 1275
+                },
+                "Pizza Ropa Vieja": {
+                    "Price": 2000
+                },
+                "Pizza Vegetariana": {
+                    "Price": 1650
+                },
+                "Pizza Vikinga": {
+                    "Price": 2000
+                }
+            },
+            "Pork": {
+                "Lomo de Cerdo Ahumado con Salsa Agridulce": {
+                    "Price": 1875
+                },
+                "Lomo de Cerdo Ahumado con Salsa Basbecue": {
+                    "Price": 1850
+                },
+                "Lomo de Cerdo Ahumado Encebollado": {
+                    "Price": 1775
+                },
+                "Lomo de Cerdo Encebollado": {
+                    "Price": 1750
+                },
+                "Lomo de Cerdo en Salsa Roquefort": {
+                    "Price": 1975
+                },
+                "Chuleta de Cerdo al Carbon": {
+                    "Price": 1975
+                },
+                "Chuleta de Cerdo al Grill en Salsa Chimichurri": {
+                    "Price": 1975
+                },
+                "Bistec de Cerdo Encebollado": {
+                    "Price": 1650
+                },
+                "Bistec de Cerdo Princesa": {
+                    "Price": 2000
+                },
+                "Escalope de Cerdo": {
+                    "Price": 2250
+                },
+                "Fajitas de Cerdo a la Pinha y Miel": {
+                    "Price": 1875
+                },
+                "Brocheta de Cerdo": {
+                    "Price": 1850
+                }
+            },
+            "Chicken": {
+                "Brocheta de Pollo": {
+                    "Price": 1550
+                },
+                "Bistec de Pollo Grille": {
+                    "Price": 1350
+                },
+                "Fajitas de Pollo a la Pinha y Miel": {
+                    "Price": 1375
+                },
+                "Fajitas de Pollo Empanada": {
+                    "Price": 1550
+                },
+                "Pechuga de Pollo en Salsa de Jengibre y Ajonjoli": {
+                    "Price": 1450
+                },
+                "Pollo a la Crema": {
+                    "Price": 1650
+                },
+                "Pollo al Ajo y Vino Blanco": {
+                    "Price": 1450
+                },
+                "Pollo a la Parmesana": {
+                    "Price": 1650
+                },
+                "Pollo al Limon y al Oregano": {
+                    "Price": 1450
+                },
+                "Pollo Caribenho": {
+                    "Price": 2100
+                },
+                "Pollo Cordon Blue": {
+                    "Price": 2250
+                },
+                "Pollo Princesa": {
+                    "Price": 1750
+                }
+            },
+            "Beef": {
+                "Brocheta de Res": {
+                    "Price": 1950
+                },
+                "Masa de Res en Cazuela": {
+                    "Price": 1875
+                }
+            },
+            "Sea": {
+                "Dados de Pescado al Ajillo": {
+                    "Price": 1850
+                },
+                "Filete de Pescado al Estilo Kopas": {
+                    "Price": 2750
+                },
+                "Filete de Pescado al Olivo": {
+                    "Price": 1750
+                },
+                "Filete de Pescado Empanado": {
+                    "Price": 2100
+                },
+                "Filete de Pescado en Salsa de Limon": {
+                    "Price": 1975
+                },
+                "Filete de Pescado Grille": {
+                    "Price": 1475
+                },
+                "Filete de Pescado Montetoro": {
+                    "Price": 2450
+                },
+                "Filete de Pescado Princesa": {
+                    "Price": 2150
+                },
+                "Filete de Pescado Canciller": {
+                    "Price": 2550
+                },
+                "Filete de Pescado Costa Sur": {
+                    "Price": 2650
+                },
+                "Rueda de Albacora a la Veracruz": {
+                    "Price": 1995
+                },
+                "Camaron Empanado": {
+                    "Price": 2300
+                },
+                "Camaron Enchilado": {
+                    "Price": 2300
+                },
+                "Camarones al Ajillo": {
+                    "Price": 2200
+                },
+                "Camaron Grille": {
+                    "Price": 2000
+                },
+                "Camaron Tropical": {
+                    "Price": 3250
+                },
+                "Brocheta de Camaron": {
+                    "Price": 2100
+                }
+            },
+            "Other": {
+                "Brocheta de Pollo y Cerdo": {
+                    "Price": 1950
+                },
+                "Arroz Frito Especial": {
+                    "Price": 1750
+                },
+                "Paella Mixta": {
+                    "Price": 2850
+                },
+                "Tres Reyes": {
+                    "Price": 1950
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

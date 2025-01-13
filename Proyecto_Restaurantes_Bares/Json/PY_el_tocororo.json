@@ -1,0 +1,257 @@
+{
+    "Name": "El Tocororo",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2300"
+        ],
+        "Tuesday": [
+            "1200-2300"
+        ],
+        "Wednesday": [
+            "1200-2300"
+        ],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Panaderia de la casa": {
+                "Price": 75
+            },
+            "Coctel de langosta": {
+                "Price": 550
+            },
+            "Coctel de pescado": {
+                "Price": 385
+            },
+            "Ensalada de pollo tropical": {
+                "Price": 300
+            },
+            "Dados de queso en escabeche": {
+                "Price": 425
+            },
+            "Entremes de jamon": {
+                "Price": 285
+            },
+            "Seviche caribeno": {
+                "Price": 450
+            },
+            "Picadera especial tocororos": {
+                "Price": 1500
+            },
+            "Frituritas de la abuela": {
+                "Price": 170
+            },
+            "Croquetas del chef": {
+                "Price": 200
+            },
+            "Eperlan de pescado": {
+                "Price": 675
+            },
+            "Mejillones a la diabla": {
+                "Price": 700
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti napolitano": {
+                    "Price": 550
+                },
+                "Spaghetti primavera": {
+                    "Price": 625
+                },
+                "Spaghetti al olio": {
+                    "Price": 550
+                },
+                "Spaghetti guarnecido con jamon": {
+                    "Price": 685
+                },
+                "Spaghetti marinero": {
+                    "Price": 850
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Lonjas de cerdo asado con mojo criollo": {
+                    "Price": 1500
+                },
+                "Costilla de cerdo asado a lo cubano": {
+                    "Price": 1425
+                }
+            },
+            "Chicken": {
+                "Pollo al horno al estilo del chef": {
+                    "Price": 820
+                },
+                "Suprema de pollo perfumada al olivo": {
+                    "Price": 850
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Pesca especial del dia con salsa de limon": {
+                    "Price": 1600
+                },
+                "Delicias del caribe": {
+                    "Price": 1775
+                },
+                "Langosta grille abrillantada con mantequilla y olivo": {
+                    "Price": 1750
+                },
+                "Langosta enchilada": {
+                    "Price": 1700
+                },
+                "Mejillones a la diabla": {
+                    "Price": 1250
+                }
+            },
+            "Other": {
+                "Higado grille con aderezo primavera": {
+                    "Price": 985
+                },
+                "Ternera guisada a la campesina": {
+                    "Price": 1550
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 110
+            },
+            "Arroz moro": {
+                "Price": 200
+            },
+            "Hortalizas salteadas": {
+                "Price": 100
+            },
+            "Vianda hervida aderezada con mojo criollo": {
+                "Price": 100
+            },
+            "Vianda frita": {
+                "Price": 100
+            },
+            "Papas fritas": {
+                "Price": 150
+            },
+            "Ensalada de hortalizas del dia": {
+                "Price": 100
+            },
+            "Sopon campesino": {
+                "Price": 80
+            },
+            "Frijoles negros a la criolla": {
+                "Price": 180
+            },
+            "Caldo marinero": {
+                "Price": 195
+            }
+        },
+        "Desserts": {
+            "Deliciosa torta de la casa": {
+                "Price": 285
+            },
+            "Arroz con leche a la canela": {
+                "Price": 200
+            },
+            "Dulces en almibar guarnecido con queso": {
+                "Price": 200
+            },
+            "Helado tocororo": {
+                "Price": 180
+            }
+        },
+        "Beverages": {
+            "Cafe expreso": {
+                "Price": 90
+            },
+            "Cafe cortadito": {
+                "Price": 100
+            },
+            "Cafe rocio de gallo": {
+                "Price": 150
+            },
+            "Cafe carajillo": {
+                "Price": 150
+            },
+            "Cafe americano": {
+                "Price": 100
+            },
+            "Infusion de manzanilla": {
+                "Price": 100
+            },
+            "Infusion de menta poleo": {
+                "Price": 100
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

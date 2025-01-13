@@ -1,0 +1,461 @@
+{
+    "Name": "La_Caribenha",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coordinates": " 408 Obispo, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno 1": {
+                    "Price": 1300
+                },
+                "Desayuno 2": {
+                    "Price": 1400
+                },
+                "Desayuno 3": {
+                    "Price": 1300
+                }
+            }
+        },
+        "Appetizers": {
+            "Crema de Queso": {
+                "Price": 800
+            },
+            "Crema Aurora": {
+                "Price": 900
+            },
+            "Crema Virginia": {
+                "Price": 950
+            },
+            "Brusquetas de Jamon y Queso": {
+                "Price": 750
+            },
+            "Chicharrita Boniato": {
+                "Price": 500
+            },
+            "Chicharrita de Platano": {
+                "Price": 500
+            },
+            "Tostones Rellenos de Jamon": {
+                "Price": 850
+            },
+            "Tostones Rellenos de Atun": {
+                "Price": 900
+            },
+            "Croquetas de la Casa": {
+                "Price": 600
+            },
+            "Frituras de Malanga": {
+                "Price": 600
+            },
+            "Eperlan": {
+                "Price": 2100
+            },
+            "Coctel de Camarones": {
+                "Price": 1500
+            },
+            "Entremes de Jamon,Queso y Chorizo": {
+                "Price": 2100
+            },
+            "Picadera Caribenha": {
+                "Price": 2600
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Napoles": {
+                    "Price": 1400
+                },
+                "Espaguetis Carbonara": {
+                    "Price": 1700
+                },
+                "Espaguetis a la Espanhola": {
+                    "Price": 1700
+                },
+                "Espaguetis Frutti D'Mare": {
+                    "Price": 2100
+                },
+                "Espaguetis al Pesto": {
+                    "Price": 1700
+                },
+                "Lasanha Bolonhesa": {
+                    "Price": 1700
+                },
+                "Lasanha de Jamon": {
+                    "Price": 1800
+                },
+                "Lasanha a la Guajira": {
+                    "Price": 1800
+                }
+            },
+            "Pizza": {
+                "Pizza Napole": {
+                    "Price": 1500
+                },
+                "Pizza de Jamon": {
+                    "Price": 1850
+                },
+                "Pizza de Chorizo": {
+                    "Price": 1850
+                },
+                "Pizza de Cebolla": {
+                    "Price": 1750
+                },
+                "Pizza de Pimiento": {
+                    "Price": 1750
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1900
+                },
+                "Pizza de Aceituna": {
+                    "Price": 1850
+                },
+                "Pizza de Atun": {
+                    "Price": 2000
+                },
+                "Pizza de Jamon Pierna": {
+                    "Price": 1900
+                },
+                "Pizza de Bacon": {
+                    "Price": 1900
+                },
+                "Pizza de Champinhones": {
+                    "Price": 1850
+                },
+                "Pizza Campestre": {
+                    "Price": 2300
+                },
+                "Pizza de Camaron": {
+                    "Price": 2450
+                },
+                "Pizza de Langosta": {
+                    "Price": 2450
+                },
+                "Pizza Frutti D'Mare": {
+                    "Price": 3000
+                },
+                "Pizza 4 Quesos": {
+                    "Price": 2000
+                },
+                "Pizza Caribenha": {
+                    "Price": 2700
+                }
+            },
+            "Pork": {
+                "Lonjas de Cerdo": {
+                    "Price": 2300
+                },
+                "Lomo Ahumado": {
+                    "Price": 2300
+                },
+                "Chuletas de Cerdo": {
+                    "Price": 2400
+                },
+                "Fajitas de Cerdo": {
+                    "Price": 2250
+                },
+                "Brochetas de Cerdo": {
+                    "Price": 2350
+                }
+            },
+            "Chicken": {
+                "Pollo Grillet": {
+                    "Price": 1950
+                },
+                "Brochetas de Pollo": {
+                    "Price": 2100
+                },
+                "Pollo Gratinado": {
+                    "Price": 2300
+                },
+                "Golden Blue": {
+                    "Price": 2300
+                },
+                "Fajitas de Pollo": {
+                    "Price": 2100
+                }
+            },
+            "Beef": {
+                "Ropa Vieja de Res": {
+                    "Price": 2250
+                },
+                "Vaca Frita": {
+                    "Price": 2200
+                },
+                "Estraccetti de Ternera": {
+                    "Price": 2800
+                }
+            },
+            "Sea": {
+                "Filete de Pescado Grille": {
+                    "Price": 2650
+                },
+                "Canciller": {
+                    "Price": 2850
+                },
+                "Filete de Pescado Gratinado": {
+                    "Price": 2850
+                },
+                "Camarones al Gusto": {
+                    "Price": 2700
+                },
+                "Langosta al Gusto": {
+                    "Price": 2700
+                },
+                "Cazuela de Mariscos": {
+                    "Price": 4500
+                }
+            },
+            "Other": {
+                "Taco de Pollo": {
+                    "Price": 1900
+                },
+                "Taco de Cerdo": {
+                    "Price": 2100
+                },
+                "Taco de Res": {
+                    "Price": 2200
+                },
+                "Taco Mixto": {
+                    "Price": 2350
+                },
+                "Arroz Frito": {
+                    "Price": 1600
+                },
+                "Paella": {
+                    "Price": 5000
+                },
+                "Risotto": {
+                    "Price": 3200
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Pie de Limon": {
+                "Price": 700
+            },
+            "Tres Leches": {
+                "Price": 900
+            },
+            "Copa de Helado": {
+                "Price": 550
+            },
+            "Cheesecake": {
+                "Price": 850
+            },
+            "Torta de Chocolate": {
+                "Price": 900
+            },
+            "Brownie": {
+                "Price": 800
+            }
+        },
+        "Beverages": {
+            "Jugos Naturales": {
+                "Price": 300
+            },
+            "Batido de Frutas Naturales": {
+                "Price": 420
+            },
+            "Batido de Helado": {
+                "Price": 750
+            },
+            "Limonada Natural": {
+                "Price": 250
+            },
+            "Malteada": {
+                "Price": 600
+            },
+            "Agua Natural 500ml": {
+                "Price": 200
+            },
+            "Agua Natural 1500ml": {
+                "Price": 300
+            },
+            "Agua Importada": {
+                "Price": 250
+            },
+            "Agua Tonica": {
+                "Price": 450
+            },
+            "Agua Tonica Importada": {
+                "Price": 500
+            },
+            "Malta": {
+                "Price": 450
+            },
+            "Refresco Nacional": {
+                "Price": 280
+            },
+            "Refresco Importado": {
+                "Price": 400
+            },
+            "Cerveza Nacional": {
+                "Price": 500
+            },
+            "Cerveza Importada": {
+                "Price": 400
+            },
+            "Cerveza Mexicana": {
+                "Price": 500
+            },
+            "Energizante": {
+                "Price": 400
+            },
+            "Red Bull": {
+                "Price": 550
+            },
+            "Kermato": {
+                "Price": 350
+            },
+            "Michelada Nacional": {
+                "Price": 700
+            },
+            "Chelada Nacional": {
+                "Price": 680
+            },
+            "Michelada Importada": {
+                "Price": 600
+            },
+            "Chelada Importada": {
+                "Price": 580
+            },
+            "Cuba Libre": {
+                "Price": 700
+            },
+            "Mojito": {
+                "Price": 700
+            },
+            "Mojito Caribenho": {
+                "Price": 750
+            },
+            "Mojito Frappe": {
+                "Price": 750
+            },
+            "Run Collins": {
+                "Price": 800
+            },
+            "Daiquiri": {
+                "Price": 850
+            },
+            "Caipirinha": {
+                "Price": 750
+            },
+            "Caipiroska": {
+                "Price": 750
+            },
+            "Canchanchara": {
+                "Price": 850
+            },
+            "Cubata": {
+                "Price": 700
+            },
+            "Pinha Colada": {
+                "Price": 1200
+            },
+            "Daiquiri de Fruta": {
+                "Price": 800
+            },
+            "Caipirisima": {
+                "Price": 750
+            },
+            "Margarita": {
+                "Price": 800
+            },
+            "Gin Tonic": {
+                "Price": 1200
+            },
+            "Tinto de Verano": {
+                "Price": 1000
+            },
+            "Sangria": {
+                "Price": 1000
+            },
+            "Bloody Mary": {
+                "Price": 600
+            },
+            "Calimocho": {
+                "Price": 800
+            },
+            "Vodkatonic": {
+                "Price": 800
+            },
+            "Vodka Ricky": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

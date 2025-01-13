@@ -1,0 +1,364 @@
+{
+    "Name": "Al Campestre",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "El Intermitente, Via  Blanca, Alamar",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Vianda hervida": {
+                "Price": 180
+            },
+            "Vianda frita": {
+                "Price": 350
+            },
+            "Tostones criollos": {
+                "Price": 350
+            },
+            "Croquetas de la casa": {
+                "Price": 400
+            },
+            "Tostones en tapas": {
+                "Price": 560
+            },
+            "Firtura de malanga": {
+                "Price": 450
+            },
+            "Ensalada fria": {
+                "Price": 650
+            },
+            "Papas fritas": {
+                "Price": 700
+            },
+            "Ceviche": {
+                "Price": 1000
+            },
+            "Crema de queso": {
+                "Price": 400
+            },
+            "Crema aurora": {
+                "Price": 450
+            },
+            "Crema Virginia": {
+                "Price": 470
+            },
+            "Fajitas de pollo": {
+                "Price": 1560
+            },
+            "Eperlan": {
+                "Price": 2100
+            },
+            "Coctel de camarones": {
+                "Price": 2200
+            },
+            "Brusquetas": {
+                "Price": 650
+            },
+            "Tabla Charcutera": {
+                "Price": 1750
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti con queso": {
+                    "Price": 820
+                },
+                "Spaghetti Frutti di Mare": {
+                    "Price": 2400
+                },
+                "Spaghetti Aioli": {
+                    "Price": 960
+                },
+                "Spaghetti Al Pesto": {
+                    "Price": 1200
+                },
+                "Spaghetti Bolonesa": {
+                    "Price": 1890
+                },
+                "Spaghetti Carbonara": {
+                    "Price": 1450
+                },
+                "Spaghetti Alfredo": {
+                    "Price": 930
+                },
+                "Spaghetti Primavera": {
+                    "Price": 1000
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 970
+                },
+                "Pizza Bambina": {
+                    "Price": 550
+                },
+                "Pizza Al Campestre": {
+                    "Price": 1960
+                }
+            },
+            "Pork": {
+
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Entrecot": {
+                    "Price": 4150
+                },
+                "Churrasco de res": {
+                    "Price": 4150
+                },
+                "Chuleton de res": {
+                    "Price": 5500
+                },
+                "Ropa vieja de res": {
+                    "Price": 2450
+                },
+                "Vaca Frita": {
+                    "Price": 2560
+                },
+                "Filete de res a la Deuch": {
+                    "Price": 2560
+                }
+            },
+            "Sea": {
+                "Calamar al ajillo": {
+                    "Price": 4500
+                },
+                "Calamar grille": {
+                    "Price": 4500
+                },
+                "Calamar en salsa de tomate": {
+                    "Price": 4500
+                },
+                "Pulpo grille": {
+                    "Price": 5200
+                },
+                "Pulpo enchilado": {
+                    "Price": 5200
+                },
+                "Pulpo al ajillo": {
+                    "Price": 5200
+                },
+                "Langosta grille": {
+                    "Price": 4860
+                },
+                "Langosta americana": {
+                    "Price": 4860
+                },
+                "Langosta termidor": {
+                    "Price": 5000
+                }
+            },
+            "Other": {
+                "Tacos al chili": {
+                    "Price": 1600
+                },
+                "Tacos de res": {
+                    "Price": 2450
+                },
+                "Tacos de pollo": {
+                    "Price": 1960
+                },
+                "Tacos de cerdo": {
+                    "Price": 2500
+                },
+                "Tacos del mar": {
+                    "Price": 2650
+                },
+                "Tacos de queso": {
+                    "Price": 1400
+                },
+                "Arroz frito": {
+                    "Price": 1300
+                },
+                "Estofado de conejo": {
+                    "Price": 2750
+                },
+                "Fricase de conejo": {
+                    "Price": 2750
+                },
+                "Paella Al Campestre": {
+                    "Price": 10500
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada de estacion": {
+                "Price": 100
+            },
+            "Arroz blanco": {
+                "Price": 150
+            },
+            "Arroz moro": {
+                "Price": 220
+            },
+            "Arroz con vegetales": {
+                "Price": 350
+            },
+            "Vegetales salteados": {
+                "Price": 250
+            },
+            "Frijoles negros": {
+                "Price": 350
+            },
+            "Frijoles colorados": {
+                "Price": 400
+            }
+        },
+        "Desserts": {
+            "Dulces caseros": {
+                "Price": 380
+            },
+            "Torrejas de la casa": {
+                "Price": 500
+            },
+            "Cuna de Mousse": {
+                "Price": 570
+            },
+            "Tarta de Mousse": {
+                "Price": 4500
+            },
+            "Cuna Cheesecake": {
+                "Price": 650
+            },
+            "Tarta Cheesecake": {
+                "Price": 5000
+            },
+            "Tarta Tiramisu": {
+                "Price": 5000
+            },
+            "Cuna Tiramisu": {
+                "Price": 650
+            }
+        },
+        "Beverages": {
+            "Alexander": {
+                "Price": 450
+            },
+            "Bloddy Marry": {
+                "Price": 450
+            },
+            "Cubanito": {
+                "Price": 450
+            },
+            "Daiquiri": {
+                "Price": 460
+            },
+            "Daiquiri rebelde": {
+                "Price": 500
+            },
+            "Martin": {
+                "Price": 450
+            },
+            "Mojito": {
+                "Price": 750
+            },
+            "Pinha colada": {
+                "Price": 720
+            },
+            "Sangria": {
+                "Price": 850
+            },
+            "Virgen Colada": {
+                "Price": 450
+            },
+            "Caipirina": {
+                "Price": 400
+            },
+            "Caipiroska": {
+                "Price": 400
+            },
+            "Caipirisima": {
+                "Price": 400
+            },
+            "Canchanchara": {
+                "Price": 400
+            },
+            "Margarita": {
+                "Price": 650
+            },
+            "Tinto Verano": {
+                "Price": 1100
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Smokers_Area",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

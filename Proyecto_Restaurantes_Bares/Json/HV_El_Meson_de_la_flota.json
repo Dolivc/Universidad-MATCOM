@@ -1,0 +1,294 @@
+{
+    "Name": "El Meson de la flota",
+    "Type": "Restaurante",
+    "Phone_Number": "78633838",
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["10:00-18:00"],
+        "Tuesday":  ["10:00-18:00"],
+        "Wednesday": ["10:00-18:00"],
+        "Thursday": ["10:00-18:00"],
+        "Friday":   ["10:00-18:00"],
+        "Saturday": ["10:00-18:00"],
+        "Sunday":   ["10:00-18:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Amargura y Teniente Rey",
+        "Coordinates": "4MP2+V6C"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Vianda frita": {
+                "Price": 550
+            },
+            "Tostones rellenos de ropa vieja": {
+                "Price": 900
+            },
+            "Tostones rellenos de jamon y queso": {
+                "Price": 950
+            },
+            "Frituras de malanga": {
+                "Price": 720
+            },
+            "Eperlan de pescado con su alioli": {
+                "Price": 1500
+            },
+            "Bolitas de queso": {
+                "Price": 750
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Masa de cerdo frita": {
+                    "Price": 1550
+                },
+                "Bistec de cerdo": {
+                    "Price": 1740
+                }
+            },
+            "Chicken": {
+                "Pollo grille": {
+                    "Price": 1715
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1785
+                }
+            },
+            "Sea": {
+                "Pesca del chef": {
+                    "Price": 1600
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Limonada": {
+                "Price": 300
+            },
+            "San francisco": {
+                "Price": 350
+            },
+            "Pinha colada virgen": {
+                "Price": 350
+            },
+            "Cuba libre": {
+                "Price": 450
+            },
+            "Habana especial": {
+                "Price": 450
+            },
+            "Cubata": {
+                "Price": 500
+            },
+            "Daiquiri frape": {
+                "Price": 450
+            },
+            "Mojito": {
+                "Price": 550
+            },
+            "Ron collins": {
+                "Price": 500
+            },
+            "Mari Pickford": {
+                "Price": 550
+            },
+            "Cuban manhattan": {
+                "Price": 550
+            },
+            "Cuba bella": {
+                "Price": 550
+            },
+            "Tom collins": {
+                "Price": 550
+            },
+            "Sangria": {
+                "Price": 650
+            },
+            "Pinha colada": {
+                "Price": 500
+            },
+            "Margarita": {
+                "Price": 450
+            },
+            "Screwdriver": {
+                "Price": 600
+            },
+            "Caipirinha": {
+                "Price": 550
+            },
+            "Caipiroska": {
+                "Price": 550
+            },
+            "Tinto verano": {
+                "Price": 550
+            },
+            "Coctel paloma": {
+                "Price": 500
+            },
+            "Martini dulce": {
+                "Price": 600
+            },
+            "Martini 0": {
+                "Price": 600
+            },
+            "Gin tonic": {
+                "Price": 650
+            },
+            "Vodka tonic": {
+                "Price": 650
+            },
+            "Chivas regal 12 anhos": {
+                "Price": 1200
+            },
+            "Clan campell": {
+                "Price": 750
+            },
+            "Chivas regal 25 anhos": {
+                "Price": 2000
+            },
+            "Clen Black": {
+                "Price": 850
+            },
+            "Jhonny walker black label": {
+                "Price": 1500
+            },
+            "Jhonny walker blue label": {
+                "Price": 2000
+            },
+            "Jhonny walker red label": {
+                "Price": 950
+            },
+            "Buchanan master": {
+                "Price": 2400
+            },
+            "Jhonny walker swinm": {
+                "Price": 1250
+            },
+            "Glenlibet reserve": {
+                "Price": 1150
+            },
+            "Buchanan Deluxe": {
+                "Price": 1900
+            },
+            "Dimplede luxe 15 years": {
+                "Price": 2400
+            },
+            "Buchanan's special": {
+                "Price": 2250
+            },
+            "Glen Silver blenden": {
+                "Price": 950
+            },
+            "Black & white ": {
+                "Price": 650
+            },
+            "Old parr 12 anhos": {
+                "Price": 3600
+            },
+            "Buen amigo": {
+                "Price": 500
+            },
+            "Omelca chocolate": {
+                "Price": 550
+            },
+            "Omelca blanco": {
+                "Price": 500
+            },
+            "Don julio gold": {
+                "Price": 2100
+            },
+            "Don ramon gold": {
+                "Price": 1950
+            },
+            "Brandy napoleon bijou": {
+                "Price": 1600
+            },
+            "Brandy Napoleon": {
+                "Price": 1500
+            },
+            "Brandy torres 5 anhos reserva": {
+                "Price": 1000
+            },
+            "Brandy torres 10 anhos": {
+                "Price": 1200
+            },
+            "Brandy torres 5 anhos imperia": {
+                "Price": 900
+            },
+            "Brandy lepanto": {
+                "Price": 1500
+            },
+            "Absolut": {
+                "Price": 600
+            },
+            "Grey goose": {
+                "Price": 1400
+            },
+            "Vodka igor": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": ["Mojito"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": ["Sillas para ninhos","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

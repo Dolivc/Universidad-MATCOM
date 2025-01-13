@@ -1,0 +1,216 @@
+{
+    "Name": "Otra manera",
+    "Type": "Restaurante",
+    "Phone_number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [
+            "1230-2300"
+        ],
+        "Wednesday": [
+            "1230-2300"
+        ],
+        "Thursday": [
+            "1230-2300"
+        ],
+        "Friday": [
+            "1230-2300"
+        ],
+        "Saturday": [
+            "1230-2300"
+        ],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Ceviche del dia": {
+                "Price": 2400
+            },
+            "Bniato marinado y frito con ali oli de cachucha": {
+                "Price": 2050
+            },
+            "Falafel con salsa tzatziki": {
+                "Price": 1900
+            },
+            "Croquetas de chuleton de cerdo al carbon": {
+                "Price": 2050
+            },
+            "Nachos mexicanos con picadillo de cerdo picanton": {
+                "Price": 2400
+            },
+            "Tacos de lechon asado": {
+                "Price": 2400
+            },
+            "Huevos de codorniz trufados al horno, con papas y chorizo frito": {
+                "Price": 2050
+            },
+            "Mini hamburguesas de cordero con queso de cabra": {
+                "Price": 3200
+            },
+            "Wok de pulpo": {
+                "Price": 3200
+            },
+            "Ensalada de aguacate asado, tomate, pepino y remolacha crujiente": {
+                "Price": 2050
+            },
+            "Tartar de mozzarella fresca, aguacate y tomate": {
+                "Price": 2050
+            },
+            "Ensalada verde con queso de cabra y reduccion de frutas": {
+                "Price": 1900
+            },
+            "Ensalada verde con pollo marinado en nuestra salsa de pi\u00f1a y cilantro": {
+                "Price": 2050
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro": {
+                    "Price": 3400
+                },
+                "Costillas asadas en salsa barbacoa, pastel de yuca y verduritas": {
+                    "Price": 4050
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "New york steak con papas asadas y salsa chimichurri": {
+                    "Price": 4000
+                },
+                "Albondiga de res rellena de setas y papas asadas": {
+                    "Price": 4500
+                }
+            },
+            "Sea": {
+                "Pescado del dia a la plancha con mole verde y boniatos asados": {
+                    "Price": 3400
+                },
+                "Dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco": {
+                    "Price": 3400
+                },
+                "Langosta al horno con mantequilla, limon y mole negro": {
+                    "Price": 5100
+                }
+            },
+            "Other": {
+                "Cordero en salsa de chocolate con verduras grilladas": {
+                    "Price": 4050
+                },
+                "Canelon de pollo asado con setas": {
+                    "Price": 3500
+                },
+                "Canelon de cangrejo xl con doble salsa": {
+                    "Price": 3400
+                },
+                "Wok de atun, vegetales y salsa teriyaki": {
+                    "Price": 2400
+                },
+                "Wok de tallarines con cerdo, vegetales, pi\u00f1a y teriyaki": {
+                    "Price": 2400
+                },
+                "Risotto de zanahoria con mozzarella y hierbas aromaticas": {
+                    "Price": 4050
+                },
+                "Arroz de marisco": {
+                    "Price": 4500
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 700
+            },
+            "Matajibaro": {
+                "Price": 700
+            },
+            "Vegetales salteados": {
+                "Price": 700
+            },
+            "Cesta de pan": {
+                "Price": 700
+            }
+        },
+        "Desserts": {
+            "Biscocho breton, crema de limon y toffe": {
+                "Price": 1700
+            },
+            "Coulant de chocolate con helado": {
+                "Price": 2100
+            },
+            "Baba al ron con helado": {
+                "Price": 1700
+            },
+            "Arroz con leche": {
+                "Price": 1800
+            },
+            "Helado": {
+                "Price": 1350
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

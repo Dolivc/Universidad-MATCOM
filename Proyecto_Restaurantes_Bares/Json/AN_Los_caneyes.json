@@ -1,0 +1,262 @@
+{
+    "Name": "Los caneyes",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2300"
+        ],
+        "Tuesday": [
+            "1200-2300"
+        ],
+        "Wednesday": [
+            "1200-2300"
+        ],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calle Marti y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "tostones": {
+                "Price": 800.0
+            },
+            "papas fritas": {
+                "Price": 900.0
+            },
+            "fajitas de pollo empanadas": {
+                "Price": 1000.0
+            },
+            "fajitas de cerdo empanadas": {
+                "Price": 1000.0
+            },
+            "eperlan de pescado": {
+                "Price": 1300.0
+            },
+            "masas de cangrejo con tostones": {
+                "Price": 1000.0
+            },
+            "milanesa de res con papas fritas": {
+                "Price": 1500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghettis Napolitano": {
+                    "Price": 700.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 900.0
+                },
+                "pizza napolitana con queso gouda": {
+                    "Price": 1300.0
+                }
+            },
+            "Pork": {
+                "lomo ahumado deshuesado": {
+                    "Price": 1800.0
+                },
+                "bistec de cerdo frito": {
+                    "Price": 1300.0
+                },
+                "escalope de cerdo": {
+                    "Price": 1500.0
+                },
+                "bistec de cerdo con jamon, chorizo y queso": {
+                    "Price": 1800.0
+                },
+                "boucht de cerdo": {
+                    "Price": 1300.0
+                }
+            },
+            "Chicken": {
+                "suprema de pollo": {
+                    "Price": 1300.0
+                },
+                "fajitas salteadas": {
+                    "Price": 1300.0
+                },
+                "fajitas empanadas": {
+                    "Price": 1400.0
+                },
+                "suprema de pollo empanada": {
+                    "Price": 1400.0
+                },
+                "suprema de pollo con jamon y queso": {
+                    "Price": 1800.0
+                },
+                "gordon blue": {
+                    "Price": 2300.0
+                },
+                "suprema de pollo rellena con camarones y queso": {
+                    "Price": 2300.0
+                },
+                "suprema Los Caneyes": {
+                    "Price": 2300.0
+                }
+            },
+            "Beef": {
+                "bistec uruguayo": {
+                    "Price": 1800.0
+                },
+                "ropa vieja": {
+                    "Price": 1700.0
+                },
+                "vaca frita": {
+                    "Price": 1700.0
+                }
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 1500.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 1500.0
+                },
+                "filete de pescado monte toro": {
+                    "Price": 1800.0
+                },
+                "filete de pescado caney": {
+                    "Price": 1800.0
+                },
+                "filete de pescado Los Caneyes": {
+                    "Price": 2500.0
+                },
+                "salmon rociado en salsa de tomate": {
+                    "Price": 1500.0
+                },
+                "masas de cangrejo en salsa de tomate": {
+                    "Price": 1300.0
+                },
+                "camarones al ajillo": {
+                    "Price": 2200.0
+                },
+                "enchilado de camarones": {
+                    "Price": 2200.0
+                },
+                "camarones rebozados": {
+                    "Price": 2200.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 150.0
+            },
+            "arroz congri": {
+                "Price": 200.0
+            },
+            "yuca con mojo": {
+                "Price": 200.0
+            },
+            "pure de malanga": {
+                "Price": 400.0
+            },
+            "Ensalada Mixta de Estacion": {
+                "Price": 250.0
+            }
+        },
+        "Desserts": {
+            "Tarta con Ganache de Chocolate": {
+                "Price": 450.0
+            },
+            "Pote de helado Gusto (1 litro)": {
+                "Price": 1000.0
+            }
+        },
+        "Beverages": {
+            "Refresco cola y limon": {
+                "Price": 250.0
+            },
+            "refresco de mate": {
+                "Price": 270.0
+            },
+            "malta": {
+                "Price": 300.0
+            },
+            "agua mineral embotellada": {
+                "Price": 300.0
+            },
+            "latas de jugo": {
+                "Price": 300.0
+            },
+            "bebida energizante": {
+                "Price": 100.0
+            },
+            "cervezas": {
+                "Price": 330.0
+            },
+            "cerveza cristal": {
+                "Price": 300.0
+            },
+            "cafe": {
+                "Price": 100.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

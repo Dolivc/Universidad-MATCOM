@@ -1,0 +1,398 @@
+{
+    "Name": "Restaurante_Los_Hermanos",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-1200"
+        ],
+        "Tuesday": [
+            "900-1200"
+        ],
+        "Wednesday": [
+            "900-1200"
+        ],
+        "Thursday": [
+            "900-1200"
+        ],
+        "Friday": [
+            "900-1200"
+        ],
+        "Saturday": [
+            "900-1200"
+        ],
+        "Sunday": [
+            "900-1200"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "478, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Toston Relleno de Jamon y Queso": {
+                "Price": 950
+            },
+            "Fritura de Malanga": {
+                "Price": 900
+            },
+            "Eperlan de Pescado": {
+                "Price": 1200
+            },
+            "Ceviche de Pescado": {
+                "Price": 1500
+            },
+            "Coctel de Camaron": {
+                "Price": 2000
+            },
+            "Tabla de Jamon Serrano": {
+                "Price": 2700
+            },
+            "Fajitas de Pollo": {
+                "Price": 1100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Napoles": {
+                    "Price": 1250
+                },
+                "Con Jamon": {
+                    "Price": 1500
+                },
+                "Con Atun": {
+                    "Price": 1750
+                },
+                "Con Camarones": {
+                    "Price": 1900
+                },
+                "Con Langosta": {
+                    "Price": 2000
+                },
+                "Lasanha": {
+                    "Price": 1300
+                }
+            },
+            "Pizza": {
+                "Napole": {
+                    "Price": 1250
+                },
+                "Con Jamon": {
+                    "Price": 1500
+                },
+                "Hawaiana": {
+                    "Price": 1600
+                },
+                "Con Chorizo": {
+                    "Price": 1750
+                },
+                "Con Atun y Cebolla": {
+                    "Price": 1750
+                },
+                "Con Langosta": {
+                    "Price": 1800
+                },
+                "Con Camaron": {
+                    "Price": 1800
+                }
+            },
+            "Pork": {
+                "Lonjas de Cerdo Asado al Carbon": {
+                    "Price": 1900
+                },
+                "Costillas de Cerdo a la Brasa en Aroma de Carbon": {
+                    "Price": 3000
+                },
+                "Bistec de Cerdo Encebollado": {
+                    "Price": 1700
+                },
+                "Lomo Ahumado": {
+                    "Price": 1700
+                }
+            },
+            "Chicken": {
+                "Pollo Grille": {
+                    "Price": 1600
+                }
+            },
+            "Beef": {
+                "Bistec Uruguayo": {
+                    "Price": 3000
+                }
+            },
+            "Sea": {
+                "Filete Canciller": {
+                    "Price": 3000
+                },
+                "Filete de Pescado Grille": {
+                    "Price": 1900
+                },
+                "Pescado Frito Entero": {
+                    "Price": 2500
+                },
+                "Camarones Grille": {
+                    "Price": 2000
+                },
+                "Enchilado de Camarones": {
+                    "Price": 2300
+                },
+                "Langosta Grille": {
+                    "Price": 2500
+                },
+                "Enchilado de Langosta": {
+                    "Price": 2600
+                },
+                "Langosta Varadero": {
+                    "Price": 2800
+                },
+                "Mariscada Los Hermanos": {
+                    "Price": 3500
+                }
+            },
+            "Other": {
+                "Arroz Frito": {
+                    "Price": 1500
+                },
+                "Tacos de Cerdo Asado": {
+                    "Price": 1500
+                },
+                "Arroz Frito Especial": {
+                    "Price": 1900
+                },
+                "Tacos de Fajita de Cerdo": {
+                    "Price": 1500
+                },
+                "Tacos de Fajitas de Pollo": {
+                    "Price": 1400
+                },
+                "Tacos de Langosta": {
+                    "Price": 2000
+                },
+                "Tacos de Camaron": {
+                    "Price": 1900
+                },
+                "Grillada Los Hermanos": {
+                    "Price": 3000
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Copa de Helado": {
+                "Price": 600
+            },
+            "Flan": {
+                "Price": 700
+            },
+            "Copa Lolita": {
+                "Price": 800
+            },
+            "Mermelada de Mango con Queso": {
+                "Price": 600
+            }
+        },
+        "Beverages": {
+            "Agua de 500ml": {
+                "Price": 200
+            },
+            "Jugo Natural de Frutas": {
+                "Price": 400
+            },
+            "Jugo de Frutas(Cajita)": {
+                "Price": 300
+            },
+            "Malta Importada": {
+                "Price": 350
+            },
+            "Malta Nacional": {
+                "Price": 400
+            },
+            "Bebidas Energizantes": {
+                "Price": 400
+            },
+            "Refrescos Importados": {
+                "Price": 350
+            },
+            "Batido de Helado": {
+                "Price": 950
+            },
+            "Malteada": {
+                "Price": 950
+            },
+            "Limonada Frappe": {
+                "Price": 700
+            },
+            "Limonada Frescura": {
+                "Price": 800
+            },
+            "Cristal(Lata)": {
+                "Price": 400
+            },
+            "Cristal(Botella)": {
+                "Price": 450
+            },
+            "Bucanero": {
+                "Price": 400
+            },
+            "Colonia": {
+                "Price": 250
+            },
+            "Havana Club 3 Anhos": {
+                "Price": 370
+            },
+            "Havana Club Anhejo Especial": {
+                "Price": 480
+            },
+            "Anhejo Reserva": {
+                "Price": 500
+            },
+            "Havana Club 7 Anhos": {
+                "Price": 500
+            },
+            "Whisky Ballantine": {
+                "Price": 800
+            },
+            "Whisky Johnnie Walker Red Lavel": {
+                "Price": 800
+            },
+            "Whisky Johnnie Walker Swing": {
+                "Price": 1000
+            },
+            "Whisky Chivas Regal 12": {
+                "Price": 900
+            },
+            "Tequila Blanco": {
+                "Price": 800
+            },
+            "Tequila Reposado": {
+                "Price": 900
+            },
+            "Jagermeifter": {
+                "Price": 600
+            },
+            "Crema Baileys": {
+                "Price": 600
+            },
+            "Aguardiente": {
+                "Price": 400
+            },
+            "Vodka Absolute": {
+                "Price": 700
+            },
+            "Ginebra Ginmaster": {
+                "Price": 700
+            },
+            "Mojito": {
+                "Price": 800
+            },
+            "Mojito de Fruta": {
+                "Price": 1000
+            },
+            "Ginc Tonic": {
+                "Price": 1500
+            },
+            "Cuba Libre": {
+                "Price": 900
+            },
+            "Cubata": {
+                "Price": 1000
+            },
+            "Daiquiri": {
+                "Price": 850
+            },
+            "Pinha Colada": {
+                "Price": 850
+            },
+            "Pinha con Ron": {
+                "Price": 950
+            },
+            "Sangria": {
+                "Price": 900
+            },
+            "Sangria Tinto Verano": {
+                "Price": 950
+            },
+            "Caipirinha/...Caipiroshka": {
+                "Price": 1000
+            },
+            "Canchanchara": {
+                "Price": 800
+            },
+            "Canchanchara 7 Anhos": {
+                "Price": 1000
+            },
+            "Margarita": {
+                "Price": 950
+            },
+            "Tekila Sunrise": {
+                "Price": 950
+            },
+            "Agrego de Michelada": {
+                "Price": 350
+            },
+            "Agrego de Chelada": {
+                "Price": 250
+            },
+            "Copa de vino Tinto": {
+                "Price": 700
+            },
+            "Copa de Vino Blanco": {
+                "Price": 700
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

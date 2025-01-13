@@ -1,0 +1,326 @@
+{
+    "Name": "El Gaban",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "linktr.ee/elgabanhabana",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-30"
+        ],
+        "Tuesday": [
+            "1200-30"
+        ],
+        "Wednesday": [
+            "1200-30"
+        ],
+        "Thursday": [
+            "1200-30"
+        ],
+        "Friday": [
+            "1200-30"
+        ],
+        "Saturday": [
+            "1200-30"
+        ],
+        "Sunday": [
+            "1200-30"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Crema de vegetales": {
+                "Price": 2400
+            },
+            "Croquetones a la amatriciana": {
+                "Price": 3000
+            },
+            "Croquetones de iberico": {
+                "Price": 3600
+            },
+            "Tartar de res con maracuya": {
+                "Price": 4500
+            },
+            "Tabla mixta": {
+                "Price": 5400
+            },
+            "Carpaccio de res": {
+                "Price": 6000
+            },
+            "Tartar de langosta": {
+                "Price": 6000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "\u00d1oquis": {
+                    "Price": 3600
+                },
+                "Raviolis mariscos": {
+                    "Price": 4500
+                }
+            },
+            "Pizza": {
+                "Pizza new york": {
+                    "Price": 6000
+                },
+                "Pizza de bolonia": {
+                    "Price": 5400
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Mignon": {
+                    "Price": 8400
+                },
+                "Ribeye": {
+                    "Price": 8400
+                }
+            },
+            "Sea": {
+                "Pesca blanca": {
+                    "Price": 7500
+                },
+                "Pesca azul": {
+                    "Price": 7500
+                }
+            },
+            "Other": {
+                "Risotto rosa": {
+                    "Price": 5400
+                },
+                "Risotto al coco": {
+                    "Price": 6000
+                }
+            }
+        },
+        "Extras": {
+            "Pure de malanga": {
+                "Price": 1800
+            },
+            "Papas al horno": {
+                "Price": 1800
+            },
+            "Vegetales salteados": {
+                "Price": 1800
+            },
+            "Arroz pilaf": {
+                "Price": 2400
+            }
+        },
+        "Desserts": {
+            "Brownie blanco": {
+                "Price": 1800
+            },
+            "Paulova": {
+                "Price": 1800
+            },
+            "Arroz con leche": {
+                "Price": 1800
+            },
+            "Postre con helado": {
+                "Price": 1800
+            }
+        },
+        "Beverages": {
+            "Agua tonica": {
+                "Price": 1500
+            },
+            "Agua san pellegrino": {
+                "Price": 1600
+            },
+            "Agua natural": {
+                "Price": 1600
+            },
+            "Agua panna": {
+                "Price": 1600
+            },
+            "Agua con gas": {
+                "Price": 1600
+            },
+            "Refresco": {
+                "Price": 1000
+            },
+            "Malta": {
+                "Price": 1000
+            },
+            "Energizante": {
+                "Price": 1500
+            },
+            "Kermato": {
+                "Price": 1600
+            },
+            "Limonada frappe/natural": {
+                "Price": 1600
+            },
+            "Cerveza de botella": {
+                "Price": 1600
+            },
+            "Copa de vino (espumoso, tinto o blanco)": {
+                "Price": 1800
+            },
+            "Grinch": {
+                "Price": 1600
+            },
+            "Mohana": {
+                "Price": 1600
+            },
+            "Mojito de frutas": {
+                "Price": 1600
+            },
+            "Pi\u00f1a colada": {
+                "Price": 1600
+            },
+            "Rossini": {
+                "Price": 2500
+            },
+            "Negroni chocolate": {
+                "Price": 2500
+            },
+            "Bellini": {
+                "Price": 2500
+            },
+            "Garibaldi": {
+                "Price": 2500
+            },
+            "Mi to": {
+                "Price": 2500
+            },
+            "Negroni g": {
+                "Price": 2500
+            },
+            "Aperol spritz": {
+                "Price": 2500
+            },
+            "Spritz": {
+                "Price": 2500
+            },
+            "Campari spritz": {
+                "Price": 2500
+            },
+            "Daiquiri": {
+                "Price": 2000
+            },
+            "Canchanchara": {
+                "Price": 2000
+            },
+            "Mojito": {
+                "Price": 2000
+            },
+            "Cubanito": {
+                "Price": 2000
+            },
+            "Caipirisima": {
+                "Price": 2000
+            },
+            "Margarita": {
+                "Price": 2500
+            },
+            "Sangria": {
+                "Price": 2500
+            },
+            "Caipiroska": {
+                "Price": 2500
+            },
+            "Moscow mule": {
+                "Price": 2500
+            },
+            "Fernet con cola": {
+                "Price": 2500
+            },
+            "Vodka tonic": {
+                "Price": 2500
+            },
+            "Caipirinha": {
+                "Price": 2500
+            },
+            "Bloody mary": {
+                "Price": 2500
+            },
+            "Amaretto sour": {
+                "Price": 2500
+            },
+            "Old fashioned": {
+                "Price": 2500
+            },
+            "New york whisky sour": {
+                "Price": 2500
+            },
+            "Expresso martini": {
+                "Price": 1500
+            },
+            "Cafe": {
+                "Price": 800
+            },
+            "Frapuccino": {
+                "Price": 1500
+            },
+            "Carajillo": {
+                "Price": 1500
+            },
+            "Te": {
+                "Price": 800
+            },
+            "Infusiones": {
+                "Price": 800
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

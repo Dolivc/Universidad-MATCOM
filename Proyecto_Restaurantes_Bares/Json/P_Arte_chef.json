@@ -1,0 +1,300 @@
+{
+    "Name": "Arte chef",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["07:00-19:00"],
+        "Tuesday":  ["07:00-19:00"],
+        "Wednesday": ["07:00-19:00"],
+        "Thursday": ["07:00-19:00"],
+        "Friday":   ["07:00-19:00"],
+        "Saturday": ["07:00-19:00"],
+        "Sunday":   ["07:00-19:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle A entre calle 3 y calle 5",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Frituras de malanga": {
+                "Price": 500
+            },
+            "Fajitas de pollo": {
+                "Price": 700
+            },
+            "Croquetas de pollo": {
+                "Price": 450
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 1500
+                },
+                "Cerdo asado": {
+                    "Price": 1800 
+                },
+                "Lomo de cerdo grille": {
+                    "Price": 1900
+                }
+            },
+            "Chicken": {
+                "Bistec de pollo grille": {
+                    "Price": 1300
+                },
+                "Pechuga de pollo grille": {
+                    "Price": 1500
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Filete de pescado grille": {
+                    "Price": 2000
+                },
+                "Langosta grille": {
+                    "Price": 2700
+                },
+                "Langosta mariposa": {
+                    "Price": 2700
+                },
+                "Enchilado de langosta": {
+                    "Price": 2750
+                },
+                "Camarones al ajillo": {
+                    "Price": 2200
+                },
+                "Enchilado de camarones": {
+                    "Price": 2600
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz congri": {
+                "Price": 150
+            },
+            "Arroz blanco": {
+                "Price": 100
+            },
+            "Tostones": {
+                "Price": 150
+            },
+            "Tamal": {
+                "Price": 100
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 200
+            },
+            "Refresco importado": {
+                "Price": 260
+            },
+            "Malta importada": {
+                "Price": 300
+            },
+            "Cerveza cristal de lata": {
+                "Price": 320
+            },
+            "Heineken de lata": {
+                "Price": 350
+            },
+            "Michelada": {
+                "Price": 650
+            },
+            "Sangria": {
+                "Price": 650
+            },
+            "Jarra de sangria": {
+                "Price": 2120
+            },
+            "Tinto de verano": {
+                "Price": 550
+            },
+            "Mojito": {
+                "Price": 600
+            },
+            "Cuba libre": {
+                "Price": 600
+            },
+            "Daiquiri": {
+                "Price": 550
+            },
+            "Limonada": {
+                "Price": 350
+            },
+            "Limonada frappe": {
+                "Price": 350
+            },
+            "Habana club 3 anhos": {
+                "Price": 300
+            },
+            "Habana club 7 anhos": {
+                "Price": 690
+            },
+            "Habana club reserva": {
+                "Price": 530
+            },
+            "Habana club seleccion de maestros": {
+                "Price": 1700
+            },
+            "HC Profundo": {
+                "Price": 800 
+            },
+            "HC Dark room": {
+                "Price": 500
+            },
+            "HC Edicion especial": {
+                "Price": 500
+            },
+            "HC Spiced": {
+                "Price": 600
+            },
+            "HC Ritual": {
+                "Price": 600
+            },
+            "Ron Santiago": {
+                "Price": 800
+            },
+            "Santero aguardiente": {
+                "Price": 300
+            },
+            "Whisky clan campbell": {
+                "Price": 1400
+            },
+            "Whisky jaminson": {
+                "Price": 1500
+            },
+            "Whisky JB": {
+                "Price": 1500
+            },
+            "Chivas regal": {
+                "Price": 1500
+            },
+            "Ballentines": {
+                "Price": 1500
+            },
+            "Vodka absolut": {
+                "Price": 770
+            },
+            "Vodka cirot": {
+                "Price": 800
+            },
+            "Tequila dorado": {
+                "Price": 530
+            },
+            "Tequila blanco": {
+                "Price": 500
+            },
+            "Omega alto": {
+                "Price": 700
+            },
+            "Don Julio tequila": {
+                "Price": 700
+            },
+            "Don mateo destilado": {
+                "Price": 500
+            },
+            "Tanqueray": {
+                "Price": 1600
+            },
+            "Vino blanco": {
+                "Price": 550
+            },
+            "Cinzano blanco": {
+                "Price": 700
+            },
+            "Campari": {
+                "Price": 550
+            },
+            "Ron malibu": {
+                "Price": 700
+            },
+            "ricard 45 anis": {
+                "Price": 1000
+            },
+            "benedicto penha": {
+                "Price": 1000
+            },
+            "Pisco italia": {
+                "Price": 500
+            },
+            "Licor Sambuca": {
+                "Price": 600
+            },
+            "Licor ensena": {
+                "Price": 600
+            },
+            "Pisco quebranta aguardiente": {
+                "Price": 500
+            },
+            "Licor molineri de cafe": {
+                "Price": 600
+            },
+            "Licor khalua de cafe": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": ["Langosta"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Pescado"],
+            "Drink": ["Cafe"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": [" Musica"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

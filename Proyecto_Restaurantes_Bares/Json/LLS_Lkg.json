@@ -1,0 +1,146 @@
+{
+    "Name": "LKG",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza de Jamon": {
+                    "Price": 300
+                },
+                "Pizza de Queso": {
+                    "Price": 200
+                },
+                "Pizza de doble queso": {
+                    "Price": 250
+                },
+                "Pizza de queso gouda": {
+                    "Price": 250
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Bistec": {
+                    "Price": 900
+                },
+                "Fricase": {
+                    "Price": 900
+                },
+                "Pollo": {
+                    "Price": 1200
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Rueda Pescado": {
+                    "Price": 950
+                },
+                "Pescado Entero": {
+                    "Price": 950
+                },
+                "Cangrejo": {
+                    "Price": 550
+                },
+                "Langosta": {
+                    "Price": 1400
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Arroz Frito": {
+                "Price": 600
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "espresso": {
+                "Price": 20
+            },
+            "Agua mineral": {
+                "Price": 150
+            },
+            "Cerveza": {
+                "Price": 250
+            },
+            "Refresco importado": {
+                "Price": 230
+            },
+            "Batidos de frutas": {
+                "Price": 235
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

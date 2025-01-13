@@ -1,0 +1,361 @@
+{
+    "Name": "Ristorante_San_Francesco",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2300"
+        ],
+        "Tuesday": [
+            "800-2300"
+        ],
+        "Wednesday": [
+            "800-2300"
+        ],
+        "Thursday": [
+            "800-2300"
+        ],
+        "Friday": [
+            "800-2300"
+        ],
+        "Saturday": [
+            "800-2300"
+        ],
+        "Sunday": [
+            "800-2300"
+        ]
+    },
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coordinates": "Calle 478 entre 5ta A Y, 5ta D"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Antipasto di Montagna Maxi": {
+                "Price": 3500
+            },
+            "Bruschetta": {
+                "Price": 850
+            },
+            "Bruschetta di Pate": {
+                "Price": 900
+            },
+            "Prosciuto Crudo": {
+                "Price": 2500
+            },
+            "Raz. Pane": {
+                "Price": 450
+            },
+            "Frittata": {
+                "Price": 700
+            },
+            "Frittata con Cipolle": {
+                "Price": 750
+            },
+            "Tostones": {
+                "Price": 700
+            },
+            "Tostones Especiales": {
+                "Price": 1500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti Napoli": {
+                    "Price": 1500
+                },
+                "Spaghetti Jamon Vicky": {
+                    "Price": 1600
+                },
+                "Spaghetti Tonno": {
+                    "Price": 1700
+                },
+                "Spaghetti Jamon Serrano": {
+                    "Price": 1800
+                },
+                "Spaghetti Pomodoro e Basilico": {
+                    "Price": 1550
+                },
+                "Spaghetti Aglio-Olio-Peperoncino": {
+                    "Price": 1350
+                },
+                "Spaghetti Al Pesto": {
+                    "Price": 1600
+                },
+                "Spaghetti Puttanesca": {
+                    "Price": 1900
+                },
+                "Spaghetti Amatriciana": {
+                    "Price": 1700
+                },
+                "Spaghetti Carbonara": {
+                    "Price": 1700
+                },
+                "Spaghetti con Gamberetti": {
+                    "Price": 2600
+                },
+                "Pasta con Verdure": {
+                    "Price": 1500
+                },
+                "Pasta Risotto Bolognese": {
+                    "Price": 1700
+                },
+                "Pasta Risotto Fruti di Mare": {
+                    "Price": 3200
+                },
+                "Risotto Bolognese": {
+                    "Price": 1650
+                },
+                "Risotto con Vegetale": {
+                    "Price": 1500
+                },
+                "Pasta con Salciccia": {
+                    "Price": 1800
+                },
+                "Pasta con Salciccia e Funghi": {
+                    "Price": 2000
+                },
+                "Raz. di Rizo": {
+                    "Price": 600
+                },
+                "Raz. di Pane": {
+                    "Price": 550
+                }
+            },
+            "Pizza": {
+                "Pizza Gorgonzola": {
+                    "Price": 1700
+                },
+                "Pizza Fior di Latte": {
+                    "Price": 1900
+                },
+                "Pizza Fior di Latte e Prosciutto": {
+                    "Price": 2100
+                },
+                "Pizza Frutti di Mare": {
+                    "Price": 2600
+                },
+                "Pizza Pomodoro e Basilico": {
+                    "Price": 1400
+                },
+                "Pizza Prosciutto Crudo": {
+                    "Price": 1900
+                },
+                "Pizza Margherita": {
+                    "Price": 1400
+                },
+                "Pizza Capricciosa": {
+                    "Price": 2000
+                },
+                "Pizza con Jamon Vicky": {
+                    "Price": 1700
+                },
+                "Pizza con Atun": {
+                    "Price": 1900
+                },
+                "Pizza con Camarones": {
+                    "Price": 2100
+                },
+                "Pizza con Salciccia": {
+                    "Price": 1900
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1800
+                },
+                "Pizza con Vegetales": {
+                    "Price": 1700
+                },
+                "Focaccia": {
+                    "Price": 1300
+                },
+                "Focaccia con Prosciutto Crudo": {
+                    "Price": 1700
+                },
+                "Focaccia con Prosciutto Crudo y Agrego de Fior di Latte": {
+                    "Price": 2600
+                }
+            },
+            "Pork": {
+                "Chuleta de Cerdo(Segun Gramaje del Plato)": {
+                    "Price": 2850
+                },
+                "Ropa Vieja de Cerdo": {
+                    "Price": 2100
+                },
+                "Salciccia": {
+                    "Price": 2100
+                }
+            },
+            "Chicken": {
+                "Pollo con Salciccia": {
+                    "Price": 2400
+                },
+                "Fajitas de Pollo": {
+                    "Price": 1850
+                },
+                "Pollo Frito": {
+                    "Price": 1800
+                },
+                "Pollo Asado": {
+                    "Price": 1800
+                },
+                "Fajitas de Pollo con Vegetales": {
+                    "Price": 2100
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Aragosta Maxi": {
+                    "Price": 3800
+                },
+                "Camaron en Salsa": {
+                    "Price": 2200
+                },
+                "Gamberetti": {
+                    "Price": 2200
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Dolce San Francesco": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Cerveza Cristal": {
+                "Price": 350
+            },
+            "Cerveza Bucanero": {
+                "Price": 400
+            },
+            "Cervezas Importadas": {
+                "Price": 350
+            },
+            "Refrescos Importados": {
+                "Price": 350
+            },
+            "Red Bull": {
+                "Price": 400
+            },
+            "Refrescos Energizantes": {
+                "Price": 400
+            },
+            "Maltas": {
+                "Price": 400
+            },
+            "Limonada Frappe": {
+                "Price": 500
+            },
+            "Copa de Vino de la Casa": {
+                "Price": 1200
+            },
+            "Whisky": {
+                "Price": 900
+            },
+            "Trago de Ron": {
+                "Price": 600
+            },
+            "Sambuca": {
+                "Price": 800
+            },
+            "Mojito": {
+                "Price": 850
+            },
+            "Cuba Libre": {
+                "Price": 800
+            },
+            "Cubanito": {
+                "Price": 800
+            },
+            "Pinha Colada": {
+                "Price": 900
+            },
+            "Michelada": {
+                "Price": 1200
+            },
+            "Chelada": {
+                "Price": 800
+            },
+            "Limoncello": {
+                "Price": 900
+            },
+            "Tequila": {
+                "Price": 900
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Grappa": {
+                "Price": 900
+            },
+            "Caffe Miscela Illy Kimbo": {
+                "Price": 350
+            },
+            "Cafe Cortado": {
+                "Price": 380
+            },
+            "Cafe Americano": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Children",
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

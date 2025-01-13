@@ -1,0 +1,214 @@
+{
+    "Name": "Donna Almira",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "tostones rellenos": {
+                "Price": 850.0
+            },
+            "tamal en cazuela": {
+                "Price": 785.0
+            },
+            "vegetales rellenos": {
+                "Price": 895.0
+            },
+            "racion de chicharrones": {
+                "Price": 300.0
+            },
+            "aderezo donna almira": {
+                "Price": 385.0
+            },
+            "salsa agridulce": {
+                "Price": 395.0
+            },
+            "ensalada de chorizo": {
+                "Price": 1225.0
+            },
+            "ceviche de pescado": {
+                "Price": 685.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "lomo rostizado": {
+                    "Price": 2150.0
+                },
+                "cerdo enrrollado asado": {
+                    "Price": 1545.0
+                },
+                "cerdo enrollado salsa agridulce": {
+                    "Price": 1570.0
+                },
+                "cerdo enrollado glaseado": {
+                    "Price": 1550.0
+                },
+                "fricase de cerdo": {
+                    "Price": 1520.0
+                }
+            },
+            "Chicken": {
+                "pollo donna almira": {
+                    "Price": 1340.0
+                },
+                "pollo barbacoa": {
+                    "Price": 1195.0
+                },
+                "pollo salsa agridulce": {
+                    "Price": 1295.0
+                },
+                "pollo grille": {
+                    "Price": 1195.0
+                },
+                "pollo en fricase": {
+                    "Price": 1200.0
+                },
+                "pollo a la pasa": {
+                    "Price": 1220.0
+                },
+                "pollo grille con camarones": {
+                    "Price": 1375.0
+                }
+            },
+            "Beef": {
+                "picada a la habanera": {
+                    "Price": 1290.0
+                },
+                "ropa vieja": {
+                    "Price": 1305.0
+                },
+                "vaca frita": {
+                    "Price": 1260.0
+                },
+                "bistec americano": {
+                    "Price": 2430.0
+                }
+            },
+            "Sea": {
+                "mignnon de pescado grille": {
+                    "Price": 1370.0
+                },
+                "mignnon de pescado a las finas hierbas": {
+                    "Price": 1410.0
+                },
+                "mignnon de pescado donna almira": {
+                    "Price": 1650.0
+                },
+                "mignnon de pescado gratinado": {
+                    "Price": 1585.0
+                },
+                "mignnon de pescado con queso y bacon": {
+                    "Price": 1720.0
+                }
+            },
+            "Other": {
+                "nasobuco": {
+                    "Price": 1860.0
+                },
+                "bistec de higado": {
+                    "Price": 1290.0
+                },
+                "higado a la italiana": {
+                    "Price": 1380.0
+                }
+            }
+        },
+        "Extras": {
+            "Arroz Congris": {
+                "Price": 120.0
+            },
+            "Ensalada Estacion": {
+                "Price": 285.0
+            }
+        },
+        "Desserts": {
+            "musse variados": {
+                "Price": 570.0
+            }
+        },
+        "Beverages": {
+            "cafe cubano": {
+                "Price": 150.0
+            },
+            "cafe cortado": {
+                "Price": 180.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

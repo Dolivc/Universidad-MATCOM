@@ -1,0 +1,151 @@
+{
+    "Name": "El Bache",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1030-2230"
+        ],
+        "Tuesday": [
+            "1030-2230"
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            "1030-2230"
+        ],
+        "Friday": [
+            "1030-2230"
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Calle 30 entre 95 y 97,Las Brisas",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "lasa\u00f1a": {
+                    "Price": 800
+                },
+                "lasa\u00f1a de queso gouda": {
+                    "Price": 1200
+                },
+                "espaguetti con queso gouda": {
+                    "Price": 900
+                },
+                "espaguetti": {
+                    "Price": 600
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 600
+                },
+                "pizza doble queso": {
+                    "Price": 800
+                },
+                "pizza queso gouda": {
+                    "Price": 900
+                },
+                "pizza jam\u00f3n": {
+                    "Price": 800
+                },
+                "pizza chorizo": {
+                    "Price": 800
+                },
+                "pizza aceituna": {
+                    "Price": 1350
+                },
+                "pizza at\u00fan": {
+                    "Price": 800
+                },
+                "pizza cebolla": {
+                    "Price": 1100
+                },
+                "pizza hawaiana": {
+                    "Price": 1450
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

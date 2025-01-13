@@ -1,0 +1,271 @@
+{
+    "Name": "Pizzas Vip",
+    "Type": "Pizzeria-Restaurante",
+    "Phone_Number": "52844312",
+    "Web_Page": "Pizza VIP",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["10:00-22:00"],
+        "Tuesday":  ["10:00-22:00"],
+        "Wednesday": ["10:00-22:00"],
+        "Thursday": ["10:00-22:00"],
+        "Friday":   ["10:00-22:00"],
+        "Saturday": ["10:00-22:00"],
+        "Sunday":   ["10:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Italiana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Tortilla": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Hamburger": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Sandwich": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Bread": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Other":{
+                "":{
+                    "Price": null
+                }
+            }
+        },
+        "Appetizers": {
+            "Croquetas de la Casa": {
+                "Price": 400
+            },
+            "Fritura de Malanga": {
+                "Price": 300
+            },
+            "Bolita de Queso": {
+                "Price": 650
+            },
+            "Fajita de Pechuga": {
+                "Price": 1100
+            },
+            "Ensalada Fría": {
+                "Price": 370
+            },
+            "Papa Frita": {
+                "Price": 580
+            },
+            "Fajita de Cerdo": {
+                "Price": 1200
+            },
+            "Crema de Queso": {
+                "Price": 500
+            },
+            "Crema Virginia": {
+                "Price": 550
+            },
+            "Crema Aurora": {
+                "Price": 520
+            },
+            "Crema Mixta": {
+                "Price": 600
+            },
+            "Tacos de Jamón": {
+                "Price": 1030
+            },
+            "Tacos de Res": {
+                "Price": 1350
+            },
+            "Tacos de Cangrejo": {
+                "Price": 1380
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Napolitano": {
+                    "Price": 720
+                },
+                "Espaguetis Bolonhesa": {
+                    "Price": 1350
+                },
+                "Espaguetis Carbonara": {
+                    "Price": 1350
+                },
+                "Espaguetis Alfredo": {
+                    "Price": 1150
+                },
+                "Espaguetis de Atún": {
+                    "Price": 1270
+                },
+                "Espaguetis Pollo": {
+                    "Price": 1120
+                },
+                "Espaguetis de Camarones": {
+                    "Price": 1400
+                },
+                "Espaguetis Chorizo": {
+                    "Price": 1150
+                },
+                "Espaguetis Negro Di Mare": {
+                    "Price": 1500
+                }
+            },
+            "Pizza": {
+                "Pizza de Queso": {
+                    "Price": 800
+                },
+                "Pizza de Cebolla": {
+                    "Price": 1000
+                },
+                "Pizza de Pimiento": {
+                    "Price": 1000
+                },
+                "Pizza de Jamón": {
+                    "Price": 1000
+                },
+                "Pizza de Chorizo": {
+                    "Price": 1050
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1260
+                },
+                "Pizza de Bacón": {
+                    "Price": 1240
+                },
+                "Pizza Doble Queso": {
+                    "Price": 1250
+                },
+                "Pizza de Camarón": {
+                    "Price": 1700
+                },
+                "Pizza de Res": {
+                    "Price": 1300
+                },
+                "Pizza de Atún con Cebolla": {
+                    "Price": 1450
+                },
+                "Pizza de Jamón Serrano": {
+                    "Price": 1570
+                },
+                "Pizza de Aceituna": {
+                    "Price": 1200
+                }
+            },
+            "Pork": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Chicken": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Beef": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Sea": {
+                "": {
+                    "Price": null
+                }
+            },
+            "Other":{
+                "":{
+                    "Price": null
+                }
+            }
+        },
+        "Extras": {
+            "": {
+                "Price": null
+            }
+        },
+        "Desserts": {
+            "": {
+                "Price": null
+            }
+        },
+        "Beverages": {
+            "Henike": {
+                "Price": 360
+            },
+            "Cerveza Importada": {
+                "Price": 250
+            },
+            "Cerveza de Lata Cristal": {
+                "Price": 300
+            },
+            "Cerveza de Botella": {
+                "Price": 300
+            },
+            "Pomitos de Agua": {
+                "Price": 150
+            },
+            "Refresco de Pomito": {
+                "Price": 180
+            },
+            "Refresco de Lata": {
+                "Price": 220
+            },
+            "Malta": {
+                "Price": 300 
+            },
+            "Jugos de Lata": {
+                "Price": 280
+            },
+            "Jugos de Cajita": {
+                "Price": 180
+            },
+            "Tigón": {
+                "Price": 300
+            },
+            "Refresco Importado": {
+                "Price": 280
+            },
+            "Malta Importada": {
+                "Price": 270
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Bohio_Mercadito",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2100"
+        ],
+        "Tuesday": [
+            "1000-2100"
+        ],
+        "Wednesday": [
+            "1000-2100"
+        ],
+        "Thursday": [
+            "1000-2100"
+        ],
+        "Friday": [
+            "1000-2100"
+        ],
+        "Saturday": [
+            "1000-2100"
+        ],
+        "Sunday": [
+            "1000-2100"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": null,
+        "Coordinates": "4HVX+3WQ"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Baguette jamon y queso": {
+                    "Price": 700.0
+                },
+                "Croissant nutella": {
+                    "Price": 800.0
+                },
+                "Croissant jamon y queso": {
+                    "Price": 900.0
+                },
+                "Mini croissants chocolate": {
+                    "Price": 150.0
+                },
+                "Dona chocolate": {
+                    "Price": 250.0
+                }
+            }
+        },
+        "Appetizers": {
+
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Capuchino": {
+                "Price": 250.0
+            },
+            "Expresso": {
+                "Price": 100.0
+            },
+            "Cortado": {
+                "Price": 150.0
+            },
+            "Bombon": {
+                "Price": 250.0
+            },
+            "Affogato": {
+                "Price": 500.0
+            },
+            "Frappuccino": {
+                "Price": 500.0
+            },
+            "Frutos del bosque/platano": {
+                "Price": 600.0
+            },
+            "Mango": {
+                "Price": 500.0
+            },
+            "Frutabomba": {
+                "Price": 500.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta"
+        ],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "Name": "Buena Vibra",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2200"
+        ],
+        "Tuesday": [
+            "1200-2200"
+        ],
+        "Wednesday": [
+            "1200-2200"
+        ],
+        "Thursday": [
+            "1200-2200"
+        ],
+        "Friday": [
+            "1200-2200"
+        ],
+        "Saturday": [
+            "1200-2200"
+        ],
+        "Sunday": [
+            "1200-2200"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "croquetas": {
+                "Price": 400
+            },
+            "fritura de malanga": {
+                "Price": 400
+            },
+            "vianda frita": {
+                "Price": 300
+            },
+            "tostones tradicionales": {
+                "Price": 300
+            },
+            "tostones rellenos": {
+                "Price": 500
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti con queso": {
+                    "Price": 400
+                },
+                "espaguetti de jamon": {
+                    "Price": 550
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "higado de cerdo": {
+                    "Price": 800
+                },
+                "lomo ahumado": {
+                    "Price": 900
+                },
+                "bistec de cerdo": {
+                    "Price": 900
+                }
+            },
+            "Chicken": {
+                "bistec de pollo": {
+                    "Price": 850
+                },
+                "bistec de pollo empanado": {
+                    "Price": 900
+                },
+                "pechuga de pollo": {
+                    "Price": 900
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "tequila reposado": {
+                "Price": 300
+            },
+            "licor crema": {
+                "Price": 200
+            },
+            "pinha colada": {
+                "Price": 300
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

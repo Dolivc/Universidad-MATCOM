@@ -1,0 +1,249 @@
+{
+    "Name": "KY-13",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2300"
+        ],
+        "Tuesday": [
+            "1000-2300"
+        ],
+        "Wednesday": [
+            "1000-2300"
+        ],
+        "Thursday": [
+            "1000-2300"
+        ],
+        "Friday": [
+            "1000-2300"
+        ],
+        "Saturday": [
+            "1000-2300"
+        ],
+        "Sunday": [
+            "1000-2300"
+        ]
+    },
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "croquetas de queso": {
+                "Price": 600
+            },
+            "frituras de malanga": {
+                "Price": 600
+            },
+            "tostones rellenos": {
+                "Price": 700
+            },
+            "eperlan": {
+                "Price": 1300
+            },
+            "dedos de pollo": {
+                "Price": 1000
+            },
+            "coctel de camaron": {
+                "Price": 1300
+            },
+            "camaron rebozado": {
+                "Price": 1200
+            },
+            "crema de queso": {
+                "Price": 850
+            },
+            "crema aurora": {
+                "Price": 550
+            },
+            "crema virginia": {
+                "Price": 800
+            },
+            "crema de camaron": {
+                "Price": 900
+            },
+            "surtido KY13": {
+                "Price": 4000
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetti de queso": {
+                    "Price": 1300
+                },
+                "lasanha de jamon": {
+                    "Price": 1800
+                },
+                "espaguetti a la carbonara": {
+                    "Price": 2000
+                }
+            },
+            "Pizza": {
+                "pizza de queso": {
+                    "Price": 1200
+                },
+                "pizza familiar de queso": {
+                    "Price": 3350
+                }
+            },
+            "Pork": {
+                "bistec de cerdo grille": {
+                    "Price": 2350
+                },
+                "bistec de cerdo empanado": {
+                    "Price": 2700
+                },
+                "uruguayo de cerdo": {
+                    "Price": 3500
+                },
+                "chuleta de cerdo": {
+                    "Price": 2600
+                },
+                "lomo ahumado": {
+                    "Price": 2500
+                },
+                "costilla de cerdo frita": {
+                    "Price": 2300
+                },
+                "masa de cerdo frita": {
+                    "Price": 3800
+                }
+            },
+            "Chicken": {
+                "pechuga de pollo grille": {
+                    "Price": 2400
+                },
+                "pechuga de pollo gratinada": {
+                    "Price": 2800
+                },
+                "pollo gordon blue": {
+                    "Price": 3650
+                },
+                "pollo frito o asado": {
+                    "Price": 2000
+                },
+                "bistec de pollo": {
+                    "Price": 2200
+                }
+            },
+            "Beef": {
+                "ropa vieja de res": {
+                    "Price": 2800
+                },
+                "picadillo a la habanera": {
+                    "Price": 2700
+                }
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 3000
+                },
+                "filete de pescado empanado": {
+                    "Price": 3300
+                },
+                "filete de pescado gratinado": {
+                    "Price": 3500
+                },
+                "pescado montetoro": {
+                    "Price": 3800
+                },
+                "pescado canciller": {
+                    "Price": 4250
+                },
+                "camaron grille": {
+                    "Price": 2600
+                },
+                "enchilado de camaron": {
+                    "Price": 2800
+                },
+                "camaron al ajillo": {
+                    "Price": 2700
+                },
+                "langosta grille": {
+                    "Price": 2700
+                },
+                "langosta enchilada": {
+                    "Price": 2800
+                }
+            },
+            "Other": {
+                "arroz frito": {
+                    "Price": 2800
+                }
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 300
+            },
+            "arroz moro": {
+                "Price": 480
+            },
+            "vianda frita": {
+                "Price": 700
+            },
+            "ensalada mixta": {
+                "Price": 700
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "Name": "Pacomeralgo",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "entremes de jamon y queso": {
+                "Price": 450
+            },
+            "entremes de aceitunas": {
+                "Price": 300
+            },
+            "croquetas": {
+                "Price": 300
+            },
+            "papas fritas": {
+                "Price": 333
+            },
+            "picadera paco": {
+                "Price": 850
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis napolitanos": {
+                    "Price": 600
+                },
+                "espaguetis de jamon": {
+                    "Price": 720
+                },
+                "espaguetis de chorizo": {
+                    "Price": 720
+                },
+                "Lasagna": {
+                    "Price": 615
+                },
+                "espaguetis de atun": {
+                    "Price": 790
+                }
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 600
+                },
+                "Pizza de Jamon": {
+                    "Price": 770
+                },
+                "Pizza de Chorizo": {
+                    "Price": 770
+                },
+                "Pizza de Cebolla": {
+                    "Price": 750
+                },
+                "Pizza de Aji": {
+                    "Price": 730
+                },
+                "Pizza de Aceituna": {
+                    "Price": 780
+                },
+                "Pizza hawaiana": {
+                    "Price": 820
+                },
+                "Pizza de pasas con pinas": {
+                    "Price": 730
+                },
+                "pizza de atun": {
+                    "Price": 840
+                },
+                "pizza paco": {
+                    "Price": 1000
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cervezas": {
+                "Price": 250
+            },
+            "expresso": {
+                "Price": 150
+            },
+            "americano": {
+                "Price": 150
+            },
+            "cortadito": {
+                "Price": 220
+            },
+            "Bombon": {
+                "Price": 350
+            },
+            "Refresco de Cola": {
+                "Price": 250
+            },
+            "Refresco de limon": {
+                "Price": 250
+            },
+            "refresco de naranja": {
+                "Price": 250
+            },
+            "jugo pequeno": {
+                "Price": 250
+            },
+            "jugo grande": {
+                "Price": 900
+            },
+            "malta": {
+                "Price": 350
+            },
+            "malteada": {
+                "Price": 650
+            },
+            "energizante": {
+                "Price": 350
+            },
+            "Yogurt vaso": {
+                "Price": 200
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

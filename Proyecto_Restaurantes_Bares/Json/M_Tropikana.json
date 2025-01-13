@@ -1,0 +1,178 @@
+{
+    "Name": "Tropikana",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-22:00"],
+        "Tuesday":  ["11:00-22:00"],
+        "Wednesday": ["11:00-22:00"],
+        "Thursday": ["11:00-22:00"],
+        "Friday":   ["11:00-22:00"],
+        "Saturday": ["11:00-22:00"],
+        "Sunday":   ["11:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 41, calle 72",
+        "Coordinates": null
+    },
+    "Cuisine": " Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Super hamburguesa": {
+                    "Price": 560
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Pan con jamon y queso": {
+                    "Price": 280
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones": {
+                "Price": 350
+            },
+            "Tostones rellenos": {
+                "Price": 450
+            },
+            "Crema de queso": {
+                "Price": 450
+            },
+            "Crema aurora": {
+                "Price": 450
+            },
+            "Crema de jamon": {
+                "Price": 450
+            },
+            "Consome": {
+                "Price": 450
+            },
+            "Eperlan": {
+                "Price": 500
+            },
+            "Croquetas": {
+                "Price": 500
+            },
+            "Picadera de la casa": {
+                "Price": 100
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguettis a la carbonara": {
+                    "Price": 750
+                },
+                "Espaguettis queso gouda": {
+                    "Price": 650
+                }
+            },
+            "Pizza": {
+                "Pizza de queso gouda": {
+                    "Price": 750
+                },
+                "Pizza Hawaiana": {
+                    "Price": 800
+                },
+                "Pizza tropicana": {
+                    "Price": 950
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 1300
+                },
+                "Bistec de cerdo a la milanesa": {
+                    "Price": 1800
+                }
+            },
+            "Chicken": {
+                "Bistec de pollo": {
+                    "Price": 1000
+                },
+                "Pollo frito": {
+                    "Price": 1000
+                }, 
+                "Pollo a la milanesa": {
+                    "Price": 1500
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1550
+                }
+            },
+            "Sea": {
+                "Canciller": {
+                    "Price": 2500
+                },
+                "Pescado entero": {
+                    "Price": 2000
+                },
+                "Rueda de atun": {
+                    "Price": 1700
+                },
+                "Camarones": {
+                    "Price": 1700
+                },
+                "Filete de pescado": {
+                    "Price": 1500
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Arroz frito": {
+                "Price": 700
+            }
+        },
+        "Desserts": {
+            "Helado gusto 1L": {
+                "Price": 1000
+            }
+        },
+        "Beverages": {
+            
+        },    
+        "most_sold": {
+            "Dish": ["Bistec de cerdo"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Mariscos"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": null,
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

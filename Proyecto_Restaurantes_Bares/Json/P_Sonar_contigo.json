@@ -1,0 +1,231 @@
+{
+    "Name": "Sonar contigo",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "100-0"
+        ],
+        "Tuesday": [
+            "100-0"
+        ],
+        "Wednesday": [
+            "100-0"
+        ],
+        "Thursday": [
+            "100-0"
+        ],
+        "Friday": [
+            "100-0"
+        ],
+        "Saturday": [
+            "100-0"
+        ],
+        "Sunday": [
+            "100-0"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": "Esquina Ave 23 y Calle C",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Racion de Mani": {
+                "Price": 150.0
+            },
+            "Racion de chacharrita": {
+                "Price": 150.0
+            },
+            "Saladitas con jamon": {
+                "Price": 220.0
+            },
+            "Saladitas con atun": {
+                "Price": 250.0
+            },
+            "Racion de croquetas": {
+                "Price": 350.0
+            },
+            "Frituras de malanga": {
+                "Price": 330.0
+            },
+            "Racion de tostones": {
+                "Price": 250.0
+            },
+            "Racion de tostones rellenos de jamon": {
+                "Price": 400.0
+            },
+            "Racion de tostones rellenos de atun": {
+                "Price": 450.0
+            },
+            "Picadera de la casa": {
+                "Price": 1000.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Tacos de vegetales": {
+                    "Price": 550.0
+                },
+                "Tacos de cerdo asado": {
+                    "Price": 720.0
+                },
+                "Tacos de cerdo con vegetales": {
+                    "Price": 750.0
+                },
+                "Tacos de cerdo agridulce": {
+                    "Price": 800.0
+                },
+                "Tacos Mixtos": {
+                    "Price": 850.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Pastel con leche condensada": {
+                "Price": 450.0
+            },
+            "Pastel con helado": {
+                "Price": 420.0
+            }
+        },
+        "Beverages": {
+            "Cuba libre": {
+                "Price": 350.0
+            },
+            "Mojito": {
+                "Price": 420.0
+            },
+            "Ron Collins": {
+                "Price": 300.0
+            },
+            "Canchanchara": {
+                "Price": 400.0
+            },
+            "Daiquiri": {
+                "Price": 400.0
+            },
+            "Caipirisima": {
+                "Price": 400.0
+            },
+            "Pina colada": {
+                "Price": 550.0
+            },
+            "Agua embotellada": {
+                "Price": 200.0
+            },
+            "Limonada natural": {
+                "Price": 350.0
+            },
+            "Limonada con Hierba buena": {
+                "Price": 380.0
+            },
+            "Limonada con pinha": {
+                "Price": 420.0
+            },
+            "Batido de helado": {
+                "Price": 600.0
+            },
+            "Malteada": {
+                "Price": 500.0
+            },
+            "Refresco": {
+                "Price": 260.0
+            },
+            "Jugo": {
+                "Price": 220.0
+            },
+            "Copa de vino": {
+                "Price": 380.0
+            },
+            "Smoothie de platano": {
+                "Price": 530.0
+            },
+            "Cerveza importada": {
+                "Price": 300.0
+            },
+            "Servicio de chelada": {
+                "Price": 130.0
+            },
+            "Havana Club Especial": {
+                "Price": 250.0
+            },
+            "Havana Club Reserva": {
+                "Price": 280.0
+            },
+            "Havana Club 7 anos": {
+                "Price": 330.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

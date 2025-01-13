@@ -1,0 +1,468 @@
+{
+    "Name": "Altahabana_Club",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1400-200"
+        ],
+        "Tuesday": [
+            "1400-200"
+        ],
+        "Wednesday": [
+            "1400-200"
+        ],
+        "Thursday": [
+            "1400-200"
+        ],
+        "Friday": [
+            "1400-200"
+        ],
+        "Saturday": [
+            "1400-200"
+        ],
+        "Sunday": [
+            "1400-200"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle D, esq. a 10, Altabana",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "frituras de malanga": {
+                "Price": 400.0
+            },
+            "papas fritas": {
+                "Price": 550.0
+            },
+            "croquetas de pollo": {
+                "Price": 550.0
+            },
+            "bolitas de queso": {
+                "Price": 650.0
+            },
+            "alitas de pollo": {
+                "Price": 750.0
+            },
+            "entremes de (jamon, queso, aceituna y chorizo)": {
+                "Price": 950.0
+            },
+            "fajitas de pollo": {
+                "Price": 950.0
+            },
+            "eperlan de pescado": {
+                "Price": 1150.0
+            },
+            "coctel de camaron": {
+                "Price": 1450.0
+            },
+            "tabla chorizos parrillero": {
+                "Price": 1800.0
+            },
+            "picadera altahabana (jamon vicky y serrano, queso, aceituna, chorizo, croquetas, bolitas de queso, frituras de malanga)": {
+                "Price": 3500.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis napolitano": {
+                    "Price": 900.0
+                },
+                "espaguetis jamon": {
+                    "Price": 950.0
+                },
+                "espaguetis chorizo": {
+                    "Price": 1150.0
+                },
+                "espaguetis de bacon": {
+                    "Price": 1200.0
+                },
+                "espaguetis bolonnesa": {
+                    "Price": 1250.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 950.0
+                },
+                "pizza pimiento": {
+                    "Price": 1000.0
+                },
+                "pizza cebolla": {
+                    "Price": 1000.0
+                },
+                "pizza jamon": {
+                    "Price": 1150.0
+                },
+                "pizza bacon": {
+                    "Price": 1150.0
+                },
+                "pizza chorizo": {
+                    "Price": 1150.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1250.0
+                },
+                "pizza de atun": {
+                    "Price": 1200.0
+                },
+                "pizza camaron": {
+                    "Price": 1300.0
+                },
+                "pizza de pepperoni": {
+                    "Price": 1500.0
+                },
+                "pizza altahabana (bacon, jamon, chorizo, queso blanco, gouda, jamon pierna)": {
+                    "Price": 1500.0
+                }
+            },
+            "Pork": {
+                "masas de cerdo frita": {
+                    "Price": 1350.0
+                },
+                "bistec de cerdo": {
+                    "Price": 1400.0
+                },
+                "bistec uruguayo": {
+                    "Price": 1750.0
+                }
+            },
+            "Chicken": {
+                "pollo asado": {
+                    "Price": 1300.0
+                },
+                "pollo frito pio pio": {
+                    "Price": 1350.0
+                },
+                "pollo grille": {
+                    "Price": 1400.0
+                },
+                "pollo a la gordon blue": {
+                    "Price": 1750.0
+                }
+            },
+            "Beef": {
+                "vaca frita": {
+                    "Price": 1300.0
+                },
+                "ropa vieja": {
+                    "Price": 1350.0
+                },
+                "bistec de res": {
+                    "Price": 1600.0
+                }
+            },
+            "Sea": {
+                "filete de pescado grillet": {
+                    "Price": 1550.0
+                },
+                "filete de pescado empanado": {
+                    "Price": 1600.0
+                },
+                "filete canciller": {
+                    "Price": 1800.0
+                },
+                "camaron enchilado": {
+                    "Price": 1650.0
+                },
+                "camaron ajillo": {
+                    "Price": 1750.0
+                },
+                "camaron empanado": {
+                    "Price": 1800.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz blanco": {
+                "Price": 250.0
+            },
+            "arroz moro": {
+                "Price": 350.0
+            },
+            "vianda frita": {
+                "Price": 400.0
+            },
+            "ensalada de vegetales": {
+                "Price": 500.0
+            }
+        },
+        "Desserts": {
+            "copa de helado": {
+                "Price": 500.0
+            },
+            "suero de helado": {
+                "Price": 750.0
+            }
+        },
+        "Beverages": {
+            "limonada natural": {
+                "Price": 500.0
+            },
+            "limonada frappe": {
+                "Price": 520.0
+            },
+            "limonada frescura": {
+                "Price": 540.0
+            },
+            "agua natural (500ml)": {
+                "Price": 200.0
+            },
+            "agua tonica": {
+                "Price": 250.0
+            },
+            "jugos de caja": {
+                "Price": 300.0
+            },
+            "malta": {
+                "Price": 380.0
+            },
+            "malteada": {
+                "Price": 500.0
+            },
+            "refrescos nacionales": {
+                "Price": 300.0
+            },
+            "refrescos importados": {
+                "Price": 350.0
+            },
+            "refresco nacional (1.5 litros)": {
+                "Price": 550.0
+            },
+            "energizantes": {
+                "Price": 350.0
+            },
+            "red bull": {
+                "Price": 550.0
+            },
+            "mojito": {
+                "Price": 550.0
+            },
+            "mojito frappe": {
+                "Price": 580.0
+            },
+            "daiquiri": {
+                "Price": 500.0
+            },
+            "daiquiri saborizado": {
+                "Price": 520.0
+            },
+            "canchanchara": {
+                "Price": 550.0
+            },
+            "pinna colada": {
+                "Price": 600.0
+            },
+            "cubata 7 annos": {
+                "Price": 650.0
+            },
+            "screw driver": {
+                "Price": 480.0
+            },
+            "blue lagoon": {
+                "Price": 500.0
+            },
+            "caipiroska": {
+                "Price": 550.0
+            },
+            "caipirinna": {
+                "Price": 600.0
+            },
+            "vodka tonic": {
+                "Price": 600.0
+            },
+            "tinto de verano": {
+                "Price": 460.0
+            },
+            "sangria": {
+                "Price": 500.0
+            },
+            "gin tonic": {
+                "Price": 550.0
+            },
+            "margarita": {
+                "Price": 750.0
+            },
+            "cerveza nacional (lata)": {
+                "Price": 450.0
+            },
+            "cerveza nacional (botella)": {
+                "Price": 500.0
+            },
+            "cerveza importada": {
+                "Price": 400.0
+            },
+            "cerveza corona": {
+                "Price": 600.0
+            },
+            "cerveza heineken": {
+                "Price": 550.0
+            },
+            "servicio de chelada": {
+                "Price": 200.0
+            },
+            "servicio de michelada": {
+                "Price": 280.0
+            },
+            "vodka de la casa": {
+                "Price": 250.0
+            },
+            "vodka absolut": {
+                "Price": 1000.0
+            },
+            "havana club annejo 3 annos": {
+                "Price": 420.0
+            },
+            "havana club annejo 7 annos": {
+                "Price": 700.0
+            },
+            "havana club annejo especial": {
+                "Price": 530.0
+            },
+            "havana club reserva": {
+                "Price": 560.0
+            },
+            "havana club ritual": {
+                "Price": 600.0
+            },
+            "santiago 8 annos": {
+                "Price": 850.0
+            },
+            "santiago 11 annos": {
+                "Price": 1000.0
+            },
+            "santiago 12 annos": {
+                "Price": 1200.0
+            },
+            "seleccion de maestro": {
+                "Price": 1300.0
+            },
+            "pacto navio": {
+                "Price": 1300.0
+            },
+            "baileys": {
+                "Price": 1300.0
+            },
+            "buchanan's 12": {
+                "Price": 1600.0
+            },
+            "whisky glenlivet": {
+                "Price": 1750.0
+            },
+            "ballantine": {
+                "Price": 850.0
+            },
+            "ballantine 12": {
+                "Price": 1050.0
+            },
+            "johnnie walker red label": {
+                "Price": 1000.0
+            },
+            "johnnie walker black label": {
+                "Price": 1700.0
+            },
+            "olmeca blanco": {
+                "Price": 990.0
+            },
+            "jose cuervo especial": {
+                "Price": 1200.0
+            },
+            "jose cuervo reposado": {
+                "Price": 1300.0
+            },
+            "jose cuervo tradicional driver": {
+                "Price": 1350.0
+            },
+            "tequila patron driver": {
+                "Price": 2000.0
+            },
+            "tequila 1800": {
+                "Price": 2500.0
+            },
+            "don julio 70": {
+                "Price": 4000.0
+            },
+            "licor 43": {
+                "Price": 650.0
+            },
+            "vino (tinto, blanco o rosado)": {
+                "Price": 850.0
+            },
+            "cafe americano": {
+                "Price": 150.0
+            },
+            "cafe expreso": {
+                "Price": 250.0
+            },
+            "cafe cortado": {
+                "Price": 300.0
+            },
+            "cafe capuccino": {
+                "Price": 400.0
+            },
+            "cafe con leche": {
+                "Price": 450.0
+            },
+            "cafe bombon": {
+                "Price": 550.0
+            },
+            "cafe frappuccino": {
+                "Price": 600.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

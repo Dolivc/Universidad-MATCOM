@@ -1,0 +1,310 @@
+{
+    "Name": "Pasos Habaneros",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-1800"
+        ],
+        "Tuesday": [
+            "900-1800"
+        ],
+        "Wednesday": [
+            "900-1800"
+        ],
+        "Thursday": [
+            "900-1800"
+        ],
+        "Friday": [
+            "900-1800"
+        ],
+        "Saturday": [
+            "900-1800"
+        ],
+        "Sunday": [
+            "900-1300"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#464, Calle Santos Suarez entre Gomez y Mendoza, Santos Suarez",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 280.0
+            },
+            "Coctel de camaron sencillo": {
+                "Price": 400.0
+            },
+            "Coctel de camaron doble": {
+                "Price": 800.0
+            },
+            "Alitas de pollo (1/2 libra)": {
+                "Price": 430.0
+            },
+            "Picadera Mi Habana": {
+                "Price": 750.0
+            },
+            "Picadera Pasos Habaneros": {
+                "Price": 850.0
+            },
+            "Alitas de pollo (1 libra)": {
+                "Price": 860.0
+            },
+            "Super Picadera Especial": {
+                "Price": 1500.0
+            },
+            "Fajitas de cerdo Pasos Habaneros": {
+                "Price": 950.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna": {
+                    "Price": 500.0
+                },
+                "Espaghettis napolitano": {
+                    "Price": 380.0
+                },
+                "Espaghettis de doble queso": {
+                    "Price": 440.0
+                },
+                "Espaghettis de jamon y queso": {
+                    "Price": 475.0
+                },
+                "Espaghettis de doble queso y jamon": {
+                    "Price": 540.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 250.0
+                },
+                "Pizza de doble queso": {
+                    "Price": 300.0
+                },
+                "Pizza de mayonesa": {
+                    "Price": 300.0
+                },
+                "Pizza de jamon y queso": {
+                    "Price": 350.0
+                },
+                "Pizza de doble queso y jamon": {
+                    "Price": 540.0
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 750.0
+                },
+                "Bistec de cerdo empanado": {
+                    "Price": 850.0
+                },
+                "Lomo de cerdo": {
+                    "Price": 880.0
+                },
+                "Carne de cerdo asado": {
+                    "Price": 950.0
+                },
+                "Lomo ahumado": {
+                    "Price": 950.0
+                },
+                "Masas de cerdo frita": {
+                    "Price": 950.0
+                },
+                "Chuleta de cerdo": {
+                    "Price": 950.0
+                },
+                "Bistec uruguayo de cerdo": {
+                    "Price": 1000.0
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 275.0
+                },
+                "Pollo asado 1/4": {
+                    "Price": 550.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja de res": {
+                    "Price": 850.0
+                }
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 150.0
+            },
+            "Arroz moro": {
+                "Price": 200.0
+            },
+            "Arroz Cardenal": {
+                "Price": 260.0
+            },
+            "Ensalada de estacion": {
+                "Price": 250.0
+            },
+            "Vianda con mojo": {
+                "Price": 250.0
+            },
+            "Vianda frita": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            "Helado Futbolito": {
+                "Price": 170.0
+            },
+            "Helado Ciudad Deportiva": {
+                "Price": 225.0
+            },
+            "Helado Jimagua Monaco": {
+                "Price": 290.0
+            },
+            "Helado Vaca negra o blanca": {
+                "Price": 320.0
+            },
+            "Helado Sabor a Mi": {
+                "Price": 345.0
+            },
+            "Helado Capitolio": {
+                "Price": 400.0
+            },
+            "Helado Esquina de Tejas": {
+                "Price": 450.0
+            },
+            "Helado Esquina de Toyo": {
+                "Price": 590.0
+            },
+            "Helado Ensalada Parque Central": {
+                "Price": 660.0
+            },
+            "Helado Pasos Habaneros": {
+                "Price": 710.0
+            },
+            "Barquillo de helado": {
+                "Price": 135.0
+            },
+            "Pote de helado (200ml) sin montaje": {
+                "Price": 280.0
+            },
+            "Pote de helado (200ml) con montaje": {
+                "Price": 300.0
+            },
+            "Pote de helado (400ml) sin montaje": {
+                "Price": 400.0
+            },
+            "Pote de helado (400ml) con montaje": {
+                "Price": 430.0
+            }
+        },
+        "Beverages": {
+            "Vino dulce (copa)": {
+                "Price": 100.0
+            },
+            "Whiskey 5 Shot": {
+                "Price": 100.0
+            },
+            "Silver Dry (shot)": {
+                "Price": 110.0
+            },
+            "Vino tinto (copa)": {
+                "Price": 150.0
+            },
+            "Chancelier (shot)": {
+                "Price": 170.0
+            },
+            "Black Tears (shot)": {
+                "Price": 170.0
+            },
+            "Havana Club (shot)": {
+                "Price": 170.0
+            },
+            "Agua mineral": {
+                "Price": 120.0
+            },
+            "Refresco de pomo": {
+                "Price": 235.0
+            },
+            "Refresco de lata": {
+                "Price": 230.0
+            },
+            "Cerveza de lata": {
+                "Price": 200.0
+            },
+            "Malta": {
+                "Price": 235.0
+            },
+            "Energizante": {
+                "Price": 250.0
+            },
+            "Cerveza dispensada (500ml)": {
+                "Price": 290.0
+            },
+            "Cerveza dispensada (300ml)": {
+                "Price": 200.0
+            },
+            "Termo de cerveza Cristal de 6 latas": {
+                "Price": 1700.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "Name": "Kimera",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-100"
+        ],
+        "Tuesday": [
+            "1200-100"
+        ],
+        "Wednesday": [
+            "1200-100"
+        ],
+        "Thursday": [
+            "1200-100"
+        ],
+        "Friday": [
+            "1200-100"
+        ],
+        "Saturday": [
+            "1200-100"
+        ],
+        "Sunday": [
+            "1200-100"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Ensalada de vegetales": {
+                "Price": 450.0
+            },
+            "Croquetas": {
+                "Price": 500.0
+            },
+            "Frituras": {
+                "Price": 500.0
+            },
+            "Ceviche": {
+                "Price": 800.0
+            },
+            "Ensalada fria": {
+                "Price": 900.0
+            },
+            "Eperlan": {
+                "Price": 1000.0
+            },
+            "Baston de pollo": {
+                "Price": 1000.0
+            },
+            "Picadera de pollo o cerdo": {
+                "Price": 1200.0
+            },
+            "Combo Kimera": {
+                "Price": 4000.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna": {
+                    "Price": 1400.0
+                },
+                "Espaghettis napolitano": {
+                    "Price": 800.0
+                },
+                "Espaghettis de jamon": {
+                    "Price": 1300.0
+                },
+                "Espaghettis Doble Queso": {
+                    "Price": 1400.0
+                },
+                "Espaghettis Carbonara": {
+                    "Price": 1600.0
+                },
+                "Espaghettis del mar Kimera": {
+                    "Price": 2500.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 900.0
+                },
+                "Pizza de aji o cebolla": {
+                    "Price": 1200.0
+                },
+                "Pizza de jamon": {
+                    "Price": 1400.0
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1500.0
+                },
+                "Pizza de aceitunas": {
+                    "Price": 1500.0
+                },
+                "Pizza de pollo": {
+                    "Price": 1500.0
+                },
+                "Pizza Doble Queso": {
+                    "Price": 1700.0
+                },
+                "Pizza de atun": {
+                    "Price": 1800.0
+                },
+                "Pizza de cerdo": {
+                    "Price": 1900.0
+                },
+                "Pizza de Ropa Vieja": {
+                    "Price": 2000.0
+                },
+                "Pizza del mar Kimera": {
+                    "Price": 2500.0
+                }
+            },
+            "Pork": {
+                "Lonjas de cerdo": {
+                    "Price": 1800.0
+                },
+                "Estofado de cerdo": {
+                    "Price": 1800.0
+                },
+                "Uruguayo de cerdo": {
+                    "Price": 2300.0
+                }
+            },
+            "Chicken": {
+                "Fajitas de pollo": {
+                    "Price": 1500.0
+                },
+                "Fajitas de pescado": {
+                    "Price": 1500.0
+                },
+                "Rueda de pescado": {
+                    "Price": 1600.0
+                },
+                "Pollo grille": {
+                    "Price": 1600.0
+                },
+                "Pollo frito": {
+                    "Price": 1700.0
+                },
+                "Pollo Princesa": {
+                    "Price": 1700.0
+                },
+                "Gordon Blue": {
+                    "Price": 2000.0
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2000.0
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 1800.0
+                },
+                "Pescado Kimera": {
+                    "Price": 2000.0
+                },
+                "Canciller": {
+                    "Price": 2100.0
+                },
+                "Pescado entero frito": {
+                    "Price": 1600.0
+                }
+            },
+            "Other": {
+                "Crema Aurora": {
+                    "Price": 500.0
+                },
+                "Crema de queso": {
+                    "Price": 600.0
+                },
+                "Crema Virginia": {
+                    "Price": 600.0
+                },
+                "Crema Reina": {
+                    "Price": 650.0
+                },
+                "Plato Kimera": {
+                    "Price": 4500.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Helado": {
+                "Price": 320.0
+            },
+            "Flan": {
+                "Price": 350.0
+            },
+            "Tartaleta": {
+                "Price": 250.0
+            }
+        },
+        "Beverages": {
+            "Michelada": {
+                "Price": 300.0
+            },
+            "Cuba Libre": {
+                "Price": 500.0
+            },
+            "Mojito": {
+                "Price": 550.0
+            },
+            "Cubanito": {
+                "Price": 500.0
+            },
+            "Cubata": {
+                "Price": 550.0
+            },
+            "Destornillador": {
+                "Price": 550.0
+            },
+            "Daiquiri": {
+                "Price": 600.0
+            },
+            "Caipiroska": {
+                "Price": 600.0
+            },
+            "Caipirinha": {
+                "Price": 600.0
+            },
+            "Caipirissima": {
+                "Price": 600.0
+            },
+            "Canchanchara": {
+                "Price": 600.0
+            },
+            "Vodka Tonic": {
+                "Price": 600.0
+            },
+            "Whisky Tonic": {
+                "Price": 600.0
+            },
+            "Gin Tonic": {
+                "Price": 700.0
+            },
+            "Pina Colada": {
+                "Price": 700.0
+            },
+            "Sangria": {
+                "Price": 800.0
+            },
+            "Margarita": {
+                "Price": 900.0
+            },
+            "Agua": {
+                "Price": 250.0
+            },
+            "Refresco": {
+                "Price": 300.0
+            },
+            "Cerveza": {
+                "Price": 320.0
+            },
+            "Energizante": {
+                "Price": 400.0
+            },
+            "Malta": {
+                "Price": 400.0
+            },
+            "Malteada": {
+                "Price": 600.0
+            },
+            "Batido de frutas": {
+                "Price": 400.0
+            },
+            "Batido de helado": {
+                "Price": 500.0
+            },
+            "Jugos": {
+                "Price": 250.0
+            },
+            "Cafe Expresso": {
+                "Price": 150.0
+            },
+            "Cafe Cortadito": {
+                "Price": 200.0
+            },
+            "Cafe Cappuccino": {
+                "Price": 220.0
+            },
+            "Cafe Bombon": {
+                "Price": 300.0
+            },
+            "Cafe Frappuccino": {
+                "Price": 350.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

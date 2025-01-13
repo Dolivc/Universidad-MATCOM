@@ -1,0 +1,200 @@
+{
+    "Name": "Cafe Crystal",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-0"
+        ],
+        "Tuesday": [
+            "1200-0"
+        ],
+        "Wednesday": [
+            "1200-0"
+        ],
+        "Thursday": [
+            "1200-0"
+        ],
+        "Friday": [
+            "1200-0"
+        ],
+        "Saturday": [
+            "1200-0"
+        ],
+        "Sunday": [
+            "1200-0"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Calle 101 #1609 entre 16 y 18, Reparto Centro",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "crema de queso": {
+                "Price": 850.0
+            },
+            "crema virginia": {
+                "Price": 1100.0
+            },
+            "entremes de jamon y queso": {
+                "Price": 1000.0
+            },
+            "pica pica Mi Terraza": {
+                "Price": 1700.0
+            },
+            "tostones de jamon y queso": {
+                "Price": 1000.0
+            },
+            "tostones de atun": {
+                "Price": 1200.0
+            },
+            "fajitas de pollo": {
+                "Price": 1000.0
+            },
+            "ensalada de pollo": {
+                "Price": 400.0
+            },
+            "frituras de malanga": {
+                "Price": 400.0
+            },
+            "bolitas de queso": {
+                "Price": 400.0
+            },
+            "croquetas": {
+                "Price": 400.0
+            },
+            "chicharritas": {
+                "Price": 300.0
+            },
+            "papas prefitas": {
+                "Price": 600.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "spaghetti napolitano": {
+                    "Price": 1000.0
+                },
+                "spaghetti de jamon": {
+                    "Price": 1250.0
+                },
+                "spaghetti de atun": {
+                    "Price": 1400.0
+                },
+                "spaghetti a la carbonara": {
+                    "Price": 1600.0
+                },
+                "spaghetti doble queso": {
+                    "Price": 1500.0
+                },
+                "canelon": {
+                    "Price": 1500.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 1200.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1700.0
+                },
+                "pizza Mi Terraza": {
+                    "Price": 1800.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "batido de helado": {
+                "Price": 600.0
+            }
+        },
+        "Beverages": {
+            "limonada frappe": {
+                "Price": 350.0
+            },
+            "malteada": {
+                "Price": 500.0
+            },
+            "batido de mango": {
+                "Price": 550.0
+            },
+            "batido de frutabomba": {
+                "Price": 400.0
+            },
+            "batido de guayaba": {
+                "Price": 400.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery",
+            "Children"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

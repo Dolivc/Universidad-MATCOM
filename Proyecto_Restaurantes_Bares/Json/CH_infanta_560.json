@@ -1,0 +1,159 @@
+{
+    "Name": "Infanta 560",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2200"
+        ],
+        "Tuesday": [
+            "800-2200"
+        ],
+        "Wednesday": [
+            "800-2200"
+        ],
+        "Thursday": [
+            "800-2200"
+        ],
+        "Friday": [
+            "800-2200"
+        ],
+        "Saturday": [
+            "800-2200"
+        ],
+        "Sunday": [
+            "800-2200"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Picadera (300g)": {
+                "Price": 550
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaghetti (470g)": {
+                    "Price": 300
+                },
+                "Spaghetti queso gouda (470g)": {
+                    "Price": 420
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana (250g)": {
+                    "Price": 200
+                },
+                "Pizza hawaiana (300g)": {
+                    "Price": 300
+                },
+                "Pizza queso gouda (250g)": {
+                    "Price": 320
+                },
+                "Pizza familiar napolitana (500g)": {
+                    "Price": 380
+                },
+                "Pizza familiar hawaiana (600g)": {
+                    "Price": 700
+                },
+                "Pizza familiar queso gouda (500g)": {
+                    "Price": 700
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Fajas de pollo (300g)": {
+                    "Price": 600
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Jamon": {
+                "Price": 80
+            },
+            "Pinha": {
+                "Price": 80
+            },
+            "Pimiento": {
+                "Price": 80
+            },
+            "Queso": {
+                "Price": 80
+            },
+            "Queso gouda": {
+                "Price": 100
+            },
+            "Cebolla": {
+                "Price": 80
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

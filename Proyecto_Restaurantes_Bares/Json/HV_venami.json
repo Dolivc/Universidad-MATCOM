@@ -1,0 +1,286 @@
+{
+    "Name": "Venami",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1130-2200"
+        ],
+        "Tuesday": [
+            "1130-2200"
+        ],
+        "Wednesday": [
+            "1130-2200"
+        ],
+        "Thursday": [
+            "1130-2200"
+        ],
+        "Friday": [
+            "1130-2200"
+        ],
+        "Saturday": [
+            "1130-2200"
+        ],
+        "Sunday": [
+            "1130-2200"
+        ]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coordinates": "4JPV+845, Av. Belgica, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Focaccia a las Hierbas": {
+                "Price": 300
+            },
+            "Brusquetas": {
+                "Price": 350
+            },
+            "Melanzane Bolonhesa": {
+                "Price": 450
+            },
+            "Melanzane Vegetales": {
+                "Price": 400
+            },
+            "Ensalada Capresi": {
+                "Price": 650
+            },
+            "Ensalada Vegetales": {
+                "Price": 650
+            },
+            "Focaccia Rellena": {
+                "Price": 1350
+            },
+            "Estrofollino Vegetal": {
+                "Price": 850
+            },
+            "Estrofollino Jamon": {
+                "Price": 900
+            },
+            "Estrofollino Natural": {
+                "Price": 650
+            },
+            "Focaccia c/ Jamon Serrano": {
+                "Price": 1100
+            },
+            "Crema de Queso": {
+                "Price": 600
+            },
+            "Crema Virginia": {
+                "Price": 630
+            },
+            "Crema Champignon": {
+                "Price": 650
+            },
+            "Al Fungi": {
+                "Price": 1100
+            },
+            "Al Fruto de Mar": {
+                "Price": 1350
+            },
+            "Al Venami": {
+                "Price": 1050
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lazanha": {
+                    "Price": 1200
+                },
+                "Fetuccine Bolonhesa": {
+                    "Price": 1050
+                },
+                "Cenelones": {
+                    "Price": 1050
+                },
+                "Penne Champignon/Serrano": {
+                    "Price": 1380
+                },
+                "Spaghetty Amatriciana": {
+                    "Price": 1100
+                },
+                "Spaghetty Alfredo(Jamon)": {
+                    "Price": 1050
+                },
+                "Spaghetty A la Carbonara": {
+                    "Price": 1200
+                },
+                "Penne Arrabiatta": {
+                    "Price": 950
+                },
+                "Penne a la Bolonhesa": {
+                    "Price": 1050
+                },
+                "Spaghetty de Atun/Alcaparras": {
+                    "Price": 1000
+                },
+                "Spaghetty Pomodoro Basilico": {
+                    "Price": 800
+                },
+                "Spaghetty Fruto de Mar": {
+                    "Price": 1450
+                },
+                "Spaghetty al Pesto": {
+                    "Price": 950
+                },
+                "Spaghetty al Venami": {
+                    "Price": 1250
+                },
+                "Spaghetty Ajo/Peperonchino": {
+                    "Price": 850
+                },
+                "Spaghetty al Camaron": {
+                    "Price": 1250
+                },
+                "Timbal de Pollo": {
+                    "Price": 1200
+                },
+                "Timbal de Bolonhesa": {
+                    "Price": 1100
+                }
+            },
+            "Pizza": {
+                "Pizza Venami": {
+                    "Price": 1600
+                },
+                "Pizza Deliciosa": {
+                    "Price": 1300
+                },
+                "Pizza Jamon Serrano": {
+                    "Price": 1500
+                },
+                "Pizza Jamon y Cebolla": {
+                    "Price": 1150
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1150
+                },
+                "Pizza 4 Estaciones": {
+                    "Price": 1250
+                },
+                "Pizza Atun y Alcaparras": {
+                    "Price": 1050
+                },
+                "Pizza Fruto de Mar": {
+                    "Price": 1450
+                },
+                "Pizza Margarita": {
+                    "Price": 700
+                },
+                "Calzone Bolonhesa": {
+                    "Price": 1100
+                },
+                "Pizza Diabola": {
+                    "Price": 1100
+                },
+                "Pizza Bacon y Cebolla": {
+                    "Price": 1100
+                },
+                "Pizza Champignon": {
+                    "Price": 1000
+                },
+                "Pizza 4 Quesos": {
+                    "Price": 1200
+                },
+                "Pizza Habanera": {
+                    "Price": 1350
+                },
+                "Pizza Caribenha": {
+                    "Price": 1500
+                },
+                "Pizza de Pollo": {
+                    "Price": 1100
+                },
+                "Pizza Vegetariana": {
+                    "Price": 910
+                }
+            },
+            "Pork": {
+                "Cerdo al Limon": {
+                    "Price": 1300
+                }
+            },
+            "Chicken": {
+                "Pollo al Limon": {
+                    "Price": 1210
+                },
+                "Pollo a la Piazzola": {
+                    "Price": 1250
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Pescado Livonnesa": {
+                    "Price": 1310
+                },
+                "Pescado al Camaron": {
+                    "Price": 1400
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Smokers_Area"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

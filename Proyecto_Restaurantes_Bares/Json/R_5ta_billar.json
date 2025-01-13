@@ -1,0 +1,299 @@
+{
+    "Name": "5ta Billar",
+    "Type": "Bar restaurante",
+    "Phone_Number": "52943290",
+    "Web_Page": "5taBillar",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   null,
+        "Tuesday":  ["06:00-01:00"],
+        "Wednesday": ["06:00-01:00"],
+        "Thursday": ["06:00-01:00"],
+        "Friday":   ["06:00-01:00"],
+        "Saturday": ["16:00-01:00"],
+        "Sunday":   ["16:00-01:00"]
+    }, 
+    "Location": {
+        "District": "Regla",
+        "Address": "Avenida Rotaria entre Enlace y A",
+        "Coordinates": "4MFG+CFF"
+    },
+    "Cuisine": "Variado",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Cacahuete picante": {
+                "Price": 110
+            },
+            "Tostones rellenos J&G": {
+                "Price": 750
+            },
+            "Tostones rellenos de atun": {
+                "Price": 980
+            },
+            "Tostones rellenos de carne": {
+                "Price": 900
+            },
+            "Croquetas bola 9": {
+                "Price": 650
+            },
+            "Bolita de queso": {
+                "Price": 850
+            },
+            "Fajitas de pollo": {
+                "Price": 920
+            },
+            "Eperlan": {
+                "Price": 950
+            },
+            "Entremes": {
+                "Price": 960
+            },
+            "Surtido 5tabilla": {
+                "Price": 1650
+            },
+            "Surtido premium": {
+                "Price": 2950
+            },
+            "Rositas de maiz": {
+                "Price": 600
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Focaccia": {
+                    "Price": 700
+                },
+                "Pizza napolitana": {
+                    "Price": 1100
+                },
+                "Pizza mixta": {
+                    "Price": 1600
+                },
+                "Pizza cuatro estaciones": {
+                    "Price": 1900
+                }
+            },
+            "Pork": {
+                "Uruguayo de cerdo": {
+                    "Price": 2100
+                },
+                "Bistec de pollo encebollado": {
+                    "Price": 1600
+                },
+                "Bistec de cerdo encebollado": {
+                    "Price": 1900
+                },
+                "Brochetas de cerdo al carbon": {
+                    "Price": 1800
+                },
+                "Lomo de cerdo al carbon": {
+                    "Price": 1800
+                }
+            },
+            "Chicken": {
+                "Pollo a la gordon blue": {
+                    "Price": 1800
+                },
+                "Bistec de pollo encebollado": {
+                    "Price": 1600
+                },
+                "Baby chicken": {
+                    "Price": 960
+                },
+                "Kings chicken": {
+                    "Price": 1350
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                "Tacos de cerdo": {
+                    "Price": 950
+                },
+                "Chorizada al carbon": {
+                    "Price": 2000
+                },
+                "La parrillada": {
+                    "Price": 4950
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cervezas Nacionales": {
+                "Price": 400
+            },
+            "Cerveza corona": {
+                "Price": 600
+            },
+            "Cerveza importada": {
+                "Price": 320
+            },
+            "margarita": {
+                "Price": 400
+            },
+            "margarita blue": {
+                "Price": 400
+            },
+            "tequila sunrise": {
+                "Price": 400
+            },
+            "medusa": {
+                "Price": 650
+            },
+            "servicio chelada": {
+                "Price": 450
+            },
+            "servicio michelada": {
+                "Price": 350
+            },
+            "jagger bomb": {
+                "Price": 1200
+            },
+            "mojito corona": {
+                "Price": 900
+            },
+            "corona sunrise": {
+                "Price": 800
+            },
+            "sangria": {
+                "Price": 760
+            },
+            "jarra de sangria": {
+                "Price": 3720
+            },
+            "alexander": {
+                "Price": 1000
+            },
+            "eclipse": {
+                "Price": 1020
+            },
+            "mai tai": {
+                "Price": 550
+            },
+            "orgasmo": {
+                "Price": 1080
+            },
+            "aperol sprits": {
+                "Price": 1650
+            },
+            "italian sunset": {
+                "Price": 780
+            },
+            "mimosa": {
+                "Price": 1500
+            },
+            "Malteada": {
+                "Price": 250
+            },
+            "San francisco": {
+                "Price": 350
+            },
+            "Refresco": {
+                "Price": 340
+            },
+            "Malta": {
+                "Price": 400
+            },
+            "Red bull": {
+                "Price": 750
+            },
+            "agua natural": {
+                "Price": 220
+            },
+            "Kermato": {
+                "Price": 680
+            },
+            "Tigon": {
+                "Price": 400
+            },
+            "Jugo": {
+                "Price": 230
+            },
+            "Limonada frappe": {
+                "Price": 300
+            },"Limonada frappe curacao": {
+                "Price": 350
+            },
+            "Limonada frappe granadina": {
+                "Price": 380
+            },
+            "Limonada frappe melocoton": {
+                "Price": 400
+            },
+            "Limonada frappe menta": {
+                "Price": 380
+            },
+            "Limonada frappe mora":{
+                "Price": 380
+            },
+            "Limonada frappe naranja":{
+                "Price": 470
+            },
+            "Limonada frescura (hierbabuena)":{
+                "Price": 350
+            },
+            "limonada frappe pinha":{
+                "Price": 350
+            },
+            "Limonada frappe tropical blue":{
+                "Price": 350
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza","Fork"],
+            "Drink": ["Orgasmo"]
+        },
+        "least_sold": {
+            "Dish": ["Chicken"],
+            "Drink": ["limonada hierbabuena"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada","Billar"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

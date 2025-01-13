@@ -1,0 +1,155 @@
+{
+    "Name": "El Triangulo",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "800-2400"
+        ],
+        "Tuesday": [
+            "800-2400"
+        ],
+        "Wednesday": [
+            "800-2400"
+        ],
+        "Thursday": [
+            "800-2400"
+        ],
+        "Friday": [
+            "800-2400"
+        ],
+        "Saturday": [
+            "800-2400"
+        ],
+        "Sunday": [
+            "800-2400"
+        ]
+    },
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Esquina Calzada de Diez de Octubre y Calzada de Porvenir, La Palma, Arroyo Naranjo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "fajitas de pollo": {
+                "Price": 350.0
+            },
+            "croquetas": {
+                "Price": 150.0
+            },
+            "bolitas de queso": {
+                "Price": 150.0
+            },
+            "tostones": {
+                "Price": 150.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "pollo frito": {
+                    "Price": 1000.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "agua": {
+                "Price": 120.0
+            },
+            "refresco": {
+                "Price": 220.0
+            },
+            "jugo de caja": {
+                "Price": 180.0
+            },
+            "red bull": {
+                "Price": 230.0
+            },
+            "malta": {
+                "Price": 220.0
+            },
+            "cerveza cristal": {
+                "Price": 250.0
+            },
+            "cerveza bucanero": {
+                "Price": 250.0
+            },
+            "cerveza escorial": {
+                "Price": 200.0
+            },
+            "cerveza holanda": {
+                "Price": 200.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

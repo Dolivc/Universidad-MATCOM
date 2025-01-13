@@ -1,0 +1,379 @@
+{
+    "Name": "Los antonios",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["00:00-00:00"],
+        "Tuesday":  ["00:00-00:00"],
+        "Wednesday": ["00:00-00:00"],
+        "Thursday": ["00:00-00:00"],
+        "Friday":   ["00:00-00:00"],
+        "Saturday": ["00:00-00:00"],
+        "Sunday":   ["00:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Paseo entre calle 3 y calle 5",
+        "Coordinates": "4HQX+MJQ"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa": {
+                    "Price": 590 
+                },
+                "Super hamburguesa": {
+                    "Price": 950
+                }
+                
+            },
+            "Sandwich": {
+                "Sandwich de vegetal": {
+                    "Price": 550
+                },
+                "Sandwich tradicional": {
+                    "Price": 850
+                },
+                "Sandwich de ropa vieja": {
+                    "Price": 1000
+                },
+                "Super sandwich": {
+                    "Price": 1400
+                }
+            },
+            "Bread": {
+                "Rebanadas de pan": {
+                    "Price": 180
+                },
+                "Tostadas de pan": {
+                    "Price": 200
+                },
+                "Pan con tortilla": {
+                    "Price": 600
+                },
+                "Pan con huevo frito": {
+                    "Price": 600
+                },
+                "Pan con huevo revuelto": {
+                    "Price": 600
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tostones": {
+                "Price": 600
+            },
+            "Pure de viandas": {
+                "Price": 700
+            },
+            "Croquetas": {
+                "Price": 600
+            },
+            "Papas fritas": {
+                "Price": 750
+            },
+            "Sopa": {
+                "Price": 1350
+            },
+            "Tacos mexicanos": {
+                "Price": 1100
+            },
+            "Tacos marineros": {
+                "Price": 1750
+            },
+            "Ensalada de vegetales": {
+                "Price": 1300
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna": {
+                    "Price": 1500
+                },
+                "Crema de quesop": {
+                    "Price": 750
+                },
+                "Crema aurora": {
+                    "Price": 700
+                },
+                "Crema virginia": {
+                    "Price": 700
+                },
+                "Canelones": {
+                    "Price": 1100
+                },
+                "Espaguettis": {
+                    "Price": 890 
+                }
+            },
+            "Pizza": {
+                "Bambina": {
+                    "Price": 400
+                },
+                "Pizza grande": {
+                    "Price": 890
+                },
+                "Pizza especial": {
+                    "Price": 2200
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 1590
+                },
+                "Masas fritas": {
+                    "Price": 1690
+                },
+                "Fricase de cerdo": {
+                    "Price": 1750
+                },
+                "Lomo ahumado": {
+                    "Price": 1800
+                },
+                "Bistec uruguayo": {
+                    "Price": 1950
+                }
+            },
+            "Chicken": {
+                "Pechuga grille": {
+                    "Price": 1590
+                },
+                "Fricase de pollo": {
+                    "Price": 1790
+                },
+                "Fajita de pollo": {
+                    "Price": 1800
+                },
+                "Pollo frito": {
+                    "Price": 1590 
+                },
+                "Gordon blue": {
+                    "Price": 1950 
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1850
+                },
+                "Bistec de res": {
+                    "Price": 1950
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 2100
+                },
+                "Filete canciller": {
+                    "Price": 2950 
+                },
+                "Camarones": {
+                    "Price": 2850
+                },
+                "Langosta": {
+                    "Price": 3500
+                },
+                "Paella aire y tierra": {
+                    "Price": 3600
+                },
+                "Paella aire, mar y tierra": {
+                    "Price": 4600
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Dulces finos": {
+                "Price": 600
+            },
+            "Bola de helado": {
+                "Price": 200
+            },
+            "Cake a la moda": {
+                "Price": 850
+            },
+            "Postre del dia": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Cafe con leche": {
+                "Price": 600
+            },
+            "Leche fria": {
+                "Price": 500 
+            },
+            "Leche caliente": {
+                "Price": 500
+            },
+            "Jugos naturales": {
+                "Price": 350
+            },
+            "Limonada frappe": {
+                "Price": 600
+            },
+            "Leche con chocolate": {
+                "Price": 650
+            },
+            "Batido de helado": {
+                "Price": 600
+            },
+            "Cervezas nacionales": {
+                "Price": 290
+            },
+            "Cervezas importadas": {
+                "Price": 260
+            },
+            "Agua": {
+                "Price": 150
+            },
+            "Agua gaseada": {
+                "Price": 300
+            },
+            "Energizante": {
+                "Price": 350
+            },
+            "Red bull": {
+                "Price": 550
+            },
+            "Refresco": {
+                "Price": 250
+            },
+            "Refrescos importados": {
+                "Price": 300
+            },
+            "Maltas": {
+                "Price": 300
+            },
+            "Malta bucanero": {
+                "Price": 350
+            },
+            "Jugos naturales de caja": {
+                "Price": 250
+            },
+            "Jugos naturales con agua": {
+                "Price": 350 
+            },
+            "Jugos naturales sin agua": {
+                "Price": 1200
+            },
+            "Te": {
+                "Price": 200
+            },
+            "Linea ron corriente": {
+                "Price": 100
+            },
+            "Havana club 3 anhos": {
+                "Price": 300
+            },
+            "Anhejo especial": {
+                "Price": 300
+            },
+            "Havana club 7 anhos": {
+                "Price": 800
+            },
+            "Havana club gama alta": {
+                "Price": 900
+            },
+            "Whisky corriente": {
+                "Price": 150
+            },
+            "Whisky gama media": {
+                "Price": 350
+            },
+            "Whisky gama alta": {
+                "Price": 800
+            },
+            "Agua ardiente": {
+                "Price": 150
+            },
+            "Tequila": {
+                "Price": 500
+            },
+            "Copa vino corriente": {
+                "Price": 400
+            },
+            "Copa vino gama alta": {
+                "Price": 900
+            },
+            "Vodka": {
+                "Price": 200
+            },
+            "Michelada": {
+                "Price": 600
+            },
+            "Cuba libre": {
+                "Price": 600
+            },
+            "Cubata": {
+                "Price": 600
+            },
+            "Sangria": {
+                "Price": 600
+            },
+            "Caipirinha": {
+                "Price": 600
+            },
+            "Caipiroska": {
+                "Price": 600
+            },
+            "Caipirissima": {
+                "Price": 600
+            },
+            "Mojito": {
+                "Price": 800
+            },
+            "Pinha colada": {
+                "Price": 800 
+            },
+            "Daiquiri": {
+                "Price": 800
+            },
+            "Licores": {
+                "Price": 400
+            },
+            "Cremas": {
+                "Price": 800
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza","Bistec de cerdo"],
+            "Drink": ["Cerveza"]
+        },
+        "least_sold": {
+            "Dish": ["Paella"],
+            "Drink": ["Tacos"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

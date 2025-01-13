@@ -1,0 +1,422 @@
+{
+    "Name": "Salsa Mora",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": false,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-400"
+        ],
+        "Tuesday": [
+            "1100-400"
+        ],
+        "Wednesday": [
+            "1100-400"
+        ],
+        "Thursday": [
+            "1100-400"
+        ],
+        "Friday": [
+            "1100-400"
+        ],
+        "Saturday": [
+            "1100-400"
+        ],
+        "Sunday": [
+            "1100-400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Pan de la casa": {
+                "Price": 250
+            },
+            "Baguette j & q": {
+                "Price": 750
+            },
+            "Baguette de queso": {
+                "Price": 650
+            },
+            "Croquetas de la casa": {
+                "Price": 1000
+            },
+            "Tostones rellenos": {
+                "Price": 1050
+            },
+            "Tacos de la casa": {
+                "Price": 1150
+            },
+            "Ceviche": {
+                "Price": 2250
+            },
+            "Fajitas": {
+                "Price": 2050
+            },
+            "Esperland": {
+                "Price": 2250
+            },
+            "Bolitas de queso": {
+                "Price": 1450
+            },
+            "Garbanzos fritos": {
+                "Price": 1250
+            },
+            "Coctel de camarones": {
+                "Price": 2350
+            },
+            "Papas fritas": {
+                "Price": 1250
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta napoles": {
+                    "Price": 1300
+                },
+                "Pasta fruto di mare": {
+                    "Price": 3000
+                },
+                "Pasta carbonara": {
+                    "Price": 2500
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 3000
+                },
+                "Uruguayo de cerdo": {
+                    "Price": 4500
+                },
+                "Chuleta de cerdo": {
+                    "Price": 3000
+                },
+                "Cerdo asado": {
+                    "Price": 3000
+                }
+            },
+            "Chicken": {
+                "Pollo asado": {
+                    "Price": 2300
+                },
+                "Cordon blue": {
+                    "Price": 4500
+                },
+                "Pechuga de pollo": {
+                    "Price": 2500
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 2500
+                },
+                "Rib eye": {
+                    "Price": 8500
+                },
+                "Tomahawk": {
+                    "Price": 12500
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 4000
+                },
+                "Filete de canciller": {
+                    "Price": 5000
+                },
+                "Camaron al gusto": {
+                    "Price": 4300
+                },
+                "Langosta al gusto": {
+                    "Price": 4500
+                },
+                "Pulpo al gusto": {
+                    "Price": 4500
+                },
+                "Langosta termidor": {
+                    "Price": 5000
+                },
+                "Caldereta de mariscos": {
+                    "Price": 6000
+                },
+                "Grillada del mar": {
+                    "Price": 6000
+                }
+            },
+            "Other": {
+                "Cordero estofado": {
+                    "Price": 3500
+                },
+                "Arroz melosos de pollo": {
+                    "Price": 1800
+                },
+                "Arroz melosos de mariscos": {
+                    "Price": 3500
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada mixta": {
+                "Price": 450
+            },
+            "Arroz blanco": {
+                "Price": 200
+            },
+            "Arroz moro": {
+                "Price": 300
+            },
+            "Tostones naturales": {
+                "Price": 250
+            }
+        },
+        "Desserts": {
+            "Tarta": {
+                "Price": 1000
+            },
+            "Flan de la casa": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Agua natural": {
+                "Price": 250
+            },
+            "Refrescos": {
+                "Price": 350
+            },
+            "Energizantes": {
+                "Price": 250
+            },
+            "Red bull": {
+                "Price": 650
+            },
+            "Limonada": {
+                "Price": 250
+            },
+            "Jugos naturales": {
+                "Price": 350
+            },
+            "Hc 7 anos": {
+                "Price": 650
+            },
+            "Hc seleccion": {
+                "Price": 1850
+            },
+            "Santiago 8 anos": {
+                "Price": 780
+            },
+            "Santiago 11 anos": {
+                "Price": 1300
+            },
+            "Santiago 12 anos": {
+                "Price": 1500
+            },
+            "Pacto navio": {
+                "Price": 1850
+            },
+            "Ciroc": {
+                "Price": 1300
+            },
+            "Grey goose": {
+                "Price": 1500
+            },
+            "Patron silver": {
+                "Price": 2400
+            },
+            "Patron reposado": {
+                "Price": 2500
+            },
+            "Olmeca silver": {
+                "Price": 600
+            },
+            "Olmeca reposado": {
+                "Price": 700
+            },
+            "Jameson": {
+                "Price": 700
+            },
+            "Ballantines": {
+                "Price": 900
+            },
+            "Chivas 12": {
+                "Price": 1100
+            },
+            "Jw red label": {
+                "Price": 850
+            },
+            "Jw black label": {
+                "Price": 1500
+            },
+            "Jw blue label": {
+                "Price": 10000
+            },
+            "Jw gold label": {
+                "Price": 2300
+            },
+            "Jw green label": {
+                "Price": 2500
+            },
+            "Buchanans": {
+                "Price": 2500
+            },
+            "Jack daniels": {
+                "Price": 1200
+            },
+            "Cerveza dispensada": {
+                "Price": 220
+            },
+            "Cerveza cristal": {
+                "Price": 600
+            },
+            "Cerveza bucanero": {
+                "Price": 600
+            },
+            "Cerveza corona": {
+                "Price": 850
+            },
+            "Servicio michelada": {
+                "Price": 300
+            },
+            "Servicio chelada": {
+                "Price": 250
+            },
+            "Caipirina": {
+                "Price": 500
+            },
+            "Caipirisima": {
+                "Price": 500
+            },
+            "Caipiroska": {
+                "Price": 500
+            },
+            "Mojito": {
+                "Price": 700
+            },
+            "Pinha colada": {
+                "Price": 550
+            },
+            "Ron collins": {
+                "Price": 500
+            },
+            "Tom collins": {
+                "Price": 780
+            },
+            "Martini": {
+                "Price": 1000
+            },
+            "Gin tonic": {
+                "Price": 780
+            },
+            "Margarita": {
+                "Price": 550
+            },
+            "Tequila sunrise": {
+                "Price": 550
+            },
+            "Cuba libre": {
+                "Price": 700
+            },
+            "Cubata": {
+                "Price": 800
+            },
+            "Cubata santiago 8": {
+                "Price": 900
+            },
+            "Cubanito": {
+                "Price": 600
+            },
+            "Daiquiri": {
+                "Price": 550
+            },
+            "Bloody mary": {
+                "Price": 960
+            },
+            "Sangria salsa mora": {
+                "Price": 600
+            },
+            "Baileys": {
+                "Price": 1000
+            },
+            "Jagger": {
+                "Price": 750
+            },
+            "Campari": {
+                "Price": 800
+            },
+            "Sambuca": {
+                "Price": 650
+            },
+            "Grapa": {
+                "Price": 550
+            },
+            "Cafe": {
+                "Price": 250
+            },
+            "Cafe cortado": {
+                "Price": 300
+            },
+            "Capuccino": {
+                "Price": 700
+            },
+            "Frappuccino": {
+                "Price": 1000
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

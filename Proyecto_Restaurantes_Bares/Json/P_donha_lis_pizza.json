@@ -1,0 +1,239 @@
+{
+    "Name": "Donha Lis Pizza",
+    "Type": "Restaurante",
+    "Phone_Number": 5510909,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1030-2400"
+        ],
+        "Tuesday": [
+            "1030-2400"
+        ],
+        "Wednesday": [
+            "1030-2400"
+        ],
+        "Thursday": [
+            "1030-2400"
+        ],
+        "Friday": [
+            "1030-2400"
+        ],
+        "Saturday": [
+            "1030-2400"
+        ],
+        "Sunday": [
+            "1030-2400"
+        ]
+    },
+    "Location": {
+        "District": "Plaza",
+        "Address": null,
+        "Coordinates": "4JPC+W87, 1169 A Neptuno, La Habana"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 400.0
+            },
+            "Bolitas de queso/jamon": {
+                "Price": 500.0
+            },
+            "Bolitas de pescado": {
+                "Price": 450.0
+            },
+            "Frituras malanga": {
+                "Price": 350.0
+            },
+            "Papas fritas": {
+                "Price": 500.0
+            },
+            "Fajitas de pollo": {
+                "Price": 600.0
+            },
+            "Tostones rellenos": {
+                "Price": 500.0
+            },
+            "Nachos": {
+                "Price": 300.0
+            },
+            "Racion yuca/mojo": {
+                "Price": 250.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasanha": {
+                    "Price": 800.0
+                }
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 650.0
+                },
+                "Pizza margarita": {
+                    "Price": 700.0
+                },
+                "Pizza hawaiana": {
+                    "Price": 900.0
+                },
+                "Pizza donha lis": {
+                    "Price": 1400.0
+                },
+                "Pasta napolitana": {
+                    "Price": 500.0
+                },
+                "Pasta vegetariana": {
+                    "Price": 650.0
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo": {
+                    "Price": 900.0
+                },
+                "Bistec de cerdo gratinado": {
+                    "Price": 1000.0
+                },
+                "Filete de pescado grille": {
+                    "Price": 900.0
+                }
+            },
+            "Chicken": {
+                "Pechuga grille": {
+                    "Price": 800.0
+                },
+                "Pechuga empanada": {
+                    "Price": 850.0
+                },
+                "Fajitas salteadas": {
+                    "Price": 700.0
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Tacos al pastor": {
+                    "Price": 700.0
+                },
+                "Tacos cerdo": {
+                    "Price": 800.0
+                },
+                "Tacos pollo/vegetales": {
+                    "Price": 700.0
+                },
+                "Tacos de pescado": {
+                    "Price": 750.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Pote de helado": {
+                "Price": 750.0
+            },
+            "Paleta de helado": {
+                "Price": 200.0
+            }
+        },
+        "Beverages": {
+            "Jugo natural": {
+                "Price": 150.0
+            },
+            "Batido de fruta": {
+                "Price": 350.0
+            },
+            "Batido de trigo": {
+                "Price": 500.0
+            },
+            "Malteada": {
+                "Price": 500.0
+            },
+            "Batido de helado": {
+                "Price": 500.0
+            },
+            "Limonada frappe": {
+                "Price": 300.0
+            },
+            "Malta": {
+                "Price": 300.0
+            },
+            "Energizante": {
+                "Price": 250.0
+            },
+            "Refresco": {
+                "Price": 280.0
+            },
+            "Agua": {
+                "Price": 180.0
+            },
+            "Servicio michelada": {
+                "Price": 300.0
+            },
+            "Servicio chelada": {
+                "Price": 200.0
+            },
+            "Cerveza nacional": {
+                "Price": 300.0
+            },
+            "Cerveza de botella": {
+                "Price": 300.0
+            },
+            "Cerveza importada": {
+                "Price": 280.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta"
+        ],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

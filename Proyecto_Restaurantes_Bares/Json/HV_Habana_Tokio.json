@@ -1,0 +1,192 @@
+{
+    "Name": "Habana Tokio",
+    "Type": "Restaurante",
+    "Phone_Number": "59172392",
+    "Web_Page": "habanatokio",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["11:00-23:00"],
+        "Tuesday":  ["11:00-23:00"],
+        "Wednesday": ["11:00-23:00"],
+        "Thursday": ["11:00-23:00"],
+        "Friday":   ["11:00-23:00"],
+        "Saturday": ["11:00-23:00"],
+        "Sunday":   ["11:00-23:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obrapia entre Bernaza y Villegas",
+        "Coordinates": "4JPV+WC"
+    },
+    "Cuisine": "Japonesa",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Chicken teriyaki": {
+                    "Price": 2400
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other":{
+                "Tempura Udon":{
+                    "Price": 2000
+                },
+                "Tempura":{
+                    "Price": 2300
+                },
+                "Tempura de camaron":{
+                    "Price": 3000
+                },
+                "Tempura de calamar":{
+                    "Price": 3000
+                },
+                "Sushi mixto":{
+                    "Price": 2750
+                },
+                "Sushi de atun":{
+                    "Price": 1750
+                },
+                "Sushi de salmon":{
+                    "Price": 2100
+                },
+                "Chashu":{
+                    "Price": 1000
+                },
+                "Ramen":{
+                    "Price": 2550
+                },
+                "Ramen de camaron":{
+                    "Price": 3000
+                },
+                "Takoyaki": {
+                    "Price": 1000
+                },
+                "Yakitori": {
+                    "Price": 2400
+                },
+                "Tonkatsu": {
+                    "Price": 2750
+                },
+                "Karaage": {
+                    "Price": 2400
+                },
+                "Katsudon": {
+                    "Price": 2850
+                },
+                "Katsudon oyakudan": {
+                    "Price": 2800
+                },
+                "Yakisoba": {
+                    "Price": 2750
+                },
+                "Yakisoba de camaron": {
+                    "Price": 3100
+                },
+                "Yakisoba de calamar": {
+                    "Price": 3100
+                },
+                "Yakisoba de mariscos": {
+                    "Price": 3100
+                },
+                "Combo de habana tokio": {
+                    "Price": 3900
+                },
+                "Sashimi salmon": {
+                    "Price": 4400
+                },
+                "Sashimi de atun": {
+                    "Price": 4200
+                },
+                "Sashimi": {
+                    "Price": 2200
+                },
+                "Tataki": {
+                    "Price": 2300
+                },
+                "Nigiri": {
+                    "Price": 2500
+                },
+                "Sashimi (acompanhado de arroz y sopa)": {
+                    "Price": 2900
+                },
+                "Nigiri (acompanhado de sopa)": {
+                    "Price": 2900
+                },
+                "Sashimi de calamar": {
+                    "Price": 2900
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Flan": {
+                "Price": 600
+            },
+            "Kakigori": {
+                "Price": 800
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": ["Ramen"],
+            "Drink": ["Sake"]
+        },
+        "least_sold": {
+            "Dish": ["Tempura"],
+            "Drink": ["Jugo"]
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Karaoke"],
+        "Facilities": ["Sillas para ninhos","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

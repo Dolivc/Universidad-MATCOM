@@ -1,0 +1,348 @@
+{
+    "Name": "Topoly",
+    "Type": "Restaurante",
+    "Phone_Number": "78323224",
+    "Web_Page": "www.topoly-cuba.fr",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["09:00-10:00"],
+        "Tuesday":  ["09:00-10:00"],
+        "Wednesday": ["09:00-10:00"],
+        "Thursday": ["09:00-10:00"],
+        "Friday":   ["09:00-10:00"],
+        "Saturday": ["09:00-10:00"],
+        "Sunday":   ["09:00-10:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 23, esquina D",
+        "Coordinates": null
+    },
+    "Cuisine": "Irani",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa de res": {
+                    "Price": 1400
+                },
+                "Hamburguesa de queso, vegetales, encurtido, salsa y papas fritas": {
+                    "Price": 700
+                },
+                "Hamburguesa vegetariana": {
+                    "Price": 1200
+                }
+            },
+            "Sandwich": {
+                "Jamon y queso": {
+                    "Price": 950
+                },
+                "Sandwich de pollo": {
+                    "Price": 1030
+                }
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Oferta de desayuno (jugo, pan, huevo, queso, mantequilla, fruta, dulce, cafe/te)":{
+                    "Price": 1600
+                }
+            }
+        },
+        "Appetizers": {
+            "Eperlan de pescado": {
+                "Price": 2250
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza napolitana": {
+                    "Price": 1400
+                },
+                "Pizza hawaiana":{
+                    "Price": 2070
+                },
+                "Topoly":{
+                    "Price": 2270
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "jooje kabab (pollo)": {
+                    "Price": 2800 
+                },
+                "Pollo en salsa con papa dulce, arroz blanco y ensalada":{
+                    "Price": 2900
+                },
+                "Khoresht sabzi":{
+                    "Price": 2450
+                }
+            },
+            "Beef": {
+                "Kufte (albondigas)": {
+                    "Price": 2500
+                },
+                "Kafta (Brocheta de res molida con arroz)":{
+                    "Price": 2500
+                }
+            },
+            "Sea": {
+                "Plato del mar (Camarones, langosta, pescado, arroz blanco y ensalada)": {
+                    "Price": 7200
+                },
+                "Camarones enchilados":{
+                    "Price": 3300 
+                },
+                "Langosta enchilada":{
+                    "Price": 3800
+                },
+                "Pescado entero":{
+                    "Price": 2900
+                }
+            },
+            "Other":{
+                "Plato mixto (cordero en salsa, brocheta de pollo, pescado al horno, ensalada y arroz)":{
+                    "Price": 6550
+                },
+                "Plato cubano (pollo frito, frijoles, arroz blanco, y vegetales)":{
+                    "Price": 2750
+                },
+                "Ensalada topoly":{
+                    "Price": 1250
+                },
+                "Ensalada de atun":{
+                    "Price": 1600
+                },
+                "Ensalada mixta de vegetales":{
+                    "Price": 650
+                },
+                "Sopa de pollo":{
+                    "Price": 1250
+                },
+                "Sopa de cordero":{
+                    "Price": 1300
+                },
+                "Sopa de vegetales":{
+                    "Price": 1230
+                },
+                "Cordero al vino con papa dulce, arroz blanco y ensalada":{
+                    "Price": 3250
+                },
+                "Taskabab":{
+                    "Price": 3200
+                },
+                "Khoresht sabzi (cordero)":{
+                    "Price": 2655
+                },
+                "Dizi (plato tradicional irani)":{
+                    "Price": 3300
+                },
+                "Khoresht bademjan (cordero con berenjena)":{
+                    "Price": 2950
+                },
+                "Ropa vieja de cordero y res":{
+                    "Price": 3200
+                },
+                "Plato vegetariano":{
+                    "Price": 2300
+                },
+                "Vegetariano":{
+                    "Price": 2300  
+                },
+                "Falafel (croquetas de legumbres)":{
+                    "Price": 1300
+                },
+                "Taco de pollo":{
+                    "Price": 1400
+                },
+                "Taco chawarma":{
+                    "Price": 1450
+                },
+                "Taco vegetariano":{
+                    "Price": 1260
+                },
+                "Taco kafta":{
+                    "Price": 1650
+                },
+                "Nan":{
+                    "Price": 150
+                },
+                "Empanada de queso":{
+                    "Price": 760
+                },
+                "Empanada de guayaba":{
+                    "Price": 590
+                },
+                "Empanada de coco":{
+                    "Price": 610
+                },
+                "Empanada de vegetales":{
+                    "Price": 570
+                },
+                "Empanada mixta":{
+                    "Price": 750
+                },
+                "Empanada de pollo":{
+                    "Price": 780 
+                }
+            }
+        },
+        "Extras": {
+            "Arroz": {
+                "Price": 450
+            },
+            "Ensalada mixta": {
+                "Price": 650
+            },
+            "Racion de frijoles": {
+                "Price": 650
+            }
+        },
+        "Desserts": {
+            "Helado": {
+                "Price": 370
+            }
+        },
+        "Beverages": {
+            "Batido de helado": {
+                "Price": 790
+            },
+            "Batido de frutas": {
+                "Price": 650
+            },
+            "Agua natural": {
+                "Price": 250
+            },
+            "Refrescos nacionales": {
+                "Price": 350
+            },
+            "Refrescos importados": {
+                "Price": 450
+            },
+            "Malta": {
+                "Price": 450
+            },
+            "Cervezas nacionales": {
+                "Price": 450
+            },
+            "Cervezas importades": {
+                "Price": 600
+            },
+            "Ron anhejo blanco": {
+                "Price": 390
+            },
+            "Ron 3 anhos": {
+                "Price": 480
+            },
+            "Especial": {
+                "Price": 560
+            },
+            "Whisky": {
+                "Price": 470
+            },
+            "Sangria espanhola": {
+                "Price": 690
+            },
+            "Cuba libre": {
+                "Price": 630
+            },
+            "Roncolli": {
+                "Price": 630
+            },
+            "Cubata": {
+                "Price": 690
+            },
+            "Mojito": {
+                "Price": 700
+            },
+            "Tinto blanco (copa)": {
+                "Price": 900
+            },
+            "Tinto blanco (botella)": {
+                "Price": 5000
+            },
+            "Jugo de fruta": {
+                "Price": 350
+            },
+            "Jugo de frutas con helado": {
+                "Price": 550
+            },
+            "Limonada natural": {
+                "Price": 500
+            },
+            "Vaca blanca/negra": {
+                "Price": 600
+            },
+            "Cafe expresso": {
+                "Price": 180
+            },
+            "Cafe americano": {
+                "Price": 180
+            },
+            "Cafe cortado": {
+                "Price": 210
+            },
+            "Cafe con leche": {
+                "Price": 480
+            },
+            "Cafe con licor": {
+                "Price": 260
+            },
+            "Cafe glase": {
+                "Price": 440
+            },
+            "Chocolate caliente": {
+                "Price": 550
+            },
+            "Te negro/verde/menta/rojo": {
+                "Price": 350
+            },
+            "Te Topoly": {
+                "Price": 500
+            },
+            "Tila/manzanilla/manzana/jazmin/azafran": {
+                "Price": 300
+            },
+            "Shisha": {
+                "Price": 1800
+            },
+            "Shisha doble": {
+                "Price": 2200
+            }
+        },
+        "most_sold": {
+            "Dish": ["Kafta"],
+            "Drink": ["Cerveza cristal"]
+        },
+        "least_sold": {
+            "Dish": ["Veganos"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": "True",
+            "Credit_Card": "False",
+            "Mobile_Payment": "False"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "False",
+            "Euros": "False",
+            "Others": "False"
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "Name": "Delicia de la mama",
+    "Type": "Cafeteria-Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["00:00-00:00"],
+        "Tuesday":  ["00:00-00:00"],
+        "Wednesday": ["00:00-00:00"],
+        "Thursday": ["00:00-00:00"],
+        "Friday":   ["00:00-00:00"],
+        "Saturday": ["00:00-00:00"],
+        "Sunday":   ["00:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Calle 19 entre C y D",
+        "Coordinates": null
+    },
+    "Cuisine": "Variado",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa sencilla": {
+                    "Price": 800
+                },
+                "Hamburguesa de jamon": {
+                    "Price": 1050
+                },
+                "Hamburguesa de queso gouda": {
+                    "Price": 1150
+                },
+                "Hamburguesa de queso gouda y jamon": {
+                    "Price": 1250
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                "Pan con queso gouda": {
+                    "Price": 700
+                },
+                "Pan con jamon y queso gouda": {
+                    "Price": 850
+                },
+                "Pan con lomo": {
+                    "Price": 950
+                },
+                "Pan con bistec": {
+                    "Price": 980
+                },
+                "Pan con atun": {
+                    "Price": 1000
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Fritura de malanga": {
+                "Price": 550
+            },
+            "Croqueta de jamon": {
+                "Price": 850
+            },
+            "Tostada de mantequilla": {
+                "Price": 350
+            },
+            "Vianda frita": {
+                "Price": 450
+            },
+            "Estaciones de la mama": {
+                "Price": 850
+            },
+            "Fajitas de la mama con salsa X0": {
+                "Price": 750
+            },
+            "Ensalada de la mama (jamon, queso, chorizo y croqueta)": {
+                "Price": 2500
+            },
+            "Ensalada de la mama (jamon, queso, chorizo)": {
+                "Price": 2000
+            },
+            "Alitas de pollo": {
+                "Price": 950
+            },
+            "Albondigas": {
+                "Price": 950
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Lomo ahumado": {
+                    "Price": 1550
+                },
+                "Chuleta ahumada": {
+                    "Price": 1800
+                },
+                "Bistec de cerdo": {
+                    "Price": 1550
+                },
+                "Fricase de cerdo": {
+                    "Price": 1750
+                }
+            },
+            "Chicken": {
+                "Pollo frito": {
+                    "Price": 1550
+                },
+                "Pollo ahumado": {
+                    "Price": 1550
+                },
+                "Pechuga": {
+                    "Price": 1650
+                },
+                "Pollo gordon blue": {
+                    "Price": 1800
+                }
+            },
+            "Beef": {
+                "Fricase de res": {
+                    "Price": 2300
+                }
+            },
+            "Sea": {
+                "Filete de pescado": {
+                    "Price": 1950
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cafe": {
+                "Price": 150
+            },
+            "Cafe con leche": {
+                "Price": 450
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

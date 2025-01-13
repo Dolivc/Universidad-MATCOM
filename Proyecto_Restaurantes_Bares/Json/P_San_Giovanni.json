@@ -1,0 +1,456 @@
+{
+    "Name": "San giovanni",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wednesday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Linea entre paseo y A",
+        "Coordinates": null
+    },
+    "Cuisine": "Italiana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                "Desayuno cuabno (cafe con leche, tostada, mantequilla y jalea)":{
+                    "Price": 1000
+                },
+                "Desayuno americano (bacon, queso, huevo, tostadas, mantequilla, jalea, jugo natural)": {
+                    "Price": 2900
+                },
+                "Desayuno europeo (Ensalada de frutas, tostadas, mnantequilla, jalea, dulce y jugo natural)": {
+                    "Price": 2900
+                },
+                "Desayuno especial": {
+                    "Price": 3500
+                },
+                "Pan, cakes con frutas y jugo natural": {
+                    "Price": 2500
+                },
+                "Crepes rellenas de chocolate con bola de helado y jugo natural": {
+                    "Price": 2900
+                }
+            }
+        },
+        "Appetizers": {
+            "Papaps fritas": {
+                "Price": 900
+            },
+            "Frituras de malanga": {
+                "Price": 900
+            },
+            "Croquetas de la casa": {
+                "Price": 900
+            },
+            "Fajitas de pollo": {
+                "Price": 1500
+            },
+            "Eperlan": {
+                "Price": 1000
+            },
+            "Queso frito": {
+                "Price": 1200
+            },
+            "Tostones rellenos": {
+                "Price": 900
+            },
+            "Bruchettas": {
+                "Price": 1000
+            },
+            "Coctel de mariscos": {
+                "Price": 2500
+            },
+            "Ceviche de pescado": {
+                "Price": 1900
+            },
+            "Crema de queso": {
+                "Price": 1800
+            },
+            "Tabla de jamon serrano": {
+                "Price": 4200
+            },
+            "Picadera napolitana": {
+                "Price": 4000
+            },
+            "Tabla especial": {
+                "Price": 4600
+            },
+            "Picadera mixta": {
+                "Price": 3800
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti bolognesa": {
+                    "Price": 2800
+                },
+                "Espaguetti carbnonara":{
+                    "Price": 3000
+                },
+                "Espaguetti amatriciana":{
+                    "Price": 2700
+                },
+                "Espaguetti pesto":{
+                    "Price": 2900
+                },
+                "Espaguetti sabor del mar":{
+                    "Price": 4500
+                },
+                "Espaguetti de langosta":{
+                    "Price": 4000
+                },
+                "Lasagna bolognesa":{
+                    "Price": 3700
+                },
+                "Lasagna napolitana":{
+                    "Price": 4600
+                },
+                "Raviolis de jamon y queso":{
+                    "Price": 3200
+                }
+            },
+            "Pizza": {
+                "Pizza margerita": {
+                    "Price": 1900
+                },
+                "Pizza napoli":{
+                    "Price": 1900
+                },
+                "Pizza diavola":{
+                    "Price": 2500
+                },
+                "Pizza tonno e cipolla":{
+                    "Price": 2600
+                },
+                "Pizza hawaiana":{
+                    "Price": 2600
+                },
+                "Pizza procciutto e funghi":{
+                    "Price": 2800
+                },
+                "Pizza capricciosa":{
+                    "Price": 3200
+                },
+                "Pizza primavera":{
+                    "Price": 1600
+                },
+                "Pizza wurstel e patatine":{
+                    "Price": 2300
+                },
+                "Pizza 4 queso":{
+                    "Price": 2900
+                },
+                "Pizza de mozzarella y jamon serrano":{
+                    "Price": 3300
+                }
+            },
+            "Pork": {
+                "Bistec de cerdo encebollado": {
+                    "Price": 2600
+                },
+                "Masas fritas de cerdo": {
+                    "Price": 2600
+                },
+                "Fricase de cerdo": {
+                    "Price": 2900
+                },
+                "Bistec uruguayo": {
+                    "Price": 4000
+                }
+            },
+            "Chicken": {
+                "Pechuga grillada": {
+                    "Price": 2500
+                },
+                "Pechuga a la genovesa": {
+                    "Price": 3200
+                }
+            },
+            "Beef": {
+                "Ropa vieja de res": {
+                    "Price": 3600
+                },
+                "Vaca frita": {
+                    "Price": 3600
+                },
+                "Grillada de tierra": {
+                    "Price": 3900
+                }
+            },
+            "Sea": {
+                "Pescado frito entero": {
+                    "Price": 3000
+                },
+                "Filete de pescado grille": {
+                    "Price": 2500
+                },
+                "Jhon bill": {
+                    "Price": 2900
+                },
+                "Filete canciller": {
+                    "Price": 3600
+                },
+                "Langosta al gusto": {
+                    "Price": 3500
+                },
+                "Camaron al gusto": {
+                    "Price": 3300
+                },
+                "Grillada del mar": {
+                    "Price": 4000
+                },
+                "Grillada de mar y tierra": {
+                    "Price": 7300
+                }
+            },
+            "Other":{
+                "Tacos de pollo":{
+                    "Price": 2000
+                },
+                "Tacos de cerdo":{
+                    "Price": 2200
+                },
+                "Tacos de res":{
+                    "Price": 2500
+                },
+                "Tacos de pescado":{
+                    "Price": 2300
+                },
+                "Tacos de vegetales":{
+                    "Price": 1800
+                }
+            }
+        },
+        "Extras": {
+            "Ensalada de la estacion": {
+                "Price": 1500
+            },
+            "Ensalada vegana": {
+                "Price": 2500
+            },
+            "Ensalada cesar": {
+                "Price": 2500
+            },
+            "Ensalada mediterranea": {
+                "Price": 2500
+            },
+            "Ensalada iberica": {
+                "Price": 2500
+            },
+            "Arroz moro": {
+                "Price": 550
+            },
+            "Arroz blanco": {
+                "Price": 450
+            },
+            "Arroz pilaf": {
+                "Price": 700
+            }
+        },
+        "Desserts": {
+            "Copa de helado": {
+                "Price": 450
+            },
+            "Dulce de la casa": {
+                "Price": 500
+            }
+        },
+        "Beverages": {
+            "Mojito": {
+                "Price": 1200
+            },
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Cuba libre": {
+                "Price": 900
+            },
+            "Cubata": {
+                "Price": 1100
+            },
+            "Canchanchara": {
+                "Price": 950
+            },
+            "Pinha colada": {
+                "Price": 1300
+            },
+            "Caipirinha": {
+                "Price": 950
+            },
+            "Cubanito": {
+                "Price": 1250
+            },
+            "Screw driver": {
+                "Price": 900
+            },
+            "Bloddy mary": {
+                "Price": 1250
+            },
+            "Margarita": {
+                "Price": 1000
+            },
+            "Tequila sunrise": {
+                "Price": 1100
+            },
+            "Mimosa": {
+                "Price": 1200
+            },
+            "Aperol spritz": {
+                "Price": 2000
+            },
+            "Sangria": {
+                "Price": 1600
+            },
+            "Long island ice tea": {
+                "Price": 2000
+            },
+            "Old fashioned": {
+                "Price": 2000
+            },
+            "Negroni": {
+                "Price": 2000
+            },
+            "Martini": {
+                "Price": 1300
+            },
+            "Pinha colada  sin alcohol": {
+                "Price": 1200
+            },
+            "San Francisco": {
+                "Price": 1000
+            },
+            "Virgen maria": {
+                "Price": 1150
+            },
+            "Malteada": {
+                "Price": 900
+            },
+            "Batido de frutas": {
+                "Price": 800
+            },
+            "Servicio de chelada": {
+                "Price": 350
+            },
+            "Servicio de michelada": {
+                "Price": 450
+            },
+            "Servicio de tonic": {
+                "Price": 1200
+            },
+            "Agua natural": {
+                "Price": 300
+            },
+            "Agua carbonatada": {
+                "Price": 300
+            },
+            "Agua tonica": {
+                "Price": 1000
+            },
+            "Refresco": {
+                "Price": 400
+            },
+            "Malta": {
+                "Price": 500
+            },
+            "Jugo natural": {
+                "Price": 450
+            },
+            "Limonada natural": {
+                "Price": 500
+            },
+            "Limonada frappe": {
+                "Price": 550
+            },
+            "Energizantes": {
+                "Price": 500
+            },
+            "Red bull": {
+                "Price": 800
+            },
+            "Cerveza nacional": {
+                "Price": 400
+            },
+            "Cerveza importada": {
+                "Price": 300
+            },
+            "Cerveza heineken": {
+                "Price": 600
+            },
+            "Cerveza corona": {
+                "Price": 600
+            },
+            "Cafe espresso": {
+                "Price": 300
+            },
+            "Cafe americano": {
+                "Price": 300
+            },
+            "Cafecortado": {
+                "Price": 350
+            },
+            "Cafe bombom": {
+                "Price": 400
+            },
+            "Leche": {
+                "Price": 400
+            },
+            "Cafe con leche": {
+                "Price": 650
+            },
+            "Frapuccino": {
+                "Price": 800
+            },
+            "Carajillo": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": ["Pizza"],
+            "Drink": ["Vino italiano"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "Name": "Amalfi",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2230"
+        ],
+        "Tuesday": [
+            "1200-2230"
+        ],
+        "Wednesday": [
+            "1200-2230"
+        ],
+        "Thursday": [
+            "1200-2230"
+        ],
+        "Friday": [
+            "1200-2230"
+        ],
+        "Saturday": [
+            "1200-2230"
+        ],
+        "Sunday": [
+            "1200-2230"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Bruschetta": {
+                "Price": 1600
+            },
+            "Bruschetta amalfi": {
+                "Price": 1920
+            },
+            "Focaccia clasica": {
+                "Price": 1280
+            },
+            "Parmigiana": {
+                "Price": 2240
+            },
+            "Carpaccio pulpo": {
+                "Price": 3840
+            },
+            "Carpaccio res": {
+                "Price": 4160
+            },
+            "Carpaccio atun": {
+                "Price": 3520
+            },
+            "Focaccia 500": {
+                "Price": 1280
+            },
+            "Focaccia con prosciutto": {
+                "Price": 3840
+            },
+            "Focaccia pomodoro e rucola": {
+                "Price": 2560
+            },
+            "Focaccia salume del giorno e formaggio": {
+                "Price": 3200
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Salsiccia italiana la plancha": {
+                    "Price": 3840
+                },
+                "Pomodoro fresco": {
+                    "Price": 3520
+                },
+                "Carbonara": {
+                    "Price": 3520
+                },
+                "Amatriciana": {
+                    "Price": 3520
+                },
+                "Carbonara salsiccia": {
+                    "Price": 3840
+                },
+                "Puttanesca": {
+                    "Price": 3840
+                },
+                "Ragu malale": {
+                    "Price": 3840
+                },
+                "Zucca e salsiccia": {
+                    "Price": 3840
+                },
+                "Funghi e salsiccia": {
+                    "Price": 4800
+                },
+                "Penne a la sorrentina": {
+                    "Price": 3840
+                },
+                "Spaghetti con bottarga": {
+                    "Price": 3200
+                },
+                "Penne al salmon": {
+                    "Price": 3840
+                },
+                "Pasta amalfi": {
+                    "Price": 3840
+                },
+                "Spaghetti cetara": {
+                    "Price": 3840
+                },
+                "Linguine con calamar": {
+                    "Price": 5120
+                },
+                "Pasta mediterranea": {
+                    "Price": 5120
+                }
+            },
+            "Pizza": {
+                "Pizza margarita": {
+                    "Price": 1920
+                },
+                "Pizza de la casa": {
+                    "Price": 3520
+                },
+                "Pizza vegetariana": {
+                    "Price": 2560
+                },
+                "Pizza mixta": {
+                    "Price": 3200
+                },
+                "Pizza de atun": {
+                    "Price": 3200
+                },
+                "Pizza de brocoli y salchicha": {
+                    "Price": 2880
+                },
+                "Pizza diavola": {
+                    "Price": 3880
+                },
+                "Pizza de serrano": {
+                    "Price": 3200
+                },
+                "Pizza romana": {
+                    "Price": 3200
+                },
+                "Pizza de jamon barra": {
+                    "Price": 2560
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Fantasia di mare": {
+                    "Price": 4800
+                },
+                "Gambari al limone": {
+                    "Price": 3840
+                },
+                "Profumo mediterraneo": {
+                    "Price": 5120
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "Ensalada de estacion": {
+                "Price": 1280
+            },
+            "Ensalada positano": {
+                "Price": 1920
+            },
+            "Ensalada ravello": {
+                "Price": 1920
+            },
+            "Ensalada vettica": {
+                "Price": 1920
+            }
+        },
+        "Desserts": {
+            "Torta al limon": {
+                "Price": 1280
+            },
+            "Tortino al cioccolato": {
+                "Price": 1600
+            },
+            "Profiterol": {
+                "Price": 1280
+            },
+            "Tiramisu": {
+                "Price": 1280
+            },
+            "Tiramisu pan di stelle": {
+                "Price": 1600
+            },
+            "Delicia del dia": {
+                "Price": 1280
+            }
+        },
+        "Beverages": {
+            "Agua nacional": {
+                "Price": 500
+            },
+            "Agua importada": {
+                "Price": 850
+            },
+            "Refresco nacional": {
+                "Price": 420
+            },
+            "Refresco importado": {
+                "Price": 750
+            },
+            "Limonada": {
+                "Price": 840
+            },
+            "Jugo natural": {
+                "Price": 700
+            },
+            "Cerveza": {
+                "Price": 980
+            },
+            "Daiquiri": {
+                "Price": 1400
+            },
+            "Cuba libre": {
+                "Price": 1400
+            },
+            "Cubanito": {
+                "Price": 1400
+            },
+            "Cubata": {
+                "Price": 1400
+            },
+            "Mojito": {
+                "Price": 1400
+            },
+            "Caipiroska": {
+                "Price": 1400
+            },
+            "Caipirinna": {
+                "Price": 1400
+            },
+            "Caipirissima": {
+                "Price": 1400
+            },
+            "Sangria": {
+                "Price": 1400
+            },
+            "Margarita": {
+                "Price": 1400
+            },
+            "Gin tonic": {
+                "Price": 1400
+            },
+            "Pinha colada": {
+                "Price": 1400
+            },
+            "Negroni": {
+                "Price": 2240
+            },
+            "Copa de vino": {
+                "Price": 1260
+            },
+            "Copa de vino italiano": {
+                "Price": 1680
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "No",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

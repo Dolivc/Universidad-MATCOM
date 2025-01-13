@@ -1,0 +1,249 @@
+{
+    "Name": "Qbanas 60",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "https://qbanas60.com",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "0-2400"
+        ],
+        "Tuesday": [
+            "0-2400"
+        ],
+        "Wednesday": [
+            "0-2400"
+        ],
+        "Thursday": [
+            "0-2400"
+        ],
+        "Friday": [
+            "0-2400"
+        ],
+        "Saturday": [
+            "0-2400"
+        ],
+        "Sunday": [
+            "0-2400"
+        ]
+    },
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                "Desayuno americano": {
+                    "Price": 1500
+                }
+            }
+        },
+        "Appetizers": {
+            "Bolitas de queso": {
+                "Price": 800
+            },
+            "Croquetas de pollo": {
+                "Price": 650
+            },
+            "Frituras de malanga": {
+                "Price": 500
+            },
+            "Papas fritas": {
+                "Price": 500
+            },
+            "Papas fritas con bacon y queso": {
+                "Price": 950
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Pizza cubana": {
+                    "Price": 400
+                },
+                "Pizza trufada con tomate asado": {
+                    "Price": 1500
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Pollo chiflado": {
+                    "Price": 1200
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Huevos rotos": {
+                    "Price": 1500
+                }
+            }
+        },
+        "Extras": {
+            "Cheddar": {
+                "Price": 300
+            },
+            "Bacon": {
+                "Price": 500
+            },
+            "Huevo": {
+                "Price": 300
+            },
+            "Gouda": {
+                "Price": 300
+            },
+            "Cebolla": {
+                "Price": 250
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Daiquiri": {
+                "Price": 900
+            },
+            "Old fashion": {
+                "Price": 1800
+            },
+            "Sangria": {
+                "Price": 1000
+            },
+            "Servicio de michelada": {
+                "Price": 600
+            },
+            "Servicio de chelada": {
+                "Price": 350
+            },
+            "Pinha colada": {
+                "Price": 1000
+            },
+            "Cervezas nacionales": {
+                "Price": 250
+            },
+            "Cerveza tagu": {
+                "Price": 250
+            },
+            "Cervezas importadas": {
+                "Price": 22000
+            },
+            "Margarita": {
+                "Price": 900
+            },
+            "Aperol spritz": {
+                "Price": 1500
+            },
+            "7a\u00f1os": {
+                "Price": 500
+            },
+            "Especial": {
+                "Price": 400
+            },
+            "Red label": {
+                "Price": 600
+            },
+            "Tequila olmeca": {
+                "Price": 700
+            },
+            "Tequila don julio": {
+                "Price": 1500
+            },
+            "Heineken": {
+                "Price": 400
+            },
+            "Daiquiri de arandano o fresa": {
+                "Price": 1200
+            },
+            "Mojito": {
+                "Price": 700
+            },
+            "Gin tonic": {
+                "Price": 1500
+            },
+            "Caipis": {
+                "Price": 800
+            },
+            "Cubata": {
+                "Price": 700
+            },
+            "Habanos esplendido": {
+                "Price": 2000
+            },
+            "Habanos trinidad": {
+                "Price": 3100
+            },
+            "Ron premium y habanos": {
+                "Price": 4000
+            },
+            "6 heineken": {
+                "Price": 2100
+            },
+            "Expresso": {
+                "Price": 200
+            },
+            "Cortadito": {
+                "Price": 300
+            },
+            "Capuchino": {
+                "Price": 350
+            },
+            "Bombon": {
+                "Price": 500
+            },
+            "Frapuccino": {
+                "Price": 1200
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

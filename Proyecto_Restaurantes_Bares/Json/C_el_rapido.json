@@ -1,0 +1,131 @@
+{
+    "Name": "El rapido",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday": [
+            "730-1930"
+        ],
+        "Tuesday": [
+            "730-1930"
+        ],
+        "Wednesday": [
+            "730-1930"
+        ],
+        "Thursday": [
+            "730-1930"
+        ],
+        "Friday": [
+            "730-1930"
+        ],
+        "Saturday": [
+            "730-1930"
+        ],
+        "Sunday": [
+            "730-1930"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Cruz del Pader entre Pedrosa y Amenidares",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Croquetas": {
+                "Price": 300
+            },
+            "Papas fritas": {
+                "Price": 360
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis": {
+                    "Price": 850
+                },
+                "Espaguetis Napolitano": {
+                    "Price": 380
+                },
+                "Espaguetis de chorizo": {
+                    "Price": 1000
+                }
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Pollo Chiflado": {
+                    "Price": 750
+                }
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

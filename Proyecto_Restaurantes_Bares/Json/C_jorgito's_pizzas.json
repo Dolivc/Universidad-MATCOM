@@ -1,0 +1,163 @@
+{
+    "Name": "Jorgito's pizzas",
+    "Type": "Restaurante",
+    "Phone_Number": " 54031349",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-2300"
+        ],
+        "Tuesday": [
+            "1100-2300"
+        ],
+        "Wednesday": [
+            "1100-2300"
+        ],
+        "Thursday": [
+            "1100-2300"
+        ],
+        "Friday": [
+            "1100-2300"
+        ],
+        "Saturday": [
+            "1100-2300"
+        ],
+        "Sunday": [
+            "1100-2300"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Pedroso entre Infanta y Cruz del Pader",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis": {
+                    "Price": 850
+                },
+                "Espaguetis de jamon": {
+                    "Price": 1100
+                },
+                "Espaguetis de chorizo": {
+                    "Price": 1000
+                }
+            },
+            "Pizza": {
+                "Pizza de napolitana": {
+                    "Price": 850
+                },
+                "Pizza de chorizo": {
+                    "Price": 1000
+                },
+                "Pizza de jamon": {
+                    "Price": 1000
+                },
+                "Pizza de hawaiana": {
+                    "Price": 1150
+                },
+                "Pizza de cebolla": {
+                    "Price": 1000
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Cafe expreso": {
+                "Price": 180
+            },
+            "Cafe cortado": {
+                "Price": 220
+            },
+            "Capuchino": {
+                "Price": 450
+            },
+            "Cafe bombon": {
+                "Price": 450
+            },
+            "Pinha colada": {
+                "Price": 600
+            },
+            "Pinha colada (alchol)": {
+                "Price": 750
+            },
+            "Limonada frape": {
+                "Price": 400
+            },
+            "Malteada": {
+                "Price": 500
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

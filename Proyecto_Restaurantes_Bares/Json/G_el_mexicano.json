@@ -1,0 +1,166 @@
+{
+    "Name": "El Mexicano",
+    "Type": "Bar",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2200"
+        ],
+        "Tuesday": [
+            "1000-2200"
+        ],
+        "Wednesday": [
+            "1000-2200"
+        ],
+        "Thursday": [
+            "1000-2200"
+        ],
+        "Friday": [
+            "1000-2200"
+        ],
+        "Saturday": [
+            "1000-2200"
+        ],
+        "Sunday": [
+            "1000-2200"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": "4MHR+MC7, Avenida Quinta, La Habana, Cuba"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaguetti queso gouda": {
+                    "Price": 770.0
+                }
+            },
+            "Pizza": {
+                "Pizza queso gouda": {
+                    "Price": 450.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Tigon": {
+                "Price": 300.0
+            },
+            "Malta 1 hyper": {
+                "Price": 270.0
+            },
+            "Pepsi": {
+                "Price": 270.0
+            },
+            "Mirinda": {
+                "Price": 280.0
+            },
+            "Perla negra": {
+                "Price": 270.0
+            },
+            "Ironbeer": {
+                "Price": 240.0
+            },
+            "Orange": {
+                "Price": 220.0
+            },
+            "Cola polo": {
+                "Price": 220.0
+            },
+            "Limon": {
+                "Price": 220.0
+            },
+            "Coca cola": {
+                "Price": 280.0
+            },
+            "Cerveza": {
+                "Price": 200.0
+            },
+            "Holandia": {
+                "Price": 200.0
+            },
+            "Cristal lata": {
+                "Price": 250.0
+            },
+            "Cristal botella": {
+                "Price": 200.0
+            },
+            "Shaka": {
+                "Price": 350.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la carta"
+        ],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

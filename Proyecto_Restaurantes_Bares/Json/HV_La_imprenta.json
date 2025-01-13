@@ -1,0 +1,162 @@
+{
+    "Name": "La imprenta",
+    "Type": "Restaurante",
+    "Phone_Number": "78011881",
+    "Web_Page": null,
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-23:00"],
+        "Tuesday":  ["12:00-23:00"],
+        "Wednesday": ["12:00-23:00"],
+        "Thursday": ["12:00-23:00"],
+        "Friday":   ["12:00-23:00"],
+        "Saturday": ["12:00-23:00"],
+        "Sunday":   ["12:00-23:00"]
+    },
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Lamparilla y Amargura",
+        "Coordinates": "23º8'16''N,82º20'58W"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Queso escabechado": {
+                "Price": 140
+            },
+            "Tapas de tomate y queso": {
+                "Price": 85
+            },
+            "Crema de vegetales": {
+                "Price": 140
+            },
+            "Judia imprenta": {
+                "Price": 195
+            },
+            "Garbanzo frito": {
+                "Price": 45
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                "Lonjas de cerdo": {
+                    "Price": 1330
+                },
+                "Cerdo estofado": {
+                    "Price": 1670
+                },
+                "Bistec de cerdo": {
+                    "Price": 1675
+                },
+                "Barril de cerdo con jamon y queso": {
+                    "Price": 1500
+                },
+                "Rollo de cerdo con jamon y queso": {
+                    "Price": 1350
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                "Tablon de carne": {
+                    "Price": 2300
+                },
+                "Res estofada": {
+                    "Price": 875
+                },
+                "Ropa vieja imprenta": {
+                    "Price": 800
+                },
+                "Entrecot": {
+                    "Price": 850
+                },
+                "Chateaubriand": {
+                    "Price": 1700
+                },
+                "Filete mignon con salsa espanhola": {
+                    "Price": 1300
+                },
+                "Brochetas de res": {
+                    "Price": 1100
+                }
+            },
+            "Sea": {
+                "Langosta grille maitre d' hotel": {
+                    "Price": 4200
+                },
+                "Anillas de langosta en salsa": {
+                    "Price": 2175
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            "Vianda hervida con mojo": {
+                "Price": 175
+            },
+            "Arroz de sustancia ocasion": {
+                "Price": 105
+            }
+        },
+        "Desserts": {
+            "Brochetas de torrejas": {
+                "Price": 60
+            }
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": ["Chicken","Pork"],
+            "Drink": ["Cerveza nacional"]
+        },
+        "least_sold": {
+            "Dish": ["Langosta"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo","Musica grabada"],
+        "Facilities": ["Sillas para ninhos"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": false,
+            "Euros": false,
+            "Others": false
+        }
+    }
+}

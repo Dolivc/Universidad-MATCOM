@@ -1,0 +1,187 @@
+{
+    "Name": "D'Mitu",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1000-2200"
+        ],
+        "Tuesday": [
+            "1000-2200"
+        ],
+        "Wednesday": [
+            "1000-2200"
+        ],
+        "Thursday": [
+            "1000-2200"
+        ],
+        "Friday": [
+            "1000-2200"
+        ],
+        "Saturday": [
+            "1000-2200"
+        ],
+        "Sunday": [
+            "1000-2200"
+        ]
+    },
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": null,
+        "Main_Courses": {
+            "Pasta": {
+                "Fugazzeta D'Mitu": {
+                    "Price": 2100.0
+                },
+                "Canelones": {
+                    "Price": 800.0
+                },
+                "Espaghettis": {
+                    "Price": 800.0
+                },
+                "Fettuccine": {
+                    "Price": 800.0
+                },
+                "Farfalle": {
+                    "Price": 800.0
+                },
+                "Lasagna": {
+                    "Price": 900.0
+                },
+                "Calzone D'Mitu": {
+                    "Price": 900.0
+                },
+                "Raviolis": {
+                    "Price": 900.0
+                }
+            },
+            "Pizza": {
+                "Pizza de queso": {
+                    "Price": 850.0
+                },
+                "Pizza de jamon": {
+                    "Price": 1000.0
+                },
+                "Pizza de chorizo": {
+                    "Price": 1000.0
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1050.0
+                },
+                "Pizza Familiar mixta": {
+                    "Price": 2800.0
+                },
+                "Pizza Familiar con bordes de queso": {
+                    "Price": 3200.0
+                },
+                "Super Pizza de queso": {
+                    "Price": 1200.0
+                },
+                "Super Pizza de jamon": {
+                    "Price": 1300.0
+                },
+                "Super Pizza de chorizo": {
+                    "Price": 1300.0
+                },
+                "Super Pizza Hawaiana": {
+                    "Price": 1300.0
+                },
+                "Pizza Sol": {
+                    "Price": 2000.0
+                },
+                "Pizza D'Mitu": {
+                    "Price": 1400.0
+                },
+                "Super Pizza mixta": {
+                    "Price": 2000.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                "Pastelon a su gusto": {
+                    "Price": 1700.0
+                },
+                "Super Takazo": {
+                    "Price": 1900.0
+                },
+                "Takazo D'Mitu": {
+                    "Price": 1000.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

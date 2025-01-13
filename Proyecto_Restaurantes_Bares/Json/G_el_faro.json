@@ -1,0 +1,170 @@
+{
+    "Name": "El Faro",
+    "Type": "Restaurante",
+    "Phone_Number": "",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coordinates": "4MFW+P84, Maximo Gomez, La Habana, Cuba"
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Enchilado de cangrejo": {
+                "Price": 750.0
+            },
+            "Croqueta de la casa": {
+                "Price": 180.0
+            },
+            "Ensalada fria de jamon": {
+                "Price": 700.0
+            },
+            "Ensalada fria de atun": {
+                "Price": 1200.0
+            },
+            "Picadera tropical": {
+                "Price": 850.0
+            },
+            "Plato a lo cubano": {
+                "Price": 800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Spaguetti napolitano": {
+                    "Price": 750.0
+                },
+                "Spaguetti de jamon": {
+                    "Price": 850.0
+                }
+            },
+            "Pizza": {
+                "Pizza el faro": {
+                    "Price": 900.0
+                },
+                "Pizza combinada": {
+                    "Price": 900.0
+                },
+                "Pizza hawaiana": {
+                    "Price": 900.0
+                },
+                "Pizza de cebolla": {
+                    "Price": 900.0
+                },
+                "Pizza de pimiento": {
+                    "Price": 900.0
+                },
+                "Pizza gustazo (doble queso)": {
+                    "Price": 900.0
+                },
+                "Pizza jamon": {
+                    "Price": 900.0
+                }
+            },
+            "Pork": {
+                "Costillas de cerdo": {
+                    "Price": 1200.0
+                }
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Ruedas de pescado grille": {
+                    "Price": 1400.0
+                },
+                "Pollo grille": {
+                    "Price": 950.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [
+            "A la Carta",
+            "Entretenimiento"
+        ],
+        "Facilities": [
+            "Reservation_possible"
+        ],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "No",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

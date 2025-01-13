@@ -1,0 +1,212 @@
+{
+    "Name": "La Mia Pizza",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Location": {
+        "District": "La Lisa",
+        "Address": null,
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Entremes de Jamon y Queso": {
+                "Price": 1440
+            },
+            "Entremes de Jamon": {
+                "Price": 500
+            },
+            "Entremes de ahumados": {
+                "Price": 440
+            },
+            "Entremes de aceitunas": {
+                "Price": 300
+            },
+            "Dados de Queso": {
+                "Price": 300
+            },
+            "Croquetas de embutidos": {
+                "Price": 220
+            },
+            "Crema de Queso": {
+                "Price": 250
+            },
+            "Crema Aurora": {
+                "Price": 300
+            },
+            "Crema Virginia": {
+                "Price": 430
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Lasagna de Jamon": {
+                    "Price": 500
+                },
+                "Lasagna de Jamon y Chorizo": {
+                    "Price": 610
+                },
+                "Espaguetis Napolitanos": {
+                    "Price": 700
+                },
+                "Espaguetis a la carbonara": {
+                    "Price": 860
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 700
+                },
+                "Pizza La Mia": {
+                    "Price": 2500
+                },
+                "Pizza La Mia de Queso": {
+                    "Price": 1900
+                },
+                "Pizza Tres Quesos": {
+                    "Price": 1700
+                },
+                "Pizza La Mia Familiar": {
+                    "Price": 4800
+                },
+                "Pizza La Mia Familiar de Queso": {
+                    "Price": 4000
+                },
+                "Pizza Familiar Napolitana": {
+                    "Price": 2500
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Havana Club 3 anos": {
+                "Price": 175
+            },
+            "Havana Club 7 anos": {
+                "Price": 225
+            },
+            "Pina Colada": {
+                "Price": 250
+            },
+            "Cerveza": {
+                "Price": 270
+            },
+            "Michelada": {
+                "Price": 420
+            },
+            "Vodka": {
+                "Price": 340
+            },
+            "Whisky": {
+                "Price": 340
+            },
+            "Jugo de Frutas Naturales": {
+                "Price": 200
+            },
+            "Batido de Frutas Naturales": {
+                "Price": 250
+            },
+            "Suero de Helado": {
+                "Price": 350
+            },
+            "Helado Montado": {
+                "Price": 350
+            },
+            "Limonada Frappe": {
+                "Price": 1500
+            },
+            "Refresco": {
+                "Price": 220
+            },
+            "Refresco de Pomo": {
+                "Price": 280
+            },
+            "Malta": {
+                "Price": 250
+            },
+            "Agua": {
+                "Price": 160
+            },
+            "Agua Saborizada": {
+                "Price": 170
+            },
+            "Bebida Energizante": {
+                "Price": 250
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

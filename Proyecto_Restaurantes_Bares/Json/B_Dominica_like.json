@@ -1,0 +1,427 @@
+{
+    "Name": "Dominica Like",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 11. e/ 6 y 8, Santiago de las Vegas",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "coctel de camarones": {
+                "Price": 1100.0
+            },
+            "papas fritas": {
+                "Price": 450.0
+            },
+            "tostones rellenos (jamon y queso)": {
+                "Price": 550.0
+            },
+            "croquetas de la casa (pollo o pescado)": {
+                "Price": 500.0
+            },
+            "frituras de malanga": {
+                "Price": 450.0
+            },
+            "ensalada fria": {
+                "Price": 650.0
+            },
+            "crema de queso": {
+                "Price": 600.0
+            },
+            "crema virginia": {
+                "Price": 600.0
+            },
+            "crema aurora": {
+                "Price": 500.0
+            },
+            "crema reina (pollo)": {
+                "Price": 500.0
+            },
+            "entremes de jamon, queso y aceitunas": {
+                "Price": 800.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "lasanna": {
+                    "Price": 1100.0
+                },
+                "espaguetis napolitana": {
+                    "Price": 950.0
+                },
+                "espaguetis a la crema con bacon": {
+                    "Price": 1100.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 1000.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1300.0
+                },
+                "pizza dominica": {
+                    "Price": 1650.0
+                }
+            },
+            "Pork": {
+                "lomo ahumado con salsa de frutas": {
+                    "Price": 1200.0
+                },
+                "bistec de cerdo grille encebollado": {
+                    "Price": 1400.0
+                }
+            },
+            "Chicken": {
+                "bastones de pechuga de pollo empanados": {
+                    "Price": 1500.0
+                },
+                "gordon blue de pechuga de pollo": {
+                    "Price": 1700.0
+                },
+                "pechuga a la pinna": {
+                    "Price": 1400.0
+                },
+                "bistec de pechuga grille": {
+                    "Price": 1400.0
+                }
+            },
+            "Beef": {
+                "bistec uruguayo": {
+                    "Price": 1800.0
+                },
+                "ropa vieja": {
+                    "Price": 1600.0
+                },
+                "vaca frita": {
+                    "Price": 1600.0
+                },
+                "ternera al vino": {
+                    "Price": 1900.0
+                }
+            },
+            "Sea": {
+                "filete de pescado grille": {
+                    "Price": 1600.0
+                },
+                "filete de pescado canciller": {
+                    "Price": 1800.0
+                },
+                "enchilado de cangrejo": {
+                    "Price": 1200.0
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            "arroz moro": {
+                "Price": 300.0
+            },
+            "arroz blanco": {
+                "Price": 200.0
+            },
+            "ensalada de vegetales mixto de la estacion": {
+                "Price": 300.0
+            },
+            "platanito maduro frito": {
+                "Price": 250.0
+            },
+            "tostones al ajillo": {
+                "Price": 250.0
+            }
+        },
+        "Desserts": {
+            "copa de helado": {
+                "Price": 400.0
+            },
+            "tarta de chocolate con helado": {
+                "Price": 400.0
+            }
+        },
+        "Beverages": {
+            "jugos naturales de frutas": {
+                "Price": 180.0
+            },
+            "limonada natural": {
+                "Price": 400.0
+            },
+            "limonada frape": {
+                "Price": 400.0
+            },
+            "limonada frescura": {
+                "Price": 450.0
+            },
+            "batidos de helado": {
+                "Price": 600.0
+            },
+            "servicio de malteada": {
+                "Price": 200.0
+            },
+            "refresco cola": {
+                "Price": 250.0
+            },
+            "refresco naranja": {
+                "Price": 250.0
+            },
+            "refresco limon": {
+                "Price": 250.0
+            },
+            "refresco 7 up": {
+                "Price": 280.0
+            },
+            "malta bucannero": {
+                "Price": 350.0
+            },
+            "energizante": {
+                "Price": 280.0
+            },
+            "agua natural importada": {
+                "Price": 200.0
+            },
+            "agua gaseada carci crespq": {
+                "Price": 300.0
+            },
+            "cerveza heineken": {
+                "Price": 450.0
+            },
+            "cerveza nacional": {
+                "Price": 350.0
+            },
+            "cerveza importada": {
+                "Price": 280.0
+            },
+            "servicio de michelada": {
+                "Price": 300.0
+            },
+            "servicio de chelada": {
+                "Price": 200.0
+            },
+            "mojito": {
+                "Price": 600.0
+            },
+            "cubanito": {
+                "Price": 800.0
+            },
+            "cuba libre": {
+                "Price": 600.0
+            },
+            "daiquiri": {
+                "Price": 700.0
+            },
+            "daiquiri de frutas": {
+                "Price": 750.0
+            },
+            "margarita": {
+                "Price": 900.0
+            },
+            "margarita blue": {
+                "Price": 950.0
+            },
+            "pinna colada": {
+                "Price": 850.0
+            },
+            "bloody mary": {
+                "Price": 750.0
+            },
+            "bello monte": {
+                "Price": 750.0
+            },
+            "caipirinna": {
+                "Price": 750.0
+            },
+            "caipirisima": {
+                "Price": 750.0
+            },
+            "caipiroska": {
+                "Price": 750.0
+            },
+            "canchanchara": {
+                "Price": 850.0
+            },
+            "manhatan": {
+                "Price": 700.0
+            },
+            "cubata": {
+                "Price": 700.0
+            },
+            "shot medusa": {
+                "Price": 850.0
+            },
+            "screw driver": {
+                "Price": 750.0
+            },
+            "sangria": {
+                "Price": 950.0
+            },
+            "tinto verano": {
+                "Price": 750.0
+            },
+            "coctel barbie": {
+                "Price": 850.0
+            },
+            "blue lagoon": {
+                "Price": 700.0
+            },
+            "expresso martini": {
+                "Price": 800.0
+            },
+            "blow job": {
+                "Price": 850.0
+            },
+            "habana club profundo": {
+                "Price": 400.0
+            },
+            "habana club cuban spiced": {
+                "Price": 450.0
+            },
+            "habana club smoky": {
+                "Price": 500.0
+            },
+            "habana club 7 annos": {
+                "Price": 400.0
+            },
+            "habana club seleccion de maestros": {
+                "Price": 950.0
+            },
+            "santiago de cuba 8 annos": {
+                "Price": 400.0
+            },
+            "santiago de cuba 11 annos": {
+                "Price": 700.0
+            },
+            "santiago de cuba 12 annos": {
+                "Price": 800.0
+            },
+            "don julio reposado": {
+                "Price": 1500.0
+            },
+            "jack daniels": {
+                "Price": 1500.0
+            },
+            "tequila monte la rosa dorado": {
+                "Price": 700.0
+            },
+            "tequila reina del sur flor salvaje": {
+                "Price": 750.0
+            },
+            "tequila olmeca reposado": {
+                "Price": 800.0
+            },
+            "tequila olmeca silver": {
+                "Price": 850.0
+            },
+            "tequila rose": {
+                "Price": 1000.0
+            },
+            "vodka grey goose": {
+                "Price": 800.0
+            },
+            "baileys": {
+                "Price": 900.0
+            },
+            "beefeater": {
+                "Price": 900.0
+            },
+            "tanqueray": {
+                "Price": 900.0
+            },
+            "copa de vino tinto": {
+                "Price": 500.0
+            },
+            "copa de vino blanco": {
+                "Price": 500.0
+            },
+            "cafe expreso": {
+                "Price": 120.0
+            },
+            "cafe cortado": {
+                "Price": 150.0
+            },
+            "cafe capuchino": {
+                "Price": 200.0
+            },
+            "cafe frapuchino": {
+                "Price": 450.0
+            },
+            "cafe bombon": {
+                "Price": 400.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

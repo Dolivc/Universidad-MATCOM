@@ -1,0 +1,269 @@
+{
+    "Name": "Eclectico",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": "Eclectico Restaurant",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["6:30-10:30"],
+        "Tuesday":  ["6:30-10:30"],
+        "Wednesday": ["6:30-10:30"],
+        "Thursday": ["6:30-10:30"],
+        "Friday":   ["6:30-10:30"],
+        "Saturday": ["6:30-10:30"],
+        "Sunday":   ["6:30-10:30"]
+    }, 
+    "Location": {
+        "District": "Plaza",
+        "Address": "Avenida paseo",
+        "Coordinates": null
+    },
+    "Cuisine": "Italiana",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                "Hamburguesa de solomillo de res con papas asadas": {
+                    "Price": 6720
+                }
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tempura de mariscos y pescado": {
+                "Price": 4800
+            },
+            "Tabla de charcuteria y quesos": {
+                "Price": 6400
+            },
+            "Carpaccio de res con perlas de trufa, escamas de parmesamo, aceite de oliva extra virgen y avellanas tostadas": {
+                "Price": 5540
+            },
+            "Tabla de quesos": {
+                "Price": 3840
+            },
+            "Ensalada eclectico con vegetales de estacion, fruta tropical, queso fresco de cabra y aceitunas negras": {
+                "Price": 2880
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetti con calamar": {
+                    "Price": 5120
+                },
+                "Fettucine con cangrejo y tomate cherry": {
+                    "Price": 5120
+                },
+                "Fettucine con langosta y tomate cherry": {
+                    "Price": 5120
+                },
+                "Rigatoni con ragout de res": {
+                    "Price": 3840
+                },
+                "Espaguetti a la carbonara": {
+                    "Price": 4480
+                },
+                "Rissotto de hongos porcini, perejil y parmesano": {
+                    "Price": 7040
+                }
+            },
+            "Pizza": {
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                "Pescado del dia con rissoto rosado, salsa verde y zanahorias glaseadas": {
+                    "Price": 6080
+                },
+                "Tataki de atun aleta negra en semilla de sesamo con salsa teriyaki y risotto de mar y tierra": {
+                    "Price": 6720
+                }
+            },
+            "Other":{
+                "Entrecot de ternera con papas fondat y zanahorias glaseadas":{
+                    "Price": 11520
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Cheescake de parmesano": {
+                "Price": 2560
+            },
+            "Tiramisu Eclectico": {
+                "Price": 1600
+            },
+            "Gelato italiano": {
+                "Price": 1920
+            }
+        },
+        "Beverages": {
+            "The haze": {
+                "Price": 1200
+            },
+            "Tropical Daiquiri": {
+                "Price": 1000
+            },
+            "Eclectico sling": {
+                "Price": 1000
+            },
+            "Black dog": {
+                "Price": 1000
+            },
+            "Havana purple": {
+                "Price": 700
+            },
+            "Havana pink": {
+                "Price": 700
+            },
+            "Havana rainbow": {
+                "Price": 700
+            },
+            "Negroni": {
+                "Price": 2250
+            },
+            "Old fashioned": {
+                "Price": 1500
+            },
+            "Manhattan": {
+                "Price": 1800
+            },
+            "El presidente": {
+                "Price": 1500
+            },
+            "Hemingway Daiquiri": {
+                "Price": 1500
+            },
+            "Mary pickford": {
+                "Price": 1500
+            },
+            "Mojito": {
+                "Price": 1250
+            },
+            "Aperol Spritz": {
+                "Price": 2500
+            },
+            "Campari Spritz": {
+                "Price": 2500
+            },
+            "Campari soda": {
+                "Price": 2000
+            },
+            "Campari orange": {
+                "Price": 2000
+            },
+            "Pinha colada": {
+                "Price": 1500
+            },
+            "Dry martini": {
+                "Price": 1500 
+            },
+            "Caipirinha": {
+                "Price": 1300
+            },
+            "Caipiroska": {
+                "Price": 1300
+            },
+            "Ron collins": {
+                "Price": 1100
+            },
+            "Sangria": {
+                "Price": 1500
+            },
+            "Margarita": {
+                "Price": 1300
+            },
+            "Catalan sangria": {
+                "Price": 1500
+            },
+            "Tinto verano": {
+                "Price": 1200
+            },
+            "Vodka tonic": {
+                "Price": 1500 
+            },
+            "Blue lagoon": {
+                "Price": 1100
+            },
+            "Ron Santiago de Cuba 11 anhos": {
+                "Price": 1600
+            },
+            "Ron Santiago de Cuba 12 anhos": {
+                "Price": 2000
+            },
+            "Vigia reserva 18 anhos": {
+                "Price": 5000
+            },
+            "Cubat extra viejo": {
+                "Price": 5000
+            },
+            "Cubay extra anhejo": {
+                "Price": 5000
+            },
+            "Havana club profundo": {
+                "Price": 700
+            },
+            "Havana club especial": {
+                "Price": 700
+            },
+            "Havana club reserva": {
+                "Price": 800
+            },
+            "Havana club 7 anhos": {
+                "Price": 1200
+            },
+            "Ron santiago de cuba 8 anhos": {
+                "Price": 1400
+            },
+            "Cerveza cristal": {
+                "Price": 550
+            }
+        },
+        "most_sold": {
+            "Dish": ["Carbonara"],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": ["Tataki de atun"],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica en vivo los jueves"],
+        "Facilities": ["Sillas para ninhos","Reservaciones"],
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

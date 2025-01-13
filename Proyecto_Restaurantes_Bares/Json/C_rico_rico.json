@@ -1,0 +1,183 @@
+{
+    "Name": "Rico rico",
+    "Type": "Restaurante",
+    "Phone_Number": "78701632",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "900-2300"
+        ],
+        "Tuesday": [
+            "900-2300"
+        ],
+        "Wednesday": [
+            "900-2300"
+        ],
+        "Thursday": [
+            "900-2300"
+        ],
+        "Friday": [
+            "900-2300"
+        ],
+        "Saturday": [
+            "900-2300"
+        ],
+        "Sunday": [
+            "900-2300"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Ensalada fria de atun (pequenha)": {
+                "Price": 645
+            },
+            "Ensalada fria de atun (mediana)": {
+                "Price": 1200
+            },
+            "Ensalada fria de atun (grande)": {
+                "Price": 2205
+            },
+            "Ensalada fria de jamon y queso (pequenha)": {
+                "Price": 495
+            },
+            "Pizzeta de Napole": {
+                "Price": 230
+            },
+            "Pizzeta de Chorizo": {
+                "Price": 325
+            },
+            "Bastones de Queso": {
+                "Price": 780
+            },
+            "Empanadas Gallegas": {
+                "Price": 380
+            },
+            "Tequenhos": {
+                "Price": 350
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Pasta Carbonara": {
+                    "Price": 1000
+                },
+                "Calzone Napoles": {
+                    "Price": 1090
+                },
+                "Megacalzone": {
+                    "Price": 1440
+                },
+                "Lasanha Bolonhesa": {
+                    "Price": 1550
+                },
+                "Lasanha de Jamon": {
+                    "Price": 1490
+                }
+            },
+            "Pizza": {
+                "Pizza Napoles": {
+                    "Price": 920
+                },
+                "Pasta Napoles": {
+                    "Price": 920
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Pastelito de ojaldre de guayaba o coco": {
+                "Price": 260
+            },
+            "Pastelito de ojaldre de jamon y queso": {
+                "Price": 280
+            },
+            "Flan": {
+                "Price": 590
+            }
+        },
+        "Beverages": {
+            "Frappi Rico": {
+                "Price": 180
+            },
+            "Mega Bati Bati": {
+                "Price": 990
+            },
+            "Super Bati Bati": {
+                "Price": 785
+            },
+            "Bati Frutas": {
+                "Price": 675
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Delivery",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

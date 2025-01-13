@@ -1,0 +1,237 @@
+{
+    "Name": "Abuelo deOro",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2400"
+        ],
+        "Tuesday": [
+            "1200-2400"
+        ],
+        "Wednesday": [
+            "1200-2400"
+        ],
+        "Thursday": [
+            "1200-2400"
+        ],
+        "Friday": [
+            "1200-2400"
+        ],
+        "Saturday": [
+            "1200-2400"
+        ],
+        "Sunday": [
+            "1200-2400"
+        ]
+    },
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calzada Aldabo % 12 y 13, Aldabo",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "croquetas": {
+                "Price": 500.0
+            },
+            "empanadas": {
+                "Price": 500.0
+            },
+            "frituras": {
+                "Price": 500.0
+            },
+            "tostones rellenos": {
+                "Price": 1000.0
+            },
+            "papas bravas": {
+                "Price": 500.0
+            },
+            "papas doradas": {
+                "Price": 450.0
+            },
+            "ceviche": {
+                "Price": 2000.0
+            },
+            "coctel de langosta": {
+                "Price": 2000.0
+            },
+            "coctel de camarones": {
+                "Price": 2000.0
+            },
+            "tabla surtida": {
+                "Price": 3000.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis napolitanos": {
+                    "Price": 1200.0
+                },
+                "espaguetis jamon": {
+                    "Price": 1500.0
+                }
+            },
+            "Pizza": {
+                "pizza napolitana": {
+                    "Price": 1000.0
+                },
+                "pizza jamon": {
+                    "Price": 1300.0
+                },
+                "pizza hawaiana": {
+                    "Price": 1400.0
+                },
+                "pizza cebolla": {
+                    "Price": 1100.0
+                },
+                "pizza pimiento": {
+                    "Price": 1100.0
+                },
+                "pizza pepperoni": {
+                    "Price": 1500.0
+                }
+            },
+            "Pork": {
+                "bistec encebollado": {
+                    "Price": 2500.0
+                },
+                "cerdo salteado": {
+                    "Price": 2800.0
+                },
+                "medalla con jamon y queso": {
+                    "Price": 3800.0
+                },
+                "medalla con ropa vieja y queso": {
+                    "Price": 3800.0
+                },
+                "chuletilla": {
+                    "Price": 3000.0
+                },
+                "1kg cerdo asado": {
+                    "Price": 15000.0
+                },
+                "chuleton cerdo": {
+                    "Price": 6500.0
+                },
+                "chuleta cerdo": {
+                    "Price": 3000.0
+                }
+            },
+            "Chicken": {
+                "pechuga grille": {
+                    "Price": 3000.0
+                },
+                "pechuga salteada": {
+                    "Price": 3500.0
+                },
+                "pollo frito": {
+                    "Price": 2500.0
+                }
+            },
+            "Beef": {
+                "vaca frita": {
+                    "Price": 3000.0
+                },
+                "ropa vieja": {
+                    "Price": 3000.0
+                },
+                "bistec res cazuela": {
+                    "Price": 3500.0
+                },
+                "picadillo habanera": {
+                    "Price": 2900.0
+                }
+            },
+            "Sea": {
+                "filete pescado grille": {
+                    "Price": 3000.0
+                },
+                "filete pescado montado": {
+                    "Price": 4000.0
+                },
+                "gratin del mar": {
+                    "Price": 4000.0
+                },
+                "langosta en sus variedades": {
+                    "Price": 4800.0
+                },
+                "camaron variado": {
+                    "Price": 4800.0
+                }
+            },
+            "Other": {
+                "mar y tierra": {
+                    "Price": 19000.0
+                },
+                "tacos ropa vieja": {
+                    "Price": 1500.0
+                },
+                "tacos vaca frita": {
+                    "Price": 1450.0
+                },
+                "tacos cerdo": {
+                    "Price": 1200.0
+                }
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "Name": "El chanchullero",
+    "Type": "Restaurante",
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["12:00-22:00"],
+        "Tuesday":  ["12:00-22:00"],
+        "Wednesday": ["12:00-22:00"],
+        "Thursday": ["12:00-22:00"],
+        "Friday":   ["12:00-22:00"],
+        "Saturday": ["12:00-22:00"],
+        "Sunday":   ["12:00-22:00"]
+    }, 
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Teniente Rey entre Bernaza y Cristo",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hamburger": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other":{
+                
+            }
+        },
+        "Appetizers": {
+            "Tapas de tomate": {
+                "Price": 350
+            },
+            "Tapas de guacamole": {
+                "Price": 350
+            },
+            "Tapas de carne": {
+                "Price": 500
+            },
+            "Tacos con carne": {
+                "Price": 550
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza": {
+                "Napolitana": {
+                    "Price": 950 
+                },
+                "Margarita": {
+                    "Price": 1000 
+                },
+                "De jamon": {
+                    "Price": 1100 
+                },
+                "De chorizo": {
+                    "Price": 1100
+                },
+                "Vegetariana": {
+                    "Price": 1000 
+                },
+                "Chanchullero": {
+                    "Price": 1100
+                }
+            },
+            "Pork": {
+                "Fricase de cerdo": {
+                    "Price": 1200
+                },
+                "Cerdo encebollado Juliana": {
+                    "Price": 1200
+                },
+                "Completa de lomo ahumado": {
+                    "Price": 850
+                }
+            },
+            "Chicken": {
+                "Pollo al ajillo": {
+                    "Price": 1050
+                },
+                "Fricase de pollo": {
+                    "Price": 1200
+                }
+            },
+            "Beef": {
+                "Ropa vieja": {
+                    "Price": 1300
+                }
+            },
+            "Sea": {
+                "Pescado chanchullero": {
+                    "Price": 1750
+                },
+                "Reina al ajillo": {
+                    "Price": 1800
+                },
+                "Reina enchilada": {
+                    "Price": 1800
+                }
+            },
+            "Other":{
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Mojito Chanchullero": {
+                "Price": 400 
+            },
+            "Cuba libre": {
+                "Price": 400 
+            },
+            "Catarro": {
+                "Price": 400
+            },
+            "Caipirissima": {
+                "Price": 400 
+            },
+            "Caipiroska": {
+                "Price": 450 
+            },
+            "Agua natural": {
+                "Price": 350
+            },
+            "Refresco importado": {
+                "Price": 400
+            },
+            "Jugo enlatado": {
+                "Price": 400
+            },
+            "Limonada frappe": {
+                "Price": 600
+            },
+            "Limonadafrescura": {
+                "Price": 650
+            },
+            "Cerveza": {
+                "Price": 400 
+            },
+            "La chelada": {
+                "Price": 575
+            },
+            "La michelada": {
+                "Price": 600
+            },
+            "Daiquiri": {
+                "Price": 500
+            },
+            "Copa de vino": {
+                "Price": 650
+            },
+            "Tinto de verano": {
+                "Price": 600
+            }
+        },
+        "most_sold": {
+            "Dish": ["Langosta al ajillo"],
+            "Drink": ["Cerveza","Mojito"]
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other_info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": null,
+        "Payments_Options": {
+            "Cash": true,
+            "Credit_Card": true,
+            "Mobile_Payment": true
+        },
+        "Accepted_Currencies": {
+            "National_Currency": true,
+            "US_Dollars": true,
+            "Euros": true,
+            "Others": true
+        }
+    }
+}

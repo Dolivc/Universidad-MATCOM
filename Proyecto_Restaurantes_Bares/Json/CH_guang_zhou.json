@@ -1,0 +1,314 @@
+{
+    "Name": "Guang zhou",
+    "Type": "Restaurante",
+    "Phone_Number": "078615229",
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-0"
+        ],
+        "Tuesday": [
+            "1100-0"
+        ],
+        "Wednesday": [
+            "1100-0"
+        ],
+        "Thursday": [
+            "1100-0"
+        ],
+        "Friday": [
+            "1100-0"
+        ],
+        "Saturday": [
+            "1100-0"
+        ],
+        "Sunday": [
+            "1100-0"
+        ]
+    },
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Cuchillo entre San Nicolas y Rayo",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "Espaguetis Napolitanos": {
+                    "Price": 1080.0
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana con queso blanco": {
+                    "Price": 1150.0
+                },
+                "Pizza Napolitana con queso Gouda": {
+                    "Price": 1250.0
+                }
+            },
+            "Pork": {
+                "Cerdo a la plancha": {
+                    "Price": 2000
+                },
+                "Cerdo Grille": {
+                    "Price": 1650
+                }
+            },
+            "Chicken": {
+                "Pollo a la plancha": {
+                    "Price": 1800
+                },
+                "Pollo Grille": {
+                    "Price": 1500
+                }
+            },
+            "Beef": {
+                "Res a la plancha": {
+                    "Price": 2100
+                }
+            },
+            "Sea": {
+                "Pescado a la plancha": {
+                    "Price": 2100
+                },
+                "Pescado Grille": {
+                    "Price": 1500
+                },
+                "Cazuela de Mariscos": {
+                    "Price": 5575
+                },
+                "Marisco a la plancha": {
+                    "Price": 3100
+                }
+            },
+            "Other": {
+                "Termo Pack": {
+                    "Price": 120.0
+                },
+                "Caja de Pizza": {
+                    "Price": 1000.0
+                },
+                "De la Tierra": {
+                    "Price": 4200
+                },
+                "Del Mar": {
+                    "Price": 5500
+                },
+                "Mar y Tierra": {
+                    "Price": 5900
+                }
+            }
+        },
+        "Extras": {
+            "Arroz blanco": {
+                "Price": 315
+            },
+            "Arroz frito": {
+                "Price": 1710
+            },
+            "Arroz Moro": {
+                "Price": 415
+            },
+            "Arroz frito especial": {
+                "Price": 2110
+            },
+            "Arroz frito familiar": {
+                "Price": 2970
+            },
+            "Chao mian (Fideos fritos)": {
+                "Price": 900
+            },
+            "Chop Suey de Pollo": {
+                "Price": 1700
+            },
+            "Chop Suey de Cerdo": {
+                "Price": 1900
+            },
+            "Chop Suey de vegetales": {
+                "Price": 800.0
+            },
+            "Viandas fritas del dia": {
+                "Price": 300
+            },
+            "Yuca con mojo": {
+                "Price": 250.0
+            },
+            "Ensalada mixta": {
+                "Price": 300.0
+            }
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Havana Club 3 anhos": {
+                "Price": 350
+            },
+            "Havana Club Especial": {
+                "Price": 250
+            },
+            "Havana Club Reserva": {
+                "Price": 400
+            },
+            "Havana Club 7 anhos": {
+                "Price": 450
+            },
+            "Whisky": {
+                "Price": 400
+            },
+            "Vodka": {
+                "Price": 500
+            },
+            "Tequila Blanco": {
+                "Price": 500
+            },
+            "Tequila Reposado": {
+                "Price": 500
+            },
+            "Ginebra": {
+                "Price": 500
+            },
+            "Vino tinto": {
+                "Price": 500
+            },
+            "Vino blanco": {
+                "Price": 500
+            },
+            "Cerveza Nacional": {
+                "Price": 385.0
+            },
+            "Cerveza Importada": {
+                "Price": 300.0
+            },
+            "Kermato (Jugo de tomate)": {
+                "Price": 200.0
+            },
+            "Refresco Nacional": {
+                "Price": 350.0
+            },
+            "Refresco Importado": {
+                "Price": 350.0
+            },
+            "Malta": {
+                "Price": 400.0
+            },
+            "Malteada (Malta con leche)": {
+                "Price": 550.0
+            },
+            "Agua": {
+                "Price": 190.0
+            },
+            "Agua 1.5L": {
+                "Price": 280.0
+            },
+            "Jugo Natural": {
+                "Price": 325.0
+            },
+            "Jugo en conserva": {
+                "Price": 350.0
+            },
+            "Cafe Expreso": {
+                "Price": 100.0
+            },
+            "Cafe Americano": {
+                "Price": 150.0
+            },
+            "Cafe Cortado": {
+                "Price": 150.0
+            },
+            "Cafe Capsula": {
+                "Price": 300.0
+            },
+            "Te": {
+                "Price": 60.0
+            },
+            "Michelada ": {
+                "Price": 200
+            },
+            "Mojito": {
+                "Price": 400
+            },
+            "Cuba Libre": {
+                "Price": 400
+            },
+            "Ron Collins": {
+                "Price": 400
+            },
+            "Limonada Frappe": {
+                "Price": 350
+            },
+            "Daiquiri Frappe": {
+                "Price": 400
+            },
+            "Pinha Colada": {
+                "Price": 600
+            },
+            "Cubata": {
+                "Price": 400
+            },
+            "Sangria": {
+                "Price": 600
+            },
+            "Gin Tonic": {
+                "Price": 550
+            },
+            "Margarita": {
+                "Price": 550
+            },
+            "Caipirinha": {
+                "Price": 450
+            },
+            "Caipiroska": {
+                "Price": 550
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

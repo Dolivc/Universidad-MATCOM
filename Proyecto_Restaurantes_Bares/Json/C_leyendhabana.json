@@ -1,0 +1,440 @@
+{
+    "Name": "Leyendhabana",
+    "Type": "Restaurante",
+    "Phone_Number": "78781332",
+    "Web_Page": "leyendhabana.com",
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1200-2300"
+        ],
+        "Tuesday": [
+            "1200-2300"
+        ],
+        "Wednesday": [
+            "1200-2300"
+        ],
+        "Thursday": [
+            "1200-2300"
+        ],
+        "Friday": [
+            "1200-2300"
+        ],
+        "Saturday": [
+            "1200-2300"
+        ],
+        "Sunday": [
+            "1200-2300"
+        ]
+    },
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+        "Coordinates": null
+    },
+    "Cuisine": "Variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+                
+            },
+            "Hambuerguer": {
+                
+            },
+            "Sandwich": {
+                
+            },
+            "Bread": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Appetizers": {
+            "Tartaletas mixtas": {
+                "Price": 1254
+            },
+            "Pulpitos al ajillo": {
+                "Price": 1287
+            },
+            "Pimientos de piquillo rellenos": {
+                "Price": 1320
+            },
+            "Frituras de malanga": {
+                "Price": 594
+            },
+            "Rollitos de salmon rellenos de queso crema y uvas pasas": {
+                "Price": 1650
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                
+            },
+            "Pizza":{
+                
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                "Suprema de pollo a la crema": {
+                    "Price": 2145
+                },
+                "Cordero asado al romero": {
+                    "Price": 2244
+                },
+                "Langosta grille": {
+                    "Price": 3795
+                },
+                "Camarones Leyendhabana perfumados al vino blanco": {
+                    "Price": 2557
+                }
+            },
+            "Beef": {
+                "Filete mignon con salsa a eleccion": {
+                    "Price": 3927
+                }
+            },
+            "Sea": {
+                "Filete de pescado con crema de limon, uvas pasas y frutos secos": {
+                    "Price": 2359.5
+                },
+                "Filete de salmon rosa grille": {
+                    "Price": 3382.5
+                }
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            "Tarta de crema": {
+                "Price": 1270.5
+            },
+            "Brownie": {
+                "Price": 1270.5
+            }
+        },
+        "Beverages": {
+            "Ron Abuelo Anhejo Reserva Especial": {
+                "Price": 1320.0
+            },
+            "Ron Arecha 15 anhos": {
+                "Price": 1650.0
+            },
+            "Ron Bacardi Gold": {
+                "Price": 1650.0
+            },
+            "Ron Havana Club 15 anhos": {
+                "Price": 4950.0
+            },
+            "Ron Havana Club 3 anhos": {
+                "Price": 511.5
+            },
+            "Ron Havana Club 7 anhos": {
+                "Price": 825.0
+            },
+            "Ron Havana Club Blanco": {
+                "Price": 330.0
+            },
+            "Ron Havana Club Especial": {
+                "Price": 627.0
+            },
+            "Ron Havana Club MAXIMO": {
+                "Price": 66000.0
+            },
+            "Ron Havana Club Reserva": {
+                "Price": 726.0000000000001
+            },
+            "Ron Havana Club Ritual": {
+                "Price": 660.0
+            },
+            "Ron Legendario Anhejo Blanco": {
+                "Price": 330.0
+            },
+            "Ron Legendario Dorado": {
+                "Price": 495.0
+            },
+            "Ron Legendario Elixir": {
+                "Price": 495.0
+            },
+            "Ron Mulata 15 anhos": {
+                "Price": 2640.0
+            },
+            "Ron Santa Teresa Gran Reserva": {
+                "Price": 1485.0
+            },
+            "Ron Santiago 11 anhos": {
+                "Price": 2145.0
+            },
+            "Ron Santiago 20 anhos": {
+                "Price": 4950.0
+            },
+            "Ron Santiago Anhejo": {
+                "Price": 511.5
+            },
+            "Ron Seleccion de MAESTROS": {
+                "Price": 1815.0
+            },
+            "Ron Vigia Gran Anhejo": {
+                "Price": 2310.0
+            },
+            "Whisky Ballantine\u2019s 12 anhos": {
+                "Price": 1980.0
+            },
+            "Whisky Ballantine\u2019s Finest": {
+                "Price": 990.0
+            },
+            "Whisky Chivas Regal 12 anhos": {
+                "Price": 1650.0
+            },
+            "Whisky Chivas Regal 18 anhos": {
+                "Price": 4620.0
+            },
+            "Whisky Clan Campbell": {
+                "Price": 858.0
+            },
+            "Whisky J&B": {
+                "Price": 990.0
+            },
+            "Whisky Jack Daniel\u2019s": {
+                "Price": 1980.0
+            },
+            "Whisky Jameson": {
+                "Price": 990.0
+            },
+            "Whisky Johnny Walker Black Label": {
+                "Price": 1980.0
+            },
+            "Whisky Johnny Walker Blue Label": {
+                "Price": 8250.0
+            },
+            "Whisky Johnny Walker Double Black": {
+                "Price": 3300.0
+            },
+            "Whisky Johnny Walker Red Label": {
+                "Price": 990.0
+            },
+            "Whisky The Glenlivet 12 anhos": {
+                "Price": 1980.0
+            },
+            "Brandy Cognac Gautier": {
+                "Price": 3300.0
+            },
+            "Brandy Torres 10": {
+                "Price": 2310.0
+            },
+            "Brandy Torres 5": {
+                "Price": 1485.0
+            },
+            "Ginebra Gordon\u2019s": {
+                "Price": 990.0
+            },
+            "Ginebra Master": {
+                "Price": 990.0
+            },
+            "Ginebra Tanqueray": {
+                "Price": 1650.0
+            },
+            "Vodka Absolut": {
+                "Price": 1320.0
+            },
+            "Vodka Absolut Ruby Red": {
+                "Price": 1650.0
+            },
+            "Vodka Absolut Vanilia": {
+                "Price": 1650.0
+            },
+            "Vodka Russian Shot": {
+                "Price": 660.0
+            },
+            "Tequila Jarana Reposado 100% Agave": {
+                "Price": 990.0
+            },
+            "Tequila Jarana Silver 100% Agave": {
+                "Price": 660.0
+            },
+            "Tequila Jose Cuervo Reposado": {
+                "Price": 1320.0
+            },
+            "Tequila Jose Cuervo Silver": {
+                "Price": 990.0
+            },
+            "Vermouth Cinzano Bianco": {
+                "Price": 990.0
+            },
+            "Vermouth Cinzano Extra Dry": {
+                "Price": 990.0
+            },
+            "Vermouth Cinzano Rosso": {
+                "Price": 990.0
+            },
+            "Vermouth Martini Bianco": {
+                "Price": 990.0
+            },
+            "Licor Amaretto del Conti": {
+                "Price": 1320.0
+            },
+            "Licor Amarula": {
+                "Price": 1320.0
+            },
+            "Licor Anis del Mono dulce": {
+                "Price": 1320.0
+            },
+            "Licor Bailey\u2019s": {
+                "Price": 1320.0
+            },
+            "Licor Crema Catalana": {
+                "Price": 825.0
+            },
+            "Licor Frangelico": {
+                "Price": 1650.0
+            },
+            "Licor Kahlua": {
+                "Price": 990.0
+            },
+            "Licor Malibu": {
+                "Price": 660.0
+            },
+            "Licor Ricard": {
+                "Price": 990.0
+            },
+            "Licor Tia Maria": {
+                "Price": 1485.0
+            },
+            "Vino Blanco": {
+                "Price": 1155.0
+            },
+            "Vino Rosado": {
+                "Price": 1155.0
+            },
+            "Vino Tinto": {
+                "Price": 1155.0
+            },
+            "Coctel Sex on the Beach": {
+                "Price": 990.0
+            },
+            "Coctel Screwdriver": {
+                "Price": 990.0
+            },
+            "Coctel Mojito": {
+                "Price": 825.0
+            },
+            "Coctel Cubanito": {
+                "Price": 825.0
+            },
+            "Coctel Cubalibre": {
+                "Price": 825.0
+            },
+            "Agua Ciego Montero mineral gaseada": {
+                "Price": 330.0
+            },
+            "Agua Ciego Montero mineral natural": {
+                "Price": 330.0
+            },
+            "Agua Ciego Montero tonica": {
+                "Price": 330.0
+            },
+            "Agua Fever Tree tonic": {
+                "Price": 1650.0
+            },
+            "Agua MG tonic": {
+                "Price": 990.0
+            },
+            "Agua Panna": {
+                "Price": 825.0
+            },
+            "Agua San Pellegrino": {
+                "Price": 825.0
+            },
+            "Agua Schweppes tonic": {
+                "Price": 1320.0
+            },
+            "Cerveza Importada": {
+                "Price": 825.0
+            },
+            "Cerveza Nacional": {
+                "Price": 577.5
+            },
+            "Jugo La Estancia": {
+                "Price": 495.0
+            },
+            "Jugos Naturales": {
+                "Price": 495.0
+            },
+            "Malta Imp.": {
+                "Price": 495.0
+            },
+            "Malta nac.": {
+                "Price": 396.0
+            },
+            "Refresco Coca Cola": {
+                "Price": 643.5
+            },
+            "Refresco Fanta": {
+                "Price": 643.5
+            },
+            "Refresco Ironbeer": {
+                "Price": 330.0
+            },
+            "Refresco Kermato": {
+                "Price": 577.5
+            },
+            "Refresco Limon": {
+                "Price": 330.0
+            },
+            "Refresco Naranja": {
+                "Price": 330.0
+            },
+            "Refresco Pepsi": {
+                "Price": 643.5
+            },
+            "Refresco Pinhita": {
+                "Price": 330.0
+            },
+            "Refresco Sprite": {
+                "Price": 643.5
+            },
+            "Refresco Tukola": {
+                "Price": 330.0
+            },
+            "Refresco Tukola Light": {
+                "Price": 330.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Reservation_possible",
+            "Parking"
+        ],
+        "Payments_Options": {
+            "Cash": "No",
+            "Credit_Card": "No",
+            "Mobile_Payment": "No"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "True",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "No"
+        }
+    }
+}

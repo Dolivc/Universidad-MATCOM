@@ -1,0 +1,194 @@
+{
+    "Name": "Mi Terraza",
+    "Type": null,
+    "Phone_Number": null,
+    "Web_Page": null,
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday": [
+            "1100-1100"
+        ],
+        "Tuesday": [
+            "1100-1100"
+        ],
+        "Wednesday": [
+            "1100-1100"
+        ],
+        "Thursday": [
+            "1100-1100"
+        ],
+        "Friday": [
+            "1100-1100"
+        ],
+        "Saturday": [
+            "1100-1100"
+        ],
+        "Sunday": [
+            "1100-1100"
+        ]
+    },
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Calle 71 entre 24 y 26, Las Brisas",
+        "Coordinates": null
+    },
+    "Cuisine": "variada",
+    "Menu": {
+        "Breakfast": {
+            "Egg": {
+                
+            },
+            "Tortilla": {
+
+            },
+            "Hambuerguer": {
+
+            },
+            "Sandwich": {
+
+            },
+            "Bread": {
+
+            },
+            "Other": {
+
+            }
+        },
+        "Appetizers": {
+            "Crema de queso": {
+                "Price": 850.0
+            },
+            "Crema Virginia": {
+                "Price": 1100.0
+            },
+            "Pica Pica Mi Terraza": {
+                "Price": 1700.0
+            },
+            "Tostones de jamon y queso": {
+                "Price": 1000.0
+            },
+            "Tostones de atun": {
+                "Price": 1200.0
+            },
+            "Fajitas de pollo (con mayonesa)": {
+                "Price": 1000.0
+            },
+            "Ensalada de pollo": {
+                "Price": 400.0
+            },
+            "Frituras de malanga (con miel)": {
+                "Price": 400.0
+            },
+            "Bolitas de queso (con miel)": {
+                "Price": 400.0
+            },
+            "Croquetas (con mayonesa)": {
+                "Price": 400.0
+            },
+            "Chicharritas": {
+                "Price": 300.0
+            },
+            "Papas prefritas": {
+                "Price": 600.0
+            }
+        },
+        "Main_Courses": {
+            "Pasta": {
+                "espaguetis napolitanos": {
+                    "Price": 1000.0
+                },
+                "Espaguetis de jamon": {
+                    "Price": 1250.0
+                },
+                "Espaguetis de atun": {
+                    "Price": 1400.0
+                },
+                "Espaguetis a la Carbonara": {
+                    "Price": 1600.0
+                },
+                "Espaguetis doble queso": {
+                    "Price": 1500.0
+                },
+                "Canelon": {
+                    "Price": 1500.0
+                }
+            },
+            "Pizza": {
+                "Pizza Napolitana": {
+                    "Price": 1200.0
+                },
+                "Pizza Hawaiana": {
+                    "Price": 1700.0
+                },
+                "Pizza Mi Terraza": {
+                    "Price": 1800.0
+                }
+            },
+            "Pork": {
+                
+            },
+            "Chicken": {
+                
+            },
+            "Beef": {
+                
+            },
+            "Sea": {
+                
+            },
+            "Other": {
+                
+            }
+        },
+        "Extras": {
+            
+        },
+        "Desserts": {
+            
+        },
+        "Beverages": {
+            "Limonada Frappe": {
+                "Price": 350.0
+            },
+            "Malteada": {
+                "Price": 500.0
+            },
+            "Batidos (mango, fruta bomba o guayaba)": {
+                "Price": 400.0
+            },
+            "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)": {
+                "Price": 600.0
+            },
+            "Chelada": {
+                "Price": 550.0
+            }
+        },
+        "most_sold": {
+            "Dish": [],
+            "Drink": []
+        },
+        "least_sold": {
+            "Dish": [],
+            "Drink": []
+        }
+    },
+    "Other Info": {
+        "Entertainment": [],
+        "Facilities": [
+            "Bathroom",
+            "Reservation_possible",
+            "Delivery"
+        ],
+        "Payments_Options": {
+            "Cash": false,
+            "Credit_Card": false,
+            "Mobile_Payment": false
+        },
+        "Accepted_Currencies": {
+            "National_Currency": null,
+            "US_Dollars": null,
+            "Euros": null,
+            "Others": null
+        }
+    }
+}
