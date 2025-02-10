@@ -174,10 +174,10 @@
             "Jarra de Cerveza dispensada": {
                 "Price": 300
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 250
             },
-            "cerveza nacional": {
+            "Cerveza": {
                 "Price": 290
             },
             "Michelada mexicana": {

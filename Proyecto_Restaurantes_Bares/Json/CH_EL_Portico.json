@@ -85,34 +85,34 @@
             
         },
         "Beverages": {
-            "cerveza dispensada (jarra)": {
+            "Cerveza dispensada (jarra)": {
                 "Price": 300
             },
-            "cerveza dispensada (termo)": {
+            "Cerveza dispensada (termo)": {
                 "Price": 2000
             },
-            "cerveza parranda": {
+            "Cerveza parranda": {
                 "Price": 400
             },
-            "cerveza hollandia": {
+            "Cerveza hollandia": {
                 "Price": 200
             },
-            "cerveza cacique": {
+            "Cerveza cacique": {
                 "Price": 240
             },
-            "cerveza unlaguer": {
+            "Cerveza unlaguer": {
                 "Price": 200
             },
-            "cerveza La Fria": {
+            "Cerveza La Fria": {
                 "Price": 180
             },
-            "cerveza almara": {
+            "Cerveza almara": {
                 "Price": 180
             },
-            "cerveza bucanero": {
+            "Cerveza bucanero": {
                 "Price": 240
             },
-            "cerveza cristal": {
+            "Cerveza cristal": {
                 "Price": 250
             }
         },

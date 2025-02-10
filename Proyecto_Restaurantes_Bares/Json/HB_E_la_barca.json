@@ -163,7 +163,7 @@
             }
         },
         "Beverages": {
-            "Cerveza Nacional": {
+            "Cerveza": {
                 "Price": 200
             },
             "Cerveza Importada": {

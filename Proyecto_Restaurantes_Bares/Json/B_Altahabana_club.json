@@ -312,19 +312,19 @@
             "margarita": {
                 "Price": 750.0
             },
-            "cerveza nacional (lata)": {
+            "Cerveza (lata)": {
                 "Price": 450.0
             },
-            "cerveza nacional (botella)": {
+            "Cerveza (botella)": {
                 "Price": 500.0
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 400.0
             },
-            "cerveza corona": {
+            "Cerveza corona": {
                 "Price": 600.0
             },
-            "cerveza heineken": {
+            "Cerveza heineken": {
                 "Price": 550.0
             },
             "servicio de chelada": {

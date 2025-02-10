@@ -113,7 +113,7 @@
         },
         "most_sold": {
             "Dish": ["Paella"],
-            "Drink": ["Cerveza nacional"]
+            "Drink": ["Cerveza"]
         },
         "least_sold": {
             "Dish": [],

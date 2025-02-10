@@ -371,13 +371,13 @@
             "Malta": {
                 "Price": 400
             },
-            "Jarra de cerveza": {
+            "Jarra de Cerveza": {
                 "Price": 500
             },
             "Cerveza importada": {
                 "Price": 440
             },
-            "Cerveza nacional": {
+            "Cerveza": {
                 "Price": 500
             },
             "Cerveza sol": {
@@ -389,7 +389,7 @@
             "Michelada": {
                 "Price": 950
             },
-            "Cubetazo cerveza importada": {
+            "Cubetazo Cerveza importada": {
                 "Price": 3850
             },
             "Cubetazo corona, cristal, bucanero": {

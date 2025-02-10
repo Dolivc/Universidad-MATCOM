@@ -109,7 +109,7 @@
             "Cerveza importada": {
                 "Price": 175
             },
-            "Cerveza nacional": {
+            "Cerveza": {
                 "Price": 160
             },
             "Parranda 500ML": {
@@ -145,7 +145,7 @@
         },
         "most_sold": {
             "Dish": ["Cerdo estofado"],
-            "Drink": ["Cerveza nacional","Refresco"]
+            "Drink": ["Cerveza","Refresco"]
         },
         "least_sold": {
             "Dish": [],

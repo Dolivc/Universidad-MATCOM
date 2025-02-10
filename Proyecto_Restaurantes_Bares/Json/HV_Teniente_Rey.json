@@ -170,10 +170,10 @@
             "Agua tonica": {
                 "Price": 450
             },
-            "Cerveza nacional enlatada": {
+            "Cerveza enlatada": {
                 "Price": 360
             },
-            "Cerveza nacional en botella": {
+            "Cerveza en botella": {
                 "Price": 460
             },
             "Cerveza importada": {

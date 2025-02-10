@@ -149,7 +149,7 @@
                 }
             },
             "Chicken": {
-                "Arroz con pollo en bano de cerveza": {
+                "Arroz con pollo en bano de Cerveza": {
                     "Price": 1650
                 },
                 "Suprema de pollo grille": {
@@ -276,7 +276,7 @@
             "Energizante": {
                 "Price": 280
             },
-            "Cerveza nacional": {
+            "Cerveza": {
                 "Price": 350
             },
             "Malta": {

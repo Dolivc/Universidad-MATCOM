@@ -483,19 +483,19 @@
             "Limonada frescura": {
                 "Price": 500
             },
-            "Cerveza Nacional": {
+            "Cerveza": {
                 "Price": 600.0
             },
             "Cerveza Importada": {
                 "Price": 800.0
             },
-            "Michelada con Cerveza Nacional": {
+            "Michelada con Cerveza": {
                 "Price": 1150.0
             },
             "Michelada con Cerveza Importada": {
                 "Price": 1280.0
             },
-            "Chelada con Cerveza Nacional": {
+            "Chelada con Cerveza": {
                 "Price": 900.0
             },
             "Chelada con Cerveza Importada": {
@@ -504,7 +504,7 @@
             "Kermato": {
                 "Price": 850.0
             },
-            "El cubetazo (5 cervezas bien frias)": {
+            "El cubetazo (5 Cervezas bien frias)": {
                 "Price": 2750.0
             },
             "El tulazo": {

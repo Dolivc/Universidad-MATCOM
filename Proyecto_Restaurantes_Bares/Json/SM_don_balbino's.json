@@ -245,16 +245,16 @@
             "refresco nacional": {
                 "Price": 500
             },
-            "cerveza dispensada": {
+            "Cerveza dispensada": {
                 "Price": 400
             },
-            "cerveza Heineken": {
+            "Cerveza Heineken": {
                 "Price": 500
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 350
             },
-            "cerveza nacional": {
+            "Cerveza": {
                 "Price": 350
             },
             "chelada": {

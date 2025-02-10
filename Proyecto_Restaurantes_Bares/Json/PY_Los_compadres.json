@@ -333,13 +333,13 @@
             "Te frio / caliente": {
                 "Price": 100
             },
-            "Cerveza nacional": {
+            "Cerveza": {
                 "Price": 400
             },
             "Cerveza importada": {
                 "Price": 350
             },
-            "Cerveza nacional en botella": {
+            "Cerveza en botella": {
                 "Price": 450
             },
             "Cerveza Corona": {

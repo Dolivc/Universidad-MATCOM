@@ -225,10 +225,10 @@
             "bebida energizante": {
                 "Price": 100.0
             },
-            "cervezas": {
+            "Cervezas": {
                 "Price": 330.0
             },
-            "cerveza cristal": {
+            "Cerveza cristal": {
                 "Price": 300.0
             },
             "cafe": {

@@ -320,7 +320,7 @@
             "energizante": {
                 "Price": 360
             },
-            "Cerveza Nacional": {
+            "Cerveza": {
                 "Price": 480
             },
             "Cerveza Importada": {
@@ -329,7 +329,7 @@
         },
         "most_sold": {
             "Dish": ["ropa vieja","chuleta"],
-            "Drink": ["cerveza"]
+            "Drink": ["Cerveza"]
         },
         "least_sold": {
             "Dish": ["brocheta"],

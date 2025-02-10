@@ -308,10 +308,10 @@
             "Malteada": {
                 "Price": 274
             },
-            "Cana de cerveza": {
+            "Cana de Cerveza": {
                 "Price": 512
             },
-            "Jarra de cerveza": {
+            "Jarra de Cerveza": {
                 "Price": 1650
             },
             "Jarrazo": {
@@ -320,7 +320,7 @@
             "Michelada": {
                 "Price": 308
             },
-            "Cerveza nacional": {
+            "Cerveza": {
                 "Price": 308
             },
             "Cerveza importada": {

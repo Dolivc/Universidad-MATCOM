@@ -200,25 +200,25 @@
             "red bull": {
                 "Price": 830
             },
-            "cerveza internacional": {
+            "Cerveza internacional": {
                 "Price": 350
             },
             "dispensada cristal":{
                 "Price":350
             },
-            "cerveza bucanero": {
+            "Cerveza bucanero": {
                 "Price": 550
             },
-            "cerveza cristal": {
+            "Cerveza cristal": {
                 "Price": 550
             },
-            "cerveza corona": {
+            "Cerveza corona": {
                 "Price": 750
             },
-            "cerveza sol": {
+            "Cerveza sol": {
                 "Price": 750
             },
-            "cerveza heineken": {
+            "Cerveza heineken": {
                 "Price": 750
             },
             "servicio michelada": {

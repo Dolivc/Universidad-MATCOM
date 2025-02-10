@@ -271,10 +271,10 @@
             "energizante tacon": {
                 "Price": 480.0
             },
-            "cerveza nacional": {
+            "Cerveza": {
                 "Price": 250.0
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 290.0
             },
             "servicio de chinchada": {

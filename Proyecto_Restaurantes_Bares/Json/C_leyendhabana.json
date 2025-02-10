@@ -152,7 +152,7 @@
                 "Price": 66000.0
             },
             "Ron Havana Club Reserva": {
-                "Price": 726.0000000000001
+                "Price": 726
             },
             "Ron Havana Club Ritual": {
                 "Price": 660.0
@@ -325,7 +325,7 @@
             "Coctel Screwdriver": {
                 "Price": 990.0
             },
-            "Coctel Mojito": {
+            "Mojito": {
                 "Price": 825.0
             },
             "Coctel Cubanito": {
@@ -361,7 +361,7 @@
             "Cerveza Importada": {
                 "Price": 825.0
             },
-            "Cerveza Nacional": {
+            "Cerveza": {
                 "Price": 577.5
             },
             "Jugo La Estancia": {

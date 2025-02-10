@@ -1169,16 +1169,16 @@
             "kermato": {
                 "Price": 600.0
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 280.0
             },
-            "cerveza nacional": {
+            "Cerveza": {
                 "Price": 370.0
             },
-            "cerveza corona": {
+            "Cerveza corona": {
                 "Price": 500.0
             },
-            "cerveza heineken": {
+            "Cerveza heineken": {
                 "Price": 500.0
             },
             "expreso": {

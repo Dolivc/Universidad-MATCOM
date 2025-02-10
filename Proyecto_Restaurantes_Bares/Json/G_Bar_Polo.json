@@ -195,7 +195,7 @@
             }
         },
         "Beverages": {
-            "Cerveza Nacional": {
+            "Cerveza": {
                 "Price": 350
             },
             "Cerveza importada": {
@@ -231,7 +231,7 @@
         },
         "most_sold": {
             "Dish": ["Mar y Tierra"],
-            "Drink": ["Cerveza Nacional"]
+            "Drink": ["Cerveza"]
         },
         "least_sold": {
             "Dish": ["Chicken"],

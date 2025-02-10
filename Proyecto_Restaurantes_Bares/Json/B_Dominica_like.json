@@ -231,13 +231,13 @@
             "agua gaseada carci crespq": {
                 "Price": 300.0
             },
-            "cerveza heineken": {
+            "Cerveza heineken": {
                 "Price": 450.0
             },
-            "cerveza nacional": {
+            "Cerveza": {
                 "Price": 350.0
             },
-            "cerveza importada": {
+            "Cerveza importada": {
                 "Price": 280.0
             },
             "servicio de michelada": {
