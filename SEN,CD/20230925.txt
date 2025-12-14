@@ -1,8 +1,0 @@
-En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 06:07 horas hasta las 00:04 horas de la madrugada de hoy.
-La máxima afectación en el día fue de 750 MW a las 18:50 horas, no coincidente con la hora pico
-La disponibilidad del SEN a las 07:00 horas es de 2080 MW y la demanda 2000 MW, con todo el sistema con servicio. Se estima que a partir de las 10:00 horas se comience a afectar el servicio por déficit de capacidad de generación, la misma se mantendrá durante todo el dia.
-Se encuentra fuera de servicio por avería la CTE Guiteras, la unidad 3 de CTE Santa Cruz y la unidad 2 de la CTE Felton. En mantenimiento la unidad 6 de Energás Boca de Jaruco y la unidad 5 de la CTE Renté.
-Se mantienen las limitaciones en la generación térmica (391 MW).
-En la generación distribuida, están indisponibles por avería 1007 MW y en mantenimiento 172 MW
-Para el pico se estima la entrada de 85 MW en la generación distribuida, la entrada de la unidad de la CTE Guiteras con 270 MW y la entrada de 4 motores en la patana de Melones con 60 MW.
-Con este pronóstico, se estima para la hora pico una disponibilidad de 2495 MW y una demanda máxima de 2950 MW, para un déficit de 455 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 525 MW en este horario.

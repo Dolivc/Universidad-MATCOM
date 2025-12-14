@@ -1,0 +1,152 @@
+{
+
+    "Name": "Ale's Supermarket",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "Línea / 10 & 12",
+        "coordinates": {}
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Blanco": {
+                "Exporting Country": "Brazil",
+                "Brand": "Sublime",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz Largo Fino": {
+                "Exporting Country": "Cuba",
+                "Brand": "TropiGusto",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Arroz Super Extra": {
+                "Exporting Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "2/11/25",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            "Leche Entera": {
+                "Exporting Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "4/11/25",
+                    "Price": 1300.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            },
+            "Leche": {
+                "Exporting Country": "España",
+                "Brand": "Covap",
+                "Date": {
+                    "Day": "4/11/25",
+                    "Price": 1300.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            }
+        },
+        "Other":{
+            "Azúcar Crystal": {
+                "Exporting Country": "Brazil",
+                "Brand": "Santaisabel",
+                "Date": {
+                    "Day": "2/11/25",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Azúcar": {
+                "Exporting Country": "Brazil",
+                "Brand": "Energy",
+                "Date": {
+                    "Day": "13/11/25",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Fijoles Negros": {
+                "Exporting Country": "Estados Unidos",
+                "Brand": "Del Campo",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 0.450
+            },
+            "Spaghetti": {
+                "Exporting Country": "Italia",
+                "Brand": "Ada",
+                "Date": {
+                    "Day": "18/11/25",
+                    "Price": 500.0
+                },
+                "Unity": "kg",
+                "Count": 0.500
+            },
+            "Pechuga de Pollo": {
+                "Exporting Country": "Estados Unidos",
+                "Brand": "Aurora",
+                "Date": {
+                    "Day": "26/11/2025",
+                    "Price": 4800.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            }
+        },
+        "Hygienic":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+        
+                "Exporting Country": ""
+            },
+            "": {
+        
+                "Exporting Country": ""
+            }
+        }
+    }
+}

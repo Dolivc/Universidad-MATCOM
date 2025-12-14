@@ -1,0 +1,113 @@
+{
+
+    "Name": "Familia Peréz",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "23 & 24",
+        "coordinates": {}
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Blanco": {
+                "Exporting Country": "Mexico",
+                "Brand": "Onix",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 670.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Fijoles Negros": {
+                "Exporting Country": "Brazil",
+                "Brand": "Sublime",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 1000.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Other":{
+            "Espaguetti": {
+                "Exporting Country": "Italia",
+                "Brand": "Dolcezza",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 350.0
+                },
+                "Unity": "kg",
+                "Count": 0.5
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+        
+                "Exporting Country": ""
+            },
+            "": {
+        
+                "Exporting Country": ""
+            }
+        }
+    }
+}

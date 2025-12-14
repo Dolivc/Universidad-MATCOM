@@ -1,0 +1,117 @@
+{
+
+    "Name": "Canelita",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "Calzada / H e I",
+        "coordinates": {
+            "latitude": 23.144289242769883,
+            "longitude": -82.39233474133954
+        }
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Blanco Super Extra": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "18/10/25",
+                    "Price": 950.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Drinks": {
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Other":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+        
+                "Exporting Country": ""
+            },
+            "": {
+        
+                "Exporting Country": ""
+            }
+        }
+    }
+}

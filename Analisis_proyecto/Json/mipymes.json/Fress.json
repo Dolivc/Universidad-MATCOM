@@ -1,0 +1,113 @@
+{
+    "Name": "Fress",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "23 & 12",
+        "coordinates": {}
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Extra": {
+                "Exporting Country": "España",
+                "Brand": "Conviran",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 1600.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz Integral": {
+                "Exporting Country": "España",
+                "Brand": "Conviran",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 1575.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Other":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+        
+                "Exporting Country": ""
+            },
+            "": {
+        
+                "Exporting Country": ""
+            }
+        }
+    }
+}

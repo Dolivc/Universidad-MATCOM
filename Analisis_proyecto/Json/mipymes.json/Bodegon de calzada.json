@@ -1,0 +1,90 @@
+{
+
+    "Name": "Bodegón de Calzada",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "Calzada / Paseo & A",
+        "coordinates": {
+                        "latitude": 23.137886472972525,
+                        "longitude": -82.39905099268489
+                    }
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Blanco": {
+                "Exporting Country": "Brazil",
+                "Brand": "Camil",
+                "Date": {
+                    "Day": "18/10/25",
+                    "Price": 680.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Drinks": {
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Other":{
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": "",
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+                "Exporting Country": ""
+            },
+            "": {
+                "Exporting Country": ""
+            }
+        }
+    }
+}

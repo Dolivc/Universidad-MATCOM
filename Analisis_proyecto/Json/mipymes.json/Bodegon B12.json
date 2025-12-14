@@ -1,0 +1,114 @@
+{
+
+    "Name": "Bodegón B12",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Plaza de la Revolución",
+        "Address": "",
+        "coordinates": {}
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz Blanco": {
+                "Exporting Country": "Brazil",
+                "Brand": "Qbanito",
+                "Date": {
+                    "Day": "25/10/25",
+                    "Price": 700.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Drinks": {
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Other":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "": {
+        
+                "Exporting Country": "",
+                "Brand": "",
+                "Date": {
+                    "Day": "",
+                    "Price": 0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Household appliances":{
+            "": {
+        
+                "Exporting Country": ""
+            },
+            "": {
+        
+                "Exporting Country": ""
+            }
+        }
+    }
+}
