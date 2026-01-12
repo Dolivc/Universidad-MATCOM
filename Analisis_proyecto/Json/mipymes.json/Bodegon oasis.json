@@ -1,0 +1,65 @@
+{
+
+    "Name": "bodegón oasis",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanca": {
+                "Exporting_Country": "Mexico",
+                "Brand": "Kmd gold",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 0.9
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Sal marina": {
+        
+                "Exporting_Country": "Malasia",
+                "Brand": "Polasal",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 485.0
+                },
+                "Unity": "kg",
+                "Count": 0.25
+            },
+            "Azucar blanca": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Uniao",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 730.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Friato",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 5300.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            }
+
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

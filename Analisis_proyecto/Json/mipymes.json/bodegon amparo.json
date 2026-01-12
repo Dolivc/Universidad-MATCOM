@@ -1,0 +1,73 @@
+{
+
+    "Name": "bodegón amaparo",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Boyeros",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 650.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz": {
+                "Exporting_Country": "Bolivia",
+                "Brand": "Deliarroz",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 650.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Cuba",
+                "Brand": "Delicias estrellas",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 1950.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Picadillo de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "gui bon",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 400.0
+                },
+                "Unity": "kg",
+                "Count": 0.4
+            },
+            "Aceite de girasol": {
+                "Exporting_Country": "Mexico",
+                "Brand": "Hysa",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 1150.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+           
+        }
+    }
+}

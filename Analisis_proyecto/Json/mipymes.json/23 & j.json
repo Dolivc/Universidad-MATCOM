@@ -1,0 +1,73 @@
+{
+
+    "Name": "23 & j",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "esq. 23 & j"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Italia",
+                "Brand": "Arborio",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 1850.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz Blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Doña Iza",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 650.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Salchichas de pollo": {
+        
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "11-10-2025",
+                    "Price": 1050.0
+                },
+                "Unity": "kg",
+                "Count": 0.35
+            },
+            "Aceite de girasol": {
+        
+                "Exporting_Country": "Argentina",
+                "Brand": "Laura",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 990.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            },
+            "Pollo entero": {
+                "Exporting_Country": null,
+                "Brand": "Golden phoenix",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 3000.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

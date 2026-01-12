@@ -1,0 +1,104 @@
+{
+
+    "Name": "bodegón d'k",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "calle k e/ 17 & 15"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Guyana",
+                "Brand": "karibee",
+                "Date": {
+                    "Day": "12/11/2025",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Frijoles negros": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Cister",
+                "Date": {
+                    "Day": "12/11/2025",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 0.5
+            },
+            "Frijoles": {
+                "Exporting_Country": "USA",
+                "Brand": "delCampo",
+                "Date": {
+                    "Day": "12/11/2025",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            }
+        },
+        "Drinks": {
+            
+            },
+        "Other":{
+            "Pechuga de pollo": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Friato",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 5300.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            },
+            "Pollo enetero": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Seara",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 2200.0
+                },
+                "Unity": "kg",
+                "Count": 1.3
+            },
+            "Sal marina": {
+        
+                "Exporting_Country": "Malasia",
+                "Brand": "Polasal",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 500.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Azucar blanca": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Energy",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Azucar": {
+                "Exporting_Country": "Colombia",
+                "Brand": "Ingenia carmelita",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 1600.0
+                },
+                "Unity": "kg",
+                "Count": 2.5
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

@@ -4,16 +4,12 @@
     "Currency": "CUP",
     "Location": {
         "District": "Plaza de la Revolución",
-        "Address": "Calzada / L & K",
-        "coordinates": {
-            "latitude": 23.14548294568802,
-            "longitude": -82.38870839480781
-        }
+        "Address": "Calzada / L & K"
     },
     "Products": {
         "Nutritious": {
             "Long Grane White Rice": {
-                "Exporting Country": "Brazil",
+                "Exporting_Country": "Brasil",
                 "Brand": "Energy",
                 "Date": {
                     "Day": "18/10/25",
@@ -21,97 +17,16 @@
                 },
                 "Unity": "kg",
                 "Count": 1.0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
             }
         },
         "Drinks": {
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+            
         },
         "Other":{
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+            
         },
         "Hygienic":{
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
-        },
-        "Household appliances":{
-            "": {
-        
-                "Exporting Country": ""
-            },
-            "": {
-        
-                "Exporting Country": ""
-            }
+            
         }
     }
 }

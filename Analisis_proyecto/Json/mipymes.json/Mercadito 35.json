@@ -1,0 +1,54 @@
+{
+
+    "Name": "mercadito 35",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            
+        },
+        "Drinks": {
+
+        },
+        "Other":{
+            "Azucar blanca": {
+        
+                "Exporting_Country": "Cuba",
+                "Brand": "Tropigusto",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 350.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Aceite de soja": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Saude",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 990.0
+                },
+                "Unity": "lt",
+                "Count": 0.9
+            },
+            "Salchichas de pollo": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Viking",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 400.0
+                },
+                "Unity": "kg",
+                "Count": 0.34
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

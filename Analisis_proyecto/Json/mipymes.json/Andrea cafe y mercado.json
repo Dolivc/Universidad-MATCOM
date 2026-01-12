@@ -1,0 +1,42 @@
+{
+
+    "Name": "Andrea | café & mercado",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "esq. 23 & 12"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "pasta espaguetti": {
+        
+                "Exporting_Country": "Turquia",
+                "Brand": "Doga",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 400.0
+                },
+                "Unity": "kg",
+                "Count": 0.5
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

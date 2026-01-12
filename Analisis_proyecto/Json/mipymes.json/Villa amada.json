@@ -1,54 +1,63 @@
 {
 
-    "Name": "Canelita",
+    "Name": "Villa amada",
     "Currency": "CUP",
     "Location": {
-        "District": "Plaza de la Revolución",
-        "Address": "Calzada / H e I"
+        "District": "plaza de la revolución",
+        "Address": "calle 25 e/ j & i"
     },
     "Products": {
         "Nutritious": {
-            "Arroz Super Extra": {
-                "Exporting_Country": "Mexico",
-                "Brand": "San Diego",
+            "Arroz blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Sadia",
                 "Date": {
-                    "Day": "18/10/25",
-                    "Price": 950.0
+                    "Day": "11/10/2025",
+                    "Price": 3700.0
                 },
                 "Unity": "kg",
                 "Count": 1.0
             },
             "Frijoles negros": {
-        
                 "Exporting_Country": "USA",
                 "Brand": "DelCampo",
                 "Date": {
                     "Day": "11/10/2025",
-                    "Price": 750.0
+                    "Price": 670.0
                 },
                 "Unity": "kg",
                 "Count": 0.454
             },
             "Frijoles colorados": {
-        
                 "Exporting_Country": "USA",
                 "Brand": "DelCampo",
                 "Date": {
                     "Day": "11/10/2025",
-                    "Price": 800.0
+                    "Price": 670.0
                 },
                 "Unity": "kg",
                 "Count": 0.454
             }
         },
         "Drinks": {
+
             
         },
         "Other":{
-            
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Sadia",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 3700.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
         },
         "Hygienic":{
-            
+          
         }
     }
 }

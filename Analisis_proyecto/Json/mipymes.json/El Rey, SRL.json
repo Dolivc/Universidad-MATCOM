@@ -4,17 +4,13 @@
     "Currency": "CUP",
     "Location": {
         "District": "Plaza de la Revolución",
-        "Address": "Calle F / 3ra y 5ta, Edif. 53, Vedado",
-        "coordinates": {
-            "latitude": 23.143549338937667,
-            "longitude": -82.39613274924378
-        }
+        "Address": "Calle F / 3ra y 5ta, Edif. 53, Vedado"
     },
     "Products": {
         "Nutritious": {
-            "Arroz Blanco Top": {
-                "Exporting Country": "",
-                "Brand": "",
+            "Arroz": {
+                "Exporting_Country": "España",
+                "Brand": "Huerto San Genaro",
                 "Date": {
                     "Day": "18/10/25",
                     "Price": 850.0
@@ -22,9 +18,9 @@
                 "Unity": "kg",
                 "Count": 1.0
             },
-            "Arroz Blanco Largo": {
-                "Exporting Country": "",
-                "Brand": "",
+            "Arroz Blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Vivarroz",
                 "Date": {
                     "Day": "18/10/25",
                     "Price": 1320.0
@@ -34,78 +30,13 @@
             }
         },
         "Drinks": {
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+        
         },
         "Other":{
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+            
         },
         "Hygienic":{
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
-        },
-        "Household appliances":{
-            "": {
-                "Exporting Country": ""
-            },
-            "": {
-                "Exporting Country": ""
-            }
+            
         }
     }
 }

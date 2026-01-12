@@ -1,0 +1,551 @@
+[
+    {
+        "name": "Yogurt probiótico de fresa Gustó Premium",
+        "flavor": "Fresa",
+        "Type": "probiótico",
+        "count": "500 ml",
+        "price": 1.75,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico natural deLola",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.15,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de vainilla deLola",
+        "flavor": "Vainilla",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.93,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de fresa deLola",
+        "flavor": "Fresa",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.93,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico con pulpa de guayaba deLola",
+        "flavor": "Guayaba",
+        "Type": "probiótico",
+        "count": "500 ml",
+        "price": 2.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico natural con azúcar deLola",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.59,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt natural Gustatini",
+        "flavor": "Natural",
+        "Type": null,
+        "count": "1 L",
+        "price": 3.57,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt de fresa Gustatini",
+        "flavor": "Fresa",
+        "Type": null,
+        "count": "4 L",
+        "price": 15.86,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt de maracuyá Gustatini",
+        "flavor": "Maracuyá",
+        "Type": null,
+        "count": "1 L",
+        "price": 3.57,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt de guanábana Gustatini",
+        "flavor": "Guanábana",
+        "Type": null,
+        "count": "1 L",
+        "price": 3.57,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt natural Gustatini",
+        "flavor": "Natural",
+        "Type": null,
+        "count": "4 L",
+        "price": 15.88,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt saborizado de coco Cid",
+        "flavor": "Coco",
+        "Type": null,
+        "count": "1 L",
+        "price": 3.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt batido de fresa RHD",
+        "flavor": "Fresa",
+        "Type": null,
+        "count": "920 ml",
+        "price": 2.4,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico natural Santa Ana",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 14.11,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt de melocotón con probióticos Yokey",
+        "flavor": "Melocotón",
+        "Type": "probiótico",
+        "count": "1.54 L",
+        "price": 7.24,
+        "currency": "USD",
+        "country_of_origin": "USA"
+    },
+    {
+        "name": "Yogurt de guanábana con probióticos Yokey",
+        "flavor": "Guanábana",
+        "Type": "probiótico",
+        "count": "1.54 L",
+        "price": 7.24,
+        "currency": "USD",
+        "country_of_origin": "USA"
+    },
+    {
+        "name": "Yogurt de guayaba con probióticos Yokey",
+        "flavor": "Guayaba",
+        "Type": "probiótico",
+        "count": "1.54 L",
+        "price": 7.24,
+        "currency": "USD",
+        "country_of_origin": "USA"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo natural RHD",
+        "flavor": "Natural",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 2.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico saborizado de fresa Cid",
+        "flavor": "Fresa",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico natural Santa Ana",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "1 L",
+        "price": 3.67,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt Fitness 0% azúcar RHD",
+        "flavor": "Natural",
+        "Type": null,
+        "count": "4 L",
+        "price": 12.34,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo natural RHD",
+        "flavor": "Natural",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.34,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt de mango con probióticos Yokey",
+        "flavor": "Mango",
+        "Type": "probiótico",
+        "count": "1.54 L",
+        "price": 7.24,
+        "currency": "USD",
+        "country_of_origin": "USA"
+    },
+    {
+        "name": "Yogurt de guanábana con probióticos YEYA",
+        "flavor": "Guanábana",
+        "Type": "probiótico",
+        "count": "1.54 L",
+        "price": 6.19,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt natural con azúcar con probióticos YEYA",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "237 ml",
+        "price": 1.59,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico saborizado de naranja Cid",
+        "flavor": "Naranja",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico 100 % natural Cid",
+        "flavor": "Natural",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor fresa Alask",
+        "flavor": "Fresa",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo 100 % natural Cid",
+        "flavor": "Natural",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor platanito Alask",
+        "flavor": "Platanito",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor guanábana RHD",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.34,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor guanábana Alask",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor durazno Alask",
+        "flavor": "Durazno",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo saborizado de naranja Cid",
+        "flavor": "Naranja",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor natural Alask",
+        "flavor": "Natural",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico saborizado de naranja piña Cid",
+        "flavor": "Naranja Piña",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor guanábana RHD",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 2.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo saborizado de guanábana Cid",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor fresa Alask",
+        "flavor": "Fresa",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt griego",
+        "flavor": "Natural",
+        "Type": null,
+        "count": "1 L",
+        "price": 8.15,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor coco RHD",
+        "flavor": "Coco",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 2.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor platanito Alask",
+        "flavor": "Platanito",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor natural Alask",
+        "flavor": "Natural",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor vainilla RHD",
+        "flavor": "Vainilla",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.34,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor guanábana RHD",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 2.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor guanábana Alask",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo saborizado de guanábana Cid",
+        "flavor": "Guanábana",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 13.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt natural Pascual",
+        "flavor": "Natural",
+        "Type": null,
+        "count": "480 g / 1.06 lb",
+        "price": 3.11,
+        "currency": "USD",
+        "country_of_origin": "España"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor fresa Alask",
+        "flavor": "Fresa",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor fresa RHD",
+        "flavor": "Fresa",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.34,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo saborizado de naranja Cid",
+        "flavor": "Naranja",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor platanito Alask",
+        "flavor": "Platanito",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor coco RHD",
+        "flavor": "Coco",
+        "Type": "probiótico",
+        "count": "1 L",
+        "price": 2.97,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor frutos del bosque Alask",
+        "flavor": "Frutos del Bosque",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor manzana verde Alask",
+        "flavor": "Manzana verde",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico especial sabor naranja Lialy's",
+        "flavor": "Naranja",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.41,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor leche condensada Alask",
+        "flavor": "Leche condensada",
+        "Type": "probiótico de coágulo",
+        "count": "4 L",
+        "price": 12.2,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo sabor leche condensada Alask",
+        "flavor": "Leche condensada",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.32,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico de coágulo saborizado de naranja piña Cid",
+        "flavor": "Naranja Piña",
+        "Type": "probiótico de coágulo",
+        "count": "1 L",
+        "price": 3.68,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico especial sabor coco Lialy's",
+        "flavor": "Coco",
+        "Type": "probiótico",
+        "count": "4 L",
+        "price": 13.41,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    },
+    {
+        "name": "Yogurt probiótico pasteurizado sabor mango Yeya",
+        "flavor": "Mango",
+        "Type": "probiótico pasteurizado",
+        "count": "1.65 L",
+        "price": 7.69,
+        "currency": "USD",
+        "country_of_origin": "Cuba"
+    }
+]

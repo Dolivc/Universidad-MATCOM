@@ -1,0 +1,120 @@
+{
+
+    "Name": "La Mimosa",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Salud"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz": {
+                "Exporting_Country": "España",
+                "Brand": "Huerto San Genaro",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 910.0
+                },
+                "Unity": "lb",
+                "Count": 1.0
+            },
+            "Frijoles Colorados": {
+                "Exporting_Country": "USA",
+                "Brand": "Del Campo",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 910.0
+                },
+                "Unity": "lb",
+                "Count": 1.0
+            },
+            "Lentejas": {
+                "Exporting_Country": "USA",
+                "Brand": "Del Campo",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 735.0
+                },
+                "Unity": "lb",
+                "Count": 1.0
+            },
+            "Frijoles Negros": {
+                "Exporting_Country": "USA",
+                "Brand": "Del Campo",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 735.0
+                },
+                "Unity": "lb",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            "Yogurt Natural": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 270.0
+                },
+                "Unity": "ml",
+                "Count": 100.0
+            },
+            "Yogurt de Fresa": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 270.0
+                },
+                "Unity": "ml",
+                "Count": 100.0
+            },
+            "Yogurt de Macedonia": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 270.0
+                },
+                "Unity": "ml",
+                "Count": 100.0
+            },
+            "Yogurt de Platano": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 270.0
+                },
+                "Unity": "ml",
+                "Count": 100.0
+            }
+        },
+        "Other":{
+            "Salsa de Tomate Pasta de ajo": {
+                "Exporting_Country": "Italia",
+                "Brand": "Mantia's",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 1700.0
+                },
+                "Unity": "g",
+                "Count": 680.0
+            },
+            "Passata Dipomara": {
+                "Exporting_Country": "Italia",
+                "Brand": "DiCarto",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 1310.0
+                },
+                "Unity": null,
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

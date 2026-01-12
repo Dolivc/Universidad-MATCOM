@@ -1,0 +1,63 @@
+{
+
+    "Name": "m & l",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Frijoles negros": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 1000.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Frijoles colorados": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 0.454
+                },
+                "Unity": "11/10/2025",
+                "Count": 0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Azucar blanca": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Energy",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "sal marina": {
+        
+                "Exporting_Country": "Malasia",
+                "Brand": "Polasal",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 720.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+           
+        }
+    }
+}

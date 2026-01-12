@@ -1,0 +1,101 @@
+{
+
+    "Name": "Mercadito",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Frijoles Negro": {
+                "Exporting_Country": "Panama",
+                "Brand": "Nutritos",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 700.0
+                },
+                "Unity": "lb",
+                "Count": 1.0
+            },
+            "Frijoles Negros": {
+                "Exporting_Country": "Etiopia",
+                "Brand": "Cister",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 650.0
+                },
+                "Unity": "g",
+                "Count": 500.0
+            },
+            "Arroz Super Extra": {
+                "Exporting_Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 700.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Spaguetti": {
+                "Exporting_Country": "Turquia",
+                "Brand": "OBA Makarna",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 350.0
+                },
+                "Unity": "g",
+                "Count": 500.0
+            },
+            "Sal fina de mesa Marina": {
+                "Exporting_Country": "España",
+                "Brand": "Ifa Eliges",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 650.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Azucar Blanca Granulada": {
+                "Exporting_Country": "Chile",
+                "Brand": "Canoro",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 700.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Aceite Refinado de Girasol": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 990.0
+                },
+                "Unity": "1t",
+                "Count": 1.0
+            },
+            "Vinagre de Vino Tinto": {
+                "Exporting_Country": null,
+                "Brand": "Aldaketa",
+                "Date": {
+                    "Day": "25/11/25",
+                    "Price": 870.0
+                },
+                "Unity": null,
+                "Count": 0
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

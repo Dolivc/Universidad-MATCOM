@@ -1,0 +1,63 @@
+{
+
+    "Name": "27 e/ n & o",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "calle 27 e/ n & o"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Plato rico",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 680.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Aceite de girasol": {
+        
+                "Exporting_Country": "Mexico",
+                "Brand": "Hysa",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 900.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            },
+            "Azucar blanca": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "pateko",
+                "Date": {
+                    "Day": "10/11/2025",
+                    "Price": 700.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Azucar": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "10/11/2025",
+                    "Price": 1000.0
+                },
+                "Unity": "kg",
+                "Count": 1.1
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

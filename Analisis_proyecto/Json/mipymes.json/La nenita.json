@@ -1,0 +1,83 @@
+{
+
+    "Name": "La nenita",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "calle 17 e/ k & l"
+    },
+    "Products": {
+        "Nutritious": {
+            "Frijoles colorados": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Frijoles negros": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Arroz blanco": {
+                "Exporting_Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Grau",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 800.0
+                },
+                "Unity": "",
+                "Count": 0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Salchichas de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "La favorita",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 450.0
+                },
+                "Unity": "kg",
+                "Count": 0.4
+            },
+            "Aceite de soja": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Saude",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 990.0
+                },
+                "Unity": "lt",
+                "Count": 0.9
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

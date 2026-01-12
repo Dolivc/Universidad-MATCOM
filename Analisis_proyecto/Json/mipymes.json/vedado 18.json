@@ -1,0 +1,63 @@
+{
+
+    "Name": "Vedado 18",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "calle i e/ 9 y 11"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Irlanda",
+                "Brand": "Lantana",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 1500.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz": {
+                "Exporting_Country": "Guyana",
+                "Brand": "Karibee",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 550.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+           
+        },
+        "Other":{
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Sadia",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 325.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            },
+            "Picadillo de pollo": {
+        
+                "Exporting_Country": "Cuba",
+                "Brand": "Delicias estrellas",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 300.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            }
+        },
+        "Hygienic":{
+           
+        }
+    }
+}

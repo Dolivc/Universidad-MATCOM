@@ -4,16 +4,12 @@
     "Currency": "CUP",
     "Location": {
         "District": "Plaza de la Revolución",
-        "Address": "L & 11, Vedado",
-        "coordinates": {
-            "latitude": 23.144960085398168,
-            "longitude": -82.38794664726426
-        }
+        "Address": "L & 11, Vedado"
     },
     "Products": {
         "Nutritious": {
             "Arroz Blanco": {
-                "Exporting Country": "Brazil",
+                "Exporting_Country": "Brasil",
                 "Brand": "Sublime",
                 "Date": {
                     "Day": "18/10/25",
@@ -23,29 +19,29 @@
                 "Count": 1.0
             },
             "Frijoles Colorados": {
-                "Exporting Country": "Estados Unidos",
+                "Exporting_Country": "USA",
                 "Brand": "Del Campo",
                 "Date": {
                     "Day": "31/10/25",
                     "Price": 780.0
                 },
-                "Unity": "kg",
-                "Count": 0.450
+                "Unity": "lb",
+                "Count": 1.0
             },
             "Frijoles Negros": {
-                "Exporting Country": "Estados Unidos",
+                "Exporting_Country": "USA",
                 "Brand": "Del Campo",
                 "Date": {
                     "Day": "2/11/25",
                     "Price": 750.0
                 },
-                "Unity": "kg",
-                "Count": 0.450
+                "Unity": "lb",
+                "Count": 1.0
             }
         },
         "Drinks": {
             "Leche Entera": {
-                "Exporting Country": "",
+                "Exporting_Country": "",
                 "Brand": "",
                 "Date": {
                     "Day": "25/10/25",
@@ -55,7 +51,7 @@
                 "Count": 1.0
             },
             "Leche": {
-                "Exporting Country": "España",
+                "Exporting_Country": "España",
                 "Brand": "Vima",
                 "Date": {
                     "Day": "27/10/25",
@@ -65,7 +61,7 @@
                 "Count": 1.0
             },
             "Leche Condensada": {
-                "Exporting Country": "MA",
+                "Exporting_Country": "MA",
                 "Brand": "Castellum",
                 "Date": {
                     "Day": "25/10/25",
@@ -75,7 +71,7 @@
                 "Count": 0.390
             },
             "Café Expresso": {
-                "Exporting Country": "Mexico",
+                "Exporting_Country": "Mexico",
                 "Brand": "El Dorado",
                 "Date": {
                     "Day": "30/10/25",
@@ -85,7 +81,7 @@
                 "Count": 0.255
             },
             "Café Molido": {
-                "Exporting Country": "Cuba",
+                "Exporting_Country": "Cuba",
                 "Brand": "Isla Grande",
                 "Date": {
                     "Day": "30/10/25",
@@ -97,7 +93,7 @@
         },
         "Other":{
             "Picadillo de Pollo": {
-                "Exporting Country": "Polonia",
+                "Exporting_Country": "Polonia",
                 "Brand": "Polskamp",
                 "Date": {
                     "Day": "24/10/25",
@@ -107,7 +103,7 @@
                 "Count": 0.5
             },
             "Pechuga de Pollo": {
-                "Exporting Country": "",
+                "Exporting_Country": "",
                 "Brand": "",
                 "Date": {
                     "Day": "24/11/25",
@@ -117,7 +113,7 @@
                 "Count": 0.454
             },
             "Aceite de Soja": {
-                "Exporting Country": "Mexico",
+                "Exporting_Country": "Mexico",
                 "Brand": "Sarita",
                 "Date": {
                     "Day": "2/11/25",
@@ -127,7 +123,7 @@
                 "Count": 0.900
             },
             "Aceite": {
-                "Exporting Country": "Colombia",
+                "Exporting_Country": "Colombia",
                 "Brand": "Badelli",
                 "Date": {
                     "Day": "25/11/25",
@@ -137,7 +133,7 @@
                 "Count": 1.0
             },
             "Azúcar Crystal": {
-                "Exporting Country": "Brazil",
+                "Exporting_Country": "Brasil",
                 "Brand": "Energy",
                 "Date": {
                     "Day": "4/11/25",
@@ -147,7 +143,7 @@
                 "Count": 1.0
             },
             "Sal Marina": {
-                "Exporting Country": "Marruecos",
+                "Exporting_Country": "Marruecos",
                 "Brand": "Polasal",
                 "Date": {
                     "Day": "3/11/25",
@@ -157,7 +153,7 @@
                 "Count": 1.0
             },
             "Spaghetti": {
-                "Exporting Country": "Italia",
+                "Exporting_Country": "Italia",
                 "Brand": "Donatella",
                 "Date": {
                     "Day": "20/11/25",
@@ -167,7 +163,7 @@
                 "Count": 1.0
             },
             "Pasta de Tomate": {
-                "Exporting Country": "Turquia",
+                "Exporting_Country": "Turquia",
                 "Brand": "Zer",
                 "Date": {
                     "Day": "20/11/25",
@@ -178,38 +174,7 @@
             }
         },
         "Hygienic":{
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
-        },
-        "Household appliances":{
-            "": {
-        
-                "Exporting Country": ""
-            },
-            "": {
-        
-                "Exporting Country": ""
-            }
+            
         }
     }
 }

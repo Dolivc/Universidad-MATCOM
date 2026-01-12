@@ -1,0 +1,73 @@
+{
+
+    "Name": "Triple mercado",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Boyeros",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Sublime",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 690.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Frijoles negros": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Seara",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 880.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+        
+        },
+        "Other":{
+            "picadillo de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Gui bon",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 450.0
+                },
+                "Unity": "kg",
+                "Count": 0.4
+            },
+            "Aceite de girasol": {
+        
+                "Exporting_Country": "Chile",
+                "Brand": "La reina",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 890.0
+                },
+                "Unity": "lt",
+                "Count": 0.9
+            },
+            "Azucar blanca": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Casa del grano",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 620.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+           
+        }
+    }
+}

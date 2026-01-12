@@ -1,0 +1,103 @@
+{
+
+    "Name": "bodegón, las duras",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "ave. 23 e/ 24 & 26"
+    },
+    "Products": {
+        "Nutritious": {
+            "Frijoles negros": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Frijoles colorados": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 750.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Arroz blanco": {
+                "Exporting_Country": "Guyana",
+                "Brand": "Karibee",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+
+        },
+        "Other":{
+            "Sal marina": {
+        
+                "Exporting_Country": "Malasia",
+                "Brand": "Polasal",
+                "Date": {
+                    "Day": "11/10.2025",
+                    "Price": 460.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Salchichas de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Quality",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 365.0
+                },
+                "Unity": "kg",
+                "Count": 0.35
+            },
+            "Pechuga de pollo": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Friato",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 3650.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            },
+            "Pollo entero": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Seara",
+                "Date": {
+                    "Day": "1.3",
+                    "Price": 1.0
+                },
+                "Unity": "kg",
+                "Count": 1.3
+            },
+            "Aceite de girasol": {
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 990.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+           
+        }
+    }
+}

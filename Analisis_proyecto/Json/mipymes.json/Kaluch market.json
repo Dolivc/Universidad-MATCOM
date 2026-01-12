@@ -1,0 +1,64 @@
+{
+
+    "Name": "kaluch market",
+    "Currency": "CUP",
+    "Location": {
+        "District": "plaza de la revolución",
+        "Address": "calle 12 edif #23 apto #1 e/ 1ra y 3ra"
+    },
+    "Products": {
+        "Nutritious": {
+            "Arroz blanco": {
+                "Exporting_Country": "Brasil",
+                "Brand": "Pelicano",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 900.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Aceite de girasol": {
+        
+                "Exporting_Country": "España",
+                "Brand": "Vima",
+                "Date": {
+                    "Day": "11/10/25",
+                    "Price": 990.0
+                },
+                "Unity": "lt",
+                "Count": 1.0
+            },
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "Sadia",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 3300.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            },
+            "Sal marina": {
+        
+                "Exporting_Country": "España",
+                "Brand": "Conviran",
+                "Date": {
+                    "Day": "11/12/2025",
+                    "Price": 1000.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+            
+        }
+    }
+}

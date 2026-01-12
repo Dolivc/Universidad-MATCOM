@@ -1,0 +1,74 @@
+{
+
+    "Name": "La nave mercado",
+    "Currency": "CUP",
+    "Location": {
+        "District": "Habana del este",
+        "Address": null
+    },
+    "Products": {
+        "Nutritious": {
+            "Frijoles negros": {
+                "Exporting_Country": "USA",
+                "Brand": "DelCampo",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 780.0
+                },
+                "Unity": "kg",
+                "Count": 0.454
+            },
+            "Arroz blanco": {
+                "Exporting_Country": "Mexico",
+                "Brand": "San Diego",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 800.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Drinks": {
+            
+        },
+        "Other":{
+            "Pechuga de pollo": {
+        
+                "Exporting_Country": "Brasil",
+                "Brand": "levo",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 350.0
+                },
+                "Unity": "kg",
+                "Count": 2.0
+            },
+            "Azucar blanca": {
+        
+                "Exporting_Country": "China",
+                "Brand": "Fresko",
+                "Date": {
+                    "Day": "11/10/2025",
+                    "Price": 790.0
+                },
+                "Unity": "",
+                "Count": 0
+            },
+            "Sal marina": {
+        
+                "Exporting_Country": "Malasia",
+                "Brand": "Polasal",
+                "Date": {
+                    "Day": "11/11/2025",
+                    "Price": 450.0
+                },
+                "Unity": "kg",
+                "Count": 1.0
+            }
+        },
+        "Hygienic":{
+        
+        }
+    }
+}

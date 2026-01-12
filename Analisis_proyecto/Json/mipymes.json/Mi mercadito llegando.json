@@ -4,16 +4,12 @@
     "Currency": "CUP",
     "Location": {
         "District": "Plaza de la Revolución",
-        "Address": "Calle 5ta / E & F",
-        "coordinates": {
-            "latitude": 23.142513466690126,
-            "longitude": -82.39636878359543
-        }
+        "Address": "Calle 5ta / E & F"
     },
     "Products": {
         "Nutritious": {
             "Arroz Super Extra": {
-                "Exporting Country": "Mexico",
+                "Exporting_Country": "Mexico",
                 "Brand": "San Diego",
                 "Date": {
                     "Day": "18/10/25",
@@ -21,99 +17,16 @@
                 },
                 "Unity": "kg",
                 "Count": 1.0
-            },
-            "": {
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
             }
         },
         "Drinks": {
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+            
         },
         "Other":{
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
+            
         },
         "Hygienic":{
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            },
-            "": {
-        
-                "Exporting Country": "",
-                "Brand": "",
-                "Date": {
-                    "Day": "",
-                    "Price": 0
-                },
-                "Unity": "",
-                "Count": 0
-            }
-        },
-        "Household appliances":{
-            "": {
-        
-                "Exporting Country": ""
-            },
-            "": {
-        
-                "Exporting Country": ""
-            }
+            
         }
     }
 }
